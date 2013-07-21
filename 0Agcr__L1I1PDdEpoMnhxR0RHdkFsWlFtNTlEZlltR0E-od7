@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2013-07-21T03:17:29.917Z"
+      "$t": "2013-07-21T03:21:45.796Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -59,7 +59,7 @@ Tabletop.singleton.loadSheet({
           "$t": "41"
         }, 
         "updated": {
-          "$t": "2013-07-21T03:17:29.917Z"
+          "$t": "2013-07-21T03:21:45.796Z"
         }, 
         "gsx$popupanchory": {
           "$t": "-32"

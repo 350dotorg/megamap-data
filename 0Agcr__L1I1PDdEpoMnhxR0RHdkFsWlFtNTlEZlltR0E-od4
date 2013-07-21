@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2013-07-21T03:17:29.917Z"
+      "$t": "2013-07-21T03:21:45.796Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,20 +56,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-21T03:17:29.917Z"
+          "$t": "2013-07-21T03:21:45.796Z"
         }, 
         "title": {
           "$t": "Local Groups", 
           "type": "text"
         }, 
         "gsx$publicsubmissionspreadsheet": {
-          "$t": "test"
+          "$t": ""
         }, 
         "gsx$publicsubmissionform": {
           "$t": ""
         }, 
         "content": {
-          "$t": "template:           <div class=\"popup_box\">\n            <div class=\"popup_box_header\">\n              <strong><a href=\"{{ website }}\">{{ name }}</a></strong>\n            </div>\n            <em>{{ geom }}</em>\n            <hr />\n            {{ description }}\n          </div>\n, publicsubmissionspreadsheet: test", 
+          "$t": "template:           <div class=\"popup_box\">\n            <div class=\"popup_box_header\">\n              <strong><a href=\"{{ website }}\">{{ name }}</a></strong>\n            </div>\n            <em>{{ geom }}</em>\n            <hr />\n            {{ description }}\n          </div>\n", 
           "type": "text"
         }, 
         "gsx$type": {
@@ -97,20 +97,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-21T03:17:29.917Z"
+          "$t": "2013-07-21T03:21:45.796Z"
         }, 
         "title": {
           "$t": "GROW Divestment Events", 
           "type": "text"
         }, 
         "gsx$publicsubmissionspreadsheet": {
-          "$t": "https://docs.google.com/spreadsheet/ccc?key=0Agcr__L1I1PDdGhVZU1mUUNRdzIya0p1bTl0eGQ3Y1E#gid=1"
+          "$t": "0Agcr__L1I1PDdGhVZU1mUUNRdzIya0p1bTl0eGQ3Y1E"
         }, 
         "gsx$publicsubmissionform": {
           "$t": "<div class=\"popup_box\">\n  <form method=\"GET\" action=\"https://docs.google.com/forms/d/1-nGFSRd46ujzwNA9Cn-45eG46hbwKGKjwahewgBMJsA/viewform\">\n    <div class=\"popup_box_header\">\n      <strong><label for=\"entry.1535171616\">Website URL: <input type=\"url\" name=\"entry.1535171616\" /></label></strong>\n      <em><label for=\"entry.711765341\">Date/Time: <input type=\"datetime-local\" name=\"entry.711765341\"></label></em>\n    </div>\n    <label for=\"entry.1660676065\">Description: <textarea name=\"entry.1660676065\"></textarea></label>\n    <hr />\n    <label for=\"entry.681603033\">Location: <input type=\"text\" name=\"entry.681603033\" value=\"{{query}}\" /></label>\n    <input type=\"hidden\" name=\"entry.396961874\" value=\"{{lat}}\" />\n    <input type=\"hidden\" name=\"entry.1981691483\" value=\"{{lng}}\" />\n    <input type=\"submit\" value=\"Go!\" />\n  </form>\n</div>"
         }, 
         "content": {
-          "$t": "template:           <div class=\"popup_box\">\n            <div class=\"popup_box_header\">\n              <strong><a href=\"{{ website }}\">{{ title }}</a></strong>\n            </div>\n            <em>{{ date }}, {{ time }}</em>\n            <hr />\n            {{ geom }} (<a href=\"http://maps.google.com/maps?daddr={{ geom }}&t=m&layer=1&doflg=ptk&om=0\">Directions</a>)\n          </div>\n, publicsubmissionspreadsheet: https://docs.google.com/spreadsheet/ccc?key=0Agcr__L1I1PDdGhVZU1mUUNRdzIya0p1bTl0eGQ3Y1E#gid=1, publicsubmissionform: <div class=\"popup_box\">\n  <form method=\"GET\" action=\"https://docs.google.com/forms/d/1-nGFSRd46ujzwNA9Cn-45eG46hbwKGKjwahewgBMJsA/viewform\">\n    <div class=\"popup_box_header\">\n      <strong><label for=\"entry.1535171616\">Website URL: <input type=\"url\" name=\"entry.1535171616\" /></label></strong>\n      <em><label for=\"entry.711765341\">Date/Time: <input type=\"datetime-local\" name=\"entry.711765341\"></label></em>\n    </div>\n    <label for=\"entry.1660676065\">Description: <textarea name=\"entry.1660676065\"></textarea></label>\n    <hr />\n    <label for=\"entry.681603033\">Location: <input type=\"text\" name=\"entry.681603033\" value=\"{{query}}\" /></label>\n    <input type=\"hidden\" name=\"entry.396961874\" value=\"{{lat}}\" />\n    <input type=\"hidden\" name=\"entry.1981691483\" value=\"{{lng}}\" />\n    <input type=\"submit\" value=\"Go!\" />\n  </form>\n</div>", 
+          "$t": "template:           <div class=\"popup_box\">\n            <div class=\"popup_box_header\">\n              <strong><a href=\"{{ website }}\">{{ title }}</a></strong>\n            </div>\n            <em>{{ date }}, {{ time }}</em>\n            <hr />\n            {{ geom }} (<a href=\"http://maps.google.com/maps?daddr={{ geom }}&t=m&layer=1&doflg=ptk&om=0\">Directions</a>)\n          </div>\n, publicsubmissionspreadsheet: 0Agcr__L1I1PDdGhVZU1mUUNRdzIya0p1bTl0eGQ3Y1E, publicsubmissionform: <div class=\"popup_box\">\n  <form method=\"GET\" action=\"https://docs.google.com/forms/d/1-nGFSRd46ujzwNA9Cn-45eG46hbwKGKjwahewgBMJsA/viewform\">\n    <div class=\"popup_box_header\">\n      <strong><label for=\"entry.1535171616\">Website URL: <input type=\"url\" name=\"entry.1535171616\" /></label></strong>\n      <em><label for=\"entry.711765341\">Date/Time: <input type=\"datetime-local\" name=\"entry.711765341\"></label></em>\n    </div>\n    <label for=\"entry.1660676065\">Description: <textarea name=\"entry.1660676065\"></textarea></label>\n    <hr />\n    <label for=\"entry.681603033\">Location: <input type=\"text\" name=\"entry.681603033\" value=\"{{query}}\" /></label>\n    <input type=\"hidden\" name=\"entry.396961874\" value=\"{{lat}}\" />\n    <input type=\"hidden\" name=\"entry.1981691483\" value=\"{{lng}}\" />\n    <input type=\"submit\" value=\"Go!\" />\n  </form>\n</div>", 
           "type": "text"
         }, 
         "gsx$type": {
