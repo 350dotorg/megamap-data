@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2013-07-20T22:46:54.855Z"
+      "$t": "2013-07-21T03:25:53.246Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "title": {
@@ -39,51 +39,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-20T22:46:54.855Z"
-        }, 
-        "title": {
-          "$t": "Sheet1", 
-          "type": "text"
-        }, 
-        "content": {
-          "$t": "Sheet1", 
-          "type": "text"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdGhVZU1mUUNRdzIya0p1bTl0eGQ3Y1E/od6/public/basic", 
-            "type": "application/atom+xml", 
-            "rel": "http://schemas.google.com/spreadsheets/2006#listfeed"
-          }, 
-          {
-            "href": "https://spreadsheets.google.com/feeds/cells/0Agcr__L1I1PDdGhVZU1mUUNRdzIya0p1bTl0eGQ3Y1E/od6/public/basic", 
-            "type": "application/atom+xml", 
-            "rel": "http://schemas.google.com/spreadsheets/2006#cellsfeed"
-          }, 
-          {
-            "href": "https://spreadsheets.google.com/tq?key=0Agcr__L1I1PDdGhVZU1mUUNRdzIya0p1bTl0eGQ3Y1E&sheet=od6&pub=1", 
-            "type": "application/atom+xml", 
-            "rel": "http://schemas.google.com/visualization/2008#visualizationApi"
-          }, 
-          {
-            "href": "https://spreadsheets.google.com/feeds/worksheets/0Agcr__L1I1PDdGhVZU1mUUNRdzIya0p1bTl0eGQ3Y1E/public/basic/od6", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/worksheets/0Agcr__L1I1PDdGhVZU1mUUNRdzIya0p1bTl0eGQ3Y1E/public/basic/od6"
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#worksheet", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "updated": {
-          "$t": "2013-07-20T22:46:54.855Z"
+          "$t": "2013-07-21T03:25:53.246Z"
         }, 
         "title": {
           "$t": "Form Responses 1", 
@@ -138,7 +94,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "openSearch$totalResults": {
-      "$t": "2"
+      "$t": "1"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/worksheets/0Agcr__L1I1PDdGhVZU1mUUNRdzIya0p1bTl0eGQ3Y1E/public/basic"
