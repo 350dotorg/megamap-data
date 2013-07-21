@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2013-07-21T03:06:48.830Z"
+      "$t": "2013-07-21T03:17:29.917Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -59,7 +59,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Charlotte, NC"
         }, 
         "updated": {
-          "$t": "2013-07-21T03:06:48.830Z"
+          "$t": "2013-07-21T03:17:29.917Z"
         }, 
         "gsx$time": {
           "$t": "22:00:00"

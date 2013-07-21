@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2013-07-21T03:06:48.830Z"
+      "$t": "2013-07-21T03:17:29.917Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,20 +56,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-21T03:06:48.830Z"
+          "$t": "2013-07-21T03:17:29.917Z"
         }, 
         "title": {
           "$t": "Local Groups", 
           "type": "text"
         }, 
         "gsx$publicsubmissionspreadsheet": {
-          "$t": ""
+          "$t": "test"
         }, 
         "gsx$publicsubmissionform": {
           "$t": ""
         }, 
         "content": {
-          "$t": "template:           <div class=\"popup_box\">\n            <div class=\"popup_box_header\">\n              <strong><a href=\"{{ website }}\">{{ name }}</a></strong>\n            </div>\n            <em>{{ geom }}</em>\n            <hr />\n            {{ description }}\n          </div>\n", 
+          "$t": "template:           <div class=\"popup_box\">\n            <div class=\"popup_box_header\">\n              <strong><a href=\"{{ website }}\">{{ name }}</a></strong>\n            </div>\n            <em>{{ geom }}</em>\n            <hr />\n            {{ description }}\n          </div>\n, publicsubmissionspreadsheet: test", 
           "type": "text"
         }, 
         "gsx$type": {
@@ -97,7 +97,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-21T03:06:48.830Z"
+          "$t": "2013-07-21T03:17:29.917Z"
         }, 
         "title": {
           "$t": "GROW Divestment Events", 
