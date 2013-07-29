@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2013-07-29T20:33:20.146Z"
+      "$t": "2013-07-29T20:37:05.239Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -55,11 +55,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$title": {
-          "$t": "Charlotte, NC"
-        }, 
         "updated": {
-          "$t": "2013-07-29T20:33:20.146Z"
+          "$t": "2013-07-29T20:37:05.239Z"
         }, 
         "gsx$time": {
           "$t": "22:00:00"
@@ -99,6 +96,9 @@ Tabletop.singleton.loadSheet({
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/values/cokwr"
+        }, 
+        "gsx$description": {
+          "$t": "Charlotte, NC"
         }
       }
     ], 
