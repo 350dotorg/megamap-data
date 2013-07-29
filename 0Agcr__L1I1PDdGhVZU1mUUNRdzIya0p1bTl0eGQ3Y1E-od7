@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2013-07-29T20:27:06.130Z"
+      "$t": "2013-07-29T20:34:50.917Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,7 +56,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:27:06.130Z"
+          "$t": "2013-07-29T20:34:50.917Z"
+        }, 
+        "gsx$time": {
+          "$t": "6:45:00"
         }, 
         "gsx$latitude": {
           "$t": "40.8006564220005"
@@ -71,9 +74,6 @@ Tabletop.singleton.loadSheet({
         "gsx$location": {
           "$t": "Great Neck, New York, United States"
         }, 
-        "gsx$longitude": {
-          "$t": "-73.7284555799997"
-        }, 
         "gsx$untitledquestion": {
           "$t": ""
         }, 
@@ -81,7 +81,7 @@ Tabletop.singleton.loadSheet({
           "$t": "7/20/2013 16:02:16"
         }, 
         "content": {
-          "$t": "location: Great Neck, New York, United States, dateandtime: 7/20/2013 4:02:00, latitude: 40.8006564220005, longitude: -73.7284555799997", 
+          "$t": "location: Great Neck, New York, United States, date: 7/20/2013, latitude: 40.8006564220005, longitude: -73.7284555799997, time: 6:45:00", 
           "type": "text"
         }, 
         "link": [
@@ -91,8 +91,11 @@ Tabletop.singleton.loadSheet({
             "rel": "self"
           }
         ], 
-        "gsx$dateandtime": {
-          "$t": "7/20/2013 4:02:00"
+        "gsx$date": {
+          "$t": "7/20/2013"
+        }, 
+        "gsx$longitude": {
+          "$t": "-73.7284555799997"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdGhVZU1mUUNRdzIya0p1bTl0eGQ3Y1E/od7/public/values/b8lvi"
@@ -109,7 +112,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:27:06.130Z"
+          "$t": "2013-07-29T20:34:50.917Z"
+        }, 
+        "gsx$time": {
+          "$t": "4:02:00"
         }, 
         "gsx$latitude": {
           "$t": "-53.9999982729996"
@@ -124,9 +130,6 @@ Tabletop.singleton.loadSheet({
         "gsx$location": {
           "$t": "tiera del fuego"
         }, 
-        "gsx$longitude": {
-          "$t": "-69.9999965109997"
-        }, 
         "gsx$untitledquestion": {
           "$t": ""
         }, 
@@ -134,7 +137,7 @@ Tabletop.singleton.loadSheet({
           "$t": "7/29/2013 16:25:56"
         }, 
         "content": {
-          "$t": "location: tiera del fuego, dateandtime: 7/29/2013 13:59:00, link: http://www.google.com, latitude: -53.9999982729996, longitude: -69.9999965109997", 
+          "$t": "location: tiera del fuego, date: 7/29/2013, link: http://www.google.com, latitude: -53.9999982729996, longitude: -69.9999965109997, time: 4:02:00", 
           "type": "text"
         }, 
         "link": [
@@ -144,8 +147,11 @@ Tabletop.singleton.loadSheet({
             "rel": "self"
           }
         ], 
-        "gsx$dateandtime": {
-          "$t": "7/29/2013 13:59:00"
+        "gsx$date": {
+          "$t": "7/29/2013"
+        }, 
+        "gsx$longitude": {
+          "$t": "-69.9999965109997"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdGhVZU1mUUNRdzIya0p1bTl0eGQ3Y1E/od7/public/values/bbf0c"
