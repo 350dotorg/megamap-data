@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2013-07-29T20:42:30.524Z"
+      "$t": "2013-08-09T13:05:40.067Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,7 +56,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "29.4241219"
@@ -106,7 +106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "33.5908562"
@@ -156,7 +156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "42.2917069"
@@ -206,7 +206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "53.1563141"
@@ -256,7 +256,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "55.6760968"
@@ -306,7 +306,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "34.2746405"
@@ -356,7 +356,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "43.1938516"
@@ -406,7 +406,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "44.7630567"
@@ -456,7 +456,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "44.5956163"
@@ -506,7 +506,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "41.8781136"
@@ -556,7 +556,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "46.8605189"
@@ -606,7 +606,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "47.6062095"
@@ -656,7 +656,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "40.5852602"
@@ -706,7 +706,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "35.9131996"
@@ -756,7 +756,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "44.5520105"
@@ -806,7 +806,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "34.0522342"
@@ -856,7 +856,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "29.9510658"
@@ -906,7 +906,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "38.5449065"
@@ -956,7 +956,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "45.4215296"
@@ -1006,7 +1006,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "39.4096079"
@@ -1056,7 +1056,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "35.9884013"
@@ -1106,7 +1106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "38.9085472"
@@ -1156,7 +1156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "42.4367469"
@@ -1206,7 +1206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "33.95"
@@ -1256,7 +1256,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "33.95"
@@ -1306,7 +1306,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "39.5500507"
@@ -1356,7 +1356,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "40.4233142"
@@ -1406,7 +1406,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "42.2711311"
@@ -1456,7 +1456,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "44.4758825"
@@ -1506,7 +1506,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "-3.1064093"
@@ -1556,7 +1556,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "8.4874949"
@@ -1606,7 +1606,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "31.899636"
@@ -1656,7 +1656,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "-1.2920659"
@@ -1706,7 +1706,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "0.390841"
@@ -1756,7 +1756,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "-2.515364"
@@ -1806,7 +1806,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "34.4208305"
@@ -1856,7 +1856,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "31.7587198"
@@ -1906,7 +1906,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "35.6009452"
@@ -1956,7 +1956,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "33.4483771"
@@ -2006,7 +2006,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "43.0389025"
@@ -2056,7 +2056,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "36.9741171"
@@ -2106,7 +2106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "39.737567"
@@ -2156,7 +2156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "41.1399814"
@@ -2206,7 +2206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "37.3393857"
@@ -2256,7 +2256,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "42.4972314"
@@ -2306,7 +2306,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "45.4032761"
@@ -2356,7 +2356,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "49.261226"
@@ -2406,7 +2406,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "37.4315734"
@@ -2456,7 +2456,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "38.6270025"
@@ -2506,7 +2506,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "36.1666667"
@@ -2556,7 +2556,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "41.0147679"
@@ -2606,7 +2606,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "41.1865478"
@@ -2656,7 +2656,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "36.0998596"
@@ -2706,7 +2706,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "39.2873463"
@@ -2756,7 +2756,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "44.5645659"
@@ -2806,7 +2806,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "39.5333379"
@@ -2856,7 +2856,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "40.5173165"
@@ -2906,7 +2906,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "-7.797224"
@@ -2956,7 +2956,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "12.1363889"
@@ -3006,7 +3006,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "32.7266016"
@@ -3056,7 +3056,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "1.8668577"
@@ -3106,7 +3106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "47.921378"
@@ -3156,7 +3156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "34.528455"
@@ -3206,7 +3206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "-12.9703817"
@@ -3256,7 +3256,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "-6.314993"
@@ -3306,7 +3306,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "40.7891424"
@@ -3356,7 +3356,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "24.8048499"
@@ -3406,7 +3406,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "23.709921"
@@ -3456,7 +3456,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "12.9715987"
@@ -3506,7 +3506,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "27.5833333"
@@ -3556,7 +3556,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "43.653226"
@@ -3606,7 +3606,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "50.4501"
@@ -3656,7 +3656,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "36.216795"
@@ -3706,7 +3706,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "4.361698"
@@ -3756,7 +3756,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "35.6961111"
@@ -3806,7 +3806,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "-14.270972"
@@ -3856,7 +3856,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "34.1477849"
@@ -3906,7 +3906,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "39.977763"
@@ -3956,7 +3956,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "32.802955"
@@ -4006,7 +4006,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "28.635308"
@@ -4056,7 +4056,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "-36.8484597"
@@ -4106,7 +4106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "35.55"
@@ -4156,7 +4156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "-38.1368478"
@@ -4206,7 +4206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "-33.7985209"
@@ -4256,7 +4256,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "30.0444196"
@@ -4306,7 +4306,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "-22.2758"
@@ -4356,7 +4356,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "42.9814292"
@@ -4406,7 +4406,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "48.118146"
@@ -4456,7 +4456,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "38.5815719"
@@ -4506,7 +4506,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "42.4072107"
@@ -4556,7 +4556,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "32.2217429"
@@ -4606,7 +4606,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "47.6062095"
@@ -4656,7 +4656,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "30.267153"
@@ -4706,7 +4706,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "41.709981"
@@ -4756,7 +4756,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "39.952335"
@@ -4806,7 +4806,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "-13.254308"
@@ -4856,7 +4856,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "35.2270869"
@@ -4906,7 +4906,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "25.2644444"
@@ -4956,7 +4956,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "45.253783"
@@ -5006,7 +5006,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "35.0844909"
@@ -5056,7 +5056,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "-13.9833333"
@@ -5106,7 +5106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "39.1031182"
@@ -5156,7 +5156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "43.243603"
@@ -5206,7 +5206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "23.6141667"
@@ -5256,7 +5256,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "39.613321"
@@ -5306,7 +5306,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "40.9262762"
@@ -5356,7 +5356,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "31.2455729"
@@ -5406,7 +5406,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "-17.857719"
@@ -5456,7 +5456,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "30.421309"
@@ -5506,7 +5506,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "41.2523634"
@@ -5556,7 +5556,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "50.674522"
@@ -5606,7 +5606,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "41.3081527"
@@ -5656,7 +5656,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "49.447047"
@@ -5706,7 +5706,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "44.4758825"
@@ -5756,7 +5756,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "40.7607793"
@@ -5806,7 +5806,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "37.8715926"
@@ -5856,7 +5856,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "43.0730517"
@@ -5906,7 +5906,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "18.5"
@@ -5956,7 +5956,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "47.6062095"
@@ -6006,7 +6006,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "44.9799654"
@@ -6056,7 +6056,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "40.7891424"
@@ -6106,7 +6106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "39.9611755"
@@ -6156,7 +6156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "42.2808256"
@@ -6206,7 +6206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "16.8"
@@ -6256,7 +6256,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "37.566535"
@@ -6306,7 +6306,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "10.8230989"
@@ -6356,7 +6356,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "3.139003"
@@ -6406,7 +6406,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "15.4865047"
@@ -6456,7 +6456,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "32.7153292"
@@ -6506,7 +6506,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "40.7143528"
@@ -6556,7 +6556,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "36.81881"
@@ -6606,7 +6606,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "5.336318"
@@ -6656,7 +6656,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "14.75"
@@ -6706,7 +6706,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "-3.376217"
@@ -6756,7 +6756,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "39.92077"
@@ -6806,7 +6806,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "-6.211544"
@@ -6856,7 +6856,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "-40.900557"
@@ -6906,7 +6906,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "-6.211544"
@@ -6956,7 +6956,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "26.820553"
@@ -7006,7 +7006,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-07-29T20:42:30.524Z"
+          "$t": "2013-08-09T13:05:40.067Z"
         }, 
         "gsx$latitude": {
           "$t": "40.0149856"
