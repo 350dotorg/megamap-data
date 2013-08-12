@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2013-08-12T13:21:44.632Z"
+      "$t": "2013-08-12T13:22:49.100Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -59,17 +59,17 @@ Tabletop.singleton.loadSheet({
           "$t": "moo"
         }, 
         "updated": {
-          "$t": "2013-08-12T13:21:44.632Z"
+          "$t": "2013-08-12T13:22:49.100Z"
         }, 
         "gsx$latitude": {
           "$t": "77.6192349"
         }, 
         "title": {
-          "$t": "77.6192349", 
+          "$t": "moo", 
           "type": "text"
         }, 
         "content": {
-          "$t": "longitude: -42.8125967, morx: moo, geolocation: Greenland", 
+          "$t": "geolocation: Greenland, longitude: -42.8125967, latitude: 77.6192349", 
           "type": "text"
         }, 
         "link": [
@@ -100,17 +100,17 @@ Tabletop.singleton.loadSheet({
           "$t": "baa"
         }, 
         "updated": {
-          "$t": "2013-08-12T13:21:44.632Z"
+          "$t": "2013-08-12T13:22:49.100Z"
         }, 
         "gsx$latitude": {
           "$t": "34.6266576"
         }, 
         "title": {
-          "$t": "34.6266576", 
+          "$t": "baa", 
           "type": "text"
         }, 
         "content": {
-          "$t": "longitude: -115.9858378, morx: baa, geolocation: Siberia", 
+          "$t": "geolocation: Siberia, longitude: -115.9858378, latitude: 34.6266576", 
           "type": "text"
         }, 
         "link": [
@@ -141,17 +141,17 @@ Tabletop.singleton.loadSheet({
           "$t": "quack"
         }, 
         "updated": {
-          "$t": "2013-08-12T13:21:44.632Z"
+          "$t": "2013-08-12T13:22:49.100Z"
         }, 
         "gsx$latitude": {
           "$t": "4.8417097"
         }, 
         "title": {
-          "$t": "4.8417097", 
+          "$t": "quack", 
           "type": "text"
         }, 
         "content": {
-          "$t": "longitude: -58.6416891, morx: quack, geolocation: Guyana", 
+          "$t": "geolocation: Guyana, longitude: -58.6416891, latitude: 4.8417097", 
           "type": "text"
         }, 
         "link": [
