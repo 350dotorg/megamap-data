@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2013-08-12T13:36:53.427Z"
+      "$t": "2013-08-12T13:42:08.519Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,7 +56,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-08-12T13:36:53.427Z"
+          "$t": "2013-08-12T13:42:08.519Z"
         }, 
         "title": {
           "$t": "Local Groups", 
@@ -97,7 +97,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-08-12T13:36:53.427Z"
+          "$t": "2013-08-12T13:42:08.519Z"
         }, 
         "title": {
           "$t": "GROW Divestment Events", 
@@ -129,51 +129,10 @@ Tabletop.singleton.loadSheet({
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od4/public/values/cpzh4"
         }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "updated": {
-          "$t": "2013-08-12T13:36:53.427Z"
-        }, 
-        "title": {
-          "$t": "Sheet5", 
-          "type": "text"
-        }, 
-        "gsx$publicsubmissionspreadsheet": {
-          "$t": ""
-        }, 
-        "gsx$publicsubmissionform": {
-          "$t": ""
-        }, 
-        "content": {
-          "$t": "template: <div>{{ morx }}</div>", 
-          "type": "text"
-        }, 
-        "gsx$type": {
-          "$t": "Sheet5"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od4/public/values/cre1l", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$template": {
-          "$t": "<div>{{ morx }}</div>"
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od4/public/values/cre1l"
-        }
       }
     ], 
     "openSearch$totalResults": {
-      "$t": "3"
+      "$t": "2"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od4/public/values"
