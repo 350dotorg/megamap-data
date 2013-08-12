@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2013-08-12T12:13:43.741Z"
+      "$t": "2013-08-12T12:14:44.871Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -59,7 +59,7 @@ Tabletop.singleton.loadSheet({
           "$t": "41"
         }, 
         "updated": {
-          "$t": "2013-08-12T12:13:43.741Z"
+          "$t": "2013-08-12T12:14:44.871Z"
         }, 
         "gsx$popupanchory": {
           "$t": "-32"
@@ -127,10 +127,10 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2013-08-12T12:13:43.741Z"
+          "$t": "2013-08-12T12:14:44.871Z"
         }, 
         "gsx$popupanchory": {
-          "$t": "26"
+          "$t": "-26"
         }, 
         "gsx$shadowanchorx": {
           "$t": ""
@@ -152,14 +152,14 @@ Tabletop.singleton.loadSheet({
           "$t": "http://static.local.350.org/images/map_markers/map-pin-multiple.png"
         }, 
         "content": {
-          "$t": "iconurl: http://static.local.350.org/images/map_markers/map-pin-multiple.png, iconwidth: 53, iconheight: 53, iconanchorx: 26, iconanchory: 26, popupanchorx: 26, popupanchory: 26", 
+          "$t": "iconurl: http://static.local.350.org/images/map_markers/map-pin-multiple.png, iconwidth: 53, iconheight: 53, iconanchorx: -26, iconanchory: -26, popupanchorx: -26, popupanchory: -26", 
           "type": "text"
         }, 
         "gsx$type": {
           "$t": "Sheet5"
         }, 
         "gsx$popupanchorx": {
-          "$t": "26"
+          "$t": "-26"
         }, 
         "link": [
           {
@@ -169,7 +169,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$iconanchorx": {
-          "$t": "26"
+          "$t": "-26"
         }, 
         "gsx$shadowheight": {
           "$t": ""
@@ -178,7 +178,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "gsx$iconanchory": {
-          "$t": "26"
+          "$t": "-26"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od7/public/values/cpzh4"
