@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2013-08-12T12:20:02.006Z"
+      "$t": "2013-08-12T12:38:00.070Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -59,7 +59,7 @@ Tabletop.singleton.loadSheet({
           "$t": "moo"
         }, 
         "updated": {
-          "$t": "2013-08-12T12:20:02.006Z"
+          "$t": "2013-08-12T12:38:00.070Z"
         }, 
         "gsx$latitude": {
           "$t": "63.743631"
@@ -68,8 +68,11 @@ Tabletop.singleton.loadSheet({
           "$t": "63.743631", 
           "type": "text"
         }, 
+        "gsx$location": {
+          "$t": "Greenland"
+        }, 
         "content": {
-          "$t": "longitude: -44.384766, morx: moo", 
+          "$t": "longitude: -44.384766, morx: moo, location: Greenland", 
           "type": "text"
         }, 
         "link": [
@@ -97,7 +100,7 @@ Tabletop.singleton.loadSheet({
           "$t": "baa"
         }, 
         "updated": {
-          "$t": "2013-08-12T12:20:02.006Z"
+          "$t": "2013-08-12T12:38:00.070Z"
         }, 
         "gsx$latitude": {
           "$t": "64"
@@ -106,8 +109,11 @@ Tabletop.singleton.loadSheet({
           "$t": "64", 
           "type": "text"
         }, 
+        "gsx$location": {
+          "$t": "Siberia"
+        }, 
         "content": {
-          "$t": "longitude: 43, morx: baa", 
+          "$t": "longitude: 43, morx: baa, location: Siberia", 
           "type": "text"
         }, 
         "link": [
@@ -123,10 +129,51 @@ Tabletop.singleton.loadSheet({
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/oda/public/values/cpzh4"
         }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$morx": {
+          "$t": "quack"
+        }, 
+        "updated": {
+          "$t": "2013-08-12T12:38:00.070Z"
+        }, 
+        "gsx$latitude": {
+          "$t": ""
+        }, 
+        "title": {
+          "$t": "Row: 4", 
+          "type": "text"
+        }, 
+        "gsx$location": {
+          "$t": "Guyana"
+        }, 
+        "content": {
+          "$t": "morx: quack, location: Guyana", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/oda/public/values/cre1l", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$longitude": {
+          "$t": ""
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/oda/public/values/cre1l"
+        }
       }
     ], 
     "openSearch$totalResults": {
-      "$t": "2"
+      "$t": "3"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/oda/public/values"
