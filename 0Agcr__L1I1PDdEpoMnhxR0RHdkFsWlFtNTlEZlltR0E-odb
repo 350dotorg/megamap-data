@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2013-08-12T13:22:49.100Z"
+      "$t": "2013-08-12T13:28:14.272Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -59,7 +59,7 @@ Tabletop.singleton.loadSheet({
           "$t": "moo"
         }, 
         "updated": {
-          "$t": "2013-08-12T13:22:49.100Z"
+          "$t": "2013-08-12T13:28:14.272Z"
         }, 
         "gsx$latitude": {
           "$t": "77.6192349"
@@ -100,17 +100,17 @@ Tabletop.singleton.loadSheet({
           "$t": "baa"
         }, 
         "updated": {
-          "$t": "2013-08-12T13:22:49.100Z"
+          "$t": "2013-08-12T13:28:14.272Z"
         }, 
         "gsx$latitude": {
-          "$t": "34.6266576"
+          "$t": "56.4793349"
         }, 
         "title": {
           "$t": "baa", 
           "type": "text"
         }, 
         "content": {
-          "$t": "geolocation: Siberia, longitude: -115.9858378, latitude: 34.6266576", 
+          "$t": "geolocation: Siberia, Russia, longitude: 84.9502522, latitude: 56.4793349", 
           "type": "text"
         }, 
         "link": [
@@ -121,10 +121,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": "Siberia"
+          "$t": "Siberia, Russia"
         }, 
         "gsx$longitude": {
-          "$t": "-115.9858378"
+          "$t": "84.9502522"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/odb/public/values/cpzh4"
@@ -141,7 +141,7 @@ Tabletop.singleton.loadSheet({
           "$t": "quack"
         }, 
         "updated": {
-          "$t": "2013-08-12T13:22:49.100Z"
+          "$t": "2013-08-12T13:28:14.272Z"
         }, 
         "gsx$latitude": {
           "$t": "4.8417097"
