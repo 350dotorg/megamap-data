@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2013-08-12T13:03:02.971Z"
+      "$t": "2013-08-12T13:03:03.986Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -59,20 +59,20 @@ Tabletop.singleton.loadSheet({
           "$t": "moo"
         }, 
         "updated": {
-          "$t": "2013-08-12T13:03:02.971Z"
+          "$t": "2013-08-12T13:03:03.986Z"
         }, 
         "gsx$latitude": {
-          "$t": "moo 0 [[\"moo\",\"Greenland\"],[\"baa\",\"Siberia\"],[\"quack\",\"Guyana\"]]"
+          "$t": ""
         }, 
         "title": {
-          "$t": "moo 0 [[\"moo\",\"Greenland\"],[\"baa\",\"Siberia\"],[\"quack\",\"Guyana\"]]", 
+          "$t": "Row: 2", 
           "type": "text"
         }, 
         "gsx$location": {
           "$t": "Greenland"
         }, 
         "content": {
-          "$t": "longitude: -0.076399065124491, morx: moo, location: Greenland", 
+          "$t": "morx: moo, location: Greenland", 
           "type": "text"
         }, 
         "link": [
@@ -83,7 +83,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$longitude": {
-          "$t": "-0.076399065124491"
+          "$t": ""
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/odb/public/values/cokwr"
@@ -100,20 +100,20 @@ Tabletop.singleton.loadSheet({
           "$t": "baa"
         }, 
         "updated": {
-          "$t": "2013-08-12T13:03:02.971Z"
+          "$t": "2013-08-12T13:03:03.986Z"
         }, 
         "gsx$latitude": {
-          "$t": "baa 1 [[\"moo\",\"Greenland\"],[\"baa\",\"Siberia\"],[\"quack\",\"Guyana\"]]"
+          "$t": ""
         }, 
         "title": {
-          "$t": "baa 1 [[\"moo\",\"Greenland\"],[\"baa\",\"Siberia\"],[\"quack\",\"Guyana\"]]", 
+          "$t": "Row: 3", 
           "type": "text"
         }, 
         "gsx$location": {
           "$t": "Siberia"
         }, 
         "content": {
-          "$t": "longitude: -2.20197993616952, morx: baa, location: Siberia", 
+          "$t": "morx: baa, location: Siberia", 
           "type": "text"
         }, 
         "link": [
@@ -124,7 +124,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$longitude": {
-          "$t": "-2.20197993616952"
+          "$t": ""
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/odb/public/values/cpzh4"
@@ -141,7 +141,7 @@ Tabletop.singleton.loadSheet({
           "$t": "quack"
         }, 
         "updated": {
-          "$t": "2013-08-12T13:03:02.971Z"
+          "$t": "2013-08-12T13:03:03.986Z"
         }, 
         "gsx$latitude": {
           "$t": ""
