@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2013-08-12T13:28:14.272Z"
+      "$t": "2013-08-12T13:36:53.427Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -59,7 +59,7 @@ Tabletop.singleton.loadSheet({
           "$t": "moo"
         }, 
         "updated": {
-          "$t": "2013-08-12T13:28:14.272Z"
+          "$t": "2013-08-12T13:36:53.427Z"
         }, 
         "gsx$latitude": {
           "$t": "77.6192349"
@@ -97,16 +97,16 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$morx": {
-          "$t": "baa"
+          "$t": "baaaaa"
         }, 
         "updated": {
-          "$t": "2013-08-12T13:28:14.272Z"
+          "$t": "2013-08-12T13:36:53.427Z"
         }, 
         "gsx$latitude": {
           "$t": "56.4793349"
         }, 
         "title": {
-          "$t": "baa", 
+          "$t": "baaaaa", 
           "type": "text"
         }, 
         "content": {
@@ -141,7 +141,7 @@ Tabletop.singleton.loadSheet({
           "$t": "quack"
         }, 
         "updated": {
-          "$t": "2013-08-12T13:28:14.272Z"
+          "$t": "2013-08-12T13:36:53.427Z"
         }, 
         "gsx$latitude": {
           "$t": "4.8417097"
