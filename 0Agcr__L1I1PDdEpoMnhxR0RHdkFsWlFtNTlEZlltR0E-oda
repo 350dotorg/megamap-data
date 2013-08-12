@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2013-08-12T11:41:02.926Z"
+      "$t": "2013-08-12T11:59:10.180Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -55,8 +55,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$morx": {
+          "$t": "moo"
+        }, 
         "updated": {
-          "$t": "2013-08-12T11:41:02.926Z"
+          "$t": "2013-08-12T11:59:10.180Z"
         }, 
         "gsx$latitude": {
           "$t": "63.743631"
@@ -66,7 +69,7 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "content": {
-          "$t": "longitude: -44.384766", 
+          "$t": "longitude: -44.384766, morx: moo", 
           "type": "text"
         }, 
         "link": [
@@ -82,10 +85,48 @@ Tabletop.singleton.loadSheet({
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/oda/public/values/cokwr"
         }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$morx": {
+          "$t": "baa"
+        }, 
+        "updated": {
+          "$t": "2013-08-12T11:59:10.180Z"
+        }, 
+        "gsx$latitude": {
+          "$t": "64"
+        }, 
+        "title": {
+          "$t": "64", 
+          "type": "text"
+        }, 
+        "content": {
+          "$t": "longitude: 43, morx: baa", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/oda/public/values/cpzh4", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$longitude": {
+          "$t": "43"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/oda/public/values/cpzh4"
+        }
       }
     ], 
     "openSearch$totalResults": {
-      "$t": "1"
+      "$t": "2"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/oda/public/values"
