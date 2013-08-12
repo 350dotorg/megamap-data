@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2013-08-12T13:16:19.703Z"
+      "$t": "2013-08-12T13:20:44.889Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -59,17 +59,17 @@ Tabletop.singleton.loadSheet({
           "$t": "moo"
         }, 
         "updated": {
-          "$t": "2013-08-12T13:16:19.703Z"
+          "$t": "2013-08-12T13:20:44.889Z"
         }, 
         "gsx$latitude": {
-          "$t": ""
+          "$t": "Greenland 2 [0,[\"geolocation\"],[\"Greenland\"],[\"Siberia\"],[\"Guyana\"]]"
         }, 
         "title": {
-          "$t": "Row: 2", 
+          "$t": "Greenland 2 [0,[\"geolocation\"],[\"Greenland\"],[\"Siberia\"],[\"Guyana\"]]", 
           "type": "text"
         }, 
         "content": {
-          "$t": "morx: moo, geolocation: Greenland", 
+          "$t": "longitude: -42.8125967, morx: moo, geolocation: Greenland", 
           "type": "text"
         }, 
         "link": [
@@ -83,7 +83,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Greenland"
         }, 
         "gsx$longitude": {
-          "$t": ""
+          "$t": "-42.8125967"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/odb/public/values/cokwr"
@@ -100,17 +100,17 @@ Tabletop.singleton.loadSheet({
           "$t": "baa"
         }, 
         "updated": {
-          "$t": "2013-08-12T13:16:19.703Z"
+          "$t": "2013-08-12T13:20:44.889Z"
         }, 
         "gsx$latitude": {
-          "$t": ""
+          "$t": "Siberia 3 [0,[\"geolocation\"],[\"Greenland\"],[\"Siberia\"],[\"Guyana\"]]"
         }, 
         "title": {
-          "$t": "Row: 3", 
+          "$t": "Siberia 3 [0,[\"geolocation\"],[\"Greenland\"],[\"Siberia\"],[\"Guyana\"]]", 
           "type": "text"
         }, 
         "content": {
-          "$t": "morx: baa, geolocation: Siberia", 
+          "$t": "longitude: -115.9858378, morx: baa, geolocation: Siberia", 
           "type": "text"
         }, 
         "link": [
@@ -124,7 +124,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Siberia"
         }, 
         "gsx$longitude": {
-          "$t": ""
+          "$t": "-115.9858378"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/odb/public/values/cpzh4"
@@ -141,17 +141,17 @@ Tabletop.singleton.loadSheet({
           "$t": "quack"
         }, 
         "updated": {
-          "$t": "2013-08-12T13:16:19.703Z"
+          "$t": "2013-08-12T13:20:44.889Z"
         }, 
         "gsx$latitude": {
-          "$t": ""
+          "$t": "Guyana 4 [0,[\"geolocation\"],[\"Greenland\"],[\"Siberia\"],[\"Guyana\"]]"
         }, 
         "title": {
-          "$t": "Row: 4", 
+          "$t": "Guyana 4 [0,[\"geolocation\"],[\"Greenland\"],[\"Siberia\"],[\"Guyana\"]]", 
           "type": "text"
         }, 
         "content": {
-          "$t": "morx: quack, geolocation: Guyana", 
+          "$t": "longitude: -58.6416891, morx: quack, geolocation: Guyana", 
           "type": "text"
         }, 
         "link": [
@@ -165,7 +165,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Guyana"
         }, 
         "gsx$longitude": {
-          "$t": ""
+          "$t": "-58.6416891"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/odb/public/values/cre1l"
