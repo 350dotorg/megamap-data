@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2013-08-12T11:59:10.180Z"
+      "$t": "2013-08-12T12:11:52.184Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -59,7 +59,7 @@ Tabletop.singleton.loadSheet({
           "$t": "41"
         }, 
         "updated": {
-          "$t": "2013-08-12T11:59:10.180Z"
+          "$t": "2013-08-12T12:11:52.184Z"
         }, 
         "gsx$popupanchory": {
           "$t": "-32"
@@ -115,10 +115,78 @@ Tabletop.singleton.loadSheet({
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od7/public/values/cokwr"
         }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$shadowwidth": {
+          "$t": ""
+        }, 
+        "updated": {
+          "$t": "2013-08-12T12:11:52.184Z"
+        }, 
+        "gsx$popupanchory": {
+          "$t": "0"
+        }, 
+        "gsx$shadowanchorx": {
+          "$t": ""
+        }, 
+        "title": {
+          "$t": "Sheet5", 
+          "type": "text"
+        }, 
+        "gsx$iconheight": {
+          "$t": "53"
+        }, 
+        "gsx$shadowanchory": {
+          "$t": ""
+        }, 
+        "gsx$iconwidth": {
+          "$t": "53"
+        }, 
+        "gsx$iconurl": {
+          "$t": "http://static.local.350.org/images/map_markers/map-pin-multiple.png"
+        }, 
+        "content": {
+          "$t": "iconurl: http://static.local.350.org/images/map_markers/map-pin-multiple.png, iconwidth: 53, iconheight: 53, iconanchorx: 0, iconanchory: 0, popupanchorx: 0, popupanchory: 0", 
+          "type": "text"
+        }, 
+        "gsx$type": {
+          "$t": "Sheet5"
+        }, 
+        "gsx$popupanchorx": {
+          "$t": "0"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od7/public/values/cpzh4", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$iconanchorx": {
+          "$t": "0"
+        }, 
+        "gsx$shadowheight": {
+          "$t": ""
+        }, 
+        "gsx$shadowurl": {
+          "$t": ""
+        }, 
+        "gsx$iconanchory": {
+          "$t": "0"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od7/public/values/cpzh4"
+        }
       }
     ], 
     "openSearch$totalResults": {
-      "$t": "1"
+      "$t": "2"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od7/public/values"

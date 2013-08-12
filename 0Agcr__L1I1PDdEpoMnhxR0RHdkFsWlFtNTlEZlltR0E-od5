@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2013-08-12T11:59:10.180Z"
+      "$t": "2013-08-12T12:11:52.184Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,7 +56,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-08-12T11:59:10.180Z"
+          "$t": "2013-08-12T12:11:52.184Z"
         }, 
         "gsx$time": {
           "$t": "22:00:00"
