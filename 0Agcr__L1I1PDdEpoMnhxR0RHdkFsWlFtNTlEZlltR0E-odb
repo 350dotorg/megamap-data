@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2013-08-12T13:03:03.986Z"
+      "$t": "2013-08-12T13:16:19.703Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -59,7 +59,7 @@ Tabletop.singleton.loadSheet({
           "$t": "moo"
         }, 
         "updated": {
-          "$t": "2013-08-12T13:03:03.986Z"
+          "$t": "2013-08-12T13:16:19.703Z"
         }, 
         "gsx$latitude": {
           "$t": ""
@@ -68,11 +68,8 @@ Tabletop.singleton.loadSheet({
           "$t": "Row: 2", 
           "type": "text"
         }, 
-        "gsx$location": {
-          "$t": "Greenland"
-        }, 
         "content": {
-          "$t": "morx: moo, location: Greenland", 
+          "$t": "morx: moo, geolocation: Greenland", 
           "type": "text"
         }, 
         "link": [
@@ -82,6 +79,9 @@ Tabletop.singleton.loadSheet({
             "rel": "self"
           }
         ], 
+        "gsx$geolocation": {
+          "$t": "Greenland"
+        }, 
         "gsx$longitude": {
           "$t": ""
         }, 
@@ -100,7 +100,7 @@ Tabletop.singleton.loadSheet({
           "$t": "baa"
         }, 
         "updated": {
-          "$t": "2013-08-12T13:03:03.986Z"
+          "$t": "2013-08-12T13:16:19.703Z"
         }, 
         "gsx$latitude": {
           "$t": ""
@@ -109,11 +109,8 @@ Tabletop.singleton.loadSheet({
           "$t": "Row: 3", 
           "type": "text"
         }, 
-        "gsx$location": {
-          "$t": "Siberia"
-        }, 
         "content": {
-          "$t": "morx: baa, location: Siberia", 
+          "$t": "morx: baa, geolocation: Siberia", 
           "type": "text"
         }, 
         "link": [
@@ -123,6 +120,9 @@ Tabletop.singleton.loadSheet({
             "rel": "self"
           }
         ], 
+        "gsx$geolocation": {
+          "$t": "Siberia"
+        }, 
         "gsx$longitude": {
           "$t": ""
         }, 
@@ -141,7 +141,7 @@ Tabletop.singleton.loadSheet({
           "$t": "quack"
         }, 
         "updated": {
-          "$t": "2013-08-12T13:03:03.986Z"
+          "$t": "2013-08-12T13:16:19.703Z"
         }, 
         "gsx$latitude": {
           "$t": ""
@@ -150,11 +150,8 @@ Tabletop.singleton.loadSheet({
           "$t": "Row: 4", 
           "type": "text"
         }, 
-        "gsx$location": {
-          "$t": "Guyana"
-        }, 
         "content": {
-          "$t": "morx: quack, location: Guyana", 
+          "$t": "morx: quack, geolocation: Guyana", 
           "type": "text"
         }, 
         "link": [
@@ -164,6 +161,9 @@ Tabletop.singleton.loadSheet({
             "rel": "self"
           }
         ], 
+        "gsx$geolocation": {
+          "$t": "Guyana"
+        }, 
         "gsx$longitude": {
           "$t": ""
         }, 
