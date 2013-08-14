@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2013-08-14T13:35:59.450Z"
+      "$t": "2013-08-14T13:36:38.226Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,7 +56,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-08-14T13:35:59.450Z"
+          "$t": "2013-08-14T13:36:38.226Z"
         }, 
         "gsx$time": {
           "$t": "22:00:00"
@@ -109,119 +109,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-08-14T13:35:59.450Z"
-        }, 
-        "gsx$time": {
-          "$t": "19:00:00"
-        }, 
-        "gsx$latitude": {
-          "$t": ""
-        }, 
-        "title": {
-          "$t": "An Evening With Bill McKibben and Boulder's Clean Energy Future    ", 
-          "type": "text"
-        }, 
-        "gsx$link": {
-          "$t": "0"
-        }, 
-        "gsx$geoaccuracy": {
-          "$t": ""
-        }, 
-        "content": {
-          "$t": "geolocation:  Unity Church, 2855 Folsom St, Boulder, CO 80304-3735, USA          , link: 0, date: 11/27/2011, time: 19:00:00", 
-          "type": "text"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/values/cpzh4", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$date": {
-          "$t": "11/27/2011"
-        }, 
-        "gsx$geolocation": {
-          "$t": " Unity Church, 2855 Folsom St, Boulder, CO 80304-3735, USA          "
-        }, 
-        "gsx$longitude": {
-          "$t": ""
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/values/cpzh4"
-        }, 
-        "gsx$description": {
-          "$t": "An Evening With Bill McKibben and Boulder's Clean Energy Future    "
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "updated": {
-          "$t": "2013-08-14T13:35:59.450Z"
-        }, 
-        "gsx$time": {
-          "$t": "19:30:00"
-        }, 
-        "gsx$latitude": {
-          "$t": ""
-        }, 
-        "title": {
-          "$t": "V?love Parade <3 (Marsa, Carthage, Gammarth, ... )                 ", 
-          "type": "text"
-        }, 
-        "gsx$link": {
-          "$t": "0"
-        }, 
-        "gsx$geoaccuracy": {
-          "$t": ""
-        }, 
-        "content": {
-          "$t": "geolocation:  La Corniche, Carthago, Tunisia                                     , link: 0, date: 2/14/2012, time: 19:30:00", 
-          "type": "text"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/values/cre1l", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$date": {
-          "$t": "2/14/2012"
-        }, 
-        "gsx$geolocation": {
-          "$t": " La Corniche, Carthago, Tunisia                                     "
-        }, 
-        "gsx$longitude": {
-          "$t": ""
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/values/cre1l"
-        }, 
-        "gsx$description": {
-          "$t": "V?love Parade <3 (Marsa, Carthage, Gammarth, ... )                 "
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "updated": {
-          "$t": "2013-08-14T13:35:59.450Z"
+          "$t": "2013-08-14T13:36:38.226Z"
         }, 
         "gsx$time": {
           "$t": "6:00:00"
         }, 
         "gsx$latitude": {
-          "$t": ""
+          "$t": "10.7827445"
         }, 
         "title": {
           "$t": "Bike parade to launch \"A different Earth Hour\" campaign in Vietnam ", 
@@ -234,12 +128,12 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "content": {
-          "$t": "geolocation:  Ho Chi Minh City, Vietnam                                          , link: 0, date: 2/15/2012, time: 6:00:00", 
+          "$t": "geolocation:  Ho Chi Minh City, Vietnam                                          , link: 0, date: 2/15/2012, time: 6:00:00, longitude: 106.6948984, latitude: 10.7827445", 
           "type": "text"
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/values/chk2m", 
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/values/cpzh4", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -251,10 +145,10 @@ Tabletop.singleton.loadSheet({
           "$t": " Ho Chi Minh City, Vietnam                                          "
         }, 
         "gsx$longitude": {
-          "$t": ""
+          "$t": "106.6948984"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/values/chk2m"
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/values/cpzh4"
         }, 
         "gsx$description": {
           "$t": "Bike parade to launch \"A different Earth Hour\" campaign in Vietnam "
@@ -268,13 +162,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-08-14T13:35:59.450Z"
+          "$t": "2013-08-14T13:36:38.226Z"
         }, 
         "gsx$time": {
           "$t": "16:15:00"
         }, 
         "gsx$latitude": {
-          "$t": ""
+          "$t": "37.8070196151485"
         }, 
         "title": {
           "$t": "Visting Obama's Oakland Campaign Office                            ", 
@@ -287,12 +181,12 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "content": {
-          "$t": "geolocation:  1714 Telegraph Ave, Oakland, CA 94612, USA                         , link: 0, date: 2/2/2012, time: 16:15:00", 
+          "$t": "geolocation:  1714 Telegraph Ave, Oakland, CA 94612, USA                         , link: 0, date: 2/2/2012, time: 16:15:00, longitude: -122.270172174285, latitude: 37.8070196151485", 
           "type": "text"
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/values/ciyn3", 
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/values/cre1l", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -304,10 +198,10 @@ Tabletop.singleton.loadSheet({
           "$t": " 1714 Telegraph Ave, Oakland, CA 94612, USA                         "
         }, 
         "gsx$longitude": {
-          "$t": ""
+          "$t": "-122.270172174285"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/values/ciyn3"
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/values/cre1l"
         }, 
         "gsx$description": {
           "$t": "Visting Obama's Oakland Campaign Office                            "
@@ -321,13 +215,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-08-14T13:35:59.450Z"
+          "$t": "2013-08-14T13:36:38.226Z"
         }, 
         "gsx$time": {
           "$t": "18:00:00"
         }, 
         "gsx$latitude": {
-          "$t": ""
+          "$t": "37.3880955"
         }, 
         "title": {
           "$t": "Test event                                                         ", 
@@ -340,12 +234,12 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "content": {
-          "$t": "geolocation:  650 Castro St, Mountain View, CA 94041, USA                        , link: 0, date: 2/25/2012, time: 18:00:00", 
+          "$t": "geolocation:  650 Castro St, Mountain View, CA 94041, USA                        , link: 0, date: 2/25/2012, time: 18:00:00, longitude: -122.0828635, latitude: 37.3880955", 
           "type": "text"
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/values/ckd7g", 
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/values/chk2m", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -357,10 +251,10 @@ Tabletop.singleton.loadSheet({
           "$t": " 650 Castro St, Mountain View, CA 94041, USA                        "
         }, 
         "gsx$longitude": {
-          "$t": ""
+          "$t": "-122.0828635"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/values/ckd7g"
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/values/chk2m"
         }, 
         "gsx$description": {
           "$t": "Test event                                                         "
@@ -374,13 +268,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-08-14T13:35:59.450Z"
+          "$t": "2013-08-14T13:36:38.226Z"
         }, 
         "gsx$time": {
           "$t": "6:00:00"
         }, 
         "gsx$latitude": {
-          "$t": ""
+          "$t": "10.7827445"
         }, 
         "title": {
           "$t": "Bike parade to launch \"A different Earth Hour\" campaign in Vietnam ", 
@@ -393,12 +287,12 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "content": {
-          "$t": "geolocation:  Ho Chi Minh City, Vietnam                                          , link: 0, date: 2/15/2012, time: 6:00:00", 
+          "$t": "geolocation:  Ho Chi Minh City, Vietnam                                          , link: 0, date: 2/15/2012, time: 6:00:00, longitude: 106.6948984, latitude: 10.7827445", 
           "type": "text"
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/values/clrrx", 
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/values/ciyn3", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -410,10 +304,10 @@ Tabletop.singleton.loadSheet({
           "$t": " Ho Chi Minh City, Vietnam                                          "
         }, 
         "gsx$longitude": {
-          "$t": ""
+          "$t": "106.6948984"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/values/clrrx"
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/values/ciyn3"
         }, 
         "gsx$description": {
           "$t": "Bike parade to launch \"A different Earth Hour\" campaign in Vietnam "
@@ -427,13 +321,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-08-14T13:35:59.450Z"
+          "$t": "2013-08-14T13:36:38.226Z"
         }, 
         "gsx$time": {
           "$t": "10:00:00"
         }, 
         "gsx$latitude": {
-          "$t": ""
+          "$t": "32.73030145"
         }, 
         "title": {
           "$t": "SanDiego350.org Earthday Booth                                     ", 
@@ -446,12 +340,12 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "content": {
-          "$t": "geolocation:  Balboa Park, San Diego, CA, USA                                    , link: 0, date: 4/22/2012, time: 10:00:00", 
+          "$t": "geolocation:  Balboa Park, San Diego, CA, USA                                    , link: 0, date: 4/22/2012, time: 10:00:00, longitude: -117.146598077947, latitude: 32.73030145", 
           "type": "text"
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/values/cyevm", 
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/values/ckd7g", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -463,10 +357,10 @@ Tabletop.singleton.loadSheet({
           "$t": " Balboa Park, San Diego, CA, USA                                    "
         }, 
         "gsx$longitude": {
-          "$t": ""
+          "$t": "-117.146598077947"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/values/cyevm"
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/values/ckd7g"
         }, 
         "gsx$description": {
           "$t": "SanDiego350.org Earthday Booth                                     "
@@ -480,66 +374,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-08-14T13:35:59.450Z"
-        }, 
-        "gsx$time": {
-          "$t": "9:30:00"
-        }, 
-        "gsx$latitude": {
-          "$t": ""
-        }, 
-        "title": {
-          "$t": "350 Ankara Climate Forest, 350 Ankara Iklim Ormani                 ", 
-          "type": "text"
-        }, 
-        "gsx$link": {
-          "$t": "0"
-        }, 
-        "gsx$geoaccuracy": {
-          "$t": ""
-        }, 
-        "content": {
-          "$t": "geolocation:  ?mrahor Cd, Ankara/Ankara Province, Turkey                         , link: 0, date: 4/15/2012, time: 9:30:00", 
-          "type": "text"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/values/cztg3", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$date": {
-          "$t": "4/15/2012"
-        }, 
-        "gsx$geolocation": {
-          "$t": " ?mrahor Cd, Ankara/Ankara Province, Turkey                         "
-        }, 
-        "gsx$longitude": {
-          "$t": ""
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/values/cztg3"
-        }, 
-        "gsx$description": {
-          "$t": "350 Ankara Climate Forest, 350 Ankara Iklim Ormani                 "
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "updated": {
-          "$t": "2013-08-14T13:35:59.450Z"
+          "$t": "2013-08-14T13:36:38.226Z"
         }, 
         "gsx$time": {
           "$t": "20:30:00"
         }, 
         "gsx$latitude": {
-          "$t": ""
+          "$t": "39.952335"
         }, 
         "title": {
           "$t": "Earth Hour Philly                                                  ", 
@@ -552,12 +393,12 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "content": {
-          "$t": "geolocation:  Philadelphia, PA 19104, USA                                        , link: 0, date: 3/31/2012, time: 20:30:00", 
+          "$t": "geolocation:  Philadelphia, PA 19104, USA                                        , link: 0, date: 3/31/2012, time: 20:30:00, longitude: -75.163789, latitude: 39.952335", 
           "type": "text"
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/values/d180g", 
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/values/clrrx", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -569,71 +410,18 @@ Tabletop.singleton.loadSheet({
           "$t": " Philadelphia, PA 19104, USA                                        "
         }, 
         "gsx$longitude": {
-          "$t": ""
+          "$t": "-75.163789"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/values/d180g"
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/values/clrrx"
         }, 
         "gsx$description": {
           "$t": "Earth Hour Philly                                                  "
         }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "updated": {
-          "$t": "2013-08-14T13:35:59.450Z"
-        }, 
-        "gsx$time": {
-          "$t": "19:30:00"
-        }, 
-        "gsx$latitude": {
-          "$t": ""
-        }, 
-        "title": {
-          "$t": "Free Gasland Screening                                             ", 
-          "type": "text"
-        }, 
-        "gsx$link": {
-          "$t": "0"
-        }, 
-        "gsx$geoaccuracy": {
-          "$t": ""
-        }, 
-        "content": {
-          "$t": "geolocation:  1550 N High St, The Ohio State University, Columbus, OH 43201, USA , link: 0, date: 3/5/2012, time: 19:30:00", 
-          "type": "text"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/values/d2mkx", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$date": {
-          "$t": "3/5/2012"
-        }, 
-        "gsx$geolocation": {
-          "$t": " 1550 N High St, The Ohio State University, Columbus, OH 43201, USA "
-        }, 
-        "gsx$longitude": {
-          "$t": ""
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/values/d2mkx"
-        }, 
-        "gsx$description": {
-          "$t": "Free Gasland Screening                                             "
-        }
       }
     ], 
     "openSearch$totalResults": {
-      "$t": "11"
+      "$t": "7"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/values"
