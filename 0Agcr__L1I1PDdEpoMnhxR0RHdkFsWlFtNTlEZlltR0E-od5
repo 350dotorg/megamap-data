@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2013-08-14T14:03:58.752Z"
+      "$t": "2013-08-14T14:04:10.789Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,7 +56,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-08-14T14:03:58.752Z"
+          "$t": "2013-08-14T14:04:10.789Z"
         }, 
         "gsx$time": {
           "$t": "22:00:00"
@@ -71,11 +71,8 @@ Tabletop.singleton.loadSheet({
         "gsx$link": {
           "$t": "https://www.facebook.com/events/198306840329231/"
         }, 
-        "gsx$geoaccuracy": {
-          "$t": "city"
-        }, 
         "content": {
-          "$t": "geolocation: Charlotte, NC, USA, link: https://www.facebook.com/events/198306840329231/, date: 7/27/2013, time: 22:00:00, longitude: -80.9398554230769, latitude: 35.3314525, geoaccuracy: city", 
+          "$t": "geolocation: Charlotte, NC, USA, link: https://www.facebook.com/events/198306840329231/, date: 7/27/2013, time: 22:00:00, longitude: -80.9398554230769, latitude: 35.3314525", 
           "type": "text"
         }, 
         "link": [
