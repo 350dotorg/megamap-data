@@ -13,7 +13,7 @@ Tabletop.singleton.loadSheet({
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
     "title": {
-      "$t": "GROW Divestment Events", 
+      "$t": "Sheet7", 
       "type": "text"
     }, 
     "author": [
@@ -36,12 +36,12 @@ Tabletop.singleton.loadSheet({
         "rel": "alternate"
       }, 
       {
-        "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/values", 
+        "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od8/public/values", 
         "type": "application/atom+xml", 
         "rel": "http://schemas.google.com/g/2005#feed"
       }, 
       {
-        "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/values?alt=json-in-script&sq=", 
+        "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od8/public/values?alt=json-in-script&sq=", 
         "type": "application/atom+xml", 
         "rel": "self"
       }
@@ -58,47 +58,32 @@ Tabletop.singleton.loadSheet({
         "updated": {
           "$t": "2013-08-14T02:13:48.532Z"
         }, 
-        "gsx$time": {
-          "$t": "22:00:00"
-        }, 
-        "gsx$latitude": {
-          "$t": "35.3314525"
-        }, 
         "title": {
-          "$t": "Charlotte, NC", 
+          "$t": "foo", 
           "type": "text"
         }, 
-        "gsx$link": {
-          "$t": "https://www.facebook.com/events/198306840329231/"
+        "gsx$name": {
+          "$t": "foo"
         }, 
-        "gsx$location": {
-          "$t": "Charlotte, NC, USA"
-        }, 
-        "gsx$geoaccuracy": {
-          "$t": "city"
+        "gsx$human-friendlylocation": {
+          "$t": "foo"
         }, 
         "content": {
-          "$t": "location: Charlotte, NC, USA, link: https://www.facebook.com/events/198306840329231/, date: 7/27/2013, time: 22:00:00, longitude: -80.9398554230769, latitude: 35.3314525, geoaccuracy: city", 
+          "$t": "dateandtime: foo, human-friendlylocation: foo", 
           "type": "text"
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/values/cokwr", 
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od8/public/values/cokwr", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
         ], 
-        "gsx$date": {
-          "$t": "7/27/2013"
-        }, 
-        "gsx$longitude": {
-          "$t": "-80.9398554230769"
+        "gsx$dateandtime": {
+          "$t": "foo"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/values/cokwr"
-        }, 
-        "gsx$description": {
-          "$t": "Charlotte, NC"
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od8/public/values/cokwr"
         }
       }
     ], 
@@ -106,7 +91,7 @@ Tabletop.singleton.loadSheet({
       "$t": "1"
     }, 
     "id": {
-      "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/values"
+      "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od8/public/values"
     }
   }, 
   "version": "1.0", 
