@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheets({
       }
     ], 
     "updated": {
-      "$t": "2013-09-12T03:32:29.313Z"
+      "$t": "2013-09-12T17:53:47.047Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "title": {
@@ -39,7 +39,7 @@ Tabletop.singleton.loadSheets({
           }
         ], 
         "updated": {
-          "$t": "2013-09-12T03:32:29.313Z"
+          "$t": "2013-09-12T17:53:47.047Z"
         }, 
         "title": {
           "$t": "Events", 
