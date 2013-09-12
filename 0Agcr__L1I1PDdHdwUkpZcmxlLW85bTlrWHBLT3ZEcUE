@@ -1,0 +1,105 @@
+// API callback
+Tabletop.singleton.loadSheets({
+  "feed": {
+    "category": [
+      {
+        "term": "http://schemas.google.com/spreadsheets/2006#worksheet", 
+        "scheme": "http://schemas.google.com/spreadsheets/2006"
+      }
+    ], 
+    "updated": {
+      "$t": "2013-09-12T03:15:44.348Z"
+    }, 
+    "xmlns": "http://www.w3.org/2005/Atom", 
+    "title": {
+      "$t": "350 Featured Events", 
+      "type": "text"
+    }, 
+    "author": [
+      {
+        "name": {
+          "$t": "ethan.jucovy"
+        }, 
+        "email": {
+          "$t": "ethan.jucovy@gmail.com"
+        }
+      }
+    ], 
+    "openSearch$startIndex": {
+      "$t": "1"
+    }, 
+    "xmlns$gs": "http://schemas.google.com/spreadsheets/2006", 
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/", 
+    "entry": [
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#worksheet", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2013-09-12T03:15:44.348Z"
+        }, 
+        "title": {
+          "$t": "Sheet1", 
+          "type": "text"
+        }, 
+        "content": {
+          "$t": "Sheet1", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdHdwUkpZcmxlLW85bTlrWHBLT3ZEcUE/od6/public/basic", 
+            "type": "application/atom+xml", 
+            "rel": "http://schemas.google.com/spreadsheets/2006#listfeed"
+          }, 
+          {
+            "href": "https://spreadsheets.google.com/feeds/cells/0Agcr__L1I1PDdHdwUkpZcmxlLW85bTlrWHBLT3ZEcUE/od6/public/basic", 
+            "type": "application/atom+xml", 
+            "rel": "http://schemas.google.com/spreadsheets/2006#cellsfeed"
+          }, 
+          {
+            "href": "https://spreadsheets.google.com/tq?key=0Agcr__L1I1PDdHdwUkpZcmxlLW85bTlrWHBLT3ZEcUE&sheet=od6&pub=1", 
+            "type": "application/atom+xml", 
+            "rel": "http://schemas.google.com/visualization/2008#visualizationApi"
+          }, 
+          {
+            "href": "https://spreadsheets.google.com/feeds/worksheets/0Agcr__L1I1PDdHdwUkpZcmxlLW85bTlrWHBLT3ZEcUE/public/basic/od6", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/worksheets/0Agcr__L1I1PDdHdwUkpZcmxlLW85bTlrWHBLT3ZEcUE/public/basic/od6"
+        }
+      }
+    ], 
+    "link": [
+      {
+        "href": "https://spreadsheets.google.com/pub?key=0Agcr__L1I1PDdHdwUkpZcmxlLW85bTlrWHBLT3ZEcUE", 
+        "type": "text/html", 
+        "rel": "alternate"
+      }, 
+      {
+        "href": "https://spreadsheets.google.com/feeds/worksheets/0Agcr__L1I1PDdHdwUkpZcmxlLW85bTlrWHBLT3ZEcUE/public/basic", 
+        "type": "application/atom+xml", 
+        "rel": "http://schemas.google.com/g/2005#feed"
+      }, 
+      {
+        "href": "https://spreadsheets.google.com/feeds/worksheets/0Agcr__L1I1PDdHdwUkpZcmxlLW85bTlrWHBLT3ZEcUE/public/basic?alt=json-in-script", 
+        "type": "application/atom+xml", 
+        "rel": "self"
+      }
+    ], 
+    "openSearch$totalResults": {
+      "$t": "1"
+    }, 
+    "id": {
+      "$t": "https://spreadsheets.google.com/feeds/worksheets/0Agcr__L1I1PDdHdwUkpZcmxlLW85bTlrWHBLT3ZEcUE/public/basic"
+    }
+  }, 
+  "version": "1.0", 
+  "encoding": "UTF-8"
+});
