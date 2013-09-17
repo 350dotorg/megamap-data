@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2013-09-17T05:59:10.007Z"
+      "$t": "2013-09-17T06:07:38.715Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,7 +56,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-09-17T05:59:10.007Z"
+          "$t": "2013-09-17T06:07:38.715Z"
         }, 
         "title": {
           "$t": "6131", 
@@ -88,7 +88,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-09-17T05:59:10.007Z"
+          "$t": "2013-09-17T06:07:38.715Z"
         }, 
         "title": {
           "$t": "6152", 
@@ -120,7 +120,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-09-17T05:59:10.007Z"
+          "$t": "2013-09-17T06:07:38.715Z"
         }, 
         "title": {
           "$t": "6129", 
@@ -155,7 +155,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-09-17T05:59:10.007Z"
+          "$t": "2013-09-17T06:07:38.715Z"
         }, 
         "title": {
           "$t": "6125", 
@@ -187,7 +187,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-09-17T05:59:10.007Z"
+          "$t": "2013-09-17T06:07:38.715Z"
         }, 
         "title": {
           "$t": "6196", 
@@ -219,7 +219,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-09-17T05:59:10.007Z"
+          "$t": "2013-09-17T06:07:38.715Z"
         }, 
         "title": {
           "$t": "6123", 
@@ -251,7 +251,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-09-17T05:59:10.007Z"
+          "$t": "2013-09-17T06:07:38.715Z"
         }, 
         "title": {
           "$t": "6234", 
@@ -283,7 +283,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-09-17T05:59:10.007Z"
+          "$t": "2013-09-17T06:07:38.715Z"
         }, 
         "title": {
           "$t": "6211", 
@@ -315,7 +315,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-09-17T05:59:10.007Z"
+          "$t": "2013-09-17T06:07:38.715Z"
         }, 
         "title": {
           "$t": "6230", 
@@ -350,49 +350,17 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-09-17T05:59:10.007Z"
-        }, 
-        "title": {
-          "$t": "6156", 
-          "type": "text"
-        }, 
-        "gsx$_cokwr": {
-          "$t": "SF beach"
-        }, 
-        "content": {
-          "$t": "_cokwr: SF beach", 
-          "type": "text"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdHdwUkpZcmxlLW85bTlrWHBLT3ZEcUE/od6/public/values/d180g", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$eventid": {
-          "$t": "6156"
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdHdwUkpZcmxlLW85bTlrWHBLT3ZEcUE/od6/public/values/d180g"
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "updated": {
-          "$t": "2013-09-17T05:59:10.007Z"
+          "$t": "2013-09-17T06:07:38.715Z"
         }, 
         "title": {
           "$t": "6131", 
           "type": "text"
         }, 
+        "gsx$_cokwr": {
+          "$t": "NYC"
+        }, 
         "content": {
-          "$t": "", 
+          "$t": "_cokwr: NYC", 
           "type": "text"
         }, 
         "link": [
@@ -407,6 +375,41 @@ Tabletop.singleton.loadSheet({
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdHdwUkpZcmxlLW85bTlrWHBLT3ZEcUE/od6/public/values/d2mkx"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2013-09-17T06:07:38.715Z"
+        }, 
+        "title": {
+          "$t": "6208", 
+          "type": "text"
+        }, 
+        "gsx$_cokwr": {
+          "$t": "DC"
+        }, 
+        "content": {
+          "$t": "_cokwr: DC", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdHdwUkpZcmxlLW85bTlrWHBLT3ZEcUE/od6/public/values/cssly", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$eventid": {
+          "$t": "6208"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdHdwUkpZcmxlLW85bTlrWHBLT3ZEcUE/od6/public/values/cssly"
         }
       }
     ], 
