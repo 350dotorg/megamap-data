@@ -19,10 +19,10 @@ Tabletop.singleton.loadSheet({
     "author": [
       {
         "name": {
-          "$t": "ethan.jucovy"
+          "$t": "jwarnow"
         }, 
         "email": {
-          "$t": "ethan.jucovy@gmail.com"
+          "$t": "jwarnow@gmail.com"
         }
       }
     ], 
