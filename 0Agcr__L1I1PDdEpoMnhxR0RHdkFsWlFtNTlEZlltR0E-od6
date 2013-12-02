@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2013-12-02T03:13:14.611Z"
+      "$t": "2013-12-02T03:16:10.454Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -59,7 +59,7 @@ Tabletop.singleton.loadSheet({
           "$t": "350SanAntonio.org"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 San Antonio", 
@@ -100,20 +100,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/350-orange-county/"
+          "$t": "http://350Corvallis.org"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "350 Orange County", 
+          "$t": "350Corvallis", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "350 Orange County"
+          "$t": "350Corvallis"
         }, 
         "content": {
-          "$t": "geom: Orange, CA, USA, ontheweb: http://local.350.org/350-orange-county/, description: We are a relatively new group working on public demonstrations, education and outreach, and divestment.", 
+          "$t": "geom: Corvallis, OR, geolocation: Corvallis, OR, ontheweb: http://350Corvallis.org, description: We are a relatively new group working on public demonstrations, education and outreach, and divestment.", 
           "type": "text"
         }, 
         "link": [
@@ -124,10 +124,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Corvallis, OR"
         }, 
         "gsx$geom": {
-          "$t": "Orange, CA, USA"
+          "$t": "Corvallis, OR"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/cpzh4"
@@ -144,20 +144,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/350-kalamazoo/"
+          "$t": "www.350sb.org"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "350 Kalamazoo", 
+          "$t": "350 Santa Barbara", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "350 Kalamazoo"
+          "$t": "350 Santa Barbara"
         }, 
         "content": {
-          "$t": "geom: Kalamazoo, MI, USA, ontheweb: http://local.350.org/350-kalamazoo/, description: 350 Kalamazoo works to educate ourselves and our community about climate change, to find ways to get to carbon neutrality in our own lives, to divest ourselves and encourage divestment from fossil fuels by institutions we are part of, and to take part in non-violent direct actions to bring the climate crisis to the attention of elected officials and our fellow citizens.", 
+          "$t": "geom: Santa Barbara, CA, geolocation: Santa Barbara, CA, ontheweb: www.350sb.org, description: 350 Kalamazoo works to educate ourselves and our community about climate change, to find ways to get to carbon neutrality in our own lives, to divest ourselves and encourage divestment from fossil fuels by institutions we are part of, and to take part in non-violent direct actions to bring the climate crisis to the attention of elected officials and our fellow citizens.", 
           "type": "text"
         }, 
         "link": [
@@ -168,10 +168,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Santa Barbara, CA"
         }, 
         "gsx$geom": {
-          "$t": "Kalamazoo, MI, USA"
+          "$t": "Santa Barbara, CA"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/cre1l"
@@ -188,20 +188,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/350-hackney/"
+          "$t": "http://350centralvirginia.org/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "350 Hackney", 
+          "$t": "350 Central Virginia", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "350 Hackney"
+          "$t": "350 Central Virginia"
         }, 
         "content": {
-          "$t": "geom: Hackney, Derbyshire DE4, UK, ontheweb: http://local.350.org/350-hackney/, description: We're just getting started!", 
+          "$t": "geom: Charlottesville VA and the surrounding region, geolocation: Charlottesville VA, ontheweb: http://350centralvirginia.org/, description: We're just getting started!", 
           "type": "text"
         }, 
         "link": [
@@ -212,10 +212,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Charlottesville VA"
         }, 
         "gsx$geom": {
-          "$t": "Hackney, Derbyshire DE4, UK"
+          "$t": "Charlottesville VA and the surrounding region"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/chk2m"
@@ -232,20 +232,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/climate-movement-denmark/"
+          "$t": "www.sandiego350.org"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "Climate Movement of Denmark", 
+          "$t": "SanDiego350.org", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "Climate Movement of Denmark"
+          "$t": "SanDiego350.org"
         }, 
         "content": {
-          "$t": "geom: Copenhagen, Denmark, ontheweb: http://local.350.org/climate-movement-denmark/, description: We've been organizing for climate action in Denmark since 2008. Although the Danish government is among the most climate-friendly in the world, we still have a long way to go.", 
+          "$t": "geom: San Diego County, California, geolocation: San Diego County, California, ontheweb: www.sandiego350.org, description: We've been organizing for climate action in Denmark since 2008. Although the Danish government is among the most climate-friendly in the world, we still have a long way to go.", 
           "type": "text"
         }, 
         "link": [
@@ -256,10 +256,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "San Diego County, California"
         }, 
         "gsx$geom": {
-          "$t": "Copenhagen, Denmark"
+          "$t": "San Diego County, California"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/ciyn3"
@@ -276,20 +276,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/ventura-350/"
+          "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "Ventura 350", 
+          "$t": "350 C\u00c3\u00b4te d'Ivoire", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "Ventura 350"
+          "$t": "350 C\u00c3\u00b4te d'Ivoire"
         }, 
         "content": {
-          "$t": "geom: Ventura, CA, USA, ontheweb: http://local.350.org/ventura-350/, description: Welcome to Ventura 350.", 
+          "$t": "geom: Abidjan, C\u00c3\u00b4te d'Ivoire, geolocation: Abidjan, C\u00c3\u00b4te d'Ivoire, description: Welcome to Ventura 350.", 
           "type": "text"
         }, 
         "link": [
@@ -300,10 +300,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Abidjan, C\u00c3\u00b4te d'Ivoire"
         }, 
         "gsx$geom": {
-          "$t": "Ventura, CA, USA"
+          "$t": "Abidjan, C\u00c3\u00b4te d'Ivoire"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/ckd7g"
@@ -320,20 +320,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://world.350.org/nh/"
+          "$t": "http://www.350sacramento.org"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "350 NH", 
+          "$t": "350 Sacramento", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "350 NH"
+          "$t": "350 Sacramento"
         }, 
         "content": {
-          "$t": "geom: New Hampshire, USA, ontheweb: http://world.350.org/nh/, description: 350 New Hampshire is a long-standing local group working to solve the climate crisis.", 
+          "$t": "geom: Sacramento, CA, geolocation: Sacramento, CA, ontheweb: http://www.350sacramento.org, description: 350 New Hampshire is a long-standing local group working to solve the climate crisis.", 
           "type": "text"
         }, 
         "link": [
@@ -344,10 +344,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Sacramento, CA"
         }, 
         "gsx$geom": {
-          "$t": "New Hampshire, USA"
+          "$t": "Sacramento, CA"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/clrrx"
@@ -364,20 +364,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/tc350/"
+          "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "TC350", 
+          "$t": "350 Philly", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "TC350"
+          "$t": "350 Philly"
         }, 
         "content": {
-          "$t": "geom: Traverse City, MI, USA, ontheweb: http://local.350.org/tc350/, description: We're Northwest Michigan's connection for 350.org - bringing the climate fight home in a fun and meaningful format for all, including our young generation!", 
+          "$t": "geom: Philadelphia pa, geolocation: Philadelphia pa, description: We're Northwest Michigan's connection for 350.org - bringing the climate fight home in a fun and meaningful format for all, including our young generation!", 
           "type": "text"
         }, 
         "link": [
@@ -388,10 +388,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Philadelphia pa"
         }, 
         "gsx$geom": {
-          "$t": "Traverse City, MI, USA"
+          "$t": "Philadelphia pa"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/cyevm"
@@ -408,10 +408,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/north-country-350-alliance/"
+          "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "North Country 350 Alliance", 
@@ -421,7 +421,7 @@ Tabletop.singleton.loadSheet({
           "$t": "North Country 350 Alliance"
         }, 
         "content": {
-          "$t": "geom: Canton, NY 13617, USA, ontheweb: http://local.350.org/north-country-350-alliance/, description: The NC 350 Alliance represents the convergence of a number of groups with a long and rich tradition of activism on behalf of sustainability and social justice. Members and constituent groups have been engaged in campaigns against incineration, fracking, and industrial agriculture, and in the promotion of farmers markets, EBT/SNAP access to local foods, sustainable living and alternative energy fairs, school programs on nutrition, and university programs on sustainability, as well as conferences and demonstrations on climate change. We have brought numerous distinguished speakers to our campuses-- among them Bill McKibben, Michael E. Mann, William Blakemore (of ABC), and the anti-fracking activist Deborah Rogers. We have also sponsored town meetings on local agriculture with Congressman Bill Owens and Senator Charles Schumer. \n\nThe North Country 350 Alliance will promote solidarity and co-ordination among groups working for environmental sanity and social justice in northern New York, and will serve as a forum for the development of new ideas and initiatives.  The North Country 350 Alliance welcomes everyone who shares our concern for the planet and our commitment to democracy and non-violence. \n\n\n\n\n", 
+          "$t": "geom: Potsdam, NY, USA, geolocation: Potsdam, NY, USA, description: The NC 350 Alliance represents the convergence of a number of groups with a long and rich tradition of activism on behalf of sustainability and social justice. Members and constituent groups have been engaged in campaigns against incineration, fracking, and industrial agriculture, and in the promotion of farmers markets, EBT/SNAP access to local foods, sustainable living and alternative energy fairs, school programs on nutrition, and university programs on sustainability, as well as conferences and demonstrations on climate change. We have brought numerous distinguished speakers to our campuses-- among them Bill McKibben, Michael E. Mann, William Blakemore (of ABC), and the anti-fracking activist Deborah Rogers. We have also sponsored town meetings on local agriculture with Congressman Bill Owens and Senator Charles Schumer. \n\nThe North Country 350 Alliance will promote solidarity and co-ordination among groups working for environmental sanity and social justice in northern New York, and will serve as a forum for the development of new ideas and initiatives.  The North Country 350 Alliance welcomes everyone who shares our concern for the planet and our commitment to democracy and non-violence. \n\n\n\n\n", 
           "type": "text"
         }, 
         "link": [
@@ -432,10 +432,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Potsdam, NY, USA"
         }, 
         "gsx$geom": {
-          "$t": "Canton, NY 13617, USA"
+          "$t": "Potsdam, NY, USA"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/cztg3"
@@ -452,20 +452,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/chicago350/"
+          "$t": "http://350nola.org"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "Chicago350", 
+          "$t": "350 NOLA", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "Chicago350"
+          "$t": "350 NOLA"
         }, 
         "content": {
-          "$t": "geom: Chicago, IL, USA, ontheweb: http://local.350.org/chicago350/, description: We're a new group!  Our first public meeting is May 30th at 7:30 in Lincoln Park.  We will meet the last Thursday of each month.  \n\nOur website: http://www.chicago350.org/", 
+          "$t": "geom: New Orleans, LA, geolocation: New Orleans, LA, ontheweb: http://350nola.org, description: We're a new group!  Our first public meeting is May 30th at 7:30 in Lincoln Park.  We will meet the last Thursday of each month.  \n\nOur website: http://www.chicago350.org/", 
           "type": "text"
         }, 
         "link": [
@@ -476,10 +476,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "New Orleans, LA"
         }, 
         "gsx$geom": {
-          "$t": "Chicago, IL, USA"
+          "$t": "New Orleans, LA"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/d180g"
@@ -496,20 +496,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/350-missoula/"
+          "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "350 Missoula", 
+          "$t": "350 Finland", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "350 Missoula"
+          "$t": "350 Finland"
         }, 
         "content": {
-          "$t": "geom: Missoula, MT, USA, ontheweb: http://local.350.org/350-missoula/, description: We're a new group!", 
+          "$t": "geom: Vaasa / Helsinki, Finland, geolocation: Helsinki, Finland, description: We're a new group!", 
           "type": "text"
         }, 
         "link": [
@@ -520,10 +520,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Helsinki, Finland"
         }, 
         "gsx$geom": {
-          "$t": "Missoula, MT, USA"
+          "$t": "Vaasa / Helsinki, Finland"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/d2mkx"
@@ -540,20 +540,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/350-seattle/"
+          "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "350 Seattle", 
+          "$t": "350.org Missouri", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "350 Seattle"
+          "$t": "350.org Missouri"
         }, 
         "content": {
-          "$t": "geom: Seattle, WA, USA, ontheweb: http://local.350.org/350-seattle/, description: We are an established community of climate activists. 350 Seattle is a new group formed to facilitate better coordination, more streamlined campaigns, and more powerful climate action in the Seattle area.  Please see our webpage http://350seattle.org/  to signup to get announcements about our monthly meetings and actions.  (second box down on the right to subscribe.)  ", 
+          "$t": "geom: Missouri, geolocation: Missouri, description: We are an established community of climate activists. 350 Seattle is a new group formed to facilitate better coordination, more streamlined campaigns, and more powerful climate action in the Seattle area.  Please see our webpage http://350seattle.org/  to signup to get announcements about our monthly meetings and actions.  (second box down on the right to subscribe.)  ", 
           "type": "text"
         }, 
         "link": [
@@ -564,10 +564,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Missouri"
         }, 
         "gsx$geom": {
-          "$t": "Seattle, WA, USA"
+          "$t": "Missouri"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/cssly"
@@ -584,20 +584,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/350-fort-collins/"
+          "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "350 Fort Collins", 
+          "$t": "350 Asheville ( or Asheville 350)", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "350 Fort Collins"
+          "$t": "350 Asheville ( or Asheville 350)"
         }, 
         "content": {
-          "$t": "geom: Fort Collins, CO, USA, ontheweb: http://local.350.org/350-fort-collins/, description: We're a new group just getting off the ground. Looking forward to organizing the Fort Collins area!", 
+          "$t": "geom: Asheville, NC, USA, geolocation: Asheville, NC, USA, description: We're a new group just getting off the ground. Looking forward to organizing the Fort Collins area!", 
           "type": "text"
         }, 
         "link": [
@@ -608,10 +608,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Asheville, NC, USA"
         }, 
         "gsx$geom": {
-          "$t": "Fort Collins, CO, USA"
+          "$t": "Asheville, NC, USA"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/cu76f"
@@ -628,20 +628,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/350-chapel-hill/"
+          "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "350 Chapel Hill", 
+          "$t": "350 Tucson", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "350 Chapel Hill"
+          "$t": "350 Tucson"
         }, 
         "content": {
-          "$t": "geom: Chapel Hill, NC, USA, ontheweb: http://local.350.org/350-chapel-hill/, description: We're a new group just getting off the ground. Looking forward to organizing Chapel Hill!", 
+          "$t": "geom: Tucson, Arizona, USA, geolocation: Tucson, Arizona, USA, description: We're a new group just getting off the ground. Looking forward to organizing Chapel Hill!", 
           "type": "text"
         }, 
         "link": [
@@ -652,10 +652,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Tucson, Arizona, USA"
         }, 
         "gsx$geom": {
-          "$t": "Chapel Hill, NC, USA"
+          "$t": "Tucson, Arizona, USA"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/cvlqs"
@@ -672,20 +672,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/350-central-maine/"
+          "$t": "https://www.facebook.com/pages/350-Kerala/104524633051294"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "350 Central Maine", 
+          "$t": "350 Kerala", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "350 Central Maine"
+          "$t": "350 Kerala"
         }, 
         "content": {
-          "$t": "geom: Waterville, ME, USA, ontheweb: http://local.350.org/350-central-maine/, description: We're a new group just getting off the ground. Looking forward to organizing Central Maine!", 
+          "$t": "geom: Trivandrum (Thiruvananthapuram) Kerala, geolocation: Trivandrum (Thiruvananthapuram) Kerala, ontheweb: https://www.facebook.com/pages/350-Kerala/104524633051294, description: We're a new group just getting off the ground. Looking forward to organizing Central Maine!", 
           "type": "text"
         }, 
         "link": [
@@ -696,10 +696,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Trivandrum (Thiruvananthapuram) Kerala"
         }, 
         "gsx$geom": {
-          "$t": "Waterville, ME, USA"
+          "$t": "Trivandrum (Thiruvananthapuram) Kerala"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/cx0b9"
@@ -716,20 +716,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/south-bay-climate-protection/"
+          "$t": "www.facebook.com/climatecrusaders"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "South Bay Climate Protection", 
+          "$t": "Climate Crusaders", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "South Bay Climate Protection"
+          "$t": "Climate Crusaders"
         }, 
         "content": {
-          "$t": "geom: Los Angeles, CA, USA, ontheweb: http://local.350.org/south-bay-climate-protection/, description: We're a new group just getting off the ground. Excited to start organizing LA's South Bay!", 
+          "$t": "geom: Athens, GA, USA, geolocation: Athens, GA, USA, ontheweb: www.facebook.com/climatecrusaders, description: We're a new group just getting off the ground. Excited to start organizing LA's South Bay!", 
           "type": "text"
         }, 
         "link": [
@@ -740,10 +740,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Athens, GA, USA"
         }, 
         "gsx$geom": {
-          "$t": "Los Angeles, CA, USA"
+          "$t": "Athens, GA, USA"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/d9ney"
@@ -760,20 +760,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/350-nola/"
+          "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "350 NOLA", 
+          "$t": "350 Kalamazoo", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "350 NOLA"
+          "$t": "350 Kalamazoo"
         }, 
         "content": {
-          "$t": "geom: New Orleans, LA, USA, ontheweb: http://local.350.org/350-nola/, description: We're a new group just getting off the ground. Excited to start organizing in NOLA!\n\nhttp://350nola.org", 
+          "$t": "geom: Kalamazoo, MI, US, geolocation: Kalamazoo, MI, US, description: We're a new group just getting off the ground. Excited to start organizing in NOLA!\n\nhttp://350nola.org", 
           "type": "text"
         }, 
         "link": [
@@ -784,10 +784,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Kalamazoo, MI, US"
         }, 
         "gsx$geom": {
-          "$t": "New Orleans, LA, USA"
+          "$t": "Kalamazoo, MI, US"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/db1zf"
@@ -804,20 +804,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/350-davis/"
+          "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "350 Davis", 
+          "$t": "350 Myanmar", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "350 Davis"
+          "$t": "350 Myanmar"
         }, 
         "content": {
-          "$t": "geom: Davis, CA, USA, ontheweb: http://local.350.org/350-davis/, description: We are a new group just getting off the ground. Looking forward to organizing in Davis and Yolo county!", 
+          "$t": "geom: Tiddim, Chin State, Myanmar (Burma), geolocation: Tiddim, Chin State, Myanmar (Burma), description: We are a new group just getting off the ground. Looking forward to organizing in Davis and Yolo county!", 
           "type": "text"
         }, 
         "link": [
@@ -828,10 +828,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Tiddim, Chin State, Myanmar (Burma)"
         }, 
         "gsx$geom": {
-          "$t": "Davis, CA, USA"
+          "$t": "Tiddim, Chin State, Myanmar (Burma)"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/dcgjs"
@@ -848,20 +848,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/350-ottawa/"
+          "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "350 Ottawa", 
+          "$t": "350.org Kenya", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "350 Ottawa"
+          "$t": "350.org Kenya"
         }, 
         "content": {
-          "$t": "geom: Ottawa, ON, Canada, ontheweb: http://local.350.org/350-ottawa/, description: Welcome to 350 Ottawa! \n\nIt's happening everywhere: people all over the world are coming together to launch climate campaigns, collaborate on projects, and build a clean energy future. Join us at 350 Ottawa to help build this!\n\nIf you are new to our group, please email us at ottawa350@gmail.com to find out what we are up to how you can get involved. Thanks! We look forward to hearing from you. \n", 
+          "$t": "geom: Nairobi, geolocation: Nairobi, description: Welcome to 350 Ottawa! \n\nIt's happening everywhere: people all over the world are coming together to launch climate campaigns, collaborate on projects, and build a clean energy future. Join us at 350 Ottawa to help build this!\n\nIf you are new to our group, please email us at ottawa350@gmail.com to find out what we are up to how you can get involved. Thanks! We look forward to hearing from you. \n", 
           "type": "text"
         }, 
         "link": [
@@ -872,10 +872,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Nairobi"
         }, 
         "gsx$geom": {
-          "$t": "Ottawa, ON, Canada"
+          "$t": "Nairobi"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/ddv49"
@@ -892,20 +892,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/willits-economic-localization/"
+          "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "Willits Economic Localization", 
+          "$t": "350 Pensacola", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "Willits Economic Localization"
+          "$t": "350 Pensacola"
         }, 
         "content": {
-          "$t": "geom: Willits, CA 95490, USA, ontheweb: http://local.350.org/willits-economic-localization/, description: We formed in 2005.  We have had about 80 monthly educational films.  We have hosted speakers such as John Jeavons, Richard Heinburg,  Michael Brownlee of Transition Town fame to name a few.  We have helped and invested in locally owned co-ops that meet a triple bottom line of being good for the planet, people and profit.  ", 
+          "$t": "geom: Pensacola, FL, geolocation: Pensacola, FL, description: We formed in 2005.  We have had about 80 monthly educational films.  We have hosted speakers such as John Jeavons, Richard Heinburg,  Michael Brownlee of Transition Town fame to name a few.  We have helped and invested in locally owned co-ops that meet a triple bottom line of being good for the planet, people and profit.  ", 
           "type": "text"
         }, 
         "link": [
@@ -916,10 +916,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Pensacola, FL"
         }, 
         "gsx$geom": {
-          "$t": "Willits, CA 95490, USA"
+          "$t": "Pensacola, FL"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/d415a"
@@ -936,20 +936,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/350-oklahoma/"
+          "$t": "http://toronto350.org/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "350 Oklahoma", 
+          "$t": "Toronto350", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "350 Oklahoma"
+          "$t": "Toronto350"
         }, 
         "content": {
-          "$t": "geom: Drumright, OK, USA, ontheweb: http://local.350.org/350-oklahoma/, description: Organizing an information campaign to create understanding for why the XL pipeline is NOT just another oil pipeline but a TAR SAND pipeline. This is an oilfield community and they don't seem to understand the danger.", 
+          "$t": "geom: Toronto, Canada, geolocation: Toronto, Canada, ontheweb: http://toronto350.org/, description: Organizing an information campaign to create understanding for why the XL pipeline is NOT just another oil pipeline but a TAR SAND pipeline. This is an oilfield community and they don't seem to understand the danger.", 
           "type": "text"
         }, 
         "link": [
@@ -960,10 +960,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Toronto, Canada"
         }, 
         "gsx$geom": {
-          "$t": "Drumright, OK, USA"
+          "$t": "Toronto, Canada"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/d5fpr"
@@ -980,20 +980,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/fairfax-climate-watch/"
+          "$t": "350SanAntonio.org"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "Fairfax Climate Watch", 
+          "$t": "350SanAntonio.org", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "Fairfax Climate Watch"
+          "$t": "350SanAntonio.org"
         }, 
         "content": {
-          "$t": "geom: Fairfax, VA, USA, ontheweb: http://local.350.org/fairfax-climate-watch/, description: We can stop climate change!\n\nBut this issue is simply too big for us to tackle as isolated individuals.\n\nThat's why we're planning to use regular community meetings to share information, organize, and empower.\n", 
+          "$t": "geom: San Antonio, Texas, geolocation: San Antonio, Texas, ontheweb: 350SanAntonio.org, description: We can stop climate change!\n\nBut this issue is simply too big for us to tackle as isolated individuals.\n\nThat's why we're planning to use regular community meetings to share information, organize, and empower.\n", 
           "type": "text"
         }, 
         "link": [
@@ -1004,10 +1004,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "San Antonio, Texas"
         }, 
         "gsx$geom": {
-          "$t": "Fairfax, VA, USA"
+          "$t": "San Antonio, Texas"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/d6ua4"
@@ -1024,20 +1024,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/medusa-council/"
+          "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "Medusa Council", 
+          "$t": "350Tucson", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "Medusa Council"
+          "$t": "350Tucson"
         }, 
         "content": {
-          "$t": "geom: Medusa, NY, USA, ontheweb: http://local.350.org/medusa-council/, description: Our Council is a group of community residents who came togeter to help us put life back in the village - it has slowly grown to encompass more folks from the wider region and adopt a more sustainable community mission.", 
+          "$t": "geom: Tucson, AZ, USA, geolocation: Tucson, AZ, USA, description: Our Council is a group of community residents who came togeter to help us put life back in the village - it has slowly grown to encompass more folks from the wider region and adopt a more sustainable community mission.", 
           "type": "text"
         }, 
         "link": [
@@ -1048,10 +1048,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Tucson, AZ, USA"
         }, 
         "gsx$geom": {
-          "$t": "Medusa, NY, USA"
+          "$t": "Tucson, AZ, USA"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/d88ul"
@@ -1068,20 +1068,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/georgia-climate-change-coalition/"
+          "$t": "we are in process of making our website"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "Georgia Climate Change Coalition", 
+          "$t": "350 Ottawa", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "Georgia Climate Change Coalition"
+          "$t": "350 Ottawa"
         }, 
         "content": {
-          "$t": "geom: Athens, GA, USA, ontheweb: http://local.350.org/georgia-climate-change-coalition/, description: Local fly fishers helped spur call for a broad based climate change coalition that connects Univ of Georgia. faculty, staff and students with lcommunity. civic, church and political leaders, ordinary citizens and environmentalists. We hosted a range of educational, political action and \"green\" projects and events, and plan more of the same. ", 
+          "$t": "geom: Ottawa, Ontario, Canada, geolocation: Ottawa, Ontario, Canada, ontheweb: we are in process of making our website, description: Local fly fishers helped spur call for a broad based climate change coalition that connects Univ of Georgia. faculty, staff and students with lcommunity. civic, church and political leaders, ordinary citizens and environmentalists. We hosted a range of educational, political action and \"green\" projects and events, and plan more of the same. ", 
           "type": "text"
         }, 
         "link": [
@@ -1092,10 +1092,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Ottawa, Ontario, Canada"
         }, 
         "gsx$geom": {
-          "$t": "Athens, GA, USA"
+          "$t": "Ottawa, Ontario, Canada"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/dkvya"
@@ -1112,20 +1112,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/climate-crusaders/"
+          "$t": "will get back to you."
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "Climate Crusaders", 
+          "$t": "Santa Cruz 350.org", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "Climate Crusaders"
+          "$t": "Santa Cruz 350.org"
         }, 
         "content": {
-          "$t": "geom: Athens, GA, USA, ontheweb: http://local.350.org/climate-crusaders/, description: We formed as an offshoot of the Georgia Climate Change Coalition, in order to be able to get involved in a more active way.", 
+          "$t": "geom: Santa Cruz, California, geolocation: Santa Cruz, California, ontheweb: will get back to you., description: We formed as an offshoot of the Georgia Climate Change Coalition, in order to be able to get involved in a more active way.", 
           "type": "text"
         }, 
         "link": [
@@ -1136,10 +1136,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Santa Cruz, California"
         }, 
         "gsx$geom": {
-          "$t": "Athens, GA, USA"
+          "$t": "Santa Cruz, California"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/dmair"
@@ -1156,20 +1156,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/350-colorado/"
+          "$t": "www.aa350.org"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "350 Colorado", 
+          "$t": "Monica Patel", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "350 Colorado"
+          "$t": "Monica Patel"
         }, 
         "content": {
-          "$t": "geom: Colorado, USA, ontheweb: http://local.350.org/350-colorado/, description: Group was initially 1Sky Colorado and evolved into 350 Colorado during the merger with 350.org.  It formed when the people, groups and allies began working together on 350 days of action and other events.  Those involved with 350 Colorado have collaborated for many events, actions and campaigns in the past, such as the events already mentioned as well as events/actions holding politicians accountable for their support for dirty energy and lack of support for clean energy - e.g. Moving Planet Bike Ride, delivering coal to Coffman, Blowing the Whistle on Dirty CO Congressmen, Mock BLM coal auction, 2 solidarity events No KXL pipeline marches/rallies, Protect Our Colorado work for a moratorium on fracking in CO, meetings with elected officials on the above topics, and much more.", 
+          "$t": "geom: Ann Arbor, Michigan, geolocation: Ann Arbor, Michigan, ontheweb: www.aa350.org, description: Group was initially 1Sky Colorado and evolved into 350 Colorado during the merger with 350.org.  It formed when the people, groups and allies began working together on 350 days of action and other events.  Those involved with 350 Colorado have collaborated for many events, actions and campaigns in the past, such as the events already mentioned as well as events/actions holding politicians accountable for their support for dirty energy and lack of support for clean energy - e.g. Moving Planet Bike Ride, delivering coal to Coffman, Blowing the Whistle on Dirty CO Congressmen, Mock BLM coal auction, 2 solidarity events No KXL pipeline marches/rallies, Protect Our Colorado work for a moratorium on fracking in CO, meetings with elected officials on the above topics, and much more.", 
           "type": "text"
         }, 
         "link": [
@@ -1180,10 +1180,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Ann Arbor, Michigan"
         }, 
         "gsx$geom": {
-          "$t": "Colorado, USA"
+          "$t": "Ann Arbor, Michigan"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/dnp34"
@@ -1200,20 +1200,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/350-weld-cty/"
+          "$t": "350VT.org"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "350 Weld County", 
+          "$t": "350Vermont", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "350 Weld County"
+          "$t": "350Vermont"
         }, 
         "content": {
-          "$t": "geom: Greeley, CO, USA, ontheweb: http://local.350.org/350-weld-cty/, description: We are a new group!", 
+          "$t": "geom: Burlington Vermont, geolocation: Burlington Vermont, ontheweb: 350VT.org, description: We are a new group!", 
           "type": "text"
         }, 
         "link": [
@@ -1224,10 +1224,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Burlington Vermont"
         }, 
         "gsx$geom": {
-          "$t": "Greeley, CO, USA"
+          "$t": "Burlington Vermont"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/dp3nl"
@@ -1244,20 +1244,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/forest-city-350/"
+          "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "Forest City 350", 
+          "$t": "350 Tucson", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "Forest City 350"
+          "$t": "350 Tucson"
         }, 
         "content": {
-          "$t": "geom: Rockford, IL, USA, ontheweb: http://local.350.org/forest-city-350/, description: We are a new group, but our members are an experienced crew of environmental and sustainability activists. ", 
+          "$t": "geom: Tucson, AZ, USA, geolocation: Tucson, AZ, USA, description: We are a new group, but our members are an experienced crew of environmental and sustainability activists. ", 
           "type": "text"
         }, 
         "link": [
@@ -1268,10 +1268,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Tucson, AZ, USA"
         }, 
         "gsx$geom": {
-          "$t": "Rockford, IL, USA"
+          "$t": "Tucson, AZ, USA"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/df9om"
@@ -1288,20 +1288,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://world.350.org/vermont/"
+          "$t": "https://www.facebook.com/pages/350-Kerala/104524633051294?ref=hl"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "350 Vermont", 
+          "$t": "350 kerala", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "350 Vermont"
+          "$t": "350 kerala"
         }, 
         "content": {
-          "$t": "geom: Burlington, VT, USA, ontheweb: http://world.350.org/vermont/, description: The state-wide network for 350 Activists in Vermont!", 
+          "$t": "geom: trivandrum, geolocation: trivandrum, ontheweb: https://www.facebook.com/pages/350-Kerala/104524633051294?ref=hl, description: The state-wide network for 350 Activists in Vermont!", 
           "type": "text"
         }, 
         "link": [
@@ -1312,10 +1312,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "trivandrum"
         }, 
         "gsx$geom": {
-          "$t": "Burlington, VT, USA"
+          "$t": "trivandrum"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/dgo93"
@@ -1332,20 +1332,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/350-manaus/"
+          "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "350 Manaus", 
+          "$t": "350 Burundi", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "350 Manaus"
+          "$t": "350 Burundi"
         }, 
         "content": {
-          "$t": "geom: Manaus - Amazonas, Brazil, ontheweb: http://local.350.org/350-manaus/, description: Grupo local da cidade de Manaus", 
+          "$t": "geom: Bujumbura, Burundi, geolocation: Bujumbura, Burundi, description: Grupo local da cidade de Manaus", 
           "type": "text"
         }, 
         "link": [
@@ -1356,10 +1356,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Bujumbura, Burundi"
         }, 
         "gsx$geom": {
-          "$t": "Manaus - Amazonas, Brazil"
+          "$t": "Bujumbura, Burundi"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/di2tg"
@@ -1376,20 +1376,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/350-kerala/"
+          "$t": "http://corr.peacefuluprising.org/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "350 Kerala", 
+          "$t": "PU Community of Resilience and Resistance (CORR)", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "350 Kerala"
+          "$t": "PU Community of Resilience and Resistance (CORR)"
         }, 
         "content": {
-          "$t": "geom: Thiruvananthapuram, Kerala, India, ontheweb: http://local.350.org/350-kerala/, description: We participate in global action days, and run environmental workshops with schools and colleges. Together we can change!", 
+          "$t": "geom: Salt Lake City, UT, geolocation: Salt Lake City, UT, ontheweb: http://corr.peacefuluprising.org/, description: We participate in global action days, and run environmental workshops with schools and colleges. Together we can change!", 
           "type": "text"
         }, 
         "link": [
@@ -1400,10 +1400,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Salt Lake City, UT"
         }, 
         "gsx$geom": {
-          "$t": "Thiruvananthapuram, Kerala, India"
+          "$t": "Salt Lake City, UT"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/djhdx"
@@ -1420,20 +1420,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/palestine-environmental-youth-gr/"
+          "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "Palestine Environmental Youth Group", 
+          "$t": "GPS SENEGAL", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "Palestine Environmental Youth Group"
+          "$t": "GPS SENEGAL"
         }, 
         "content": {
-          "$t": "geom: Ramallah, ontheweb: http://local.350.org/palestine-environmental-youth-gr/, description: Currently we are planning for some activities in increasing forests. Our target groups are the schools, universities, and students.", 
+          "$t": "geom: Dakar, Senegal, geolocation: Dakar, Senegal, description: Currently we are planning for some activities in increasing forests. Our target groups are the schools, universities, and students.", 
           "type": "text"
         }, 
         "link": [
@@ -1444,10 +1444,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Dakar, Senegal"
         }, 
         "gsx$geom": {
-          "$t": "Ramallah"
+          "$t": "Dakar, Senegal"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/dw4je"
@@ -1464,20 +1464,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/350-kenya/"
+          "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "350 Kenya", 
+          "$t": "Kamloops 350", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "350 Kenya"
+          "$t": "Kamloops 350"
         }, 
         "content": {
-          "$t": "geom: Nairobi, Kenya, ontheweb: http://local.350.org/350-kenya/, description: The group is comprised of  350  event organizers which comprise of individuals and organizations. We are committed to building a stronger movement in Kenya.", 
+          "$t": "geom: Kamloops, BC Canada, geolocation: Kamloops, BC Canada, description: The group is comprised of  350  event organizers which comprise of individuals and organizations. We are committed to building a stronger movement in Kenya.", 
           "type": "text"
         }, 
         "link": [
@@ -1488,10 +1488,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Kamloops, BC Canada"
         }, 
         "gsx$geom": {
-          "$t": "Nairobi, Kenya"
+          "$t": "Kamloops, BC Canada"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/dxj3v"
@@ -1508,20 +1508,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/gabon/"
+          "$t": "350Seattle.org"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "350 Gabon", 
+          "$t": "350 Seattle", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "350 Gabon"
+          "$t": "350 Seattle"
         }, 
         "content": {
-          "$t": "geom: Libreville, Gabon, ontheweb: http://local.350.org/gabon/, description: We function with a steering group. To participate in the largest global climate movement and bring the voice of Africa, of  Gabon to solve the climatic crisis.", 
+          "$t": "geom: Seattle, WA, geolocation: Seattle, WA, ontheweb: 350Seattle.org, description: We function with a steering group. To participate in the largest global climate movement and bring the voice of Africa, of  Gabon to solve the climatic crisis.", 
           "type": "text"
         }, 
         "link": [
@@ -1532,10 +1532,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Seattle, WA"
         }, 
         "gsx$geom": {
-          "$t": "Libreville, Gabon"
+          "$t": "Seattle, WA"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/dyxo8"
@@ -1552,20 +1552,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/jeunes-volontaires-de-grands-lac/"
+          "$t": "https://www.facebook.com/350salvador"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "Jeunes Volontaires de grands Lacs pour l'Environnement", 
+          "$t": "350 Salvador", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "Jeunes Volontaires de grands Lacs pour l'Environnement"
+          "$t": "350 Salvador"
         }, 
         "content": {
-          "$t": "geom: Bukavu, Democratic Republic of the Congo, ontheweb: http://local.350.org/jeunes-volontaires-de-grands-lac/, description: Nous sommes une organisation de la jeunesse , commis pour la formation et la sensibilisation des jeunes \u00c3\u00a0 la gestion durable de l'environnement et cela par la protection et la pr\u00c3\u00a9servtion de l'environnement.  ", 
+          "$t": "geom: Salvador, Bahia, Brasil, geolocation: Salvador, Bahia, Brasil, ontheweb: https://www.facebook.com/350salvador, description: Nous sommes une organisation de la jeunesse , commis pour la formation et la sensibilisation des jeunes \u00c3\u00a0 la gestion durable de l'environnement et cela par la protection et la pr\u00c3\u00a9servtion de l'environnement.  ", 
           "type": "text"
         }, 
         "link": [
@@ -1576,10 +1576,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Salvador, Bahia, Brasil"
         }, 
         "gsx$geom": {
-          "$t": "Bukavu, Democratic Republic of the Congo"
+          "$t": "Salvador, Bahia, Brasil"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/e0c8p"
@@ -1596,20 +1596,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/350-santa-barbara/"
+          "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "350 Santa Barbara", 
+          "$t": "350 Missoula", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "350 Santa Barbara"
+          "$t": "350 Missoula"
         }, 
         "content": {
-          "$t": "geom: Santa Barbara, CA, USA, ontheweb: http://local.350.org/350-santa-barbara/, description: \nWe don't use this website very much. Contact at 350santabarbara@gmail.com\n\nOur website is 350sb.org\nOur facebook is facebook.com/350sb", 
+          "$t": "geom: Missoula, Montana, USA, geolocation: Missoula, Montana, USA, description: \nWe don't use this website very much. Contact at 350santabarbara@gmail.com\n\nOur website is 350sb.org\nOur facebook is facebook.com/350sb", 
           "type": "text"
         }, 
         "link": [
@@ -1620,10 +1620,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Missoula, Montana, USA"
         }, 
         "gsx$geom": {
-          "$t": "Santa Barbara, CA, USA"
+          "$t": "Missoula, Montana, USA"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/dqi9q"
@@ -1640,20 +1640,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/350-el-paso/"
+          "$t": "www.facebook.com/350Egypt"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "350 El Paso", 
+          "$t": "350 Egypt", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "350 El Paso"
+          "$t": "350 Egypt"
         }, 
         "content": {
-          "$t": "geom: El Paso, TX, USA, ontheweb: http://local.350.org/350-el-paso/, description: Leading meetings once a month for the local residents and artists in El Paso to discuss local environmental issues.", 
+          "$t": "geom: Egypt, geolocation: Egypt, ontheweb: www.facebook.com/350Egypt, description: Leading meetings once a month for the local residents and artists in El Paso to discuss local environmental issues.", 
           "type": "text"
         }, 
         "link": [
@@ -1664,10 +1664,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Egypt"
         }, 
         "gsx$geom": {
-          "$t": "El Paso, TX, USA"
+          "$t": "Egypt"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/drwu7"
@@ -1684,20 +1684,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/350-asheville/"
+          "$t": "www.hococlimatechange.org"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "350 Asheville", 
+          "$t": "Climate Change Initiative of Howard County - CCIHC", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "350 Asheville"
+          "$t": "Climate Change Initiative of Howard County - CCIHC"
         }, 
         "content": {
-          "$t": "geom: Asheville, NC, USA, ontheweb: http://local.350.org/350-asheville/, description: We meet weekly and work to become a central place for all the local and statewide environmental groups to coalesce around actions and events, as well as reach out to them to support the larger issue of climate change. Currently we're working on the logistics of getting people to Washington on Feb 17 and working with Sierra Club Beyond Coal, NC Warn, WNC Alliance, Safe Carolinas, Dogwood Alliance and others on a number of issues around Duke Energy; shutting down the local coal plant, protesting their latest proposed IRP, etc. Also trying to support students at UNCA and Warren Wilson  interested in the divestiture movement.", 
+          "$t": "geom: Columbia MD, USA, geolocation: Columbia MD, USA, ontheweb: www.hococlimatechange.org, description: We meet weekly and work to become a central place for all the local and statewide environmental groups to coalesce around actions and events, as well as reach out to them to support the larger issue of climate change. Currently we're working on the logistics of getting people to Washington on Feb 17 and working with Sierra Club Beyond Coal, NC Warn, WNC Alliance, Safe Carolinas, Dogwood Alliance and others on a number of issues around Duke Energy; shutting down the local coal plant, protesting their latest proposed IRP, etc. Also trying to support students at UNCA and Warren Wilson  interested in the divestiture movement.", 
           "type": "text"
         }, 
         "link": [
@@ -1708,10 +1708,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Columbia MD, USA"
         }, 
         "gsx$geom": {
-          "$t": "Asheville, NC, USA"
+          "$t": "Columbia MD, USA"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/dtbek"
@@ -1728,20 +1728,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/350-phoenix/"
+          "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "350 Phoenix", 
+          "$t": "South Jersey 350.org", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "350 Phoenix"
+          "$t": "South Jersey 350.org"
         }, 
         "content": {
-          "$t": "geom: Phoenix, AZ, USA, ontheweb: http://local.350.org/350-phoenix/, description: Phoenix is a prime location for addressing climate issues given the abundance of sun and wind energy and the challenges of living in an extreme environment - with finite water resources and high summer temperatures - that will only get more extreme as the planet warms.", 
+          "$t": "geom: Galloway Twp. NJ USA, geolocation: Galloway Twp. NJ USA, description: Phoenix is a prime location for addressing climate issues given the abundance of sun and wind energy and the challenges of living in an extreme environment - with finite water resources and high summer temperatures - that will only get more extreme as the planet warms.", 
           "type": "text"
         }, 
         "link": [
@@ -1752,10 +1752,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Galloway Twp. NJ USA"
         }, 
         "gsx$geom": {
-          "$t": "Phoenix, AZ, USA"
+          "$t": "Galloway Twp. NJ USA"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/dupz1"
@@ -1772,20 +1772,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/milwaukee-350/"
+          "$t": "www.facebook.com/chicago350.org"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "Milwaukee 350", 
+          "$t": "Chicago 350", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "Milwaukee 350"
+          "$t": "Chicago 350"
         }, 
         "content": {
-          "$t": "geom: Milwaukee, WI, USA, ontheweb: http://local.350.org/milwaukee-350/, description: We recently formed to support organizing around the Forward on Climate rally in Washington DC. We are also working on targeting local organizations to divest from fossil fuels.", 
+          "$t": "geom: Chicago, geolocation: Chicago, ontheweb: www.facebook.com/chicago350.org, description: We recently formed to support organizing around the Forward on Climate rally in Washington DC. We are also working on targeting local organizations to divest from fossil fuels.", 
           "type": "text"
         }, 
         "link": [
@@ -1796,10 +1796,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Chicago"
         }, 
         "gsx$geom": {
-          "$t": "Milwaukee, WI, USA"
+          "$t": "Chicago"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/e7d2q"
@@ -1816,20 +1816,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/350-santa-cruz/"
+          "$t": "http://350corvallis.org/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "350 Santa Cruz", 
+          "$t": "350 Corvallis", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "350 Santa Cruz"
+          "$t": "350 Corvallis"
         }, 
         "content": {
-          "$t": "geom: Santa Cruz, CA, USA, ontheweb: http://local.350.org/350-santa-cruz/, description: We are a new group focusing on outreach and national campaigns.", 
+          "$t": "geom: Corvallis, OR, USA, geolocation: Corvallis, OR, USA, ontheweb: http://350corvallis.org/, description: We are a new group focusing on outreach and national campaigns.", 
           "type": "text"
         }, 
         "link": [
@@ -1840,10 +1840,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Corvallis, OR, USA"
         }, 
         "gsx$geom": {
-          "$t": "Santa Cruz, CA, USA"
+          "$t": "Corvallis, OR, USA"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/e8rn7"
@@ -1860,20 +1860,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/350-denver/"
+          "$t": "http://www.350maine.org/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "350 Denver", 
+          "$t": "350 Maine", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "350 Denver"
+          "$t": "350 Maine"
         }, 
         "content": {
-          "$t": "geom: Denver, CO, USA, ontheweb: http://local.350.org/350-denver/, description: We have been working on the Divestment campaign and coordinating with the universities and colleges and also working with public unions.    We are also exploring actions around the Colordao Oil and Gas Association and the Colorado Oil and Gas Commission. We are also exploring actions around the coal trains that travel thru Denver every day.", 
+          "$t": "geom: Maine, USA, geolocation: Maine, USA, ontheweb: http://www.350maine.org/, description: We have been working on the Divestment campaign and coordinating with the universities and colleges and also working with public unions.    We are also exploring actions around the Colordao Oil and Gas Association and the Colorado Oil and Gas Commission. We are also exploring actions around the coal trains that travel thru Denver every day.", 
           "type": "text"
         }, 
         "link": [
@@ -1884,10 +1884,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Maine, USA"
         }, 
         "gsx$geom": {
-          "$t": "Denver, CO, USA"
+          "$t": "Maine, USA"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/ea67k"
@@ -1904,20 +1904,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/350-cheyenne/"
+          "$t": "facebook.com/350jerseyshore"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "350 Cheyenne", 
+          "$t": "350 Jersey Shore", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "350 Cheyenne"
+          "$t": "350 Jersey Shore"
         }, 
         "content": {
-          "$t": "geom: Cheyenne, WY, USA, ontheweb: http://local.350.org/350-cheyenne/, description: This group's objective is to create awareness of climate change in the Cheyenne area and beyond.", 
+          "$t": "geom: Belmar, NJ, geolocation: Belmar, NJ, ontheweb: facebook.com/350jerseyshore, description: This group's objective is to create awareness of climate change in the Cheyenne area and beyond.", 
           "type": "text"
         }, 
         "link": [
@@ -1928,10 +1928,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Belmar, NJ"
         }, 
         "gsx$geom": {
-          "$t": "Cheyenne, WY, USA"
+          "$t": "Belmar, NJ"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/ebks1"
@@ -1948,20 +1948,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/350-silicon-valley/"
+          "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "350 Silicon Valley", 
+          "$t": "350 Louisville", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "350 Silicon Valley"
+          "$t": "350 Louisville"
         }, 
         "content": {
-          "$t": "geom: San Jose, CA, USA, ontheweb: http://local.350.org/350-silicon-valley/, description: We've Done the Math!  Join the 350 Silicon Valley Group and become part of the urgent mission of 350.org to fight Climate Change and transition to 21st century energy sources.  We are taking action to demand policies to address climate change as well as working to lower our carbon footprint here locally.  Join our group through the option below and we will be in touch with more information!  Here are our current project efforts:\n\nKeystone Pipeline:  Our goal is to block the Keystone XL pipeline project and prevent the of tar sands production.\n\nDivestment:  Our goal is to influence nearby cities, religious organizations, college campuses and retirement funds to divest from fossil fuel companies.\n\nCarbon Tax/End Carbon Subsidies:  Our goal is to work to support a national carbon tax or cap and trade policy that will address climate change by putting the cost of CO2 emissions into the price of fossil fuels.  We are also working to support an end to the current subsidies paid to the fossil fuel industry.\n\nOutreach and Local Action:  Our goal is to educate and raise awareness on Climate Change as well as take local action to lower our carbon footprints from personal actions to community actions.\n\nJoin us at our upcoming Forward on Climate Rally in SF, Sunday February 17th, 1-3pm in San Francisco, One Market Plaza, 1 Market Street!  RSVP at http://www.350bayarea.org/forward_on_climate_bay_area_rally", 
+          "$t": "geom: Louisville KY, geolocation: Louisville KY, description: We've Done the Math!  Join the 350 Silicon Valley Group and become part of the urgent mission of 350.org to fight Climate Change and transition to 21st century energy sources.  We are taking action to demand policies to address climate change as well as working to lower our carbon footprint here locally.  Join our group through the option below and we will be in touch with more information!  Here are our current project efforts:\n\nKeystone Pipeline:  Our goal is to block the Keystone XL pipeline project and prevent the of tar sands production.\n\nDivestment:  Our goal is to influence nearby cities, religious organizations, college campuses and retirement funds to divest from fossil fuel companies.\n\nCarbon Tax/End Carbon Subsidies:  Our goal is to work to support a national carbon tax or cap and trade policy that will address climate change by putting the cost of CO2 emissions into the price of fossil fuels.  We are also working to support an end to the current subsidies paid to the fossil fuel industry.\n\nOutreach and Local Action:  Our goal is to educate and raise awareness on Climate Change as well as take local action to lower our carbon footprints from personal actions to community actions.\n\nJoin us at our upcoming Forward on Climate Rally in SF, Sunday February 17th, 1-3pm in San Francisco, One Market Plaza, 1 Market Street!  RSVP at http://www.350bayarea.org/forward_on_climate_bay_area_rally", 
           "type": "text"
         }, 
         "link": [
@@ -1972,10 +1972,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Louisville KY"
         }, 
         "gsx$geom": {
-          "$t": "San Jose, CA, USA"
+          "$t": "Louisville KY"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/e1qt2"
@@ -1992,20 +1992,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/sustainable-chenango-county/"
+          "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "Sustainable Chenango County", 
+          "$t": "Fairfax 350", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "Sustainable Chenango County"
+          "$t": "Fairfax 350"
         }, 
         "content": {
-          "$t": "geom: Chenango, NY, USA, ontheweb: http://local.350.org/sustainable-chenango-county/, description: We have been involved in several local renewable energy information sessions and anti-fracking events, hosted speakers, attended local town planning meetings, and participated in renewable energy promotion.", 
+          "$t": "geom: Fairfax, Virginia, geolocation: Fairfax, Virginia, description: We have been involved in several local renewable energy information sessions and anti-fracking events, hosted speakers, attended local town planning meetings, and participated in renewable energy promotion.", 
           "type": "text"
         }, 
         "link": [
@@ -2016,10 +2016,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Fairfax, Virginia"
         }, 
         "gsx$geom": {
-          "$t": "Chenango, NY, USA"
+          "$t": "Fairfax, Virginia"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/e35dj"
@@ -2036,20 +2036,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/350-ste-anne-de-bellevue/"
+          "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "350 Ste-Anne-de-Bellevue", 
+          "$t": "350 Loudoun", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "350 Ste-Anne-de-Bellevue"
+          "$t": "350 Loudoun"
         }, 
         "content": {
-          "$t": "geom: Sainte-Anne-de-Bellevue, QC, Canada, ontheweb: http://local.350.org/350-ste-anne-de-bellevue/, description: Film screenings, garden ceremonies, nature conservation advocacy. ", 
+          "$t": "geom: Leesburg, Virginia/United States, geolocation: Leesburg, Virginia, United States, description: Film screenings, garden ceremonies, nature conservation advocacy. ", 
           "type": "text"
         }, 
         "link": [
@@ -2060,10 +2060,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Leesburg, Virginia, United States"
         }, 
         "gsx$geom": {
-          "$t": "Sainte-Anne-de-Bellevue, QC, Canada"
+          "$t": "Leesburg, Virginia/United States"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/e4jxw"
@@ -2080,20 +2080,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/ubcc350/"
+          "$t": "www.350siliconvalley.org"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "UBCC350", 
+          "$t": "350 Silicon Valley", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "UBCC350"
+          "$t": "350 Silicon Valley"
         }, 
         "content": {
-          "$t": "geom: Vancouver, BC, Canada, ontheweb: http://local.350.org/ubcc350/, description: We got organized in November 2011 after Bill McKibben's inspiring visit to campus. Our core focus is political action to inspire BC politicians to take actions to reduce carbon exports from the province - tar sands pipelines, coal, and LNG.", 
+          "$t": "geom: Palo Alto, CA, USA, geolocation: Palo Alto, CA, USA, ontheweb: www.350siliconvalley.org, description: We got organized in November 2011 after Bill McKibben's inspiring visit to campus. Our core focus is political action to inspire BC politicians to take actions to reduce carbon exports from the province - tar sands pipelines, coal, and LNG.", 
           "type": "text"
         }, 
         "link": [
@@ -2104,10 +2104,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Palo Alto, CA, USA"
         }, 
         "gsx$geom": {
-          "$t": "Vancouver, BC, Canada"
+          "$t": "Palo Alto, CA, USA"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/e5yid"
@@ -2124,20 +2124,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/350-central-virginia/"
+          "$t": "http://350nyc.org/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "350 Central Virginia", 
+          "$t": "350NYC", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "350 Central Virginia"
+          "$t": "350NYC"
         }, 
         "content": {
-          "$t": "geom: Virginia, USA, ontheweb: http://local.350.org/350-central-virginia/, description: Virginia is ripe with dirty energy, and we're ready to take on the perpetrators head on! \n\nJoin us as we work on projects in three distinct areas of focus - Energy Policy & Politics; Transit & Transportation; and Home Energy Efficiency. Our chapter is committed to keeping the \"act\" in activist, and we will be undertaking at least one piece of activism per month!\n\nWe can also be found at http://www.350centralvirginia.org", 
+          "$t": "geom: New York, NY, geolocation: New York, NY, ontheweb: http://350nyc.org/, description: Virginia is ripe with dirty energy, and we're ready to take on the perpetrators head on! \n\nJoin us as we work on projects in three distinct areas of focus - Energy Policy & Politics; Transit & Transportation; and Home Energy Efficiency. Our chapter is committed to keeping the \"act\" in activist, and we will be undertaking at least one piece of activism per month!\n\nWe can also be found at http://www.350centralvirginia.org", 
           "type": "text"
         }, 
         "link": [
@@ -2148,10 +2148,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "New York, NY"
         }, 
         "gsx$geom": {
-          "$t": "Virginia, USA"
+          "$t": "New York, NY"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/eilm2"
@@ -2168,20 +2168,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/350-st-louis/"
+          "$t": "http://world.350.org/nh/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "350 St Louis", 
+          "$t": "350NH", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "350 St Louis"
+          "$t": "350NH"
         }, 
         "content": {
-          "$t": "geom: St. Louis, MO, USA, ontheweb: http://local.350.org/350-st-louis/, description: St Louisans want to and can do more to stop climate change. Here in Missouri, we care about our land, our water, our future, and our kids.", 
+          "$t": "geom: New Hampshire, geolocation: New Hampshire, ontheweb: http://world.350.org/nh/, description: St Louisans want to and can do more to stop climate change. Here in Missouri, we care about our land, our water, our future, and our kids.", 
           "type": "text"
         }, 
         "link": [
@@ -2192,10 +2192,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "New Hampshire"
         }, 
         "gsx$geom": {
-          "$t": "St. Louis, MO, USA"
+          "$t": "New Hampshire"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/ek06j"
@@ -2212,20 +2212,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/350-nashville/"
+          "$t": "350BayArea.org"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "350 Nashville", 
+          "$t": "350BayArea", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "350 Nashville"
+          "$t": "350BayArea"
         }, 
         "content": {
-          "$t": "geom: Nashville, TN, USA, ontheweb: http://local.350.org/350-nashville/, description: Working with students and other community groups on days of action and environmental education.", 
+          "$t": "geom: San Francisco bay area, CA, geolocation: San Francisco bay area, CA, ontheweb: 350BayArea.org, description: Working with students and other community groups on days of action and environmental education.", 
           "type": "text"
         }, 
         "link": [
@@ -2236,10 +2236,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "San Francisco bay area, CA"
         }, 
         "gsx$geom": {
-          "$t": "Nashville, TN, USA"
+          "$t": "San Francisco bay area, CA"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/eleqw"
@@ -2256,20 +2256,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/350-river-vale/"
+          "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "350 River Vale", 
+          "$t": "350 Madison", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "350 River Vale"
+          "$t": "350 Madison"
         }, 
         "content": {
-          "$t": "geom: River Vale, NJ, USA, ontheweb: http://local.350.org/350-river-vale/, description: Building the climate movement in northern New Jersey.", 
+          "$t": "geom: Madison, WI, USA, geolocation: Madison, WI, USA, description: Building the climate movement in northern New Jersey.", 
           "type": "text"
         }, 
         "link": [
@@ -2280,10 +2280,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Madison, WI, USA"
         }, 
         "gsx$geom": {
-          "$t": "River Vale, NJ, USA"
+          "$t": "Madison, WI, USA"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/emtbd"
@@ -2300,20 +2300,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/350-bridgeport/"
+          "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "350 Bridgeport", 
+          "$t": "350sonomacounty", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "350 Bridgeport"
+          "$t": "350sonomacounty"
         }, 
         "content": {
-          "$t": "geom: Bridgeport, CT, USA, ontheweb: http://local.350.org/350-bridgeport/, description: Working on clean energy & closing local coal plants.", 
+          "$t": "geom: Sebastopol, Sonoma County, California, geolocation: Sebastopol, Sonoma County, California, description: Working on clean energy & closing local coal plants.", 
           "type": "text"
         }, 
         "link": [
@@ -2324,10 +2324,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Sebastopol, Sonoma County, California"
         }, 
         "gsx$geom": {
-          "$t": "Bridgeport, CT, USA"
+          "$t": "Sebastopol, Sonoma County, California"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/eczce"
@@ -2344,20 +2344,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/350-winston-salem/"
+          "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "350 Winston Salem", 
+          "$t": "350.org Malaysia or #PowerShiftMsia", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "350 Winston Salem"
+          "$t": "350.org Malaysia or #PowerShiftMsia"
         }, 
         "content": {
-          "$t": "geom: Winston-Salem, NC, USA, ontheweb: http://local.350.org/350-winston-salem/, description: We are a new group forming to work on environmental and other local issues.", 
+          "$t": "geom: Kuala Lumpur, Malaysia, geolocation: Kuala Lumpur, Malaysia, description: We are a new group forming to work on environmental and other local issues.", 
           "type": "text"
         }, 
         "link": [
@@ -2368,10 +2368,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Kuala Lumpur, Malaysia"
         }, 
         "gsx$geom": {
-          "$t": "Winston-Salem, NC, USA"
+          "$t": "Kuala Lumpur, Malaysia"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/eedwv"
@@ -2388,20 +2388,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/climate-change-initiative-howardcty/"
+          "$t": "www.350ma.org"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "Climate Change Initiative of Howard County", 
+          "$t": "350 Massachusetts", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "Climate Change Initiative of Howard County"
+          "$t": "350 Massachusetts"
         }, 
         "content": {
-          "$t": "geom: Howard, MD, USA, ontheweb: http://local.350.org/climate-change-initiative-howardcty/, description: CCIHC is an all volunteer group of Howard County citizens who are working to reduce Howard County's carbon footprint.", 
+          "$t": "geom: Boston, Cambridge, Lowell, North Shore, Pioneer Valley, South Shore, Worcester (all in MA), geolocation: Boston, MA, ontheweb: www.350ma.org, description: CCIHC is an all volunteer group of Howard County citizens who are working to reduce Howard County's carbon footprint.", 
           "type": "text"
         }, 
         "link": [
@@ -2412,10 +2412,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Boston, MA"
         }, 
         "gsx$geom": {
-          "$t": "Howard, MD, USA"
+          "$t": "Boston, Cambridge, Lowell, North Shore, Pioneer Valley, South Shore, Worcester (all in MA)"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/efsh8"
@@ -2432,20 +2432,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/350-corvallis/"
+          "$t": "www.georgiaclimatecoalition.org"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "350 Corvallis", 
+          "$t": "Georgia Climate Change Coalition", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "350 Corvallis"
+          "$t": "Georgia Climate Change Coalition"
         }, 
         "content": {
-          "$t": "geom: Corvallis, OR, USA, ontheweb: http://local.350.org/350-corvallis/, description: Our group came together in December of 2012.  Since then we have been having bi-monthly meetings and are working towards a variety of goals.  We are beginning a divestment campaign and working on educational events such as film viewings and panel discussions.  We are also interested in the work being done by the Citizens Climate Lobby.  Stopping the coal trains that are scheduled to come through Albany and other Oregon towns is another project and we are working with other local groups on this issue. \n\nWe are currently having meetings on the 2nd and 4th Thursdays from 6:30-8pm at 101 NW 23rd St  Corvallis\n\nPlease visit our website for up to date meeting info and events\nhttp://www.350corvallis.org", 
+          "$t": "geom: Athens, Georgia, geolocation: Athens, Georgia, ontheweb: www.georgiaclimatecoalition.org, description: Our group came together in December of 2012.  Since then we have been having bi-monthly meetings and are working towards a variety of goals.  We are beginning a divestment campaign and working on educational events such as film viewings and panel discussions.  We are also interested in the work being done by the Citizens Climate Lobby.  Stopping the coal trains that are scheduled to come through Albany and other Oregon towns is another project and we are working with other local groups on this issue. \n\nWe are currently having meetings on the 2nd and 4th Thursdays from 6:30-8pm at 101 NW 23rd St  Corvallis\n\nPlease visit our website for up to date meeting info and events\nhttp://www.350corvallis.org", 
           "type": "text"
         }, 
         "link": [
@@ -2456,10 +2456,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Athens, Georgia"
         }, 
         "gsx$geom": {
-          "$t": "Corvallis, OR, USA"
+          "$t": "Athens, Georgia"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/eh71p"
@@ -2476,20 +2476,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$ontheweb": {
-          "$t": "http://local.350.org/south-jersey-350/"
+          "$t": "http://350pdx.org"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
-          "$t": "South Jersey 350.org", 
+          "$t": "350 PDX", 
           "type": "text"
         }, 
         "gsx$name": {
-          "$t": "South Jersey 350.org"
+          "$t": "350 PDX"
         }, 
         "content": {
-          "$t": "geom: Atlantic, NJ, USA, ontheweb: http://local.350.org/south-jersey-350/, description: South Jersey 350 is proud to be part of this Global movement to save humanity and our fellow creatures from Global Climate catastrophe.  We plan on doing 350.org type actions & educational projects.", 
+          "$t": "geom: Portland, OR  (larger Portland-metro area), geolocation: Portland, OR, ontheweb: http://350pdx.org, description: South Jersey 350 is proud to be part of this Global movement to save humanity and our fellow creatures from Global Climate catastrophe.  We plan on doing 350.org type actions & educational projects.", 
           "type": "text"
         }, 
         "link": [
@@ -2500,10 +2500,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Portland, OR"
         }, 
         "gsx$geom": {
-          "$t": "Atlantic, NJ, USA"
+          "$t": "Portland, OR  (larger Portland-metro area)"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/etu5e"
@@ -2523,7 +2523,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/berks-lehigh-valley/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "Berks & Lehigh Valley Climate Action", 
@@ -2567,7 +2567,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-jogja/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Jogja", 
@@ -2611,7 +2611,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-managua/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Managua", 
@@ -2655,7 +2655,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-j-k/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 J & K", 
@@ -2699,7 +2699,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-kirican/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 KiriCAN", 
@@ -2743,7 +2743,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/green-bell/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "Green Bell", 
@@ -2787,7 +2787,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-afghanistan/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Afghanistan", 
@@ -2831,7 +2831,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350salvador/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Salvador", 
@@ -2875,7 +2875,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/eco-qualican-grove-555/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "Eco-Qualican Grove 555", 
@@ -2919,7 +2919,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-long-island-test/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Long Island test", 
@@ -2963,7 +2963,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-sinaloa/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Sinaloa", 
@@ -3007,7 +3007,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-bymc/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350-BYMC", 
@@ -3051,7 +3051,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-bangalore/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Bangalore", 
@@ -3095,7 +3095,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-hamro-panauti/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350-Hamro Panauti", 
@@ -3139,7 +3139,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-toronto/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Toronto", 
@@ -3183,7 +3183,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-ukraine/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Ukraine", 
@@ -3227,7 +3227,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-boone/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Boone", 
@@ -3271,7 +3271,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-centrafrique/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Centrafrique", 
@@ -3315,7 +3315,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-tehran/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Tehran", 
@@ -3359,7 +3359,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/am-samoa-350/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "Am Samoa 350", 
@@ -3403,7 +3403,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/pasadenafoothills-environmental-/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "Pasadena/Foothills Environmental Coalition", 
@@ -3447,7 +3447,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-louisville-co/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Louisville CO", 
@@ -3491,7 +3491,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-dallas/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Dallas", 
@@ -3535,7 +3535,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-wiserlocal-delhi/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350-WiserLocal Delhi", 
@@ -3579,7 +3579,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-auckland/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Auckland", 
@@ -3623,7 +3623,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350iraq/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Iraq", 
@@ -3667,7 +3667,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-rotorua/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Rotorua", 
@@ -3711,7 +3711,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-northern-beaches/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Northern Beaches", 
@@ -3755,7 +3755,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-cairo/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Cairo", 
@@ -3799,7 +3799,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-corail-vivant/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Corail Vivant", 
@@ -3843,7 +3843,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/phillips-exeter-350-chapter/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "Phillips Exeter 350 Chapter", 
@@ -3887,7 +3887,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-olympic-peninsula/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Olympic Peninsula", 
@@ -3931,7 +3931,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-sacramento/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Sacramento", 
@@ -3975,7 +3975,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://350ma.org/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Massachusetts", 
@@ -4019,7 +4019,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-tucson/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Tucson", 
@@ -4063,7 +4063,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-washington-state/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Washington State", 
@@ -4107,7 +4107,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/austex-350/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "AusTex 350", 
@@ -4151,7 +4151,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-georgia/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Georgia", 
@@ -4195,7 +4195,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-philly/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Philly", 
@@ -4239,7 +4239,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/lilongwe-youth-organization/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "Lilongwe Youth Organization", 
@@ -4283,7 +4283,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-charlotte/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Charlotte", 
@@ -4327,7 +4327,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-uae/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 UAE", 
@@ -4371,7 +4371,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-maine/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Maine", 
@@ -4415,7 +4415,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/abq/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Albuquerque", 
@@ -4459,7 +4459,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/national-youth-network-climate-c/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "National Youth Network on Climate Change (Malawi)", 
@@ -4503,7 +4503,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-cincinnati/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Cincinnati", 
@@ -4547,7 +4547,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/hamilton-350/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "Hamilton 350", 
@@ -4591,7 +4591,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-oman/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Oman", 
@@ -4635,7 +4635,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-littleton/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Littleton", 
@@ -4679,7 +4679,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-nj/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 NJ", 
@@ -4723,7 +4723,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/moving-planet-alexandria/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "Moving Planet Alexandria", 
@@ -4767,7 +4767,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/earth-charter-youth-zambia/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "Earth Charter Youth Group/Amsha Africa Foundation", 
@@ -4811,7 +4811,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-pensacola/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Pensacola", 
@@ -4855,7 +4855,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350org-nebraska/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350.org Nebraska", 
@@ -4899,7 +4899,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/kamloops-350/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "Kamloops 350", 
@@ -4943,7 +4943,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350ct/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Connecticut", 
@@ -4987,7 +4987,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-gold-rock/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Gold Rock", 
@@ -5031,7 +5031,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350vermont/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350Vermont", 
@@ -5075,7 +5075,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/imatter-4-utah-at-350ppm/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "iMatter and CORR for Utah solutions to 350ppm", 
@@ -5119,7 +5119,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-bay-area/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Bay Area", 
@@ -5163,7 +5163,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-madison/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Madison", 
@@ -5207,7 +5207,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350dominicana/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350Dominicana", 
@@ -5251,7 +5251,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/tar-sands-action-seattle/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "Tar Sands Action Seattle", 
@@ -5295,7 +5295,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/mn350/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "MN350", 
@@ -5339,7 +5339,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-long-island/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Long Island", 
@@ -5383,7 +5383,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-columbus/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Columbus", 
@@ -5427,7 +5427,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-ann-arbor/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "Ann Arbor 350", 
@@ -5471,7 +5471,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-myanmar/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Myanmar", 
@@ -5515,7 +5515,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-south-korea/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 South Korea", 
@@ -5559,7 +5559,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-vietnam/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Vietnam", 
@@ -5603,7 +5603,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-kuala-lumpur/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Kuala Lumpur", 
@@ -5647,7 +5647,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350org-nueva-ecija/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350.org Nueva Ecija", 
@@ -5691,7 +5691,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-san-diego/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 San Diego", 
@@ -5735,7 +5735,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-nyc/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350NYC", 
@@ -5779,7 +5779,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-tunisia/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Tunisia", 
@@ -5823,7 +5823,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-cote-divoire/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 C\u00c3\u00b4te d'ivoire", 
@@ -5867,7 +5867,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-senegal/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Senegal", 
@@ -5911,7 +5911,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-burundi/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Burundi", 
@@ -5955,7 +5955,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-ankara/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Ankara", 
@@ -5999,7 +5999,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-indonesia/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Indonesia", 
@@ -6043,7 +6043,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-aotearoa/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Aotearoa", 
@@ -6087,7 +6087,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-east-asia/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 East Asia", 
@@ -6131,7 +6131,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-egypt/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Egypt", 
@@ -6175,7 +6175,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://local.350.org/350-boulder/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:13:14.611Z"
+          "$t": "2013-12-02T03:16:10.454Z"
         }, 
         "title": {
           "$t": "350 Boulder", 
