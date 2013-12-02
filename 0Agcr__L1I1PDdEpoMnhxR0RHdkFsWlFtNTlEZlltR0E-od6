@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2013-12-02T03:48:37.966Z"
+      "$t": "2013-12-02T03:49:55.138Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -59,7 +59,7 @@ Tabletop.singleton.loadSheet({
           "$t": "350SanAntonio.org"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350 San Antonio", 
@@ -103,7 +103,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://350Corvallis.org"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350Corvallis", 
@@ -147,7 +147,7 @@ Tabletop.singleton.loadSheet({
           "$t": "www.350sb.org"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350 Santa Barbara", 
@@ -191,7 +191,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://350centralvirginia.org/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350 Central Virginia", 
@@ -235,7 +235,7 @@ Tabletop.singleton.loadSheet({
           "$t": "www.sandiego350.org"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "SanDiego350.org", 
@@ -279,7 +279,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350 C\u00c3\u00b4te d'Ivoire", 
@@ -323,7 +323,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://www.350sacramento.org"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350 Sacramento", 
@@ -367,7 +367,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350 Philly", 
@@ -411,7 +411,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "North Country 350 Alliance", 
@@ -455,7 +455,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://350nola.org"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350 NOLA", 
@@ -499,7 +499,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350 Finland", 
@@ -543,7 +543,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350.org Missouri", 
@@ -587,7 +587,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350 Asheville", 
@@ -631,7 +631,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350 Tucson", 
@@ -675,7 +675,7 @@ Tabletop.singleton.loadSheet({
           "$t": "https://www.facebook.com/pages/350-Kerala/104524633051294"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350 Kerala", 
@@ -719,7 +719,7 @@ Tabletop.singleton.loadSheet({
           "$t": "www.facebook.com/climatecrusaders"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "Climate Crusaders", 
@@ -729,7 +729,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Climate Crusaders"
         }, 
         "content": {
-          "$t": "geom: Athens, GA, USA, geolocation: Athens, GA, USA, ontheweb: www.facebook.com/climatecrusaders", 
+          "$t": "geom: Athens, GA, USA, geolocation: Athens, GA, USA, ontheweb: www.facebook.com/climatecrusaders, description: We formed as an offshoot of the Georgia Climate Change Coalition, in order to be able to get involved in a more active way.", 
           "type": "text"
         }, 
         "link": [
@@ -749,7 +749,7 @@ Tabletop.singleton.loadSheet({
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/d9ney"
         }, 
         "gsx$description": {
-          "$t": ""
+          "$t": "We formed as an offshoot of the Georgia Climate Change Coalition, in order to be able to get involved in a more active way."
         }
       }, 
       {
@@ -763,7 +763,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350 Kalamazoo", 
@@ -773,7 +773,7 @@ Tabletop.singleton.loadSheet({
           "$t": "350 Kalamazoo"
         }, 
         "content": {
-          "$t": "geom: Kalamazoo, MI, US, geolocation: Kalamazoo, MI, US", 
+          "$t": "geom: Kalamazoo, MI, US, geolocation: Kalamazoo, MI, US, description: 350 Kalamazoo works to educate ourselves and our community about climate change, to find ways to get to carbon neutrality in our own lives, to divest ourselves and encourage divestment from fossil fuels by institutions we are part of, and to take part in non-violent direct actions to bring the climate crisis to the attention of elected officials and our fellow citizens.", 
           "type": "text"
         }, 
         "link": [
@@ -793,7 +793,7 @@ Tabletop.singleton.loadSheet({
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/db1zf"
         }, 
         "gsx$description": {
-          "$t": ""
+          "$t": "350 Kalamazoo works to educate ourselves and our community about climate change, to find ways to get to carbon neutrality in our own lives, to divest ourselves and encourage divestment from fossil fuels by institutions we are part of, and to take part in non-violent direct actions to bring the climate crisis to the attention of elected officials and our fellow citizens."
         }
       }, 
       {
@@ -807,7 +807,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350 Myanmar", 
@@ -817,7 +817,7 @@ Tabletop.singleton.loadSheet({
           "$t": "350 Myanmar"
         }, 
         "content": {
-          "$t": "geom: Tiddim, Chin State, Myanmar (Burma), geolocation: Tiddim, Chin State, Myanmar (Burma)", 
+          "$t": "geom: Tiddim, Chin State, Myanmar (Burma), geolocation: Tiddim, Chin State, Myanmar (Burma), description: A new 350 group beginning in Tiddim/Yangon in Myanmar.", 
           "type": "text"
         }, 
         "link": [
@@ -837,7 +837,7 @@ Tabletop.singleton.loadSheet({
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/dcgjs"
         }, 
         "gsx$description": {
-          "$t": ""
+          "$t": "A new 350 group beginning in Tiddim/Yangon in Myanmar."
         }
       }, 
       {
@@ -851,7 +851,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350.org Kenya", 
@@ -861,7 +861,7 @@ Tabletop.singleton.loadSheet({
           "$t": "350.org Kenya"
         }, 
         "content": {
-          "$t": "geom: Nairobi, geolocation: Nairobi", 
+          "$t": "geom: Nairobi, geolocation: Nairobi, description: The group is comprised of  350  event organizers which comprise of individuals and organizations. We are committed to building a stronger movement in Kenya.", 
           "type": "text"
         }, 
         "link": [
@@ -881,7 +881,7 @@ Tabletop.singleton.loadSheet({
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od6/public/values/ddv49"
         }, 
         "gsx$description": {
-          "$t": ""
+          "$t": "The group is comprised of  350  event organizers which comprise of individuals and organizations. We are committed to building a stronger movement in Kenya."
         }
       }, 
       {
@@ -895,7 +895,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350 Pensacola", 
@@ -939,7 +939,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://toronto350.org/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "Toronto350", 
@@ -983,7 +983,7 @@ Tabletop.singleton.loadSheet({
           "$t": "350SanAntonio.org"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350SanAntonio.org", 
@@ -1027,7 +1027,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350Tucson", 
@@ -1071,7 +1071,7 @@ Tabletop.singleton.loadSheet({
           "$t": "we are in process of making our website"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350 Ottawa", 
@@ -1115,7 +1115,7 @@ Tabletop.singleton.loadSheet({
           "$t": "will get back to you."
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "Santa Cruz 350.org", 
@@ -1159,7 +1159,7 @@ Tabletop.singleton.loadSheet({
           "$t": "www.aa350.org"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "Monica Patel", 
@@ -1203,7 +1203,7 @@ Tabletop.singleton.loadSheet({
           "$t": "350VT.org"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350Vermont", 
@@ -1247,7 +1247,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350 Tucson", 
@@ -1291,7 +1291,7 @@ Tabletop.singleton.loadSheet({
           "$t": "https://www.facebook.com/pages/350-Kerala/104524633051294?ref=hl"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350 kerala", 
@@ -1335,7 +1335,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350 Burundi", 
@@ -1379,7 +1379,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://corr.peacefuluprising.org/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "PU Community of Resilience and Resistance (CORR)", 
@@ -1423,7 +1423,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "GPS SENEGAL", 
@@ -1467,7 +1467,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "Kamloops 350", 
@@ -1511,7 +1511,7 @@ Tabletop.singleton.loadSheet({
           "$t": "350Seattle.org"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350 Seattle", 
@@ -1555,7 +1555,7 @@ Tabletop.singleton.loadSheet({
           "$t": "https://www.facebook.com/350salvador"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350 Salvador", 
@@ -1599,7 +1599,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350 Missoula", 
@@ -1643,7 +1643,7 @@ Tabletop.singleton.loadSheet({
           "$t": "www.facebook.com/350Egypt"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350 Egypt", 
@@ -1687,7 +1687,7 @@ Tabletop.singleton.loadSheet({
           "$t": "www.hococlimatechange.org"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "Climate Change Initiative of Howard County - CCIHC", 
@@ -1731,7 +1731,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "South Jersey 350.org", 
@@ -1775,7 +1775,7 @@ Tabletop.singleton.loadSheet({
           "$t": "www.facebook.com/chicago350.org"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "Chicago 350", 
@@ -1819,7 +1819,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://350corvallis.org/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350 Corvallis", 
@@ -1863,7 +1863,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://www.350maine.org/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350 Maine", 
@@ -1907,7 +1907,7 @@ Tabletop.singleton.loadSheet({
           "$t": "facebook.com/350jerseyshore"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350 Jersey Shore", 
@@ -1951,7 +1951,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350 Louisville", 
@@ -1995,7 +1995,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "Fairfax 350", 
@@ -2039,7 +2039,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350 Loudoun", 
@@ -2083,7 +2083,7 @@ Tabletop.singleton.loadSheet({
           "$t": "www.350siliconvalley.org"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350 Silicon Valley", 
@@ -2127,7 +2127,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://350nyc.org/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350NYC", 
@@ -2171,7 +2171,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://world.350.org/nh/"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350NH", 
@@ -2215,7 +2215,7 @@ Tabletop.singleton.loadSheet({
           "$t": "350BayArea.org"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350BayArea", 
@@ -2259,7 +2259,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350 Madison", 
@@ -2303,7 +2303,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350sonomacounty", 
@@ -2347,7 +2347,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350.org Malaysia or #PowerShiftMsia", 
@@ -2391,7 +2391,7 @@ Tabletop.singleton.loadSheet({
           "$t": "www.350ma.org"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350 Massachusetts", 
@@ -2435,7 +2435,7 @@ Tabletop.singleton.loadSheet({
           "$t": "www.georgiaclimatecoalition.org"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "Georgia Climate Change Coalition", 
@@ -2479,7 +2479,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://350pdx.org"
         }, 
         "updated": {
-          "$t": "2013-12-02T03:48:37.966Z"
+          "$t": "2013-12-02T03:49:55.138Z"
         }, 
         "title": {
           "$t": "350 PDX", 
