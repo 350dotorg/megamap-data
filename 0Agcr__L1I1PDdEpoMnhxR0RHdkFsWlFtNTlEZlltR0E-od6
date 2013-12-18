@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2013-12-03T19:45:46.769Z"
+      "$t": "2013-12-18T14:06:35.519Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -55,11 +55,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": "350SanAntonio.org"
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "29.4246002"
@@ -68,11 +65,14 @@ Tabletop.singleton.loadSheet({
           "$t": "350 San Antonio", 
           "type": "text"
         }, 
+        "gsx$website": {
+          "$t": "350SanAntonio.org"
+        }, 
         "gsx$name": {
           "$t": "350 San Antonio"
         }, 
         "content": {
-          "$t": "geom: San Antonio, TX, USA, geolocation: San Antonio, TX, USA, ontheweb: 350SanAntonio.org, description: We're an established local group working on public education and outreach. In 2011, we persuaded Mayor Julian Castro to proclaim September 2011 as Climate Change Awareness Month!, longitude: -98.4951405, latitude: 29.4246002", 
+          "$t": "geom: San Antonio, TX, USA, geolocation: San Antonio, TX, USA, website: 350SanAntonio.org, description: We're an established local group working on public education and outreach. In 2011, we persuaded Mayor Julian Castro to proclaim September 2011 as Climate Change Awareness Month!, longitude: -98.4951405, latitude: 29.4246002", 
           "type": "text"
         }, 
         "link": [
@@ -105,11 +105,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": "http://350Corvallis.org"
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "44.5645659"
@@ -118,11 +115,14 @@ Tabletop.singleton.loadSheet({
           "$t": "350Corvallis", 
           "type": "text"
         }, 
+        "gsx$website": {
+          "$t": "http://350Corvallis.org"
+        }, 
         "gsx$name": {
           "$t": "350Corvallis"
         }, 
         "content": {
-          "$t": "geom: Corvallis, OR, geolocation: Corvallis, OR, ontheweb: http://350Corvallis.org, description: Our group came together in December of 2012.  Since then we have been having bi-monthly meetings and are working towards a variety of goals.  We are beginning a divestment campaign and working on educational events such as film viewings and panel discussions.  We are also interested in the work being done by the Citizens Climate Lobby.  Stopping the coal trains that are scheduled to come through Albany and other Oregon towns is another project and we are working with other local groups on this issue. We are currently having meetings on the 2nd and 4th Thursdays from 6:30-8pm at 101 NW 23rd St  Corvallis., longitude: -123.2620435, latitude: 44.5645659", 
+          "$t": "geom: Corvallis, OR, geolocation: Corvallis, OR, website: http://350Corvallis.org, description: Our group came together in December of 2012.  Since then we have been having bi-monthly meetings and are working towards a variety of goals.  We are beginning a divestment campaign and working on educational events such as film viewings and panel discussions.  We are also interested in the work being done by the Citizens Climate Lobby.  Stopping the coal trains that are scheduled to come through Albany and other Oregon towns is another project and we are working with other local groups on this issue. We are currently having meetings on the 2nd and 4th Thursdays from 6:30-8pm at 101 NW 23rd St  Corvallis., longitude: -123.2620435, latitude: 44.5645659", 
           "type": "text"
         }, 
         "link": [
@@ -155,11 +155,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": "www.350sb.org"
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "34.3999755"
@@ -168,11 +165,14 @@ Tabletop.singleton.loadSheet({
           "$t": "350 Santa Barbara", 
           "type": "text"
         }, 
+        "gsx$website": {
+          "$t": "www.350sb.org"
+        }, 
         "gsx$name": {
           "$t": "350 Santa Barbara"
         }, 
         "content": {
-          "$t": "geom: Santa Barbara, CA, geolocation: Santa Barbara, CA, ontheweb: www.350sb.org, description: 350 Santa Barbara is a local chapter of 350.org. We seek to\n\n-Bring a greater sense of urgency about climate change to Santa Barbara County and mobilize people toward solutions\n-Build the political will to oppose fossil fuel industry projects that damage our health, ecosystem and economy\n-Educate about the gravity of climate change while presenting solutions and how to move toward them\n-Connect the dots between climate change and social justice issues\n-Empower people to become knowledgeable about climate science and to identify misinformation when it is presented, longitude: -119.703022549307, latitude: 34.3999755", 
+          "$t": "geom: Santa Barbara, CA, geolocation: Santa Barbara, CA, website: www.350sb.org, description: 350 Santa Barbara is a local chapter of 350.org. We seek to\n\n-Bring a greater sense of urgency about climate change to Santa Barbara County and mobilize people toward solutions\n-Build the political will to oppose fossil fuel industry projects that damage our health, ecosystem and economy\n-Educate about the gravity of climate change while presenting solutions and how to move toward them\n-Connect the dots between climate change and social justice issues\n-Empower people to become knowledgeable about climate science and to identify misinformation when it is presented, longitude: -119.703022549307, latitude: 34.3999755", 
           "type": "text"
         }, 
         "link": [
@@ -205,11 +205,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": "http://350centralvirginia.org/"
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "38.029306"
@@ -218,11 +215,14 @@ Tabletop.singleton.loadSheet({
           "$t": "350 Central Virginia", 
           "type": "text"
         }, 
+        "gsx$website": {
+          "$t": "http://350centralvirginia.org/"
+        }, 
         "gsx$name": {
           "$t": "350 Central Virginia"
         }, 
         "content": {
-          "$t": "geom: Charlottesville VA and the surrounding region, geolocation: Charlottesville VA, ontheweb: http://350centralvirginia.org/, longitude: -78.4766781, latitude: 38.029306", 
+          "$t": "geom: Charlottesville VA and the surrounding region, geolocation: Charlottesville VA, website: http://350centralvirginia.org/, longitude: -78.4766781, latitude: 38.029306", 
           "type": "text"
         }, 
         "link": [
@@ -255,11 +255,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": "www.sandiego350.org"
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "33.01978205"
@@ -268,11 +265,14 @@ Tabletop.singleton.loadSheet({
           "$t": "SanDiego350.org", 
           "type": "text"
         }, 
+        "gsx$website": {
+          "$t": "www.sandiego350.org"
+        }, 
         "gsx$name": {
           "$t": "SanDiego350.org"
         }, 
         "content": {
-          "$t": "geom: San Diego County, California, geolocation: San Diego County, California, ontheweb: www.sandiego350.org, description: 350 San Diego formed in summer 2011 to plan and promote the moving planet event. Since then we have also worked on the SD Regional Transportation Plan, the city Climate Mitigation and Action Plans around the county, a protest of SDG&E's proposed fee for solar owners, and meeting with members congress to ask them to end subsidies for the fossil fuel industry. Visit us at www.sandiego350.org or sign up to get involved!, longitude: -116.693822004975, latitude: 33.01978205", 
+          "$t": "geom: San Diego County, California, geolocation: San Diego County, California, website: www.sandiego350.org, description: 350 San Diego formed in summer 2011 to plan and promote the moving planet event. Since then we have also worked on the SD Regional Transportation Plan, the city Climate Mitigation and Action Plans around the county, a protest of SDG&E's proposed fee for solar owners, and meeting with members congress to ask them to end subsidies for the fossil fuel industry. Visit us at www.sandiego350.org or sign up to get involved!, longitude: -116.693822004975, latitude: 33.01978205", 
           "type": "text"
         }, 
         "link": [
@@ -305,11 +305,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": ""
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": ""
@@ -317,6 +314,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "350 C\u00c3\u00b4te d'Ivoire", 
           "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": ""
         }, 
         "gsx$name": {
           "$t": "350 C\u00c3\u00b4te d'Ivoire"
@@ -355,11 +355,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": "http://www.350sacramento.org"
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "38.4732259"
@@ -368,11 +365,14 @@ Tabletop.singleton.loadSheet({
           "$t": "350 Sacramento", 
           "type": "text"
         }, 
+        "gsx$website": {
+          "$t": "http://www.350sacramento.org"
+        }, 
         "gsx$name": {
           "$t": "350 Sacramento"
         }, 
         "content": {
-          "$t": "geom: Sacramento, CA, geolocation: Sacramento, CA, ontheweb: http://www.350sacramento.org, description: 350 Sacramento is inspired by the work of 350.org. Formed after 10:10:10, we have done a variety of small actions and currently working in partnership with the City of Sacramento on the Cool California Challenge. We are the only group in Sacramento working specifically on climate change., longitude: -121.2980707, latitude: 38.4732259", 
+          "$t": "geom: Sacramento, CA, geolocation: Sacramento, CA, website: http://www.350sacramento.org, description: 350 Sacramento is inspired by the work of 350.org. Formed after 10:10:10, we have done a variety of small actions and currently working in partnership with the City of Sacramento on the Cool California Challenge. We are the only group in Sacramento working specifically on climate change., longitude: -121.2980707, latitude: 38.4732259", 
           "type": "text"
         }, 
         "link": [
@@ -405,11 +405,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": ""
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "39.952335"
@@ -417,6 +414,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "350 Philly", 
           "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": ""
         }, 
         "gsx$name": {
           "$t": "350 Philly"
@@ -455,11 +455,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": ""
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "44.6697805"
@@ -467,6 +464,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "North Country 350 Alliance", 
           "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": ""
         }, 
         "gsx$name": {
           "$t": "North Country 350 Alliance"
@@ -505,11 +505,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": "http://350nola.org"
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "29.9499323"
@@ -518,11 +515,14 @@ Tabletop.singleton.loadSheet({
           "$t": "350 NOLA", 
           "type": "text"
         }, 
+        "gsx$website": {
+          "$t": "http://350nola.org"
+        }, 
         "gsx$name": {
           "$t": "350 NOLA"
         }, 
         "content": {
-          "$t": "geom: New Orleans, LA, geolocation: New Orleans, LA, ontheweb: http://350nola.org, description: 350 NOLA is a local branch of 350.org. 350.org is leading the international grassroots movement to solve the climate crisis. We\u2019re ready to take action and DEFEND NOLA\u2013 ground zero for climate change impacts., longitude: -90.0701156, latitude: 29.9499323", 
+          "$t": "geom: New Orleans, LA, geolocation: New Orleans, LA, website: http://350nola.org, description: 350 NOLA is a local branch of 350.org. 350.org is leading the international grassroots movement to solve the climate crisis. We\u2019re ready to take action and DEFEND NOLA\u2013 ground zero for climate change impacts., longitude: -90.0701156, latitude: 29.9499323", 
           "type": "text"
         }, 
         "link": [
@@ -555,11 +555,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": ""
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "60.1713198"
@@ -567,6 +564,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "350 Finland", 
           "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": ""
         }, 
         "gsx$name": {
           "$t": "350 Finland"
@@ -605,11 +605,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": ""
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "38.7604815"
@@ -617,6 +614,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "350.org Missouri", 
           "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": ""
         }, 
         "gsx$name": {
           "$t": "350.org Missouri"
@@ -655,11 +655,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": ""
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "35.6009498"
@@ -667,6 +664,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "350 Asheville", 
           "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": ""
         }, 
         "gsx$name": {
           "$t": "350 Asheville"
@@ -705,11 +705,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": ""
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "32.2217429"
@@ -717,6 +714,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "350 Tucson", 
           "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": ""
         }, 
         "gsx$name": {
           "$t": "350 Tucson"
@@ -755,11 +755,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": "https://www.facebook.com/pages/350-Kerala/104524633051294"
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "8.4865914"
@@ -768,11 +765,14 @@ Tabletop.singleton.loadSheet({
           "$t": "350 Kerala", 
           "type": "text"
         }, 
+        "gsx$website": {
+          "$t": "https://www.facebook.com/pages/350-Kerala/104524633051294"
+        }, 
         "gsx$name": {
           "$t": "350 Kerala"
         }, 
         "content": {
-          "$t": "geom: Trivandrum (Thiruvananthapuram) Kerala, geolocation: Trivandrum (Thiruvananthapuram) Kerala, ontheweb: https://www.facebook.com/pages/350-Kerala/104524633051294, description: We participate in global action days, and run environmental workshops with schools and colleges. Together we can change!, longitude: 76.9519486481897, latitude: 8.4865914", 
+          "$t": "geom: Trivandrum (Thiruvananthapuram) Kerala, geolocation: Trivandrum (Thiruvananthapuram) Kerala, website: https://www.facebook.com/pages/350-Kerala/104524633051294, description: We participate in global action days, and run environmental workshops with schools and colleges. Together we can change!, longitude: 76.9519486481897, latitude: 8.4865914", 
           "type": "text"
         }, 
         "link": [
@@ -805,11 +805,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": "www.facebook.com/climatecrusaders"
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "33.9595974"
@@ -818,11 +815,14 @@ Tabletop.singleton.loadSheet({
           "$t": "Climate Crusaders", 
           "type": "text"
         }, 
+        "gsx$website": {
+          "$t": "www.facebook.com/climatecrusaders"
+        }, 
         "gsx$name": {
           "$t": "Climate Crusaders"
         }, 
         "content": {
-          "$t": "geom: Athens, GA, USA, geolocation: Athens, GA, USA, ontheweb: www.facebook.com/climatecrusaders, description: We formed as an offshoot of the Georgia Climate Change Coalition, in order to be able to get involved in a more active way., longitude: -83.376678, latitude: 33.9595974", 
+          "$t": "geom: Athens, GA, USA, geolocation: Athens, GA, USA, website: www.facebook.com/climatecrusaders, description: We formed as an offshoot of the Georgia Climate Change Coalition, in order to be able to get involved in a more active way., longitude: -83.376678, latitude: 33.9595974", 
           "type": "text"
         }, 
         "link": [
@@ -855,11 +855,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": ""
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "42.291707"
@@ -867,6 +864,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "350 Kalamazoo", 
           "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": ""
         }, 
         "gsx$name": {
           "$t": "350 Kalamazoo"
@@ -905,11 +905,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": ""
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": ""
@@ -917,6 +914,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "350 Myanmar", 
           "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": ""
         }, 
         "gsx$name": {
           "$t": "350 Myanmar"
@@ -955,11 +955,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": ""
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "-1.2832533"
@@ -967,6 +964,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "350.org Kenya", 
           "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": ""
         }, 
         "gsx$name": {
           "$t": "350.org Kenya"
@@ -1005,11 +1005,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": ""
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "30.421309"
@@ -1017,6 +1014,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "350 Pensacola", 
           "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": ""
         }, 
         "gsx$name": {
           "$t": "350 Pensacola"
@@ -1055,11 +1055,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": "http://toronto350.org/"
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "43.6529206"
@@ -1068,11 +1065,14 @@ Tabletop.singleton.loadSheet({
           "$t": "Toronto350", 
           "type": "text"
         }, 
+        "gsx$website": {
+          "$t": "http://toronto350.org/"
+        }, 
         "gsx$name": {
           "$t": "Toronto350"
         }, 
         "content": {
-          "$t": "geom: Toronto, Canada, geolocation: Toronto, Canada, ontheweb: http://toronto350.org/, description: 350 Toronto is a local group formed in 2012 and is active in the GTA. However, this page isn't very active. Please visit our twitter or facebook pages or toronto350.org. All our events can be seen on our calendar at toronto350.org/events.php OR on our Facebook page., longitude: -79.3849008, latitude: 43.6529206", 
+          "$t": "geom: Toronto, Canada, geolocation: Toronto, Canada, website: http://toronto350.org/, description: 350 Toronto is a local group formed in 2012 and is active in the GTA. However, this page isn't very active. Please visit our twitter or facebook pages or toronto350.org. All our events can be seen on our calendar at toronto350.org/events.php OR on our Facebook page., longitude: -79.3849008, latitude: 43.6529206", 
           "type": "text"
         }, 
         "link": [
@@ -1105,11 +1105,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": ""
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "45.4210328"
@@ -1117,6 +1114,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "350 Ottawa", 
           "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": ""
         }, 
         "gsx$name": {
           "$t": "350 Ottawa"
@@ -1155,11 +1155,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": ""
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "36.9746099"
@@ -1167,6 +1164,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "Santa Cruz 350.org", 
           "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": ""
         }, 
         "gsx$name": {
           "$t": "Santa Cruz 350.org"
@@ -1205,11 +1205,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": "www.aa350.org"
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "42.2681569"
@@ -1218,11 +1215,14 @@ Tabletop.singleton.loadSheet({
           "$t": "350 Ann Arbor", 
           "type": "text"
         }, 
+        "gsx$website": {
+          "$t": "www.aa350.org"
+        }, 
         "gsx$name": {
           "$t": "350 Ann Arbor"
         }, 
         "content": {
-          "$t": "geom: Ann Arbor, Michigan, geolocation: Ann Arbor, Michigan, ontheweb: www.aa350.org, description: 350 Ann Arbor is a local group that formed in 2009 and works locally for climate action., longitude: -83.7312291, latitude: 42.2681569", 
+          "$t": "geom: Ann Arbor, Michigan, geolocation: Ann Arbor, Michigan, website: www.aa350.org, description: 350 Ann Arbor is a local group that formed in 2009 and works locally for climate action., longitude: -83.7312291, latitude: 42.2681569", 
           "type": "text"
         }, 
         "link": [
@@ -1255,11 +1255,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": "350VT.org"
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "44.4723989"
@@ -1268,11 +1265,14 @@ Tabletop.singleton.loadSheet({
           "$t": "350Vermont", 
           "type": "text"
         }, 
+        "gsx$website": {
+          "$t": "350VT.org"
+        }, 
         "gsx$name": {
           "$t": "350Vermont"
         }, 
         "content": {
-          "$t": "geom: Burlington Vermont, geolocation: Burlington Vermont, ontheweb: 350VT.org, description: The state-wide network for 350 Activists in Vermont!, longitude: -73.2114941, latitude: 44.4723989", 
+          "$t": "geom: Burlington Vermont, geolocation: Burlington Vermont, website: 350VT.org, description: The state-wide network for 350 Activists in Vermont!, longitude: -73.2114941, latitude: 44.4723989", 
           "type": "text"
         }, 
         "link": [
@@ -1305,11 +1305,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": ""
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "-3.3638125"
@@ -1317,6 +1314,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "350 Burundi", 
           "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": ""
         }, 
         "gsx$name": {
           "$t": "350 Burundi"
@@ -1355,11 +1355,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": "http://corr.peacefuluprising.org/"
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "40.7606467"
@@ -1368,11 +1365,14 @@ Tabletop.singleton.loadSheet({
           "$t": "PU Community of Resilience and Resistance (CORR)", 
           "type": "text"
         }, 
+        "gsx$website": {
+          "$t": "http://corr.peacefuluprising.org/"
+        }, 
         "gsx$name": {
           "$t": "PU Community of Resilience and Resistance (CORR)"
         }, 
         "content": {
-          "$t": "geom: Salt Lake City, UT, geolocation: Salt Lake City, UT, ontheweb: http://corr.peacefuluprising.org/, description: We are excited to form a 350 local group because it might serve as an umbrella for a coaltion of groups that can execute movement building campaigns.We are involved with the Peaceful Uprising CORR (http://corr.peacefuluprising.org/) model of resilience and resistance.\n\nThe anatomy of climate organizing in Salt Lake City started with a 350SLC group in 2009 and now split into different niche mostly around Salt Lake City with a few groups in solidarity from Provo to Ogden as well as Moab in S. Utah.  A back of the envelope climate organizing powermap includes at least 8 main groups that have different tactics but all revolve around the goal of 350ppm by the end of the century.  Also with the new math that 80% of the proven fossil fuel reserves is 5 times above the allowable limit to stay within a 2degree Celcius ties our campaigns share the movment goal to make sure that product does not go to market.  Divestment campaigns are developing at 4 UT college campuses, anti-tarsands coalitions are forming strong relationships and learing from the blockades in TX, high school youth are pushing state agencies and legislators to collaborate and develop long range plans to reflect best available science of climate change, the Utah Citizens Climate Lobby is pushing our Republican congressional representatives to adopt a carbon fee and dividend bill and Transition town Salt Lake city is experimenting with models of resliliency.\n\nWhat advice do you have for ubased old the climate movement in Utah?  What skills can you lend to the various campaigns above?\n\nA brief history of the last 3 years of the climate movement here:  Many people that organized the first 350SLC group in 2009 formed Peaceful Uprising and since then others have begun to fill at least 4 different niches under at least 8 different names.  \n\n, longitude: -111.89109, latitude: 40.7606467", 
+          "$t": "geom: Salt Lake City, UT, geolocation: Salt Lake City, UT, website: http://corr.peacefuluprising.org/, description: We are excited to form a 350 local group because it might serve as an umbrella for a coaltion of groups that can execute movement building campaigns.We are involved with the Peaceful Uprising CORR (http://corr.peacefuluprising.org/) model of resilience and resistance.\n\nThe anatomy of climate organizing in Salt Lake City started with a 350SLC group in 2009 and now split into different niche mostly around Salt Lake City with a few groups in solidarity from Provo to Ogden as well as Moab in S. Utah.  A back of the envelope climate organizing powermap includes at least 8 main groups that have different tactics but all revolve around the goal of 350ppm by the end of the century.  Also with the new math that 80% of the proven fossil fuel reserves is 5 times above the allowable limit to stay within a 2degree Celcius ties our campaigns share the movment goal to make sure that product does not go to market.  Divestment campaigns are developing at 4 UT college campuses, anti-tarsands coalitions are forming strong relationships and learing from the blockades in TX, high school youth are pushing state agencies and legislators to collaborate and develop long range plans to reflect best available science of climate change, the Utah Citizens Climate Lobby is pushing our Republican congressional representatives to adopt a carbon fee and dividend bill and Transition town Salt Lake city is experimenting with models of resliliency.\n\nWhat advice do you have for ubased old the climate movement in Utah?  What skills can you lend to the various campaigns above?\n\nA brief history of the last 3 years of the climate movement here:  Many people that organized the first 350SLC group in 2009 formed Peaceful Uprising and since then others have begun to fill at least 4 different niches under at least 8 different names.  \n\n, longitude: -111.89109, latitude: 40.7606467", 
           "type": "text"
         }, 
         "link": [
@@ -1405,11 +1405,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": ""
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "50.6765557"
@@ -1417,6 +1414,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "Kamloops 350", 
           "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": ""
         }, 
         "gsx$name": {
           "$t": "Kamloops 350"
@@ -1455,11 +1455,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": "350Seattle.org"
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "47.6038321"
@@ -1468,11 +1465,14 @@ Tabletop.singleton.loadSheet({
           "$t": "350 Seattle", 
           "type": "text"
         }, 
+        "gsx$website": {
+          "$t": "350Seattle.org"
+        }, 
         "gsx$name": {
           "$t": "350 Seattle"
         }, 
         "content": {
-          "$t": "geom: Seattle, WA, geolocation: Seattle, WA, ontheweb: 350Seattle.org, description: We are an established community of climate activists. 350 Seattle is a new group formed to facilitate better coordination, more streamlined campaigns, and more powerful climate action in the Seattle area.  Please see our webpage http://350seattle.org/  to signup to get announcements about our monthly meetings and actions.  (second box down on the right to subscribe.)  , longitude: -122.3300624, latitude: 47.6038321", 
+          "$t": "geom: Seattle, WA, geolocation: Seattle, WA, website: 350Seattle.org, description: We are an established community of climate activists. 350 Seattle is a new group formed to facilitate better coordination, more streamlined campaigns, and more powerful climate action in the Seattle area.  Please see our webpage http://350seattle.org/  to signup to get announcements about our monthly meetings and actions.  (second box down on the right to subscribe.)  , longitude: -122.3300624, latitude: 47.6038321", 
           "type": "text"
         }, 
         "link": [
@@ -1505,11 +1505,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": "https://www.facebook.com/350salvador"
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "-12.9816356"
@@ -1518,11 +1515,14 @@ Tabletop.singleton.loadSheet({
           "$t": "350 Salvador", 
           "type": "text"
         }, 
+        "gsx$website": {
+          "$t": "https://www.facebook.com/350salvador"
+        }, 
         "gsx$name": {
           "$t": "350 Salvador"
         }, 
         "content": {
-          "$t": "geom: Salvador, Bahia, Brasil, geolocation: Salvador, Bahia, Brasil, ontheweb: https://www.facebook.com/350salvador, description: Desde 2010 que h\u00c3\u00a1 um grupo informal de pessoas realizando a\u00c3\u00a7\u00c3\u00b5es da 350.org Brasil na cidade, mas somente em 2012 que o grupo de volunt\u00c3\u00a1rios foi capacitado e formalmente incorporado como um grupo. Temos participado de todas as a\u00c3\u00a7\u00c3\u00b5es globais desde ent\u00c3\u00a3o. Al\u00c3\u00a9m delas, realizamos a\u00c3\u00a7\u00c3\u00b5es locais., longitude: -38.4820771, latitude: -12.9816356", 
+          "$t": "geom: Salvador, Bahia, Brasil, geolocation: Salvador, Bahia, Brasil, website: https://www.facebook.com/350salvador, description: Desde 2010 que h\u00c3\u00a1 um grupo informal de pessoas realizando a\u00c3\u00a7\u00c3\u00b5es da 350.org Brasil na cidade, mas somente em 2012 que o grupo de volunt\u00c3\u00a1rios foi capacitado e formalmente incorporado como um grupo. Temos participado de todas as a\u00c3\u00a7\u00c3\u00b5es globais desde ent\u00c3\u00a3o. Al\u00c3\u00a9m delas, realizamos a\u00c3\u00a7\u00c3\u00b5es locais., longitude: -38.4820771, latitude: -12.9816356", 
           "type": "text"
         }, 
         "link": [
@@ -1555,11 +1555,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": ""
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "46.8700801"
@@ -1567,6 +1564,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "350 Missoula", 
           "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": ""
         }, 
         "gsx$name": {
           "$t": "350 Missoula"
@@ -1605,11 +1605,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": "www.facebook.com/350Egypt"
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "26.9405829"
@@ -1618,11 +1615,14 @@ Tabletop.singleton.loadSheet({
           "$t": "350 Egypt", 
           "type": "text"
         }, 
+        "gsx$website": {
+          "$t": "www.facebook.com/350Egypt"
+        }, 
         "gsx$name": {
           "$t": "350 Egypt"
         }, 
         "content": {
-          "$t": "geom: Egypt, geolocation: Egypt, ontheweb: www.facebook.com/350Egypt, description: We are associated with 350 Egypt, and have participated in multiple 350 events in the past. We are now organizing around transportation solutions., longitude: 29.6413026225091, latitude: 26.9405829", 
+          "$t": "geom: Egypt, geolocation: Egypt, website: www.facebook.com/350Egypt, description: We are associated with 350 Egypt, and have participated in multiple 350 events in the past. We are now organizing around transportation solutions., longitude: 29.6413026225091, latitude: 26.9405829", 
           "type": "text"
         }, 
         "link": [
@@ -1655,11 +1655,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": "www.hococlimatechange.org"
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "39.2151996"
@@ -1668,11 +1665,14 @@ Tabletop.singleton.loadSheet({
           "$t": "Climate Change Initiative of Howard County - CCIHC", 
           "type": "text"
         }, 
+        "gsx$website": {
+          "$t": "www.hococlimatechange.org"
+        }, 
         "gsx$name": {
           "$t": "Climate Change Initiative of Howard County - CCIHC"
         }, 
         "content": {
-          "$t": "geom: Columbia MD, USA, geolocation: Columbia MD, USA, ontheweb: www.hococlimatechange.org, longitude: -76.8546725, latitude: 39.2151996", 
+          "$t": "geom: Columbia MD, USA, geolocation: Columbia MD, USA, website: www.hococlimatechange.org, longitude: -76.8546725, latitude: 39.2151996", 
           "type": "text"
         }, 
         "link": [
@@ -1705,11 +1705,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": ""
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": ""
@@ -1717,6 +1714,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "South Jersey 350.org", 
           "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": ""
         }, 
         "gsx$name": {
           "$t": "South Jersey 350.org"
@@ -1755,11 +1755,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": "www.facebook.com/chicago350.org"
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "41.8756208"
@@ -1768,11 +1765,14 @@ Tabletop.singleton.loadSheet({
           "$t": "Chicago 350", 
           "type": "text"
         }, 
+        "gsx$website": {
+          "$t": "www.facebook.com/chicago350.org"
+        }, 
         "gsx$name": {
           "$t": "Chicago 350"
         }, 
         "content": {
-          "$t": "geom: Chicago, geolocation: Chicago, ontheweb: www.facebook.com/chicago350.org, description: We are a volunteer group working to inspire Chicagoans to take on the challenge of climate change. To envision and build toward a future not dominated by fossil fuels and the environmental destruction caused by their mining and use.\n\nWhile connected to a global movement, we take action locally based on issues important to the Chicago area and the mid-west., longitude: -87.6243706, latitude: 41.8756208", 
+          "$t": "geom: Chicago, geolocation: Chicago, website: www.facebook.com/chicago350.org, description: We are a volunteer group working to inspire Chicagoans to take on the challenge of climate change. To envision and build toward a future not dominated by fossil fuels and the environmental destruction caused by their mining and use.\n\nWhile connected to a global movement, we take action locally based on issues important to the Chicago area and the mid-west., longitude: -87.6243706, latitude: 41.8756208", 
           "type": "text"
         }, 
         "link": [
@@ -1805,11 +1805,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": "http://www.350maine.org/"
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "45.709097"
@@ -1818,11 +1815,14 @@ Tabletop.singleton.loadSheet({
           "$t": "350 Maine", 
           "type": "text"
         }, 
+        "gsx$website": {
+          "$t": "http://www.350maine.org/"
+        }, 
         "gsx$name": {
           "$t": "350 Maine"
         }, 
         "content": {
-          "$t": "geom: Maine, USA, geolocation: Maine, USA, ontheweb: http://www.350maine.org/, longitude: -68.8590201, latitude: 45.709097", 
+          "$t": "geom: Maine, USA, geolocation: Maine, USA, website: http://www.350maine.org/, longitude: -68.8590201, latitude: 45.709097", 
           "type": "text"
         }, 
         "link": [
@@ -1855,11 +1855,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": "facebook.com/350jerseyshore"
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "40.1784471"
@@ -1868,11 +1865,14 @@ Tabletop.singleton.loadSheet({
           "$t": "350 Jersey Shore", 
           "type": "text"
         }, 
+        "gsx$website": {
+          "$t": "facebook.com/350jerseyshore"
+        }, 
         "gsx$name": {
           "$t": "350 Jersey Shore"
         }, 
         "content": {
-          "$t": "geom: Belmar, NJ, geolocation: Belmar, NJ, ontheweb: facebook.com/350jerseyshore, longitude: -74.0218037, latitude: 40.1784471", 
+          "$t": "geom: Belmar, NJ, geolocation: Belmar, NJ, website: facebook.com/350jerseyshore, longitude: -74.0218037, latitude: 40.1784471", 
           "type": "text"
         }, 
         "link": [
@@ -1905,11 +1905,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": ""
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "38.2542376"
@@ -1917,6 +1914,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "350 Louisville", 
           "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": ""
         }, 
         "gsx$name": {
           "$t": "350 Louisville"
@@ -1955,11 +1955,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": ""
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "38.8462236"
@@ -1967,6 +1964,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "Fairfax 350", 
           "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": ""
         }, 
         "gsx$name": {
           "$t": "Fairfax 350"
@@ -2005,11 +2005,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": ""
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "39.1154496"
@@ -2017,6 +2014,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "350 Loudoun", 
           "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": ""
         }, 
         "gsx$name": {
           "$t": "350 Loudoun"
@@ -2055,11 +2055,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": "www.350siliconvalley.org"
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "37.442156"
@@ -2068,11 +2065,14 @@ Tabletop.singleton.loadSheet({
           "$t": "350 Silicon Valley", 
           "type": "text"
         }, 
+        "gsx$website": {
+          "$t": "www.350siliconvalley.org"
+        }, 
         "gsx$name": {
           "$t": "350 Silicon Valley"
         }, 
         "content": {
-          "$t": "geom: Palo Alto, CA, USA, geolocation: Palo Alto, CA, USA, ontheweb: www.350siliconvalley.org, description: 350 Silicon Valley is a local grassroots effort working to solve the climate crisis as part of 350.org a global grassroots climate movement.  350 Silicon Valley includes people from all backgrounds and all ages.  What we all have in common is a deep concern for the planet and our future. , longitude: -122.1634472, latitude: 37.442156", 
+          "$t": "geom: Palo Alto, CA, USA, geolocation: Palo Alto, CA, USA, website: www.350siliconvalley.org, description: 350 Silicon Valley is a local grassroots effort working to solve the climate crisis as part of 350.org a global grassroots climate movement.  350 Silicon Valley includes people from all backgrounds and all ages.  What we all have in common is a deep concern for the planet and our future. , longitude: -122.1634472, latitude: 37.442156", 
           "type": "text"
         }, 
         "link": [
@@ -2105,11 +2105,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": "http://350nyc.org/"
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "40.7305991"
@@ -2118,11 +2115,14 @@ Tabletop.singleton.loadSheet({
           "$t": "350NYC", 
           "type": "text"
         }, 
+        "gsx$website": {
+          "$t": "http://350nyc.org/"
+        }, 
         "gsx$name": {
           "$t": "350NYC"
         }, 
         "content": {
-          "$t": "geom: New York, NY, geolocation: New York, NY, ontheweb: http://350nyc.org/, description: 350 NYC is part of a grassroots campaign to solve the global climate crisis. We are part of a network of  thousands of volunteer-run campaigns in over 188 countries.\n\n350 means climate safety. To preserve our planet, scientists tell us we must reduce the amount of CO2 in the atmosphere from its current levels of nearly 400 parts per million to below 350 ppm. But 350 is more than a number\u2014it\u2019s a symbol of where we need to head as a planet. We believe that if a global grassroots movement holds our leaders accountable to realities of science and principles of justice, we can realize the solutions that will ensure a better future for all., longitude: -73.9865812, latitude: 40.7305991", 
+          "$t": "geom: New York, NY, geolocation: New York, NY, website: http://350nyc.org/, description: 350 NYC is part of a grassroots campaign to solve the global climate crisis. We are part of a network of  thousands of volunteer-run campaigns in over 188 countries.\n\n350 means climate safety. To preserve our planet, scientists tell us we must reduce the amount of CO2 in the atmosphere from its current levels of nearly 400 parts per million to below 350 ppm. But 350 is more than a number\u2014it\u2019s a symbol of where we need to head as a planet. We believe that if a global grassroots movement holds our leaders accountable to realities of science and principles of justice, we can realize the solutions that will ensure a better future for all., longitude: -73.9865812, latitude: 40.7305991", 
           "type": "text"
         }, 
         "link": [
@@ -2155,11 +2155,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": "http://world.350.org/nh/"
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "43.4849133"
@@ -2168,11 +2165,14 @@ Tabletop.singleton.loadSheet({
           "$t": "350NH", 
           "type": "text"
         }, 
+        "gsx$website": {
+          "$t": "http://world.350.org/nh/"
+        }, 
         "gsx$name": {
           "$t": "350NH"
         }, 
         "content": {
-          "$t": "geom: New Hampshire, geolocation: New Hampshire, ontheweb: http://world.350.org/nh/, description: 350NH is the Granite State\u2019s chapter for 350.org. 350NH is dedicated to bringing climate change to the forefront to the minds of those who live, work, and play in New Hampshire. \n\n350NH came together in August of 2012. In February of 2013 a meeting was called in which approximately 30 people attended. From that group the Leadership Committee arose. The Leadership Committee has been meeting since March 2013 putting the chapter together, creating events, initiating conversation around tar sands, fossil fuels, and climate change. \n\nThe first and third Wednesday of every month 350NH has a conference call to discuss what\u2019s in the pipeline. Join us on the Conference Dial-in Number: (605) 475-4000 Participant Access Code: 386317# , longitude: -71.6553992, latitude: 43.4849133", 
+          "$t": "geom: New Hampshire, geolocation: New Hampshire, website: http://world.350.org/nh/, description: 350NH is the Granite State\u2019s chapter for 350.org. 350NH is dedicated to bringing climate change to the forefront to the minds of those who live, work, and play in New Hampshire. \n\n350NH came together in August of 2012. In February of 2013 a meeting was called in which approximately 30 people attended. From that group the Leadership Committee arose. The Leadership Committee has been meeting since March 2013 putting the chapter together, creating events, initiating conversation around tar sands, fossil fuels, and climate change. \n\nThe first and third Wednesday of every month 350NH has a conference call to discuss what\u2019s in the pipeline. Join us on the Conference Dial-in Number: (605) 475-4000 Participant Access Code: 386317# , longitude: -71.6553992, latitude: 43.4849133", 
           "type": "text"
         }, 
         "link": [
@@ -2205,11 +2205,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": "350BayArea.org"
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "37.7884969"
@@ -2218,11 +2215,14 @@ Tabletop.singleton.loadSheet({
           "$t": "350BayArea", 
           "type": "text"
         }, 
+        "gsx$website": {
+          "$t": "350BayArea.org"
+        }, 
         "gsx$name": {
           "$t": "350BayArea"
         }, 
         "content": {
-          "$t": "geom: San Francisco bay area, CA, geolocation: San Francisco bay area, CA, ontheweb: 350BayArea.org, description: We are building a grassroots climate movement, working for deep CO2 emission reductions in the San Francisco Bay Area & beyond, and now have SIX campaigns. Plus - there are several groups forming locally. Find out what you need to know on our Campaign, Events and Petition pages (and don't forget to take a look at our FAQs too!), longitude: -122.3558473, latitude: 37.7884969", 
+          "$t": "geom: San Francisco bay area, CA, geolocation: San Francisco bay area, CA, website: 350BayArea.org, description: We are building a grassroots climate movement, working for deep CO2 emission reductions in the San Francisco Bay Area & beyond, and now have SIX campaigns. Plus - there are several groups forming locally. Find out what you need to know on our Campaign, Events and Petition pages (and don't forget to take a look at our FAQs too!), longitude: -122.3558473, latitude: 37.7884969", 
           "type": "text"
         }, 
         "link": [
@@ -2255,11 +2255,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": ""
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "43.074761"
@@ -2267,6 +2264,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "350 Madison", 
           "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": ""
         }, 
         "gsx$name": {
           "$t": "350 Madison"
@@ -2305,11 +2305,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": ""
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "38.384423"
@@ -2317,6 +2314,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "350sonomacounty", 
           "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": ""
         }, 
         "gsx$name": {
           "$t": "350sonomacounty"
@@ -2355,11 +2355,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": ""
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "3.1570976"
@@ -2367,6 +2364,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "350.org Malaysia or #PowerShiftMsia", 
           "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": ""
         }, 
         "gsx$name": {
           "$t": "350.org Malaysia or #PowerShiftMsia"
@@ -2405,11 +2405,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": "www.350ma.org"
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "42.3604823"
@@ -2418,11 +2415,14 @@ Tabletop.singleton.loadSheet({
           "$t": "350 Massachusetts", 
           "type": "text"
         }, 
+        "gsx$website": {
+          "$t": "www.350ma.org"
+        }, 
         "gsx$name": {
           "$t": "350 Massachusetts"
         }, 
         "content": {
-          "$t": "geom: Boston, Cambridge, Lowell, North Shore, Pioneer Valley, South Shore, Worcester (all in MA), geolocation: Boston, MA, ontheweb: www.350ma.org, description: 350 Massachusetts is a volunteer-led, campaign-focused initiative convened and facilitated by Better Future Project, connecting and organizing a strong grassroots coalition to address climate change and build a just and secure future beyond fossil fuels. 350MA aims to connect the many people and organizations in Massachusetts who have organized and been involved in 350.org events and who support 350.org\u2019s mission of building a movement to solve the climate crisis. 350MA will join other state-level 350 networks in New England and beyond that carry out state and regional campaigns. It will also aim to be a powerful part of the regional, national and international climate movement that gets us back to 350ppm., longitude: -71.0595678, latitude: 42.3604823", 
+          "$t": "geom: Boston, Cambridge, Lowell, North Shore, Pioneer Valley, South Shore, Worcester (all in MA), geolocation: Boston, MA, website: www.350ma.org, description: 350 Massachusetts is a volunteer-led, campaign-focused initiative convened and facilitated by Better Future Project, connecting and organizing a strong grassroots coalition to address climate change and build a just and secure future beyond fossil fuels. 350MA aims to connect the many people and organizations in Massachusetts who have organized and been involved in 350.org events and who support 350.org\u2019s mission of building a movement to solve the climate crisis. 350MA will join other state-level 350 networks in New England and beyond that carry out state and regional campaigns. It will also aim to be a powerful part of the regional, national and international climate movement that gets us back to 350ppm., longitude: -71.0595678, latitude: 42.3604823", 
           "type": "text"
         }, 
         "link": [
@@ -2455,11 +2455,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": "www.georgiaclimatecoalition.org"
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "33.9595974"
@@ -2468,11 +2465,14 @@ Tabletop.singleton.loadSheet({
           "$t": "Georgia Climate Change Coalition", 
           "type": "text"
         }, 
+        "gsx$website": {
+          "$t": "www.georgiaclimatecoalition.org"
+        }, 
         "gsx$name": {
           "$t": "Georgia Climate Change Coalition"
         }, 
         "content": {
-          "$t": "geom: Athens, Georgia, geolocation: Athens, Georgia, ontheweb: www.georgiaclimatecoalition.org, description: The Georgia Climate Change Coalition is a group of citizens and organizations who share an interest in climate change in Georgia and the Southeast.  Based in Athens, Georgia, we sponsor events and educational programs and promote collaboration between our member groups., longitude: -83.376678, latitude: 33.9595974", 
+          "$t": "geom: Athens, Georgia, geolocation: Athens, Georgia, website: www.georgiaclimatecoalition.org, description: The Georgia Climate Change Coalition is a group of citizens and organizations who share an interest in climate change in Georgia and the Southeast.  Based in Athens, Georgia, we sponsor events and educational programs and promote collaboration between our member groups., longitude: -83.376678, latitude: 33.9595974", 
           "type": "text"
         }, 
         "link": [
@@ -2505,11 +2505,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$ontheweb": {
-          "$t": "http://350pdx.org"
-        }, 
         "updated": {
-          "$t": "2013-12-03T19:45:46.769Z"
+          "$t": "2013-12-18T14:06:35.519Z"
         }, 
         "gsx$latitude": {
           "$t": "45.5202471"
@@ -2518,11 +2515,14 @@ Tabletop.singleton.loadSheet({
           "$t": "350 PDX", 
           "type": "text"
         }, 
+        "gsx$website": {
+          "$t": "http://350pdx.org"
+        }, 
         "gsx$name": {
           "$t": "350 PDX"
         }, 
         "content": {
-          "$t": "geom: Portland, OR  (larger Portland-metro area), geolocation: Portland, OR, ontheweb: http://350pdx.org, description: 350 Portland (Oregon!) came together in April 2013, when a group of hardy individuals responded to Bill McKibben and 350.org's call for a strategy session. Our goal is to make 350 PDX the most vibrant and innovative 350 chapter in the country. It's only fitting: Portland is known for its epic sustainability, from its broad mass transit to its urban growth boundary.\n\nIf you are interested in joining or getting involved contact with 350 Portland, email 350pdx@gmail.com or Vossandreae@gmail.com (Adriana Voss-Andreae)., longitude: -122.6741949, latitude: 45.5202471", 
+          "$t": "geom: Portland, OR  (larger Portland-metro area), geolocation: Portland, OR, website: http://350pdx.org, description: 350 Portland (Oregon!) came together in April 2013, when a group of hardy individuals responded to Bill McKibben and 350.org's call for a strategy session. Our goal is to make 350 PDX the most vibrant and innovative 350 chapter in the country. It's only fitting: Portland is known for its epic sustainability, from its broad mass transit to its urban growth boundary.\n\nIf you are interested in joining or getting involved contact with 350 Portland, email 350pdx@gmail.com or Vossandreae@gmail.com (Adriana Voss-Andreae)., longitude: -122.6741949, latitude: 45.5202471", 
           "type": "text"
         }, 
         "link": [
