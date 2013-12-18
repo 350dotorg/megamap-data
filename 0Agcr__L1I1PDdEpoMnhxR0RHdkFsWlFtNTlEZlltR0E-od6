@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2013-12-18T14:06:35.519Z"
+      "$t": "2013-12-18T14:19:55.768Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,7 +56,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "29.4246002"
@@ -106,7 +106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "44.5645659"
@@ -156,7 +156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "34.3999755"
@@ -206,7 +206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "38.029306"
@@ -256,7 +256,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "33.01978205"
@@ -306,7 +306,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": ""
@@ -356,7 +356,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "38.4732259"
@@ -406,7 +406,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "39.952335"
@@ -456,7 +456,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "44.6697805"
@@ -506,7 +506,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "29.9499323"
@@ -556,7 +556,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "60.1713198"
@@ -606,7 +606,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "38.7604815"
@@ -656,7 +656,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "35.6009498"
@@ -706,7 +706,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "32.2217429"
@@ -756,7 +756,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "8.4865914"
@@ -806,7 +806,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "33.9595974"
@@ -856,7 +856,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "42.291707"
@@ -906,7 +906,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": ""
@@ -956,7 +956,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "-1.2832533"
@@ -1006,7 +1006,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "30.421309"
@@ -1056,7 +1056,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "43.6529206"
@@ -1106,7 +1106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "45.4210328"
@@ -1156,7 +1156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "36.9746099"
@@ -1206,7 +1206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "42.2681569"
@@ -1256,7 +1256,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "44.4723989"
@@ -1306,7 +1306,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "-3.3638125"
@@ -1356,7 +1356,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "40.7606467"
@@ -1406,7 +1406,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "50.6765557"
@@ -1456,7 +1456,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "47.6038321"
@@ -1466,13 +1466,13 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$website": {
-          "$t": "350Seattle.org"
+          "$t": "http://350Seattle.org"
         }, 
         "gsx$name": {
           "$t": "350 Seattle"
         }, 
         "content": {
-          "$t": "geom: Seattle, WA, geolocation: Seattle, WA, website: 350Seattle.org, description: We are an established community of climate activists. 350 Seattle is a new group formed to facilitate better coordination, more streamlined campaigns, and more powerful climate action in the Seattle area.  Please see our webpage http://350seattle.org/  to signup to get announcements about our monthly meetings and actions.  (second box down on the right to subscribe.)  , longitude: -122.3300624, latitude: 47.6038321", 
+          "$t": "geom: Seattle, WA, geolocation: Seattle, WA, website: http://350Seattle.org, description: We are an established community of climate activists. 350 Seattle is a new group formed to facilitate better coordination, more streamlined campaigns, and more powerful climate action in the Seattle area.  Please see our webpage http://350seattle.org/  to signup to get announcements about our monthly meetings and actions.  (second box down on the right to subscribe.)  , longitude: -122.3300624, latitude: 47.6038321", 
           "type": "text"
         }, 
         "link": [
@@ -1506,7 +1506,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "-12.9816356"
@@ -1556,7 +1556,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "46.8700801"
@@ -1606,7 +1606,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "26.9405829"
@@ -1616,13 +1616,13 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$website": {
-          "$t": "www.facebook.com/350Egypt"
+          "$t": "https://www.facebook.com/350Egypt"
         }, 
         "gsx$name": {
           "$t": "350 Egypt"
         }, 
         "content": {
-          "$t": "geom: Egypt, geolocation: Egypt, website: www.facebook.com/350Egypt, description: We are associated with 350 Egypt, and have participated in multiple 350 events in the past. We are now organizing around transportation solutions., longitude: 29.6413026225091, latitude: 26.9405829", 
+          "$t": "geom: Egypt, geolocation: Egypt, website: https://www.facebook.com/350Egypt, description: We are associated with 350 Egypt, and have participated in multiple 350 events in the past. We are now organizing around transportation solutions., longitude: 29.6413026225091, latitude: 26.9405829", 
           "type": "text"
         }, 
         "link": [
@@ -1656,7 +1656,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "39.2151996"
@@ -1666,13 +1666,13 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$website": {
-          "$t": "www.hococlimatechange.org"
+          "$t": "http://www.hococlimatechange.org"
         }, 
         "gsx$name": {
           "$t": "Climate Change Initiative of Howard County - CCIHC"
         }, 
         "content": {
-          "$t": "geom: Columbia MD, USA, geolocation: Columbia MD, USA, website: www.hococlimatechange.org, longitude: -76.8546725, latitude: 39.2151996", 
+          "$t": "geom: Columbia MD, USA, geolocation: Columbia MD, USA, website: http://www.hococlimatechange.org, longitude: -76.8546725, latitude: 39.2151996", 
           "type": "text"
         }, 
         "link": [
@@ -1706,7 +1706,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": ""
@@ -1756,7 +1756,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "41.8756208"
@@ -1766,13 +1766,13 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$website": {
-          "$t": "www.facebook.com/chicago350.org"
+          "$t": "http://www.facebook.com/chicago350.org"
         }, 
         "gsx$name": {
           "$t": "Chicago 350"
         }, 
         "content": {
-          "$t": "geom: Chicago, geolocation: Chicago, website: www.facebook.com/chicago350.org, description: We are a volunteer group working to inspire Chicagoans to take on the challenge of climate change. To envision and build toward a future not dominated by fossil fuels and the environmental destruction caused by their mining and use.\n\nWhile connected to a global movement, we take action locally based on issues important to the Chicago area and the mid-west., longitude: -87.6243706, latitude: 41.8756208", 
+          "$t": "geom: Chicago, geolocation: Chicago, website: http://www.facebook.com/chicago350.org, description: We are a volunteer group working to inspire Chicagoans to take on the challenge of climate change. To envision and build toward a future not dominated by fossil fuels and the environmental destruction caused by their mining and use.\n\nWhile connected to a global movement, we take action locally based on issues important to the Chicago area and the mid-west., longitude: -87.6243706, latitude: 41.8756208", 
           "type": "text"
         }, 
         "link": [
@@ -1806,7 +1806,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "45.709097"
@@ -1856,7 +1856,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "40.1784471"
@@ -1866,13 +1866,13 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$website": {
-          "$t": "facebook.com/350jerseyshore"
+          "$t": "https://facebook.com/350jerseyshore"
         }, 
         "gsx$name": {
           "$t": "350 Jersey Shore"
         }, 
         "content": {
-          "$t": "geom: Belmar, NJ, geolocation: Belmar, NJ, website: facebook.com/350jerseyshore, longitude: -74.0218037, latitude: 40.1784471", 
+          "$t": "geom: Belmar, NJ, geolocation: Belmar, NJ, website: https://facebook.com/350jerseyshore, longitude: -74.0218037, latitude: 40.1784471", 
           "type": "text"
         }, 
         "link": [
@@ -1906,7 +1906,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "38.2542376"
@@ -1956,7 +1956,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "38.8462236"
@@ -2006,7 +2006,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "39.1154496"
@@ -2056,7 +2056,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "37.442156"
@@ -2066,13 +2066,13 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$website": {
-          "$t": "www.350siliconvalley.org"
+          "$t": "http://www.350siliconvalley.org"
         }, 
         "gsx$name": {
           "$t": "350 Silicon Valley"
         }, 
         "content": {
-          "$t": "geom: Palo Alto, CA, USA, geolocation: Palo Alto, CA, USA, website: www.350siliconvalley.org, description: 350 Silicon Valley is a local grassroots effort working to solve the climate crisis as part of 350.org a global grassroots climate movement.  350 Silicon Valley includes people from all backgrounds and all ages.  What we all have in common is a deep concern for the planet and our future. , longitude: -122.1634472, latitude: 37.442156", 
+          "$t": "geom: Palo Alto, CA, USA, geolocation: Palo Alto, CA, USA, website: http://www.350siliconvalley.org, description: 350 Silicon Valley is a local grassroots effort working to solve the climate crisis as part of 350.org a global grassroots climate movement.  350 Silicon Valley includes people from all backgrounds and all ages.  What we all have in common is a deep concern for the planet and our future. , longitude: -122.1634472, latitude: 37.442156", 
           "type": "text"
         }, 
         "link": [
@@ -2106,7 +2106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "40.7305991"
@@ -2156,7 +2156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "43.4849133"
@@ -2206,7 +2206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "37.7884969"
@@ -2216,13 +2216,13 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$website": {
-          "$t": "350BayArea.org"
+          "$t": "http://350BayArea.org"
         }, 
         "gsx$name": {
           "$t": "350BayArea"
         }, 
         "content": {
-          "$t": "geom: San Francisco bay area, CA, geolocation: San Francisco bay area, CA, website: 350BayArea.org, description: We are building a grassroots climate movement, working for deep CO2 emission reductions in the San Francisco Bay Area & beyond, and now have SIX campaigns. Plus - there are several groups forming locally. Find out what you need to know on our Campaign, Events and Petition pages (and don't forget to take a look at our FAQs too!), longitude: -122.3558473, latitude: 37.7884969", 
+          "$t": "geom: San Francisco bay area, CA, geolocation: San Francisco bay area, CA, website: http://350BayArea.org, description: We are building a grassroots climate movement, working for deep CO2 emission reductions in the San Francisco Bay Area & beyond, and now have SIX campaigns. Plus - there are several groups forming locally. Find out what you need to know on our Campaign, Events and Petition pages (and don't forget to take a look at our FAQs too!), longitude: -122.3558473, latitude: 37.7884969", 
           "type": "text"
         }, 
         "link": [
@@ -2256,7 +2256,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "43.074761"
@@ -2306,7 +2306,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "38.384423"
@@ -2356,7 +2356,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "3.1570976"
@@ -2406,7 +2406,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "42.3604823"
@@ -2416,13 +2416,13 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$website": {
-          "$t": "www.350ma.org"
+          "$t": "http://www.350ma.org"
         }, 
         "gsx$name": {
           "$t": "350 Massachusetts"
         }, 
         "content": {
-          "$t": "geom: Boston, Cambridge, Lowell, North Shore, Pioneer Valley, South Shore, Worcester (all in MA), geolocation: Boston, MA, website: www.350ma.org, description: 350 Massachusetts is a volunteer-led, campaign-focused initiative convened and facilitated by Better Future Project, connecting and organizing a strong grassroots coalition to address climate change and build a just and secure future beyond fossil fuels. 350MA aims to connect the many people and organizations in Massachusetts who have organized and been involved in 350.org events and who support 350.org\u2019s mission of building a movement to solve the climate crisis. 350MA will join other state-level 350 networks in New England and beyond that carry out state and regional campaigns. It will also aim to be a powerful part of the regional, national and international climate movement that gets us back to 350ppm., longitude: -71.0595678, latitude: 42.3604823", 
+          "$t": "geom: Boston, Cambridge, Lowell, North Shore, Pioneer Valley, South Shore, Worcester (all in MA), geolocation: Boston, MA, website: http://www.350ma.org, description: 350 Massachusetts is a volunteer-led, campaign-focused initiative convened and facilitated by Better Future Project, connecting and organizing a strong grassroots coalition to address climate change and build a just and secure future beyond fossil fuels. 350MA aims to connect the many people and organizations in Massachusetts who have organized and been involved in 350.org events and who support 350.org\u2019s mission of building a movement to solve the climate crisis. 350MA will join other state-level 350 networks in New England and beyond that carry out state and regional campaigns. It will also aim to be a powerful part of the regional, national and international climate movement that gets us back to 350ppm., longitude: -71.0595678, latitude: 42.3604823", 
           "type": "text"
         }, 
         "link": [
@@ -2456,7 +2456,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "33.9595974"
@@ -2466,13 +2466,13 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$website": {
-          "$t": "www.georgiaclimatecoalition.org"
+          "$t": "http://www.georgiaclimatecoalition.org"
         }, 
         "gsx$name": {
           "$t": "Georgia Climate Change Coalition"
         }, 
         "content": {
-          "$t": "geom: Athens, Georgia, geolocation: Athens, Georgia, website: www.georgiaclimatecoalition.org, description: The Georgia Climate Change Coalition is a group of citizens and organizations who share an interest in climate change in Georgia and the Southeast.  Based in Athens, Georgia, we sponsor events and educational programs and promote collaboration between our member groups., longitude: -83.376678, latitude: 33.9595974", 
+          "$t": "geom: Athens, Georgia, geolocation: Athens, Georgia, website: http://www.georgiaclimatecoalition.org, description: The Georgia Climate Change Coalition is a group of citizens and organizations who share an interest in climate change in Georgia and the Southeast.  Based in Athens, Georgia, we sponsor events and educational programs and promote collaboration between our member groups., longitude: -83.376678, latitude: 33.9595974", 
           "type": "text"
         }, 
         "link": [
@@ -2506,7 +2506,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2013-12-18T14:06:35.519Z"
+          "$t": "2013-12-18T14:19:55.768Z"
         }, 
         "gsx$latitude": {
           "$t": "45.5202471"
