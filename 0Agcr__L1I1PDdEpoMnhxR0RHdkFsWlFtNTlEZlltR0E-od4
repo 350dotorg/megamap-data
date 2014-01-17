@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-01-17T00:42:48.773Z"
+      "$t": "2014-01-17T00:43:50.602Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,7 +56,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-17T00:42:48.773Z"
+          "$t": "2014-01-17T00:43:50.602Z"
         }, 
         "title": {
           "$t": "Local Groups", 
