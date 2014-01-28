@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-01-28T20:56:12.570Z"
+      "$t": "2014-01-28T21:09:44.861Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,7 +56,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:56:12.570Z"
+          "$t": "2014-01-28T21:09:44.861Z"
         }, 
         "gsx$latitude": {
           "$t": "41.10445"
@@ -106,7 +106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:56:12.570Z"
+          "$t": "2014-01-28T21:09:44.861Z"
         }, 
         "gsx$latitude": {
           "$t": "-37.82005"
@@ -156,7 +156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:56:12.570Z"
+          "$t": "2014-01-28T21:09:44.861Z"
         }, 
         "gsx$latitude": {
           "$t": "60.604819"
@@ -206,7 +206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:56:12.570Z"
+          "$t": "2014-01-28T21:09:44.861Z"
         }, 
         "gsx$latitude": {
           "$t": "10.7684511"
@@ -256,7 +256,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:56:12.570Z"
+          "$t": "2014-01-28T21:09:44.861Z"
         }, 
         "gsx$latitude": {
           "$t": "48.4266797"
@@ -306,7 +306,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:56:12.570Z"
+          "$t": "2014-01-28T21:09:44.861Z"
         }, 
         "gsx$latitude": {
           "$t": "40.4313684"
@@ -356,7 +356,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:56:12.570Z"
+          "$t": "2014-01-28T21:09:44.861Z"
         }, 
         "gsx$latitude": {
           "$t": "50.4020355"
@@ -406,7 +406,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:56:12.570Z"
+          "$t": "2014-01-28T21:09:44.861Z"
         }, 
         "gsx$latitude": {
           "$t": "52.232938"
@@ -456,7 +456,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:56:12.570Z"
+          "$t": "2014-01-28T21:09:44.861Z"
         }, 
         "gsx$latitude": {
           "$t": "11.1212751"
@@ -506,7 +506,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:56:12.570Z"
+          "$t": "2014-01-28T21:09:44.861Z"
         }, 
         "gsx$latitude": {
           "$t": "52.0716542"
@@ -556,7 +556,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:56:12.570Z"
+          "$t": "2014-01-28T21:09:44.861Z"
         }, 
         "gsx$latitude": {
           "$t": "13.7246004"
@@ -606,7 +606,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:56:12.570Z"
+          "$t": "2014-01-28T21:09:44.861Z"
         }, 
         "gsx$latitude": {
           "$t": "2.968981"
@@ -656,7 +656,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:56:12.570Z"
+          "$t": "2014-01-28T21:09:44.861Z"
         }, 
         "gsx$latitude": {
           "$t": "13.0898019"
@@ -706,7 +706,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:56:12.570Z"
+          "$t": "2014-01-28T21:09:44.861Z"
         }, 
         "gsx$latitude": {
           "$t": "42.3458543"
@@ -747,10 +747,60 @@ Tabletop.singleton.loadSheet({
         "gsx$description": {
           "$t": "During December 19-21, 2013, a forum on \u201cClimate Change and its Mitigation Measures\u201d will be held in the village of Gelati, in Tkibuli municipality. 100 active young people were selected from different parts of Georgia to participate in the forum. They will discuss extraction of the fossil fuel and its linkage with the global climate change, the role of the youth in planning and implementing climate change mitigation measures. On December 21, the youth initiative group will move from Gelati to the city of Tkibuli, where a peaceful march will be   organized calling to fight against the negative anthropogenic impact on climate."
         }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-01-28T21:09:44.861Z"
+        }, 
+        "gsx$latitude": {
+          "$t": ""
+        }, 
+        "title": {
+          "$t": "Kyrgyzstan Power Shift", 
+          "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": "https://www.facebook.com/powershiftkgz"
+        }, 
+        "gsx$name": {
+          "$t": "Kyrgyzstan Power Shift"
+        }, 
+        "content": {
+          "$t": "geom: Bishkek, Kyrgyzstan., geolocation: Bishkek, Kyrgyzstan., website: https://www.facebook.com/powershiftkgz, longitude: 42.8760664", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/cx0b9", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$geolocation": {
+          "$t": "Bishkek, Kyrgyzstan."
+        }, 
+        "gsx$longitude": {
+          "$t": "42.8760664"
+        }, 
+        "gsx$geom": {
+          "$t": "Bishkek, Kyrgyzstan."
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/cx0b9"
+        }, 
+        "gsx$description": {
+          "$t": ""
+        }
       }
     ], 
     "openSearch$totalResults": {
-      "$t": "14"
+      "$t": "15"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values"
