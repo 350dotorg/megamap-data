@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-01-28T20:50:29.536Z"
+      "$t": "2014-01-28T20:51:48.904Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,7 +56,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:50:29.536Z"
+          "$t": "2014-01-28T20:51:48.904Z"
         }, 
         "gsx$latitude": {
           "$t": "41.10445"
@@ -106,7 +106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:50:29.536Z"
+          "$t": "2014-01-28T20:51:48.904Z"
         }, 
         "gsx$latitude": {
           "$t": "-37.82005"
@@ -156,7 +156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:50:29.536Z"
+          "$t": "2014-01-28T20:51:48.904Z"
         }, 
         "gsx$latitude": {
           "$t": "60.604819"
@@ -206,7 +206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:50:29.536Z"
+          "$t": "2014-01-28T20:51:48.904Z"
         }, 
         "gsx$latitude": {
           "$t": "10.7684511"
@@ -256,7 +256,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:50:29.536Z"
+          "$t": "2014-01-28T20:51:48.904Z"
         }, 
         "gsx$latitude": {
           "$t": "48.4266797"
@@ -306,7 +306,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:50:29.536Z"
+          "$t": "2014-01-28T20:51:48.904Z"
         }, 
         "gsx$latitude": {
           "$t": "40.4313684"
@@ -356,7 +356,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:50:29.536Z"
+          "$t": "2014-01-28T20:51:48.904Z"
         }, 
         "gsx$latitude": {
           "$t": "50.4020355"
@@ -406,7 +406,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:50:29.536Z"
+          "$t": "2014-01-28T20:51:48.904Z"
         }, 
         "gsx$latitude": {
           "$t": "52.232938"
@@ -456,7 +456,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:50:29.536Z"
+          "$t": "2014-01-28T20:51:48.904Z"
         }, 
         "gsx$latitude": {
           "$t": "11.1212751"
@@ -506,7 +506,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:50:29.536Z"
+          "$t": "2014-01-28T20:51:48.904Z"
         }, 
         "gsx$latitude": {
           "$t": "52.0716542"
@@ -556,7 +556,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:50:29.536Z"
+          "$t": "2014-01-28T20:51:48.904Z"
         }, 
         "gsx$latitude": {
           "$t": "13.7246004"
@@ -597,10 +597,60 @@ Tabletop.singleton.loadSheet({
         "gsx$description": {
           "$t": "Thailand Power Shift brought together 60 climate leaders and activists across Thailand to plan for grassroots collective action, as part of a global campaign to shift power beyond dirty and destructive energy sources like coal and mega-dams."
         }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-01-28T20:51:48.904Z"
+        }, 
+        "gsx$latitude": {
+          "$t": ""
+        }, 
+        "title": {
+          "$t": "Malaysia Power Shift", 
+          "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": "http://world.350.org/malaysia/"
+        }, 
+        "gsx$name": {
+          "$t": "Malaysia Power Shift"
+        }, 
+        "content": {
+          "$t": "geom: Kajang Selangor, Malaysia, geolocation: Kajang Selangor, Malaysia, website: http://world.350.org/malaysia/, description: Power Shift Malaysia has set out to organize a five-day gathering called #PowerShiftMsia that will bring together 200 young and passionate \u201cclimate leaders\u201d aged 18 to 30 from all over Malaysia.\n\n#PowerShiftMsia aims to empower these young leaders with the knowledge and skills to create a strong Malaysian climate movement.", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/cssly", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$geolocation": {
+          "$t": "Kajang Selangor, Malaysia"
+        }, 
+        "gsx$longitude": {
+          "$t": ""
+        }, 
+        "gsx$geom": {
+          "$t": "Kajang Selangor, Malaysia"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/cssly"
+        }, 
+        "gsx$description": {
+          "$t": "Power Shift Malaysia has set out to organize a five-day gathering called #PowerShiftMsia that will bring together 200 young and passionate \u201cclimate leaders\u201d aged 18 to 30 from all over Malaysia.\n\n#PowerShiftMsia aims to empower these young leaders with the knowledge and skills to create a strong Malaysian climate movement."
+        }
       }
     ], 
     "openSearch$totalResults": {
-      "$t": "11"
+      "$t": "12"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values"
