@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-01-28T15:36:58.395Z"
+      "$t": "2014-01-28T15:37:49.287Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,7 +56,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:36:58.395Z"
+          "$t": "2014-01-28T15:37:49.287Z"
         }, 
         "gsx$latitude": {
           "$t": "41.10445"
@@ -106,7 +106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:36:58.395Z"
+          "$t": "2014-01-28T15:37:49.287Z"
         }, 
         "gsx$latitude": {
           "$t": "-37.82005"
@@ -156,7 +156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:36:58.395Z"
+          "$t": "2014-01-28T15:37:49.287Z"
         }, 
         "gsx$latitude": {
           "$t": "60.604819"
@@ -206,7 +206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:36:58.395Z"
+          "$t": "2014-01-28T15:37:49.287Z"
         }, 
         "gsx$latitude": {
           "$t": "10.7684511"
@@ -256,7 +256,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:36:58.395Z"
+          "$t": "2014-01-28T15:37:49.287Z"
         }, 
         "gsx$latitude": {
           "$t": ""
@@ -266,13 +266,13 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$website": {
-          "$t": ""
+          "$t": "http://www.wearepowershift.ca/"
         }, 
         "gsx$name": {
           "$t": "Canada Power Shift"
         }, 
         "content": {
-          "$t": "geom: Victoria, BC -  Canada, geolocation: Victoria, BC -  Canada, description: PowerShift BC brought together 1000 youth from diverse backgrounds to learn, develop their skills and build the movement for climate, environmental and social justice. ", 
+          "$t": "geom: Victoria, BC -  Canada, geolocation: Victoria, BC -  Canada, website: http://www.wearepowershift.ca/, description: PowerShift BC brought together 1000 youth from diverse backgrounds to learn, develop their skills and build the movement for climate, environmental and social justice. ", 
           "type": "text"
         }, 
         "link": [
