@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-01-28T20:49:42.384Z"
+      "$t": "2014-01-28T20:50:29.536Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,7 +56,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:49:42.384Z"
+          "$t": "2014-01-28T20:50:29.536Z"
         }, 
         "gsx$latitude": {
           "$t": "41.10445"
@@ -106,7 +106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:49:42.384Z"
+          "$t": "2014-01-28T20:50:29.536Z"
         }, 
         "gsx$latitude": {
           "$t": "-37.82005"
@@ -156,7 +156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:49:42.384Z"
+          "$t": "2014-01-28T20:50:29.536Z"
         }, 
         "gsx$latitude": {
           "$t": "60.604819"
@@ -206,7 +206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:49:42.384Z"
+          "$t": "2014-01-28T20:50:29.536Z"
         }, 
         "gsx$latitude": {
           "$t": "10.7684511"
@@ -256,7 +256,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:49:42.384Z"
+          "$t": "2014-01-28T20:50:29.536Z"
         }, 
         "gsx$latitude": {
           "$t": "48.4266797"
@@ -306,7 +306,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:49:42.384Z"
+          "$t": "2014-01-28T20:50:29.536Z"
         }, 
         "gsx$latitude": {
           "$t": "40.4313684"
@@ -356,7 +356,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:49:42.384Z"
+          "$t": "2014-01-28T20:50:29.536Z"
         }, 
         "gsx$latitude": {
           "$t": "50.4020355"
@@ -406,7 +406,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:49:42.384Z"
+          "$t": "2014-01-28T20:50:29.536Z"
         }, 
         "gsx$latitude": {
           "$t": "52.232938"
@@ -456,7 +456,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:49:42.384Z"
+          "$t": "2014-01-28T20:50:29.536Z"
         }, 
         "gsx$latitude": {
           "$t": "11.1212751"
@@ -506,7 +506,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:49:42.384Z"
+          "$t": "2014-01-28T20:50:29.536Z"
         }, 
         "gsx$latitude": {
           "$t": "52.0716542"
@@ -556,10 +556,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:49:42.384Z"
+          "$t": "2014-01-28T20:50:29.536Z"
         }, 
         "gsx$latitude": {
-          "$t": ""
+          "$t": "13.7246004"
         }, 
         "title": {
           "$t": "Thailand Power Shift", 
@@ -572,7 +572,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Thailand Power Shift"
         }, 
         "content": {
-          "$t": "geom: Bangkok, Thailand, geolocation: Bangkok, Thailand, website: https://www.facebook.com/thailand350, description: Thailand Power Shift brought together 60 climate leaders and activists across Thailand to plan for grassroots collective action, as part of a global campaign to shift power beyond dirty and destructive energy sources like coal and mega-dams.", 
+          "$t": "geom: Bangkok, Thailand, geolocation: Bangkok, Thailand, website: https://www.facebook.com/thailand350, description: Thailand Power Shift brought together 60 climate leaders and activists across Thailand to plan for grassroots collective action, as part of a global campaign to shift power beyond dirty and destructive energy sources like coal and mega-dams., longitude: 100.6331107, latitude: 13.7246004", 
           "type": "text"
         }, 
         "link": [
@@ -586,7 +586,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Bangkok, Thailand"
         }, 
         "gsx$longitude": {
-          "$t": ""
+          "$t": "100.6331107"
         }, 
         "gsx$geom": {
           "$t": "Bangkok, Thailand"
