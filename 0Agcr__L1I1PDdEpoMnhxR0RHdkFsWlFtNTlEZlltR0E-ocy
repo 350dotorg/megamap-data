@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-01-28T15:50:46.263Z"
+      "$t": "2014-01-28T15:51:10.194Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,7 +56,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:50:46.263Z"
+          "$t": "2014-01-28T15:51:10.194Z"
         }, 
         "gsx$latitude": {
           "$t": "41.10445"
@@ -106,7 +106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:50:46.263Z"
+          "$t": "2014-01-28T15:51:10.194Z"
         }, 
         "gsx$latitude": {
           "$t": "-37.82005"
@@ -156,7 +156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:50:46.263Z"
+          "$t": "2014-01-28T15:51:10.194Z"
         }, 
         "gsx$latitude": {
           "$t": "60.604819"
@@ -206,7 +206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:50:46.263Z"
+          "$t": "2014-01-28T15:51:10.194Z"
         }, 
         "gsx$latitude": {
           "$t": "10.7684511"
@@ -256,7 +256,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:50:46.263Z"
+          "$t": "2014-01-28T15:51:10.194Z"
         }, 
         "gsx$latitude": {
           "$t": "48.4266797"
@@ -306,7 +306,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:50:46.263Z"
+          "$t": "2014-01-28T15:51:10.194Z"
         }, 
         "gsx$latitude": {
           "$t": "40.4313684"
@@ -356,7 +356,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:50:46.263Z"
+          "$t": "2014-01-28T15:51:10.194Z"
         }, 
         "gsx$latitude": {
           "$t": "50.4020355"
@@ -406,7 +406,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:50:46.263Z"
+          "$t": "2014-01-28T15:51:10.194Z"
         }, 
         "gsx$latitude": {
           "$t": "52.232938"
@@ -456,10 +456,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:50:46.263Z"
+          "$t": "2014-01-28T15:51:10.194Z"
         }, 
         "gsx$latitude": {
-          "$t": ""
+          "$t": "11.1212751"
         }, 
         "title": {
           "$t": "Vietnam's National Day of Action for Energy and Climate", 
@@ -472,7 +472,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Vietnam's National Day of Action for Energy and Climate"
         }, 
         "content": {
-          "$t": "geom: Phu My Hung, Ho Chi Minh City, Vietnam, geolocation: Phu My Hung, Ho Chi Minh City, Vietnam, website: https://www.facebook.com/VietnamPowerShift, description: N\u00d3NG\" (Hot), is a key part of Vietnam Power Shift Campaign, organized by 350.org Vietnam. The event aims to highlight the urgency of the climate crisis, promote renewable energy and inspire and engage the communities in shifting to cleaner energies.", 
+          "$t": "geom: Phu My Hung, Ho Chi Minh City, Vietnam, geolocation: Phu My Hung, Ho Chi Minh City, Vietnam, website: https://www.facebook.com/VietnamPowerShift, description: N\u00d3NG\" (Hot), is a key part of Vietnam Power Shift Campaign, organized by 350.org Vietnam. The event aims to highlight the urgency of the climate crisis, promote renewable energy and inspire and engage the communities in shifting to cleaner energies., longitude: 106.4629054, latitude: 11.1212751", 
           "type": "text"
         }, 
         "link": [
@@ -486,7 +486,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Phu My Hung, Ho Chi Minh City, Vietnam"
         }, 
         "gsx$longitude": {
-          "$t": ""
+          "$t": "106.4629054"
         }, 
         "gsx$geom": {
           "$t": "Phu My Hung, Ho Chi Minh City, Vietnam"
