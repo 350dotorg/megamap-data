@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-01-28T15:43:40.733Z"
+      "$t": "2014-01-28T15:44:50.967Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,7 +56,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:43:40.733Z"
+          "$t": "2014-01-28T15:44:50.967Z"
         }, 
         "gsx$latitude": {
           "$t": "41.10445"
@@ -106,7 +106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:43:40.733Z"
+          "$t": "2014-01-28T15:44:50.967Z"
         }, 
         "gsx$latitude": {
           "$t": "-37.82005"
@@ -156,7 +156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:43:40.733Z"
+          "$t": "2014-01-28T15:44:50.967Z"
         }, 
         "gsx$latitude": {
           "$t": "60.604819"
@@ -206,7 +206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:43:40.733Z"
+          "$t": "2014-01-28T15:44:50.967Z"
         }, 
         "gsx$latitude": {
           "$t": "10.7684511"
@@ -256,7 +256,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:43:40.733Z"
+          "$t": "2014-01-28T15:44:50.967Z"
         }, 
         "gsx$latitude": {
           "$t": "48.4266797"
@@ -306,7 +306,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:43:40.733Z"
+          "$t": "2014-01-28T15:44:50.967Z"
         }, 
         "gsx$latitude": {
           "$t": "40.4313684"
@@ -356,23 +356,23 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:43:40.733Z"
+          "$t": "2014-01-28T15:44:50.967Z"
         }, 
         "gsx$latitude": {
           "$t": "50.4020355"
         }, 
         "title": {
-          "$t": "Row: 8", 
+          "$t": "Ukraine Power Shift", 
           "type": "text"
         }, 
         "gsx$website": {
-          "$t": ""
+          "$t": "http://www.climateinfo.org.ua/eng/node/875"
         }, 
         "gsx$name": {
-          "$t": ""
+          "$t": "Ukraine Power Shift"
         }, 
         "content": {
-          "$t": "longitude: 30.5326905, latitude: 50.4020355", 
+          "$t": "geom: Kiev, Kyiv city, Ukraine, geolocation: Kiev, Kyiv city, Ukraine, website: http://www.climateinfo.org.ua/eng/node/875, description: A week-long series of events in 4 largest cities of Ukraine: Kyiv, Kharkiv, Dnipropetrovsk and Lviv. Events will include lectures, movie screenings, and flash mobs., longitude: 30.5326905, latitude: 50.4020355", 
           "type": "text"
         }, 
         "link": [
@@ -383,19 +383,19 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Kiev, Kyiv city, Ukraine"
         }, 
         "gsx$longitude": {
           "$t": "30.5326905"
         }, 
         "gsx$geom": {
-          "$t": ""
+          "$t": "Kiev, Kyiv city, Ukraine"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/clrrx"
         }, 
         "gsx$description": {
-          "$t": ""
+          "$t": "A week-long series of events in 4 largest cities of Ukraine: Kyiv, Kharkiv, Dnipropetrovsk and Lviv. Events will include lectures, movie screenings, and flash mobs."
         }
       }
     ], 
