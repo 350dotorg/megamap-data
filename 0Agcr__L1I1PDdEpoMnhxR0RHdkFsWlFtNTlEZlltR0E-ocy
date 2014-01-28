@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-01-28T15:46:46.450Z"
+      "$t": "2014-01-28T15:49:58.020Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,7 +56,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:46:46.450Z"
+          "$t": "2014-01-28T15:49:58.020Z"
         }, 
         "gsx$latitude": {
           "$t": "41.10445"
@@ -106,7 +106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:46:46.450Z"
+          "$t": "2014-01-28T15:49:58.020Z"
         }, 
         "gsx$latitude": {
           "$t": "-37.82005"
@@ -156,7 +156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:46:46.450Z"
+          "$t": "2014-01-28T15:49:58.020Z"
         }, 
         "gsx$latitude": {
           "$t": "60.604819"
@@ -206,7 +206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:46:46.450Z"
+          "$t": "2014-01-28T15:49:58.020Z"
         }, 
         "gsx$latitude": {
           "$t": "10.7684511"
@@ -256,7 +256,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:46:46.450Z"
+          "$t": "2014-01-28T15:49:58.020Z"
         }, 
         "gsx$latitude": {
           "$t": "48.4266797"
@@ -306,7 +306,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:46:46.450Z"
+          "$t": "2014-01-28T15:49:58.020Z"
         }, 
         "gsx$latitude": {
           "$t": "40.4313684"
@@ -356,7 +356,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:46:46.450Z"
+          "$t": "2014-01-28T15:49:58.020Z"
         }, 
         "gsx$latitude": {
           "$t": "50.4020355"
@@ -406,7 +406,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:46:46.450Z"
+          "$t": "2014-01-28T15:49:58.020Z"
         }, 
         "gsx$latitude": {
           "$t": "52.232938"
@@ -447,10 +447,60 @@ Tabletop.singleton.loadSheet({
         "gsx$description": {
           "$t": "Power Shift Central & Eastern Europe will take place right before COP19  - the Meeting of the Parties to the Kyoto Protocol, in Warsaw, Poland."
         }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-01-28T15:49:58.020Z"
+        }, 
+        "gsx$latitude": {
+          "$t": ""
+        }, 
+        "title": {
+          "$t": "Vietnam's National Day of Action for Energy and Climate", 
+          "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": ""
+        }, 
+        "gsx$name": {
+          "$t": "Vietnam's National Day of Action for Energy and Climate"
+        }, 
+        "content": {
+          "$t": "", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/cztg3", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$geolocation": {
+          "$t": ""
+        }, 
+        "gsx$longitude": {
+          "$t": ""
+        }, 
+        "gsx$geom": {
+          "$t": ""
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/cztg3"
+        }, 
+        "gsx$description": {
+          "$t": ""
+        }
       }
     ], 
     "openSearch$totalResults": {
-      "$t": "8"
+      "$t": "9"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values"
