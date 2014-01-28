@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-01-28T15:40:02.839Z"
+      "$t": "2014-01-28T15:40:33.686Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,7 +56,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:40:02.839Z"
+          "$t": "2014-01-28T15:40:33.686Z"
         }, 
         "gsx$latitude": {
           "$t": "41.10445"
@@ -106,7 +106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:40:02.839Z"
+          "$t": "2014-01-28T15:40:33.686Z"
         }, 
         "gsx$latitude": {
           "$t": "-37.82005"
@@ -156,7 +156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:40:02.839Z"
+          "$t": "2014-01-28T15:40:33.686Z"
         }, 
         "gsx$latitude": {
           "$t": "60.604819"
@@ -206,7 +206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:40:02.839Z"
+          "$t": "2014-01-28T15:40:33.686Z"
         }, 
         "gsx$latitude": {
           "$t": "10.7684511"
@@ -256,7 +256,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:40:02.839Z"
+          "$t": "2014-01-28T15:40:33.686Z"
         }, 
         "gsx$latitude": {
           "$t": "48.4266797"
@@ -306,10 +306,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:40:02.839Z"
+          "$t": "2014-01-28T15:40:33.686Z"
         }, 
         "gsx$latitude": {
-          "$t": ""
+          "$t": "40.4313684"
         }, 
         "title": {
           "$t": "USA Power Shift", 
@@ -322,7 +322,7 @@ Tabletop.singleton.loadSheet({
           "$t": "USA Power Shift"
         }, 
         "content": {
-          "$t": "geom: Pittsburgh, PA - USA, geolocation: Pittsburgh, PA - USA, website: http://www.wearepowershift.org/, description: More than ten thousand youth leaders from every walk of life \u2014 college students, young environmental justice leaders, DREAMers, young people of faith, young workers \u2014  came together to learn from one another, to build and launch strategic campaigns in their own communities.", 
+          "$t": "geom: Pittsburgh, PA - USA, geolocation: Pittsburgh, PA - USA, website: http://www.wearepowershift.org/, description: More than ten thousand youth leaders from every walk of life \u2014 college students, young environmental justice leaders, DREAMers, young people of faith, young workers \u2014  came together to learn from one another, to build and launch strategic campaigns in their own communities., longitude: -79.9805004, latitude: 40.4313684", 
           "type": "text"
         }, 
         "link": [
@@ -336,7 +336,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Pittsburgh, PA - USA"
         }, 
         "gsx$longitude": {
-          "$t": ""
+          "$t": "-79.9805004"
         }, 
         "gsx$geom": {
           "$t": "Pittsburgh, PA - USA"
