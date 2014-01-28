@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-01-28T15:45:43.235Z"
+      "$t": "2014-01-28T15:46:46.450Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,7 +56,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:45:43.235Z"
+          "$t": "2014-01-28T15:46:46.450Z"
         }, 
         "gsx$latitude": {
           "$t": "41.10445"
@@ -106,7 +106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:45:43.235Z"
+          "$t": "2014-01-28T15:46:46.450Z"
         }, 
         "gsx$latitude": {
           "$t": "-37.82005"
@@ -156,7 +156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:45:43.235Z"
+          "$t": "2014-01-28T15:46:46.450Z"
         }, 
         "gsx$latitude": {
           "$t": "60.604819"
@@ -206,7 +206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:45:43.235Z"
+          "$t": "2014-01-28T15:46:46.450Z"
         }, 
         "gsx$latitude": {
           "$t": "10.7684511"
@@ -256,7 +256,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:45:43.235Z"
+          "$t": "2014-01-28T15:46:46.450Z"
         }, 
         "gsx$latitude": {
           "$t": "48.4266797"
@@ -306,7 +306,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:45:43.235Z"
+          "$t": "2014-01-28T15:46:46.450Z"
         }, 
         "gsx$latitude": {
           "$t": "40.4313684"
@@ -356,7 +356,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:45:43.235Z"
+          "$t": "2014-01-28T15:46:46.450Z"
         }, 
         "gsx$latitude": {
           "$t": "50.4020355"
@@ -406,10 +406,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:45:43.235Z"
+          "$t": "2014-01-28T15:46:46.450Z"
         }, 
         "gsx$latitude": {
-          "$t": ""
+          "$t": "52.232938"
         }, 
         "title": {
           "$t": "Power Shift Central & Eastern Europe", 
@@ -422,7 +422,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Power Shift Central & Eastern Europe"
         }, 
         "content": {
-          "$t": "geom: Warsaw, Poland, geolocation: Warsaw, Poland, website: http://www.powershift-cee.org/", 
+          "$t": "geom: Warsaw, Poland, geolocation: Warsaw, Poland, website: http://www.powershift-cee.org/, description: Power Shift Central & Eastern Europe will take place right before COP19  - the Meeting of the Parties to the Kyoto Protocol, in Warsaw, Poland., longitude: 21.0611942, latitude: 52.232938", 
           "type": "text"
         }, 
         "link": [
@@ -436,7 +436,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Warsaw, Poland"
         }, 
         "gsx$longitude": {
-          "$t": ""
+          "$t": "21.0611942"
         }, 
         "gsx$geom": {
           "$t": "Warsaw, Poland"
@@ -445,7 +445,7 @@ Tabletop.singleton.loadSheet({
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/cyevm"
         }, 
         "gsx$description": {
-          "$t": ""
+          "$t": "Power Shift Central & Eastern Europe will take place right before COP19  - the Meeting of the Parties to the Kyoto Protocol, in Warsaw, Poland."
         }
       }
     ], 
