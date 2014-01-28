@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-01-28T11:58:32.460Z"
+      "$t": "2014-01-28T12:02:01.728Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -59,7 +59,7 @@ Tabletop.singleton.loadSheet({
           "$t": "41"
         }, 
         "updated": {
-          "$t": "2014-01-28T11:58:32.460Z"
+          "$t": "2014-01-28T12:02:01.728Z"
         }, 
         "gsx$popupanchory": {
           "$t": "-32"
@@ -127,7 +127,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-01-28T11:58:32.460Z"
+          "$t": "2014-01-28T12:02:01.728Z"
         }, 
         "gsx$popupanchory": {
           "$t": "-25"
@@ -195,10 +195,10 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-01-28T11:58:32.460Z"
+          "$t": "2014-01-28T12:02:01.728Z"
         }, 
         "gsx$popupanchory": {
-          "$t": ""
+          "$t": "-25"
         }, 
         "gsx$shadowanchorx": {
           "$t": ""
@@ -208,26 +208,26 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$iconheight": {
-          "$t": ""
+          "$t": "53"
         }, 
         "gsx$shadowanchory": {
           "$t": ""
         }, 
         "gsx$iconwidth": {
-          "$t": ""
+          "$t": "53"
         }, 
         "gsx$iconurl": {
-          "$t": ""
+          "$t": "http://static.local.350.org/images/map_markers/map-pin-multiple.png"
         }, 
         "content": {
-          "$t": "", 
+          "$t": "iconurl: http://static.local.350.org/images/map_markers/map-pin-multiple.png, iconwidth: 53, iconheight: 53, iconanchorx: 50, iconanchory: 50, popupanchorx: -25, popupanchory: -25", 
           "type": "text"
         }, 
         "gsx$type": {
           "$t": "Global Power Shifts"
         }, 
         "gsx$popupanchorx": {
-          "$t": ""
+          "$t": "-25"
         }, 
         "link": [
           {
@@ -237,7 +237,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$iconanchorx": {
-          "$t": ""
+          "$t": "50"
         }, 
         "gsx$shadowheight": {
           "$t": ""
@@ -246,7 +246,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "gsx$iconanchory": {
-          "$t": ""
+          "$t": "50"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od7/public/values/cre1l"
