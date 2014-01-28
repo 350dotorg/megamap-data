@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-01-28T15:37:49.287Z"
+      "$t": "2014-01-28T15:38:51.916Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -59,7 +59,7 @@ Tabletop.singleton.loadSheet({
           "$t": "41"
         }, 
         "updated": {
-          "$t": "2014-01-28T15:37:49.287Z"
+          "$t": "2014-01-28T15:38:51.916Z"
         }, 
         "gsx$popupanchory": {
           "$t": "-32"
@@ -127,7 +127,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-01-28T15:37:49.287Z"
+          "$t": "2014-01-28T15:38:51.916Z"
         }, 
         "gsx$popupanchory": {
           "$t": "-25"
@@ -195,7 +195,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-01-28T15:37:49.287Z"
+          "$t": "2014-01-28T15:38:51.916Z"
         }, 
         "gsx$popupanchory": {
           "$t": "-25"
@@ -220,14 +220,14 @@ Tabletop.singleton.loadSheet({
           "$t": "https://s3.amazonaws.com/s3.350.org/images/arrow_gps_down.png"
         }, 
         "content": {
-          "$t": "iconurl: https://s3.amazonaws.com/s3.350.org/images/arrow_gps_down.png, iconwidth: 53, iconheight: 48, iconanchorx: 30, iconanchory: 30, popupanchorx: -50, popupanchory: -25", 
+          "$t": "iconurl: https://s3.amazonaws.com/s3.350.org/images/arrow_gps_down.png, iconwidth: 53, iconheight: 48, iconanchorx: 30, iconanchory: 30, popupanchorx: 0, popupanchory: -25", 
           "type": "text"
         }, 
         "gsx$type": {
           "$t": "Global Power Shifts"
         }, 
         "gsx$popupanchorx": {
-          "$t": "-50"
+          "$t": "0"
         }, 
         "link": [
           {
