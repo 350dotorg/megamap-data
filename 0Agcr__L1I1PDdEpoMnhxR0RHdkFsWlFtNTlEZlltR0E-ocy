@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-01-28T15:49:58.020Z"
+      "$t": "2014-01-28T15:50:46.263Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,7 +56,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:49:58.020Z"
+          "$t": "2014-01-28T15:50:46.263Z"
         }, 
         "gsx$latitude": {
           "$t": "41.10445"
@@ -106,7 +106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:49:58.020Z"
+          "$t": "2014-01-28T15:50:46.263Z"
         }, 
         "gsx$latitude": {
           "$t": "-37.82005"
@@ -156,7 +156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:49:58.020Z"
+          "$t": "2014-01-28T15:50:46.263Z"
         }, 
         "gsx$latitude": {
           "$t": "60.604819"
@@ -206,7 +206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:49:58.020Z"
+          "$t": "2014-01-28T15:50:46.263Z"
         }, 
         "gsx$latitude": {
           "$t": "10.7684511"
@@ -256,7 +256,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:49:58.020Z"
+          "$t": "2014-01-28T15:50:46.263Z"
         }, 
         "gsx$latitude": {
           "$t": "48.4266797"
@@ -306,7 +306,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:49:58.020Z"
+          "$t": "2014-01-28T15:50:46.263Z"
         }, 
         "gsx$latitude": {
           "$t": "40.4313684"
@@ -356,7 +356,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:49:58.020Z"
+          "$t": "2014-01-28T15:50:46.263Z"
         }, 
         "gsx$latitude": {
           "$t": "50.4020355"
@@ -406,7 +406,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:49:58.020Z"
+          "$t": "2014-01-28T15:50:46.263Z"
         }, 
         "gsx$latitude": {
           "$t": "52.232938"
@@ -456,7 +456,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:49:58.020Z"
+          "$t": "2014-01-28T15:50:46.263Z"
         }, 
         "gsx$latitude": {
           "$t": ""
@@ -466,13 +466,13 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$website": {
-          "$t": ""
+          "$t": "https://www.facebook.com/VietnamPowerShift"
         }, 
         "gsx$name": {
           "$t": "Vietnam's National Day of Action for Energy and Climate"
         }, 
         "content": {
-          "$t": "", 
+          "$t": "geom: Phu My Hung, Ho Chi Minh City, Vietnam, geolocation: Phu My Hung, Ho Chi Minh City, Vietnam, website: https://www.facebook.com/VietnamPowerShift, description: N\u00d3NG\" (Hot), is a key part of Vietnam Power Shift Campaign, organized by 350.org Vietnam. The event aims to highlight the urgency of the climate crisis, promote renewable energy and inspire and engage the communities in shifting to cleaner energies.", 
           "type": "text"
         }, 
         "link": [
@@ -483,19 +483,19 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Phu My Hung, Ho Chi Minh City, Vietnam"
         }, 
         "gsx$longitude": {
           "$t": ""
         }, 
         "gsx$geom": {
-          "$t": ""
+          "$t": "Phu My Hung, Ho Chi Minh City, Vietnam"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/cztg3"
         }, 
         "gsx$description": {
-          "$t": ""
+          "$t": "N\u00d3NG\" (Hot), is a key part of Vietnam Power Shift Campaign, organized by 350.org Vietnam. The event aims to highlight the urgency of the climate crisis, promote renewable energy and inspire and engage the communities in shifting to cleaner energies."
         }
       }
     ], 
