@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-01-28T11:33:19.833Z"
+      "$t": "2014-01-28T11:35:00.575Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,7 +56,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T11:33:19.833Z"
+          "$t": "2014-01-28T11:35:00.575Z"
         }, 
         "title": {
           "$t": "Local Groups", 
@@ -97,7 +97,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T11:33:19.833Z"
+          "$t": "2014-01-28T11:35:00.575Z"
         }, 
         "title": {
           "$t": "Global Power Shifts", 
@@ -110,7 +110,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "content": {
-          "$t": "", 
+          "$t": "template:           <div class=\"popup_box\">\n            <div class=\"popup_box_header\">\n              <strong><a target=\"_blank\" href=\"{{ website }}\">{{ name }}</a></strong>\n            </div>\n            <em>{{ geom }}</em>\n            <hr />\n            {{ description }}\n          </div>\n", 
           "type": "text"
         }, 
         "gsx$type": {
@@ -124,7 +124,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$template": {
-          "$t": ""
+          "$t": "          <div class=\"popup_box\">\n            <div class=\"popup_box_header\">\n              <strong><a target=\"_blank\" href=\"{{ website }}\">{{ name }}</a></strong>\n            </div>\n            <em>{{ geom }}</em>\n            <hr />\n            {{ description }}\n          </div>\n"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od4/public/values/cpzh4"
