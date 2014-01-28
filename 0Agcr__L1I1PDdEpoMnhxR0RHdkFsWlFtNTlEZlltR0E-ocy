@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-01-28T11:37:22.496Z"
+      "$t": "2014-01-28T11:46:57.647Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -47,8 +47,60 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/", 
+    "entry": [
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-01-28T11:46:57.647Z"
+        }, 
+        "gsx$latitude": {
+          "$t": ""
+        }, 
+        "title": {
+          "$t": "Global Power Shift Phase 1", 
+          "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": "http://globalpowershift.org/"
+        }, 
+        "gsx$name": {
+          "$t": "Global Power Shift Phase 1"
+        }, 
+        "content": {
+          "$t": "geom: Istanbul, Turkey, geolocation: Istanbul, Turkey, website: http://globalpowershift.org/, description: Global Power Shift is the starting point for a new phase in the international climate movement. First, hundreds of climate leaders from around the world gathered in Istanbul to share stories, learn skills, and sharpen strategies. These leaders have now returned to their home countries to spark a wave of convergences, campaigns, and mobilsations for climate action.", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/cokwr", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$geolocation": {
+          "$t": "Istanbul, Turkey"
+        }, 
+        "gsx$longitude": {
+          "$t": ""
+        }, 
+        "gsx$geom": {
+          "$t": "Istanbul, Turkey"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/cokwr"
+        }, 
+        "gsx$description": {
+          "$t": "Global Power Shift is the starting point for a new phase in the international climate movement. First, hundreds of climate leaders from around the world gathered in Istanbul to share stories, learn skills, and sharpen strategies. These leaders have now returned to their home countries to spark a wave of convergences, campaigns, and mobilsations for climate action."
+        }
+      }
+    ], 
     "openSearch$totalResults": {
-      "$t": "0"
+      "$t": "1"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values"
