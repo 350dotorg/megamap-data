@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-01-28T15:44:50.967Z"
+      "$t": "2014-01-28T15:45:43.235Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,7 +56,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:44:50.967Z"
+          "$t": "2014-01-28T15:45:43.235Z"
         }, 
         "gsx$latitude": {
           "$t": "41.10445"
@@ -106,7 +106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:44:50.967Z"
+          "$t": "2014-01-28T15:45:43.235Z"
         }, 
         "gsx$latitude": {
           "$t": "-37.82005"
@@ -156,7 +156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:44:50.967Z"
+          "$t": "2014-01-28T15:45:43.235Z"
         }, 
         "gsx$latitude": {
           "$t": "60.604819"
@@ -206,7 +206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:44:50.967Z"
+          "$t": "2014-01-28T15:45:43.235Z"
         }, 
         "gsx$latitude": {
           "$t": "10.7684511"
@@ -256,7 +256,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:44:50.967Z"
+          "$t": "2014-01-28T15:45:43.235Z"
         }, 
         "gsx$latitude": {
           "$t": "48.4266797"
@@ -306,7 +306,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:44:50.967Z"
+          "$t": "2014-01-28T15:45:43.235Z"
         }, 
         "gsx$latitude": {
           "$t": "40.4313684"
@@ -356,7 +356,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:44:50.967Z"
+          "$t": "2014-01-28T15:45:43.235Z"
         }, 
         "gsx$latitude": {
           "$t": "50.4020355"
@@ -397,10 +397,60 @@ Tabletop.singleton.loadSheet({
         "gsx$description": {
           "$t": "A week-long series of events in 4 largest cities of Ukraine: Kyiv, Kharkiv, Dnipropetrovsk and Lviv. Events will include lectures, movie screenings, and flash mobs."
         }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-01-28T15:45:43.235Z"
+        }, 
+        "gsx$latitude": {
+          "$t": ""
+        }, 
+        "title": {
+          "$t": "Power Shift Central & Eastern Europe", 
+          "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": "http://www.powershift-cee.org/"
+        }, 
+        "gsx$name": {
+          "$t": "Power Shift Central & Eastern Europe"
+        }, 
+        "content": {
+          "$t": "geom: Warsaw, Poland, geolocation: Warsaw, Poland, website: http://www.powershift-cee.org/", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/cyevm", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$geolocation": {
+          "$t": "Warsaw, Poland"
+        }, 
+        "gsx$longitude": {
+          "$t": ""
+        }, 
+        "gsx$geom": {
+          "$t": "Warsaw, Poland"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/cyevm"
+        }, 
+        "gsx$description": {
+          "$t": ""
+        }
       }
     ], 
     "openSearch$totalResults": {
-      "$t": "7"
+      "$t": "8"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values"
