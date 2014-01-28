@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-01-28T11:35:11.129Z"
+      "$t": "2014-01-28T11:37:22.496Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -59,7 +59,7 @@ Tabletop.singleton.loadSheet({
           "$t": "41"
         }, 
         "updated": {
-          "$t": "2014-01-28T11:35:11.129Z"
+          "$t": "2014-01-28T11:37:22.496Z"
         }, 
         "gsx$popupanchory": {
           "$t": "-32"
@@ -127,7 +127,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-01-28T11:35:11.129Z"
+          "$t": "2014-01-28T11:37:22.496Z"
         }, 
         "gsx$popupanchory": {
           "$t": "-25"
@@ -183,10 +183,78 @@ Tabletop.singleton.loadSheet({
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od7/public/values/cpzh4"
         }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$shadowwidth": {
+          "$t": ""
+        }, 
+        "updated": {
+          "$t": "2014-01-28T11:37:22.496Z"
+        }, 
+        "gsx$popupanchory": {
+          "$t": ""
+        }, 
+        "gsx$shadowanchorx": {
+          "$t": ""
+        }, 
+        "title": {
+          "$t": "Global Power Shifts", 
+          "type": "text"
+        }, 
+        "gsx$iconheight": {
+          "$t": ""
+        }, 
+        "gsx$shadowanchory": {
+          "$t": ""
+        }, 
+        "gsx$iconwidth": {
+          "$t": ""
+        }, 
+        "gsx$iconurl": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "", 
+          "type": "text"
+        }, 
+        "gsx$type": {
+          "$t": "Global Power Shifts"
+        }, 
+        "gsx$popupanchorx": {
+          "$t": ""
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od7/public/values/cre1l", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$iconanchorx": {
+          "$t": ""
+        }, 
+        "gsx$shadowheight": {
+          "$t": ""
+        }, 
+        "gsx$shadowurl": {
+          "$t": ""
+        }, 
+        "gsx$iconanchory": {
+          "$t": ""
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od7/public/values/cre1l"
+        }
       }
     ], 
     "openSearch$totalResults": {
-      "$t": "2"
+      "$t": "3"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od7/public/values"
