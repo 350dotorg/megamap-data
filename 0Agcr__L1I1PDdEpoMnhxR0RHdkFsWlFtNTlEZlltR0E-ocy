@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-01-28T20:51:48.904Z"
+      "$t": "2014-01-28T20:52:59.871Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,7 +56,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:51:48.904Z"
+          "$t": "2014-01-28T20:52:59.871Z"
         }, 
         "gsx$latitude": {
           "$t": "41.10445"
@@ -106,7 +106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:51:48.904Z"
+          "$t": "2014-01-28T20:52:59.871Z"
         }, 
         "gsx$latitude": {
           "$t": "-37.82005"
@@ -156,7 +156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:51:48.904Z"
+          "$t": "2014-01-28T20:52:59.871Z"
         }, 
         "gsx$latitude": {
           "$t": "60.604819"
@@ -206,7 +206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:51:48.904Z"
+          "$t": "2014-01-28T20:52:59.871Z"
         }, 
         "gsx$latitude": {
           "$t": "10.7684511"
@@ -256,7 +256,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:51:48.904Z"
+          "$t": "2014-01-28T20:52:59.871Z"
         }, 
         "gsx$latitude": {
           "$t": "48.4266797"
@@ -306,7 +306,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:51:48.904Z"
+          "$t": "2014-01-28T20:52:59.871Z"
         }, 
         "gsx$latitude": {
           "$t": "40.4313684"
@@ -356,7 +356,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:51:48.904Z"
+          "$t": "2014-01-28T20:52:59.871Z"
         }, 
         "gsx$latitude": {
           "$t": "50.4020355"
@@ -406,7 +406,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:51:48.904Z"
+          "$t": "2014-01-28T20:52:59.871Z"
         }, 
         "gsx$latitude": {
           "$t": "52.232938"
@@ -456,7 +456,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:51:48.904Z"
+          "$t": "2014-01-28T20:52:59.871Z"
         }, 
         "gsx$latitude": {
           "$t": "11.1212751"
@@ -506,7 +506,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:51:48.904Z"
+          "$t": "2014-01-28T20:52:59.871Z"
         }, 
         "gsx$latitude": {
           "$t": "52.0716542"
@@ -556,7 +556,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:51:48.904Z"
+          "$t": "2014-01-28T20:52:59.871Z"
         }, 
         "gsx$latitude": {
           "$t": "13.7246004"
@@ -606,10 +606,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:51:48.904Z"
+          "$t": "2014-01-28T20:52:59.871Z"
         }, 
         "gsx$latitude": {
-          "$t": ""
+          "$t": "2.968981"
         }, 
         "title": {
           "$t": "Malaysia Power Shift", 
@@ -622,7 +622,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Malaysia Power Shift"
         }, 
         "content": {
-          "$t": "geom: Kajang Selangor, Malaysia, geolocation: Kajang Selangor, Malaysia, website: http://world.350.org/malaysia/, description: Power Shift Malaysia has set out to organize a five-day gathering called #PowerShiftMsia that will bring together 200 young and passionate \u201cclimate leaders\u201d aged 18 to 30 from all over Malaysia.\n\n#PowerShiftMsia aims to empower these young leaders with the knowledge and skills to create a strong Malaysian climate movement.", 
+          "$t": "geom: Kajang Selangor, Malaysia, geolocation: Kajang Selangor, Malaysia, website: http://world.350.org/malaysia/, description: Power Shift Malaysia has set out to organize a five-day gathering called #PowerShiftMsia that will bring together 200 young and passionate \u201cclimate leaders\u201d aged 18 to 30 from all over Malaysia.\n\n#PowerShiftMsia aims to empower these young leaders with the knowledge and skills to create a strong Malaysian climate movement., longitude: 101.7655294, latitude: 2.968981", 
           "type": "text"
         }, 
         "link": [
@@ -636,7 +636,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Kajang Selangor, Malaysia"
         }, 
         "gsx$longitude": {
-          "$t": ""
+          "$t": "101.7655294"
         }, 
         "gsx$geom": {
           "$t": "Kajang Selangor, Malaysia"
@@ -647,10 +647,60 @@ Tabletop.singleton.loadSheet({
         "gsx$description": {
           "$t": "Power Shift Malaysia has set out to organize a five-day gathering called #PowerShiftMsia that will bring together 200 young and passionate \u201cclimate leaders\u201d aged 18 to 30 from all over Malaysia.\n\n#PowerShiftMsia aims to empower these young leaders with the knowledge and skills to create a strong Malaysian climate movement."
         }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-01-28T20:52:59.871Z"
+        }, 
+        "gsx$latitude": {
+          "$t": ""
+        }, 
+        "title": {
+          "$t": "India Power Shift - UDAAN", 
+          "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": "http://world.350.org/udaan"
+        }, 
+        "gsx$name": {
+          "$t": "India Power Shift - UDAAN"
+        }, 
+        "content": {
+          "$t": "geom: Bangalore, India, geolocation: Bangalore, India, website: http://world.350.org/udaan", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/cu76f", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$geolocation": {
+          "$t": "Bangalore, India"
+        }, 
+        "gsx$longitude": {
+          "$t": ""
+        }, 
+        "gsx$geom": {
+          "$t": "Bangalore, India"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/cu76f"
+        }, 
+        "gsx$description": {
+          "$t": ""
+        }
       }
     ], 
     "openSearch$totalResults": {
-      "$t": "12"
+      "$t": "13"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values"
