@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-01-27T05:56:05.361Z"
+      "$t": "2014-01-28T11:32:49.577Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,7 +56,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-27T05:56:05.361Z"
+          "$t": "2014-01-28T11:32:49.577Z"
         }, 
         "title": {
           "$t": "Local Groups", 
@@ -88,10 +88,51 @@ Tabletop.singleton.loadSheet({
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od4/public/values/cokwr"
         }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-01-28T11:32:49.577Z"
+        }, 
+        "title": {
+          "$t": "Global Power Shifts", 
+          "type": "text"
+        }, 
+        "gsx$publicsubmissionspreadsheet": {
+          "$t": ""
+        }, 
+        "gsx$publicsubmissionform": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "", 
+          "type": "text"
+        }, 
+        "gsx$type": {
+          "$t": "Global Power Shifts"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od4/public/values/cpzh4", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$template": {
+          "$t": ""
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od4/public/values/cpzh4"
+        }
       }
     ], 
     "openSearch$totalResults": {
-      "$t": "1"
+      "$t": "2"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od4/public/values"
