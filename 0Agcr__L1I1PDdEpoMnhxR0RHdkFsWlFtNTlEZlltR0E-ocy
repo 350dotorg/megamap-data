@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-01-28T15:21:23.455Z"
+      "$t": "2014-01-28T15:36:02.210Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,7 +56,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:21:23.455Z"
+          "$t": "2014-01-28T15:36:02.210Z"
         }, 
         "gsx$latitude": {
           "$t": "41.10445"
@@ -106,7 +106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:21:23.455Z"
+          "$t": "2014-01-28T15:36:02.210Z"
         }, 
         "gsx$latitude": {
           "$t": "-37.82005"
@@ -156,7 +156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:21:23.455Z"
+          "$t": "2014-01-28T15:36:02.210Z"
         }, 
         "gsx$latitude": {
           "$t": "60.604819"
@@ -206,7 +206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:21:23.455Z"
+          "$t": "2014-01-28T15:36:02.210Z"
         }, 
         "gsx$latitude": {
           "$t": "10.7684511"
@@ -247,10 +247,60 @@ Tabletop.singleton.loadSheet({
         "gsx$description": {
           "$t": "Taking place in October, National Climate Leadership Workshop will promote alternate energies and low-impact lifestyles as a practical solution to mitigate climate change. The goal is to build forces, resources, and alliances to win local and national policy changes."
         }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-01-28T15:36:02.210Z"
+        }, 
+        "gsx$latitude": {
+          "$t": ""
+        }, 
+        "title": {
+          "$t": "Row: 6", 
+          "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": ""
+        }, 
+        "gsx$name": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "geom: Canada Power Shift", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/ciyn3", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$geolocation": {
+          "$t": ""
+        }, 
+        "gsx$longitude": {
+          "$t": ""
+        }, 
+        "gsx$geom": {
+          "$t": "Canada Power Shift"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/ciyn3"
+        }, 
+        "gsx$description": {
+          "$t": ""
+        }
       }
     ], 
     "openSearch$totalResults": {
-      "$t": "4"
+      "$t": "5"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values"
