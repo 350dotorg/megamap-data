@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-01-28T20:55:47.944Z"
+      "$t": "2014-01-28T20:56:12.570Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,7 +56,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:55:47.944Z"
+          "$t": "2014-01-28T20:56:12.570Z"
         }, 
         "gsx$latitude": {
           "$t": "41.10445"
@@ -106,7 +106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:55:47.944Z"
+          "$t": "2014-01-28T20:56:12.570Z"
         }, 
         "gsx$latitude": {
           "$t": "-37.82005"
@@ -156,7 +156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:55:47.944Z"
+          "$t": "2014-01-28T20:56:12.570Z"
         }, 
         "gsx$latitude": {
           "$t": "60.604819"
@@ -206,7 +206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:55:47.944Z"
+          "$t": "2014-01-28T20:56:12.570Z"
         }, 
         "gsx$latitude": {
           "$t": "10.7684511"
@@ -256,7 +256,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:55:47.944Z"
+          "$t": "2014-01-28T20:56:12.570Z"
         }, 
         "gsx$latitude": {
           "$t": "48.4266797"
@@ -306,7 +306,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:55:47.944Z"
+          "$t": "2014-01-28T20:56:12.570Z"
         }, 
         "gsx$latitude": {
           "$t": "40.4313684"
@@ -356,7 +356,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:55:47.944Z"
+          "$t": "2014-01-28T20:56:12.570Z"
         }, 
         "gsx$latitude": {
           "$t": "50.4020355"
@@ -406,7 +406,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:55:47.944Z"
+          "$t": "2014-01-28T20:56:12.570Z"
         }, 
         "gsx$latitude": {
           "$t": "52.232938"
@@ -456,7 +456,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:55:47.944Z"
+          "$t": "2014-01-28T20:56:12.570Z"
         }, 
         "gsx$latitude": {
           "$t": "11.1212751"
@@ -506,7 +506,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:55:47.944Z"
+          "$t": "2014-01-28T20:56:12.570Z"
         }, 
         "gsx$latitude": {
           "$t": "52.0716542"
@@ -556,7 +556,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:55:47.944Z"
+          "$t": "2014-01-28T20:56:12.570Z"
         }, 
         "gsx$latitude": {
           "$t": "13.7246004"
@@ -606,7 +606,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:55:47.944Z"
+          "$t": "2014-01-28T20:56:12.570Z"
         }, 
         "gsx$latitude": {
           "$t": "2.968981"
@@ -656,7 +656,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:55:47.944Z"
+          "$t": "2014-01-28T20:56:12.570Z"
         }, 
         "gsx$latitude": {
           "$t": "13.0898019"
@@ -706,10 +706,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T20:55:47.944Z"
+          "$t": "2014-01-28T20:56:12.570Z"
         }, 
         "gsx$latitude": {
-          "$t": ""
+          "$t": "42.3458543"
         }, 
         "title": {
           "$t": "Georgia Power Shift", 
@@ -722,7 +722,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Georgia Power Shift"
         }, 
         "content": {
-          "$t": "geom: Tkibuli, Georgia, geolocation: Tkibuli, Georgia, website: https://www.facebook.com/events/1375536972691791/, description: During December 19-21, 2013, a forum on \u201cClimate Change and its Mitigation Measures\u201d will be held in the village of Gelati, in Tkibuli municipality. 100 active young people were selected from different parts of Georgia to participate in the forum. They will discuss extraction of the fossil fuel and its linkage with the global climate change, the role of the youth in planning and implementing climate change mitigation measures. On December 21, the youth initiative group will move from Gelati to the city of Tkibuli, where a peaceful march will be   organized calling to fight against the negative anthropogenic impact on climate.", 
+          "$t": "geom: Tkibuli, Georgia, geolocation: Tkibuli, Georgia, website: https://www.facebook.com/events/1375536972691791/, description: During December 19-21, 2013, a forum on \u201cClimate Change and its Mitigation Measures\u201d will be held in the village of Gelati, in Tkibuli municipality. 100 active young people were selected from different parts of Georgia to participate in the forum. They will discuss extraction of the fossil fuel and its linkage with the global climate change, the role of the youth in planning and implementing climate change mitigation measures. On December 21, the youth initiative group will move from Gelati to the city of Tkibuli, where a peaceful march will be   organized calling to fight against the negative anthropogenic impact on climate., longitude: 42.9912186, latitude: 42.3458543", 
           "type": "text"
         }, 
         "link": [
@@ -736,7 +736,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Tkibuli, Georgia"
         }, 
         "gsx$longitude": {
-          "$t": ""
+          "$t": "42.9912186"
         }, 
         "gsx$geom": {
           "$t": "Tkibuli, Georgia"
