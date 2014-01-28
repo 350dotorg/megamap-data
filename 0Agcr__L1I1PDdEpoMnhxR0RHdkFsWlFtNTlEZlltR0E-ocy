@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-01-28T11:53:05.752Z"
+      "$t": "2014-01-28T11:53:16.896Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,7 +56,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T11:53:05.752Z"
+          "$t": "2014-01-28T11:53:16.896Z"
         }, 
         "gsx$latitude": {
           "$t": "41.10445"
@@ -97,10 +97,60 @@ Tabletop.singleton.loadSheet({
         "gsx$description": {
           "$t": "Global Power Shift is the starting point for a new phase in the international climate movement. First, hundreds of climate leaders from around the world gathered in Istanbul to share stories, learn skills, and sharpen strategies. These leaders have now returned to their home countries to spark a wave of convergences, campaigns, and mobilsations for climate action."
         }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-01-28T11:53:16.896Z"
+        }, 
+        "gsx$latitude": {
+          "$t": ""
+        }, 
+        "title": {
+          "$t": "Australia Power Shift", 
+          "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": "https://www.powershift.org.au"
+        }, 
+        "gsx$name": {
+          "$t": "Australia Power Shift"
+        }, 
+        "content": {
+          "$t": "geom: Melbourne, Australia, geolocation: Melbourne, Australia, website: https://www.powershift.org.au, description: In July 2013, 1500 young people converged on Melbourne for Power Shift 2013 - the largest climate summit in Australia's history - to shift  the country away from fossil fuels towards renewable energy. ", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/cpzh4", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$geolocation": {
+          "$t": "Melbourne, Australia"
+        }, 
+        "gsx$longitude": {
+          "$t": ""
+        }, 
+        "gsx$geom": {
+          "$t": "Melbourne, Australia"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/cpzh4"
+        }, 
+        "gsx$description": {
+          "$t": "In July 2013, 1500 young people converged on Melbourne for Power Shift 2013 - the largest climate summit in Australia's history - to shift  the country away from fossil fuels towards renewable energy. "
+        }
       }
     ], 
     "openSearch$totalResults": {
-      "$t": "1"
+      "$t": "2"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values"
