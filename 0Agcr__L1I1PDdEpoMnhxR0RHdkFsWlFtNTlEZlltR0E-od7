@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-01-28T15:12:47.478Z"
+      "$t": "2014-01-28T15:15:56.650Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -59,7 +59,7 @@ Tabletop.singleton.loadSheet({
           "$t": "41"
         }, 
         "updated": {
-          "$t": "2014-01-28T15:12:47.478Z"
+          "$t": "2014-01-28T15:15:56.650Z"
         }, 
         "gsx$popupanchory": {
           "$t": "-32"
@@ -127,7 +127,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-01-28T15:12:47.478Z"
+          "$t": "2014-01-28T15:15:56.650Z"
         }, 
         "gsx$popupanchory": {
           "$t": "-25"
@@ -195,7 +195,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-01-28T15:12:47.478Z"
+          "$t": "2014-01-28T15:15:56.650Z"
         }, 
         "gsx$popupanchory": {
           "$t": ""
@@ -220,7 +220,7 @@ Tabletop.singleton.loadSheet({
           "$t": "https://s3.amazonaws.com/s3.350.org/images/arrow_gps_down.png"
         }, 
         "content": {
-          "$t": "iconurl: https://s3.amazonaws.com/s3.350.org/images/arrow_gps_down.png, iconwidth: 53, iconheight: 48", 
+          "$t": "iconurl: https://s3.amazonaws.com/s3.350.org/images/arrow_gps_down.png, iconwidth: 53, iconheight: 48, iconanchorx: 30, iconanchory: 30", 
           "type": "text"
         }, 
         "gsx$type": {
@@ -237,7 +237,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$iconanchorx": {
-          "$t": ""
+          "$t": "30"
         }, 
         "gsx$shadowheight": {
           "$t": ""
@@ -246,7 +246,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "gsx$iconanchory": {
-          "$t": ""
+          "$t": "30"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od7/public/values/cre1l"
