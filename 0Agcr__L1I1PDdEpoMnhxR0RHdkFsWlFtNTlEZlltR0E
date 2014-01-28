@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheets({
       }
     ], 
     "updated": {
-      "$t": "2014-01-28T11:46:57.647Z"
+      "$t": "2014-01-28T11:53:05.752Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "title": {
@@ -39,7 +39,7 @@ Tabletop.singleton.loadSheets({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T11:46:57.647Z"
+          "$t": "2014-01-28T11:53:05.752Z"
         }, 
         "title": {
           "$t": "Local Groups", 
@@ -83,7 +83,7 @@ Tabletop.singleton.loadSheets({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T11:46:57.647Z"
+          "$t": "2014-01-28T11:53:05.752Z"
         }, 
         "title": {
           "$t": "GROW Divestment Events", 
@@ -127,7 +127,51 @@ Tabletop.singleton.loadSheets({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T11:46:57.647Z"
+          "$t": "2014-01-28T11:53:05.752Z"
+        }, 
+        "title": {
+          "$t": "Global Power Shifts", 
+          "type": "text"
+        }, 
+        "content": {
+          "$t": "Global Power Shifts", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/basic", 
+            "type": "application/atom+xml", 
+            "rel": "http://schemas.google.com/spreadsheets/2006#listfeed"
+          }, 
+          {
+            "href": "https://spreadsheets.google.com/feeds/cells/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/basic", 
+            "type": "application/atom+xml", 
+            "rel": "http://schemas.google.com/spreadsheets/2006#cellsfeed"
+          }, 
+          {
+            "href": "https://spreadsheets.google.com/tq?key=0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E&sheet=ocy&pub=1", 
+            "type": "application/atom+xml", 
+            "rel": "http://schemas.google.com/visualization/2008#visualizationApi"
+          }, 
+          {
+            "href": "https://spreadsheets.google.com/feeds/worksheets/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/public/basic/ocy", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/worksheets/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/public/basic/ocy"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#worksheet", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-01-28T11:53:05.752Z"
         }, 
         "title": {
           "$t": "Markers", 
@@ -171,7 +215,7 @@ Tabletop.singleton.loadSheets({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T11:46:57.647Z"
+          "$t": "2014-01-28T11:53:05.752Z"
         }, 
         "title": {
           "$t": "Layers", 
@@ -205,50 +249,6 @@ Tabletop.singleton.loadSheets({
         ], 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/worksheets/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/public/basic/od4"
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#worksheet", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "updated": {
-          "$t": "2014-01-28T11:46:57.647Z"
-        }, 
-        "title": {
-          "$t": "Global Power Shifts", 
-          "type": "text"
-        }, 
-        "content": {
-          "$t": "Global Power Shifts", 
-          "type": "text"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/basic", 
-            "type": "application/atom+xml", 
-            "rel": "http://schemas.google.com/spreadsheets/2006#listfeed"
-          }, 
-          {
-            "href": "https://spreadsheets.google.com/feeds/cells/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/basic", 
-            "type": "application/atom+xml", 
-            "rel": "http://schemas.google.com/spreadsheets/2006#cellsfeed"
-          }, 
-          {
-            "href": "https://spreadsheets.google.com/tq?key=0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E&sheet=ocy&pub=1", 
-            "type": "application/atom+xml", 
-            "rel": "http://schemas.google.com/visualization/2008#visualizationApi"
-          }, 
-          {
-            "href": "https://spreadsheets.google.com/feeds/worksheets/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/public/basic/ocy", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/worksheets/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/public/basic/ocy"
         }
       }
     ], 

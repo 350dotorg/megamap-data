@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-01-28T11:46:57.647Z"
+      "$t": "2014-01-28T11:53:05.752Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,10 +56,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T11:46:57.647Z"
+          "$t": "2014-01-28T11:53:05.752Z"
         }, 
         "gsx$latitude": {
-          "$t": ""
+          "$t": "41.10445"
         }, 
         "title": {
           "$t": "Global Power Shift Phase 1", 
@@ -72,7 +72,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Global Power Shift Phase 1"
         }, 
         "content": {
-          "$t": "geom: Istanbul, Turkey, geolocation: Istanbul, Turkey, website: http://globalpowershift.org/, description: Global Power Shift is the starting point for a new phase in the international climate movement. First, hundreds of climate leaders from around the world gathered in Istanbul to share stories, learn skills, and sharpen strategies. These leaders have now returned to their home countries to spark a wave of convergences, campaigns, and mobilsations for climate action.", 
+          "$t": "geom: Istanbul, Turkey, geolocation: Istanbul, Turkey, website: http://globalpowershift.org/, description: Global Power Shift is the starting point for a new phase in the international climate movement. First, hundreds of climate leaders from around the world gathered in Istanbul to share stories, learn skills, and sharpen strategies. These leaders have now returned to their home countries to spark a wave of convergences, campaigns, and mobilsations for climate action., longitude: 29.020533, latitude: 41.10445", 
           "type": "text"
         }, 
         "link": [
@@ -86,7 +86,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Istanbul, Turkey"
         }, 
         "gsx$longitude": {
-          "$t": ""
+          "$t": "29.020533"
         }, 
         "gsx$geom": {
           "$t": "Istanbul, Turkey"
