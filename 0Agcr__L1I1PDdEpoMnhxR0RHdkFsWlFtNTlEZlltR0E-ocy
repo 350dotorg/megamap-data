@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-01-28T19:48:23.891Z"
+      "$t": "2014-01-28T20:49:42.384Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,7 +56,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T19:48:23.891Z"
+          "$t": "2014-01-28T20:49:42.384Z"
         }, 
         "gsx$latitude": {
           "$t": "41.10445"
@@ -106,7 +106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T19:48:23.891Z"
+          "$t": "2014-01-28T20:49:42.384Z"
         }, 
         "gsx$latitude": {
           "$t": "-37.82005"
@@ -156,7 +156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T19:48:23.891Z"
+          "$t": "2014-01-28T20:49:42.384Z"
         }, 
         "gsx$latitude": {
           "$t": "60.604819"
@@ -206,7 +206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T19:48:23.891Z"
+          "$t": "2014-01-28T20:49:42.384Z"
         }, 
         "gsx$latitude": {
           "$t": "10.7684511"
@@ -256,7 +256,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T19:48:23.891Z"
+          "$t": "2014-01-28T20:49:42.384Z"
         }, 
         "gsx$latitude": {
           "$t": "48.4266797"
@@ -306,7 +306,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T19:48:23.891Z"
+          "$t": "2014-01-28T20:49:42.384Z"
         }, 
         "gsx$latitude": {
           "$t": "40.4313684"
@@ -356,7 +356,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T19:48:23.891Z"
+          "$t": "2014-01-28T20:49:42.384Z"
         }, 
         "gsx$latitude": {
           "$t": "50.4020355"
@@ -406,7 +406,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T19:48:23.891Z"
+          "$t": "2014-01-28T20:49:42.384Z"
         }, 
         "gsx$latitude": {
           "$t": "52.232938"
@@ -456,7 +456,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T19:48:23.891Z"
+          "$t": "2014-01-28T20:49:42.384Z"
         }, 
         "gsx$latitude": {
           "$t": "11.1212751"
@@ -506,7 +506,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T19:48:23.891Z"
+          "$t": "2014-01-28T20:49:42.384Z"
         }, 
         "gsx$latitude": {
           "$t": "52.0716542"
@@ -547,10 +547,60 @@ Tabletop.singleton.loadSheet({
         "gsx$description": {
           "$t": "Three organisations and the Dutch GPS team are joining forces to bring knowledge about the COP meeting in Warsaw and raise awareness about climate change to the Dutch youth. The minister of Infrastructure & Environment has asked them to find out what the young generation in the country thinks are important topics to take to the COP negotiations. By doing a \u201cklimaatestafette\u201d (climate relay), they will collect as many messages from the Dutch youth as possible."
         }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-01-28T20:49:42.384Z"
+        }, 
+        "gsx$latitude": {
+          "$t": ""
+        }, 
+        "title": {
+          "$t": "Thailand Power Shift", 
+          "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": "https://www.facebook.com/thailand350"
+        }, 
+        "gsx$name": {
+          "$t": "Thailand Power Shift"
+        }, 
+        "content": {
+          "$t": "geom: Bangkok, Thailand, geolocation: Bangkok, Thailand, website: https://www.facebook.com/thailand350, description: Thailand Power Shift brought together 60 climate leaders and activists across Thailand to plan for grassroots collective action, as part of a global campaign to shift power beyond dirty and destructive energy sources like coal and mega-dams.", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/d2mkx", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$geolocation": {
+          "$t": "Bangkok, Thailand"
+        }, 
+        "gsx$longitude": {
+          "$t": ""
+        }, 
+        "gsx$geom": {
+          "$t": "Bangkok, Thailand"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/d2mkx"
+        }, 
+        "gsx$description": {
+          "$t": "Thailand Power Shift brought together 60 climate leaders and activists across Thailand to plan for grassroots collective action, as part of a global campaign to shift power beyond dirty and destructive energy sources like coal and mega-dams."
+        }
       }
     ], 
     "openSearch$totalResults": {
-      "$t": "10"
+      "$t": "11"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values"
