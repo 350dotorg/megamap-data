@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-01-28T19:47:00.644Z"
+      "$t": "2014-01-28T19:48:23.891Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,7 +56,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T19:47:00.644Z"
+          "$t": "2014-01-28T19:48:23.891Z"
         }, 
         "gsx$latitude": {
           "$t": "41.10445"
@@ -106,7 +106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T19:47:00.644Z"
+          "$t": "2014-01-28T19:48:23.891Z"
         }, 
         "gsx$latitude": {
           "$t": "-37.82005"
@@ -156,7 +156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T19:47:00.644Z"
+          "$t": "2014-01-28T19:48:23.891Z"
         }, 
         "gsx$latitude": {
           "$t": "60.604819"
@@ -206,7 +206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T19:47:00.644Z"
+          "$t": "2014-01-28T19:48:23.891Z"
         }, 
         "gsx$latitude": {
           "$t": "10.7684511"
@@ -256,7 +256,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T19:47:00.644Z"
+          "$t": "2014-01-28T19:48:23.891Z"
         }, 
         "gsx$latitude": {
           "$t": "48.4266797"
@@ -306,7 +306,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T19:47:00.644Z"
+          "$t": "2014-01-28T19:48:23.891Z"
         }, 
         "gsx$latitude": {
           "$t": "40.4313684"
@@ -356,7 +356,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T19:47:00.644Z"
+          "$t": "2014-01-28T19:48:23.891Z"
         }, 
         "gsx$latitude": {
           "$t": "50.4020355"
@@ -406,7 +406,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T19:47:00.644Z"
+          "$t": "2014-01-28T19:48:23.891Z"
         }, 
         "gsx$latitude": {
           "$t": "52.232938"
@@ -456,7 +456,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T19:47:00.644Z"
+          "$t": "2014-01-28T19:48:23.891Z"
         }, 
         "gsx$latitude": {
           "$t": "11.1212751"
@@ -506,10 +506,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T19:47:00.644Z"
+          "$t": "2014-01-28T19:48:23.891Z"
         }, 
         "gsx$latitude": {
-          "$t": ""
+          "$t": "52.0716542"
         }, 
         "title": {
           "$t": "Netherlands Power Shift", 
@@ -522,7 +522,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Netherlands Power Shift"
         }, 
         "content": {
-          "$t": "geom: The Hague, Netherlands, geolocation: The Hague, Netherlands, website: https://www.facebook.com/GlobalPowershiftNL, description: Three organisations and the Dutch GPS team are joining forces to bring knowledge about the COP meeting in Warsaw and raise awareness about climate change to the Dutch youth. The minister of Infrastructure & Environment has asked them to find out what the young generation in the country thinks are important topics to take to the COP negotiations. By doing a \u201cklimaatestafette\u201d (climate relay), they will collect as many messages from the Dutch youth as possible.", 
+          "$t": "geom: The Hague, Netherlands, geolocation: The Hague, Netherlands, website: https://www.facebook.com/GlobalPowershiftNL, description: Three organisations and the Dutch GPS team are joining forces to bring knowledge about the COP meeting in Warsaw and raise awareness about climate change to the Dutch youth. The minister of Infrastructure & Environment has asked them to find out what the young generation in the country thinks are important topics to take to the COP negotiations. By doing a \u201cklimaatestafette\u201d (climate relay), they will collect as many messages from the Dutch youth as possible., longitude: 4.3098683, latitude: 52.0716542", 
           "type": "text"
         }, 
         "link": [
@@ -536,7 +536,7 @@ Tabletop.singleton.loadSheet({
           "$t": "The Hague, Netherlands"
         }, 
         "gsx$longitude": {
-          "$t": ""
+          "$t": "4.3098683"
         }, 
         "gsx$geom": {
           "$t": "The Hague, Netherlands"
