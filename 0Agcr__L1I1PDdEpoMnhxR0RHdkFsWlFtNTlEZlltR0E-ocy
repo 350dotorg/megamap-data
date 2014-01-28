@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-01-28T15:19:52.191Z"
+      "$t": "2014-01-28T15:21:23.455Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,7 +56,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:19:52.191Z"
+          "$t": "2014-01-28T15:21:23.455Z"
         }, 
         "gsx$latitude": {
           "$t": "41.10445"
@@ -106,7 +106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:19:52.191Z"
+          "$t": "2014-01-28T15:21:23.455Z"
         }, 
         "gsx$latitude": {
           "$t": "-37.82005"
@@ -156,7 +156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:19:52.191Z"
+          "$t": "2014-01-28T15:21:23.455Z"
         }, 
         "gsx$latitude": {
           "$t": "60.604819"
@@ -206,7 +206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-01-28T15:19:52.191Z"
+          "$t": "2014-01-28T15:21:23.455Z"
         }, 
         "gsx$latitude": {
           "$t": "10.7684511"
@@ -222,7 +222,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Vietnam Power Shift"
         }, 
         "content": {
-          "$t": "geom: Ho Chi Minh City, Vietnam, geolocation: Ho Chi Minh City, Vietnam, website: https://www.facebook.com/VietnamPowerShift, description: Taking place in October, National Climate Leadership Workshop will promote alternate energies and low-impact lifestyles as a practical solution to mitigate climate change. The goal is to build forces, resources, and alliances to win local and national policy changes., latitude: 10.7684511", 
+          "$t": "geom: Ho Chi Minh City, Vietnam, geolocation: Ho Chi Minh City, Vietnam, website: https://www.facebook.com/VietnamPowerShift, description: Taking place in October, National Climate Leadership Workshop will promote alternate energies and low-impact lifestyles as a practical solution to mitigate climate change. The goal is to build forces, resources, and alliances to win local and national policy changes., longitude: 106.6943625, latitude: 10.7684511", 
           "type": "text"
         }, 
         "link": [
@@ -236,7 +236,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Ho Chi Minh City, Vietnam"
         }, 
         "gsx$longitude": {
-          "$t": ""
+          "$t": "106.6943625"
         }, 
         "gsx$geom": {
           "$t": "Ho Chi Minh City, Vietnam"
