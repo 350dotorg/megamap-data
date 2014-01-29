@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheets({
       }
     ], 
     "updated": {
-      "$t": "2014-01-29T00:52:52.264Z"
+      "$t": "2014-01-29T19:50:17.377Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "title": {
@@ -39,7 +39,7 @@ Tabletop.singleton.loadSheets({
           }
         ], 
         "updated": {
-          "$t": "2014-01-29T00:52:52.264Z"
+          "$t": "2014-01-29T19:50:17.377Z"
         }, 
         "title": {
           "$t": "Local Groups", 
@@ -83,51 +83,7 @@ Tabletop.singleton.loadSheets({
           }
         ], 
         "updated": {
-          "$t": "2014-01-29T00:52:52.264Z"
-        }, 
-        "title": {
-          "$t": "GROW Divestment Events", 
-          "type": "text"
-        }, 
-        "content": {
-          "$t": "GROW Divestment Events", 
-          "type": "text"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/basic", 
-            "type": "application/atom+xml", 
-            "rel": "http://schemas.google.com/spreadsheets/2006#listfeed"
-          }, 
-          {
-            "href": "https://spreadsheets.google.com/feeds/cells/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od5/public/basic", 
-            "type": "application/atom+xml", 
-            "rel": "http://schemas.google.com/spreadsheets/2006#cellsfeed"
-          }, 
-          {
-            "href": "https://spreadsheets.google.com/tq?key=0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E&sheet=od5&pub=1", 
-            "type": "application/atom+xml", 
-            "rel": "http://schemas.google.com/visualization/2008#visualizationApi"
-          }, 
-          {
-            "href": "https://spreadsheets.google.com/feeds/worksheets/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/public/basic/od5", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/worksheets/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/public/basic/od5"
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#worksheet", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "updated": {
-          "$t": "2014-01-29T00:52:52.264Z"
+          "$t": "2014-01-29T19:50:17.377Z"
         }, 
         "title": {
           "$t": "Global Power Shifts", 
@@ -171,7 +127,7 @@ Tabletop.singleton.loadSheets({
           }
         ], 
         "updated": {
-          "$t": "2014-01-29T00:52:52.264Z"
+          "$t": "2014-01-29T19:50:17.377Z"
         }, 
         "title": {
           "$t": "Markers", 
@@ -215,7 +171,7 @@ Tabletop.singleton.loadSheets({
           }
         ], 
         "updated": {
-          "$t": "2014-01-29T00:52:52.264Z"
+          "$t": "2014-01-29T19:50:17.377Z"
         }, 
         "title": {
           "$t": "Layers", 
@@ -270,7 +226,7 @@ Tabletop.singleton.loadSheets({
       }
     ], 
     "openSearch$totalResults": {
-      "$t": "5"
+      "$t": "4"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/worksheets/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/public/basic"

@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-01-29T00:52:52.264Z"
+      "$t": "2014-01-29T19:50:17.377Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,78 +56,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$shadowwidth": {
-          "$t": "41"
-        }, 
-        "updated": {
-          "$t": "2014-01-29T00:52:52.264Z"
-        }, 
-        "gsx$popupanchory": {
-          "$t": "-32"
-        }, 
-        "gsx$shadowanchorx": {
-          "$t": "16"
-        }, 
-        "title": {
-          "$t": "GROW Divestment Events", 
-          "type": "text"
-        }, 
-        "gsx$iconheight": {
-          "$t": "37"
-        }, 
-        "gsx$shadowanchory": {
-          "$t": "43"
-        }, 
-        "gsx$iconwidth": {
-          "$t": "32"
-        }, 
-        "gsx$iconurl": {
-          "$t": "http://growdivestment.org/wp-content/uploads/leaflet-maps-marker-icons/regroup.png"
-        }, 
-        "content": {
-          "$t": "iconurl: http://growdivestment.org/wp-content/uploads/leaflet-maps-marker-icons/regroup.png, shadowurl: http://growdivestment.org/wp-content/plugins/leaflet-maps-marker/leaflet-dist/images/marker-shadow.png, iconwidth: 32, iconheight: 37, shadowwidth: 41, shadowheight: 41, iconanchorx: 17, iconanchory: 36, shadowanchorx: 16, shadowanchory: 43, popupanchorx: -1, popupanchory: -32", 
-          "type": "text"
-        }, 
-        "gsx$type": {
-          "$t": "GROW Divestment Events"
-        }, 
-        "gsx$popupanchorx": {
-          "$t": "-1"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od7/public/values/cokwr", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$iconanchorx": {
-          "$t": "17"
-        }, 
-        "gsx$shadowheight": {
-          "$t": "41"
-        }, 
-        "gsx$shadowurl": {
-          "$t": "http://growdivestment.org/wp-content/plugins/leaflet-maps-marker/leaflet-dist/images/marker-shadow.png"
-        }, 
-        "gsx$iconanchory": {
-          "$t": "36"
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od7/public/values/cokwr"
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "gsx$shadowwidth": {
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-01-29T00:52:52.264Z"
+          "$t": "2014-01-29T19:50:17.377Z"
         }, 
         "gsx$popupanchory": {
           "$t": "-25"
@@ -195,7 +127,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-01-29T00:52:52.264Z"
+          "$t": "2014-01-29T19:50:17.377Z"
         }, 
         "gsx$popupanchory": {
           "$t": "-25"
@@ -254,7 +186,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "openSearch$totalResults": {
-      "$t": "3"
+      "$t": "2"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od7/public/values"
