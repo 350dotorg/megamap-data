@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-02-04T20:17:05.086Z"
+      "$t": "2014-02-04T20:19:56.080Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,7 +56,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-02-04T20:17:05.086Z"
+          "$t": "2014-02-04T20:19:56.080Z"
         }, 
         "gsx$latitude": {
           "$t": "41.10445"
@@ -106,7 +106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-02-04T20:17:05.086Z"
+          "$t": "2014-02-04T20:19:56.080Z"
         }, 
         "gsx$latitude": {
           "$t": "-37.82005"
@@ -156,7 +156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-02-04T20:17:05.086Z"
+          "$t": "2014-02-04T20:19:56.080Z"
         }, 
         "gsx$latitude": {
           "$t": "60.604819"
@@ -206,7 +206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-02-04T20:17:05.086Z"
+          "$t": "2014-02-04T20:19:56.080Z"
         }, 
         "gsx$latitude": {
           "$t": "10.7684511"
@@ -256,7 +256,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-02-04T20:17:05.086Z"
+          "$t": "2014-02-04T20:19:56.080Z"
         }, 
         "gsx$latitude": {
           "$t": "48.4266797"
@@ -306,7 +306,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-02-04T20:17:05.086Z"
+          "$t": "2014-02-04T20:19:56.080Z"
         }, 
         "gsx$latitude": {
           "$t": "40.4313684"
@@ -356,7 +356,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-02-04T20:17:05.086Z"
+          "$t": "2014-02-04T20:19:56.080Z"
         }, 
         "gsx$latitude": {
           "$t": "50.4020355"
@@ -406,7 +406,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-02-04T20:17:05.086Z"
+          "$t": "2014-02-04T20:19:56.080Z"
         }, 
         "gsx$latitude": {
           "$t": "52.232938"
@@ -456,7 +456,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-02-04T20:17:05.086Z"
+          "$t": "2014-02-04T20:19:56.080Z"
         }, 
         "gsx$latitude": {
           "$t": "11.1212751"
@@ -506,7 +506,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-02-04T20:17:05.086Z"
+          "$t": "2014-02-04T20:19:56.080Z"
         }, 
         "gsx$latitude": {
           "$t": "52.0716542"
@@ -556,7 +556,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-02-04T20:17:05.086Z"
+          "$t": "2014-02-04T20:19:56.080Z"
         }, 
         "gsx$latitude": {
           "$t": "13.7246004"
@@ -606,7 +606,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-02-04T20:17:05.086Z"
+          "$t": "2014-02-04T20:19:56.080Z"
         }, 
         "gsx$latitude": {
           "$t": "2.968981"
@@ -656,7 +656,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-02-04T20:17:05.086Z"
+          "$t": "2014-02-04T20:19:56.080Z"
         }, 
         "gsx$latitude": {
           "$t": "13.0898019"
@@ -706,7 +706,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-02-04T20:17:05.086Z"
+          "$t": "2014-02-04T20:19:56.080Z"
         }, 
         "gsx$latitude": {
           "$t": "42.3458543"
@@ -756,7 +756,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-02-04T20:17:05.086Z"
+          "$t": "2014-02-04T20:19:56.080Z"
         }, 
         "gsx$latitude": {
           "$t": "42.8760664"
@@ -806,7 +806,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-02-04T20:17:05.086Z"
+          "$t": "2014-02-04T20:19:56.080Z"
         }, 
         "gsx$latitude": {
           "$t": "35.673343"
@@ -856,7 +856,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-02-04T20:17:05.086Z"
+          "$t": "2014-02-04T20:19:56.080Z"
         }, 
         "gsx$latitude": {
           "$t": "10.3789284"
@@ -906,10 +906,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-02-04T20:17:05.086Z"
+          "$t": "2014-02-04T20:19:56.080Z"
         }, 
         "gsx$latitude": {
-          "$t": ""
+          "$t": "14.2400732"
         }, 
         "title": {
           "$t": "Cl\u00edmax Brasil", 
@@ -922,7 +922,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Cl\u00edmax Brasil"
         }, 
         "content": {
-          "$t": "website: http://www.climaxbr.org/, description: Cl\u00edmax Brasil is a collective of young Brazilian environmentalists, established in the  Global Power Shift context. It\u2019s objective is to organize 69 #sexify (meaning fun, creative and attractive) interventions with Brazilian youth mobilize in the 5 regions of the country until the end of 2014 with the goal to \u201ctake climate change out of the closet\u201d. \n\nCurrently, Climate Change is among the last priorities of Brazilian youth, according to a study released by IPEA in July 2013. The reasons for that are simple: academic and technical content and the catastrophic messaging make the theme unnatractive for the young population. \n\nThus Cl\u00edmax Brasil wants to make climate change issues closer to youth as a transversal theme, which touches a deeper debate regarding health, mobility, economy, education, and other current themes involved in the youth\u2019s daily life.", 
+          "$t": "geom: Brazil, geolocation: Brazil, website: http://www.climaxbr.org/, description: Cl\u00edmax Brasil is a collective of young Brazilian environmentalists, established in the  Global Power Shift context. It\u2019s objective is to organize 69 #sexify (meaning fun, creative and attractive) interventions with Brazilian youth mobilize in the 5 regions of the country until the end of 2014 with the goal to \u201ctake climate change out of the closet\u201d. \n\nCurrently, Climate Change is among the last priorities of Brazilian youth, according to a study released by IPEA in July 2013. The reasons for that are simple: academic and technical content and the catastrophic messaging make the theme unnatractive for the young population. \n\nThus Cl\u00edmax Brasil wants to make climate change issues closer to youth as a transversal theme, which touches a deeper debate regarding health, mobility, economy, education, and other current themes involved in the youth\u2019s daily life., longitude: -53.1805018, latitude: 14.2400732", 
           "type": "text"
         }, 
         "link": [
@@ -933,13 +933,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$geolocation": {
-          "$t": ""
+          "$t": "Brazil"
         }, 
         "gsx$longitude": {
-          "$t": ""
+          "$t": "-53.1805018"
         }, 
         "gsx$geom": {
-          "$t": ""
+          "$t": "Brazil"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/dcgjs"
