@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-02-08T01:43:08.043Z"
+      "$t": "2014-02-21T23:05:22.787Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,7 +56,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-02-08T01:43:08.043Z"
+          "$t": "2014-02-21T23:05:22.787Z"
         }, 
         "gsx$latitude": {
           "$t": "41.10445"
@@ -106,7 +106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-02-08T01:43:08.043Z"
+          "$t": "2014-02-21T23:05:22.787Z"
         }, 
         "gsx$latitude": {
           "$t": "-37.82005"
@@ -156,7 +156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-02-08T01:43:08.043Z"
+          "$t": "2014-02-21T23:05:22.787Z"
         }, 
         "gsx$latitude": {
           "$t": "60.604819"
@@ -206,7 +206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-02-08T01:43:08.043Z"
+          "$t": "2014-02-21T23:05:22.787Z"
         }, 
         "gsx$latitude": {
           "$t": "10.7684511"
@@ -256,7 +256,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-02-08T01:43:08.043Z"
+          "$t": "2014-02-21T23:05:22.787Z"
         }, 
         "gsx$latitude": {
           "$t": "48.4266797"
@@ -306,7 +306,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-02-08T01:43:08.043Z"
+          "$t": "2014-02-21T23:05:22.787Z"
         }, 
         "gsx$latitude": {
           "$t": "40.4313684"
@@ -356,7 +356,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-02-08T01:43:08.043Z"
+          "$t": "2014-02-21T23:05:22.787Z"
         }, 
         "gsx$latitude": {
           "$t": "50.4020355"
@@ -406,7 +406,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-02-08T01:43:08.043Z"
+          "$t": "2014-02-21T23:05:22.787Z"
         }, 
         "gsx$latitude": {
           "$t": "52.232938"
@@ -456,7 +456,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-02-08T01:43:08.043Z"
+          "$t": "2014-02-21T23:05:22.787Z"
         }, 
         "gsx$latitude": {
           "$t": "11.1212751"
@@ -506,7 +506,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-02-08T01:43:08.043Z"
+          "$t": "2014-02-21T23:05:22.787Z"
         }, 
         "gsx$latitude": {
           "$t": "52.0716542"
@@ -522,7 +522,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Netherlands Power Shift"
         }, 
         "content": {
-          "$t": "geom: The Hague, Netherlands, geolocation: The Hague, Netherlands, website: https://www.facebook.com/GlobalPowershiftNL, description: Three organisations and the Dutch GPS team are joining forces to bring knowledge about the COP meeting in Warsaw and raise awareness about climate change to the Dutch youth. The minister of Infrastructure & Environment has asked them to find out what the young generation in the country thinks are important topics to take to the COP negotiations. By doing a \u201cklimaatestafette\u201d (climate relay), they will collect as many messages from the Dutch youth as possible., longitude: 4.3098683, latitude: 52.0716542", 
+          "$t": "geom: The Hague, Netherlands, geolocation: The Hague, Netherlands, website: https://www.facebook.com/GlobalPowershiftNL, description: Three organisations and the Dutch GPS team joined forces to bring knowledge about the COP meeting in Warsaw and raise awareness about climate change to the Dutch youth. The minister of Infrastructure & Environment has asked them to find out what the young generation in the country thinks are important topics to take to the COP negotiations. By doing a \u201cklimaatestafette\u201d (climate relay), they collected as many messages from the Dutch youth as possible., longitude: 4.3098683, latitude: 52.0716542", 
           "type": "text"
         }, 
         "link": [
@@ -545,7 +545,7 @@ Tabletop.singleton.loadSheet({
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/d180g"
         }, 
         "gsx$description": {
-          "$t": "Three organisations and the Dutch GPS team are joining forces to bring knowledge about the COP meeting in Warsaw and raise awareness about climate change to the Dutch youth. The minister of Infrastructure & Environment has asked them to find out what the young generation in the country thinks are important topics to take to the COP negotiations. By doing a \u201cklimaatestafette\u201d (climate relay), they will collect as many messages from the Dutch youth as possible."
+          "$t": "Three organisations and the Dutch GPS team joined forces to bring knowledge about the COP meeting in Warsaw and raise awareness about climate change to the Dutch youth. The minister of Infrastructure & Environment has asked them to find out what the young generation in the country thinks are important topics to take to the COP negotiations. By doing a \u201cklimaatestafette\u201d (climate relay), they collected as many messages from the Dutch youth as possible."
         }
       }, 
       {
@@ -556,7 +556,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-02-08T01:43:08.043Z"
+          "$t": "2014-02-21T23:05:22.787Z"
         }, 
         "gsx$latitude": {
           "$t": "13.7246004"
@@ -606,7 +606,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-02-08T01:43:08.043Z"
+          "$t": "2014-02-21T23:05:22.787Z"
         }, 
         "gsx$latitude": {
           "$t": "2.968981"
@@ -656,7 +656,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-02-08T01:43:08.043Z"
+          "$t": "2014-02-21T23:05:22.787Z"
         }, 
         "gsx$latitude": {
           "$t": "13.0898019"
@@ -706,7 +706,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-02-08T01:43:08.043Z"
+          "$t": "2014-02-21T23:05:22.787Z"
         }, 
         "gsx$latitude": {
           "$t": "42.3458543"
@@ -756,7 +756,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-02-08T01:43:08.043Z"
+          "$t": "2014-02-21T23:05:22.787Z"
         }, 
         "gsx$latitude": {
           "$t": "42.8760664"
@@ -806,7 +806,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-02-08T01:43:08.043Z"
+          "$t": "2014-02-21T23:05:22.787Z"
         }, 
         "gsx$latitude": {
           "$t": "35.673343"
@@ -856,7 +856,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-02-08T01:43:08.043Z"
+          "$t": "2014-02-21T23:05:22.787Z"
         }, 
         "gsx$latitude": {
           "$t": "10.3789284"
@@ -906,7 +906,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-02-08T01:43:08.043Z"
+          "$t": "2014-02-21T23:05:22.787Z"
         }, 
         "gsx$latitude": {
           "$t": "-12.2400732"
@@ -947,10 +947,110 @@ Tabletop.singleton.loadSheet({
         "gsx$description": {
           "$t": "Cl\u00edmax Brasil is a collective of young Brazilian environmentalists, established in the  Global Power Shift context. It\u2019s objective is to organize 69 #sexify (meaning fun, creative and attractive) interventions with Brazilian youth mobilize in the 5 regions of the country until the end of 2014 with the goal to \u201ctake climate change out of the closet\u201d. \n\nCurrently, Climate Change is among the last priorities of Brazilian youth, according to a study released by IPEA in July 2013. The reasons for that are simple: academic and technical content and the catastrophic messaging make the theme unnatractive for the young population. \n\nThus Cl\u00edmax Brasil wants to make climate change issues closer to youth as a transversal theme, which touches a deeper debate regarding health, mobility, economy, education, and other current themes involved in the youth\u2019s daily life."
         }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-02-21T23:05:22.787Z"
+        }, 
+        "gsx$latitude": {
+          "$t": "26.9405829"
+        }, 
+        "title": {
+          "$t": "Power Shift Egypt", 
+          "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": "https://www.facebook.com/350Egypt"
+        }, 
+        "gsx$name": {
+          "$t": "Power Shift Egypt"
+        }, 
+        "content": {
+          "$t": "geom: Cairo, Egypt, geolocation: Cairo, Egypt, website: https://www.facebook.com/350Egypt, description: Tahawul (\u201ctransformation\u201d in Arab) will bring together 60 young people from all around Egypt to build their capacity to campaign in their communities for environmental and climate justice (with a focus on confronting the issue of importing coal)., longitude: 29.6413026225091, latitude: 26.9405829", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/ddv49", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$geolocation": {
+          "$t": "Cairo, Egypt"
+        }, 
+        "gsx$longitude": {
+          "$t": "29.6413026225091"
+        }, 
+        "gsx$geom": {
+          "$t": "Cairo, Egypt"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/ddv49"
+        }, 
+        "gsx$description": {
+          "$t": "Tahawul (\u201ctransformation\u201d in Arab) will bring together 60 young people from all around Egypt to build their capacity to campaign in their communities for environmental and climate justice (with a focus on confronting the issue of importing coal)."
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-02-21T23:05:22.787Z"
+        }, 
+        "gsx$latitude": {
+          "$t": "28.3973623"
+        }, 
+        "title": {
+          "$t": "Nepal Power Shift", 
+          "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": "https://www.facebook.com/gpsnp"
+        }, 
+        "gsx$name": {
+          "$t": "Nepal Power Shift"
+        }, 
+        "content": {
+          "$t": "geom: Nepal, geolocation: Nepal, website: https://www.facebook.com/gpsnp, description: 'I am a Power Shifter' in Nepal will raise the bar and inspire young people to not just talk about climate change but act concretely., longitude: 84.12576, latitude: 28.3973623", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/d415a", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$geolocation": {
+          "$t": "Nepal"
+        }, 
+        "gsx$longitude": {
+          "$t": "84.12576"
+        }, 
+        "gsx$geom": {
+          "$t": "Nepal"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/d415a"
+        }, 
+        "gsx$description": {
+          "$t": "'I am a Power Shifter' in Nepal will raise the bar and inspire young people to not just talk about climate change but act concretely."
+        }
       }
     ], 
     "openSearch$totalResults": {
-      "$t": "18"
+      "$t": "20"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values"
