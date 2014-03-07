@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheets({
       }
     ], 
     "updated": {
-      "$t": "2014-03-07T01:38:51.600Z"
+      "$t": "2014-03-07T17:47:11.665Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "title": {
@@ -39,7 +39,7 @@ Tabletop.singleton.loadSheets({
           }
         ], 
         "updated": {
-          "$t": "2014-03-07T01:38:51.600Z"
+          "$t": "2014-03-07T17:47:11.665Z"
         }, 
         "title": {
           "$t": "Local Groups", 
@@ -83,7 +83,7 @@ Tabletop.singleton.loadSheets({
           }
         ], 
         "updated": {
-          "$t": "2014-03-07T01:38:51.600Z"
+          "$t": "2014-03-07T17:47:11.665Z"
         }, 
         "title": {
           "$t": "Global Power Shifts", 
@@ -127,7 +127,7 @@ Tabletop.singleton.loadSheets({
           }
         ], 
         "updated": {
-          "$t": "2014-03-07T01:38:51.600Z"
+          "$t": "2014-03-07T17:47:11.665Z"
         }, 
         "title": {
           "$t": "Markers", 
@@ -171,7 +171,7 @@ Tabletop.singleton.loadSheets({
           }
         ], 
         "updated": {
-          "$t": "2014-03-07T01:38:51.600Z"
+          "$t": "2014-03-07T17:47:11.665Z"
         }, 
         "title": {
           "$t": "Layers", 
