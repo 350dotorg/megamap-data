@@ -1,0 +1,173 @@
+// API callback
+Tabletop.singleton.loadSheet({
+  "feed": {
+    "category": [
+      {
+        "term": "http://schemas.google.com/spreadsheets/2006#list", 
+        "scheme": "http://schemas.google.com/spreadsheets/2006"
+      }
+    ], 
+    "updated": {
+      "$t": "2014-04-07T02:27:15.735Z"
+    }, 
+    "xmlns": "http://www.w3.org/2005/Atom", 
+    "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
+    "title": {
+      "$t": "sheet1", 
+      "type": "text"
+    }, 
+    "author": [
+      {
+        "name": {
+          "$t": "ethan.jucovy"
+        }, 
+        "email": {
+          "$t": "ethan.jucovy@gmail.com"
+        }
+      }
+    ], 
+    "openSearch$startIndex": {
+      "$t": "1"
+    }, 
+    "link": [
+      {
+        "href": "https://spreadsheets.google.com/pub?key=0Agcr__L1I1PDdFUtdEo1dVE3UGVRbTN5c3NjS3l0SHc", 
+        "type": "text/html", 
+        "rel": "alternate"
+      }, 
+      {
+        "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdFUtdEo1dVE3UGVRbTN5c3NjS3l0SHc/od6/public/values", 
+        "type": "application/atom+xml", 
+        "rel": "http://schemas.google.com/g/2005#feed"
+      }, 
+      {
+        "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdFUtdEo1dVE3UGVRbTN5c3NjS3l0SHc/od6/public/values?alt=json-in-script&sq=", 
+        "type": "application/atom+xml", 
+        "rel": "self"
+      }
+    ], 
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/", 
+    "entry": [
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$longitude_2": {
+          "$t": "-75.3499124"
+        }, 
+        "updated": {
+          "$t": "2014-04-07T02:27:15.735Z"
+        }, 
+        "gsx$datetime": {
+          "$t": "4/12/2014, 8 p.m."
+        }, 
+        "gsx$latitude": {
+          "$t": ""
+        }, 
+        "title": {
+          "$t": "Swarthmore Event", 
+          "type": "text"
+        }, 
+        "gsx$link": {
+          "$t": "http://www.google.com"
+        }, 
+        "gsx$name": {
+          "$t": "Swarthmore Event"
+        }, 
+        "content": {
+          "$t": "datetime: 4/12/2014, 8 p.m., geolocation: Swarthmore, PA, link: http://www.google.com, description: This will be an event., longitude_2: -75.3499124, latitude_2: 39.9020565", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdFUtdEo1dVE3UGVRbTN5c3NjS3l0SHc/od6/public/values/cokwr", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$geolocation": {
+          "$t": "Swarthmore, PA"
+        }, 
+        "gsx$longitude": {
+          "$t": ""
+        }, 
+        "gsx$latitude_2": {
+          "$t": "39.9020565"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdFUtdEo1dVE3UGVRbTN5c3NjS3l0SHc/od6/public/values/cokwr"
+        }, 
+        "gsx$description": {
+          "$t": "This will be an event."
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$longitude_2": {
+          "$t": "-73.5912827"
+        }, 
+        "updated": {
+          "$t": "2014-04-07T02:27:15.735Z"
+        }, 
+        "gsx$datetime": {
+          "$t": "4/12/2014, 6 p.m. (PT)"
+        }, 
+        "gsx$latitude": {
+          "$t": ""
+        }, 
+        "title": {
+          "$t": "Montreal Event", 
+          "type": "text"
+        }, 
+        "gsx$link": {
+          "$t": "http://nytimes.com"
+        }, 
+        "gsx$name": {
+          "$t": "Montreal Event"
+        }, 
+        "content": {
+          "$t": "datetime: 4/12/2014, 6 p.m. (PT), geolocation: Montreal, link: http://nytimes.com, description: Another event., longitude_2: -73.5912827, latitude_2: 45.5224507", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdFUtdEo1dVE3UGVRbTN5c3NjS3l0SHc/od6/public/values/cpzh4", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$geolocation": {
+          "$t": "Montreal"
+        }, 
+        "gsx$longitude": {
+          "$t": ""
+        }, 
+        "gsx$latitude_2": {
+          "$t": "45.5224507"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdFUtdEo1dVE3UGVRbTN5c3NjS3l0SHc/od6/public/values/cpzh4"
+        }, 
+        "gsx$description": {
+          "$t": "Another event."
+        }
+      }
+    ], 
+    "openSearch$totalResults": {
+      "$t": "2"
+    }, 
+    "id": {
+      "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdFUtdEo1dVE3UGVRbTN5c3NjS3l0SHc/od6/public/values"
+    }
+  }, 
+  "version": "1.0", 
+  "encoding": "UTF-8"
+});
