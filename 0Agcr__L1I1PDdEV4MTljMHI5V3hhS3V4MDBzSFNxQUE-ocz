@@ -8,12 +8,12 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-04-07T02:26:03.986Z"
+      "$t": "2014-04-07T02:26:00.873Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
     "title": {
-      "$t": "Partner Org 1", 
+      "$t": "Partner Org 2", 
       "type": "text"
     }, 
     "author": [
@@ -36,12 +36,12 @@ Tabletop.singleton.loadSheet({
         "rel": "alternate"
       }, 
       {
-        "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/od6/public/values", 
+        "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/ocz/public/values", 
         "type": "application/atom+xml", 
         "rel": "http://schemas.google.com/g/2005#feed"
       }, 
       {
-        "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/od6/public/values?alt=json-in-script&sq=", 
+        "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/ocz/public/values?alt=json-in-script&sq=", 
         "type": "application/atom+xml", 
         "rel": "self"
       }
@@ -51,7 +51,7 @@ Tabletop.singleton.loadSheet({
       "$t": "0"
     }, 
     "id": {
-      "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/od6/public/values"
+      "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/ocz/public/values"
     }
   }, 
   "version": "1.0", 
