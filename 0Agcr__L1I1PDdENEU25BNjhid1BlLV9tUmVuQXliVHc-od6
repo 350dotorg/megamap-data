@@ -1,0 +1,161 @@
+// API callback
+Tabletop.singleton.loadSheet({
+  "feed": {
+    "category": [
+      {
+        "term": "http://schemas.google.com/spreadsheets/2006#list", 
+        "scheme": "http://schemas.google.com/spreadsheets/2006"
+      }
+    ], 
+    "updated": {
+      "$t": "2014-04-07T02:05:37.315Z"
+    }, 
+    "xmlns": "http://www.w3.org/2005/Atom", 
+    "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
+    "title": {
+      "$t": "sheet1", 
+      "type": "text"
+    }, 
+    "author": [
+      {
+        "name": {
+          "$t": "ethan.jucovy"
+        }, 
+        "email": {
+          "$t": "ethan.jucovy@gmail.com"
+        }
+      }
+    ], 
+    "openSearch$startIndex": {
+      "$t": "1"
+    }, 
+    "link": [
+      {
+        "href": "https://spreadsheets.google.com/pub?key=0Agcr__L1I1PDdENEU25BNjhid1BlLV9tUmVuQXliVHc", 
+        "type": "text/html", 
+        "rel": "alternate"
+      }, 
+      {
+        "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdENEU25BNjhid1BlLV9tUmVuQXliVHc/od6/public/values", 
+        "type": "application/atom+xml", 
+        "rel": "http://schemas.google.com/g/2005#feed"
+      }, 
+      {
+        "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdENEU25BNjhid1BlLV9tUmVuQXliVHc/od6/public/values?alt=json-in-script&sq=", 
+        "type": "application/atom+xml", 
+        "rel": "self"
+      }
+    ], 
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/", 
+    "entry": [
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-04-07T02:05:37.315Z"
+        }, 
+        "gsx$latitude": {
+          "$t": "40.8006567"
+        }, 
+        "title": {
+          "$t": "Event in Great Neck", 
+          "type": "text"
+        }, 
+        "gsx$name": {
+          "$t": "Event in Great Neck"
+        }, 
+        "gsx$longitude": {
+          "$t": "-73.7284647"
+        }, 
+        "content": {
+          "$t": "dateandtime: 4/12/2014, 8 p.m., geolocation: Great Neck, NY, signupurl: http://www.google.com, description: This will be an event., longitude: -73.7284647, latitude: 40.8006567", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdENEU25BNjhid1BlLV9tUmVuQXliVHc/od6/public/values/cokwr", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$geolocation": {
+          "$t": "Great Neck, NY"
+        }, 
+        "gsx$signupurl": {
+          "$t": "http://www.google.com"
+        }, 
+        "gsx$dateandtime": {
+          "$t": "4/12/2014, 8 p.m."
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdENEU25BNjhid1BlLV9tUmVuQXliVHc/od6/public/values/cokwr"
+        }, 
+        "gsx$description": {
+          "$t": "This will be an event."
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-04-07T02:05:37.315Z"
+        }, 
+        "gsx$latitude": {
+          "$t": "37.7789601"
+        }, 
+        "title": {
+          "$t": "Event in San Francisco", 
+          "type": "text"
+        }, 
+        "gsx$name": {
+          "$t": "Event in San Francisco"
+        }, 
+        "gsx$longitude": {
+          "$t": "-122.419199"
+        }, 
+        "content": {
+          "$t": "dateandtime: 4/12/2014, 6 p.m. (PT), geolocation: San Francisco, signupurl: http://nytimes.com, description: Another event., longitude: -122.419199, latitude: 37.7789601", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdENEU25BNjhid1BlLV9tUmVuQXliVHc/od6/public/values/cpzh4", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$geolocation": {
+          "$t": "San Francisco"
+        }, 
+        "gsx$signupurl": {
+          "$t": "http://nytimes.com"
+        }, 
+        "gsx$dateandtime": {
+          "$t": "4/12/2014, 6 p.m. (PT)"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdENEU25BNjhid1BlLV9tUmVuQXliVHc/od6/public/values/cpzh4"
+        }, 
+        "gsx$description": {
+          "$t": "Another event."
+        }
+      }
+    ], 
+    "openSearch$totalResults": {
+      "$t": "2"
+    }, 
+    "id": {
+      "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdENEU25BNjhid1BlLV9tUmVuQXliVHc/od6/public/values"
+    }
+  }, 
+  "version": "1.0", 
+  "encoding": "UTF-8"
+});
