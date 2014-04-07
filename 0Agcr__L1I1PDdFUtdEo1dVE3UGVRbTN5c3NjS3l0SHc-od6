@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-04-07T02:27:15.735Z"
+      "$t": "2014-04-07T02:28:40.568Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -55,17 +55,14 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$longitude_2": {
-          "$t": "-75.3499124"
-        }, 
         "updated": {
-          "$t": "2014-04-07T02:27:15.735Z"
+          "$t": "2014-04-07T02:28:40.568Z"
         }, 
         "gsx$datetime": {
           "$t": "4/12/2014, 8 p.m."
         }, 
         "gsx$latitude": {
-          "$t": ""
+          "$t": "39.9020565"
         }, 
         "title": {
           "$t": "Swarthmore Event", 
@@ -78,7 +75,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Swarthmore Event"
         }, 
         "content": {
-          "$t": "datetime: 4/12/2014, 8 p.m., geolocation: Swarthmore, PA, link: http://www.google.com, description: This will be an event., longitude_2: -75.3499124, latitude_2: 39.9020565", 
+          "$t": "datetime: 4/12/2014, 8 p.m., geolocation: Swarthmore, PA, link: http://www.google.com, description: This will be an event., longitude: -75.3499124, latitude: 39.9020565", 
           "type": "text"
         }, 
         "link": [
@@ -92,10 +89,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Swarthmore, PA"
         }, 
         "gsx$longitude": {
-          "$t": ""
-        }, 
-        "gsx$latitude_2": {
-          "$t": "39.9020565"
+          "$t": "-75.3499124"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdFUtdEo1dVE3UGVRbTN5c3NjS3l0SHc/od6/public/values/cokwr"
@@ -111,17 +105,14 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$longitude_2": {
-          "$t": "-73.5912827"
-        }, 
         "updated": {
-          "$t": "2014-04-07T02:27:15.735Z"
+          "$t": "2014-04-07T02:28:40.568Z"
         }, 
         "gsx$datetime": {
           "$t": "4/12/2014, 6 p.m. (PT)"
         }, 
         "gsx$latitude": {
-          "$t": ""
+          "$t": "45.5224507"
         }, 
         "title": {
           "$t": "Montreal Event", 
@@ -134,7 +125,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Montreal Event"
         }, 
         "content": {
-          "$t": "datetime: 4/12/2014, 6 p.m. (PT), geolocation: Montreal, link: http://nytimes.com, description: Another event., longitude_2: -73.5912827, latitude_2: 45.5224507", 
+          "$t": "datetime: 4/12/2014, 6 p.m. (PT), geolocation: Montreal, link: http://nytimes.com, description: Another event., longitude: -73.5912827, latitude: 45.5224507", 
           "type": "text"
         }, 
         "link": [
@@ -148,10 +139,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Montreal"
         }, 
         "gsx$longitude": {
-          "$t": ""
-        }, 
-        "gsx$latitude_2": {
-          "$t": "45.5224507"
+          "$t": "-73.5912827"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdFUtdEo1dVE3UGVRbTN5c3NjS3l0SHc/od6/public/values/cpzh4"
