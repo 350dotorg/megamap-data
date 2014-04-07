@@ -1,0 +1,197 @@
+// API callback
+Tabletop.singleton.loadSheet({
+  "feed": {
+    "category": [
+      {
+        "term": "http://schemas.google.com/spreadsheets/2006#list", 
+        "scheme": "http://schemas.google.com/spreadsheets/2006"
+      }
+    ], 
+    "updated": {
+      "$t": "2014-04-07T02:06:21.130Z"
+    }, 
+    "xmlns": "http://www.w3.org/2005/Atom", 
+    "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
+    "title": {
+      "$t": "Markers", 
+      "type": "text"
+    }, 
+    "author": [
+      {
+        "name": {
+          "$t": "ethan.jucovy"
+        }, 
+        "email": {
+          "$t": "ethan.jucovy@gmail.com"
+        }
+      }
+    ], 
+    "openSearch$startIndex": {
+      "$t": "1"
+    }, 
+    "link": [
+      {
+        "href": "https://spreadsheets.google.com/pub?key=0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE", 
+        "type": "text/html", 
+        "rel": "alternate"
+      }, 
+      {
+        "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/od7/public/values", 
+        "type": "application/atom+xml", 
+        "rel": "http://schemas.google.com/g/2005#feed"
+      }, 
+      {
+        "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/od7/public/values?alt=json-in-script&sq=", 
+        "type": "application/atom+xml", 
+        "rel": "self"
+      }
+    ], 
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/", 
+    "entry": [
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$shadowwidth": {
+          "$t": ""
+        }, 
+        "updated": {
+          "$t": "2014-04-07T02:06:21.130Z"
+        }, 
+        "gsx$popupanchory": {
+          "$t": "-25"
+        }, 
+        "gsx$shadowanchorx": {
+          "$t": ""
+        }, 
+        "title": {
+          "$t": "Sheet5", 
+          "type": "text"
+        }, 
+        "gsx$iconheight": {
+          "$t": "53"
+        }, 
+        "gsx$shadowanchory": {
+          "$t": ""
+        }, 
+        "gsx$iconwidth": {
+          "$t": "53"
+        }, 
+        "gsx$iconurl": {
+          "$t": "http://static.local.350.org/images/map_markers/map-pin-multiple.png"
+        }, 
+        "content": {
+          "$t": "iconurl: http://static.local.350.org/images/map_markers/map-pin-multiple.png, iconwidth: 53, iconheight: 53, iconanchorx: 50, iconanchory: 50, popupanchorx: -50, popupanchory: -25", 
+          "type": "text"
+        }, 
+        "gsx$type": {
+          "$t": "Sheet5"
+        }, 
+        "gsx$popupanchorx": {
+          "$t": "-50"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/od7/public/values/cpzh4", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$iconanchorx": {
+          "$t": "50"
+        }, 
+        "gsx$shadowheight": {
+          "$t": ""
+        }, 
+        "gsx$shadowurl": {
+          "$t": ""
+        }, 
+        "gsx$iconanchory": {
+          "$t": "50"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/od7/public/values/cpzh4"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$shadowwidth": {
+          "$t": ""
+        }, 
+        "updated": {
+          "$t": "2014-04-07T02:06:21.130Z"
+        }, 
+        "gsx$popupanchory": {
+          "$t": "-25"
+        }, 
+        "gsx$shadowanchorx": {
+          "$t": ""
+        }, 
+        "title": {
+          "$t": "Global Power Shifts", 
+          "type": "text"
+        }, 
+        "gsx$iconheight": {
+          "$t": "36"
+        }, 
+        "gsx$shadowanchory": {
+          "$t": ""
+        }, 
+        "gsx$iconwidth": {
+          "$t": "32"
+        }, 
+        "gsx$iconurl": {
+          "$t": "https://s3.amazonaws.com/s3.350.org/images/gps_arrow.png"
+        }, 
+        "content": {
+          "$t": "iconurl: https://s3.amazonaws.com/s3.350.org/images/gps_arrow.png, iconwidth: 32, iconheight: 36, iconanchorx: 30, iconanchory: 30, popupanchorx: -10, popupanchory: -25", 
+          "type": "text"
+        }, 
+        "gsx$type": {
+          "$t": "Global Power Shifts"
+        }, 
+        "gsx$popupanchorx": {
+          "$t": "-10"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/od7/public/values/cre1l", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$iconanchorx": {
+          "$t": "30"
+        }, 
+        "gsx$shadowheight": {
+          "$t": ""
+        }, 
+        "gsx$shadowurl": {
+          "$t": ""
+        }, 
+        "gsx$iconanchory": {
+          "$t": "30"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/od7/public/values/cre1l"
+        }
+      }
+    ], 
+    "openSearch$totalResults": {
+      "$t": "2"
+    }, 
+    "id": {
+      "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/od7/public/values"
+    }
+  }, 
+  "version": "1.0", 
+  "encoding": "UTF-8"
+});

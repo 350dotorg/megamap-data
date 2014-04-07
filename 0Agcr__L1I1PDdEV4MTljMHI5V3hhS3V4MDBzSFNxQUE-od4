@@ -1,0 +1,102 @@
+// API callback
+Tabletop.singleton.loadSheet({
+  "feed": {
+    "category": [
+      {
+        "term": "http://schemas.google.com/spreadsheets/2006#list", 
+        "scheme": "http://schemas.google.com/spreadsheets/2006"
+      }
+    ], 
+    "updated": {
+      "$t": "2014-04-07T02:06:21.130Z"
+    }, 
+    "xmlns": "http://www.w3.org/2005/Atom", 
+    "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
+    "title": {
+      "$t": "Layers", 
+      "type": "text"
+    }, 
+    "author": [
+      {
+        "name": {
+          "$t": "ethan.jucovy"
+        }, 
+        "email": {
+          "$t": "ethan.jucovy@gmail.com"
+        }
+      }
+    ], 
+    "openSearch$startIndex": {
+      "$t": "1"
+    }, 
+    "link": [
+      {
+        "href": "https://spreadsheets.google.com/pub?key=0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE", 
+        "type": "text/html", 
+        "rel": "alternate"
+      }, 
+      {
+        "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/od4/public/values", 
+        "type": "application/atom+xml", 
+        "rel": "http://schemas.google.com/g/2005#feed"
+      }, 
+      {
+        "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/od4/public/values?alt=json-in-script&sq=", 
+        "type": "application/atom+xml", 
+        "rel": "self"
+      }
+    ], 
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/", 
+    "entry": [
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-04-07T02:06:21.130Z"
+        }, 
+        "title": {
+          "$t": "Local Groups", 
+          "type": "text"
+        }, 
+        "gsx$publicsubmissionspreadsheet": {
+          "$t": "0Agcr__L1I1PDdENEU25BNjhid1BlLV9tUmVuQXliVHc"
+        }, 
+        "gsx$publicsubmissionform": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "template:           <div class=\"popup_box\">\n            <div class=\"popup_box_header\">\n              <strong><a target=\"_blank\" href=\"{{ signup_url }}\">{{ name }}</a></strong>\n            </div>\n            <em>{{ date_and_time }}</em>\n            <hr />\n            {{ description }}\n          </div>\n, publicsubmissionspreadsheet: 0Agcr__L1I1PDdENEU25BNjhid1BlLV9tUmVuQXliVHc", 
+          "type": "text"
+        }, 
+        "gsx$type": {
+          "$t": "Local Groups"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/od4/public/values/cokwr", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$template": {
+          "$t": "          <div class=\"popup_box\">\n            <div class=\"popup_box_header\">\n              <strong><a target=\"_blank\" href=\"{{ signup_url }}\">{{ name }}</a></strong>\n            </div>\n            <em>{{ date_and_time }}</em>\n            <hr />\n            {{ description }}\n          </div>\n"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/od4/public/values/cokwr"
+        }
+      }
+    ], 
+    "openSearch$totalResults": {
+      "$t": "1"
+    }, 
+    "id": {
+      "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/od4/public/values"
+    }
+  }, 
+  "version": "1.0", 
+  "encoding": "UTF-8"
+});
