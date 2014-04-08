@@ -1,0 +1,105 @@
+// API callback
+Tabletop.singleton.loadSheets({
+  "feed": {
+    "category": [
+      {
+        "term": "http://schemas.google.com/spreadsheets/2006#worksheet", 
+        "scheme": "http://schemas.google.com/spreadsheets/2006"
+      }
+    ], 
+    "updated": {
+      "$t": "2014-04-07T02:18:33.388Z"
+    }, 
+    "xmlns": "http://www.w3.org/2005/Atom", 
+    "title": {
+      "$t": "350 Partner Org Event Spreadsheet", 
+      "type": "text"
+    }, 
+    "author": [
+      {
+        "name": {
+          "$t": "jwarnow"
+        }, 
+        "email": {
+          "$t": "jon@350.org"
+        }
+      }
+    ], 
+    "openSearch$startIndex": {
+      "$t": "1"
+    }, 
+    "xmlns$gs": "http://schemas.google.com/spreadsheets/2006", 
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/", 
+    "entry": [
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#worksheet", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-04-07T02:18:33.388Z"
+        }, 
+        "title": {
+          "$t": "sheet1", 
+          "type": "text"
+        }, 
+        "content": {
+          "$t": "sheet1", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/basic", 
+            "type": "application/atom+xml", 
+            "rel": "http://schemas.google.com/spreadsheets/2006#listfeed"
+          }, 
+          {
+            "href": "https://spreadsheets.google.com/feeds/cells/from_xml_350/od6/public/basic", 
+            "type": "application/atom+xml", 
+            "rel": "http://schemas.google.com/spreadsheets/2006#cellsfeed"
+          }, 
+          {
+            "href": "https://spreadsheets.google.com/tq?key=from_xml_350&sheet=od6&pub=1", 
+            "type": "application/atom+xml", 
+            "rel": "http://schemas.google.com/visualization/2008#visualizationApi"
+          }, 
+          {
+            "href": "https://spreadsheets.google.com/feeds/worksheets/from_xml_350/public/basic/od6", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/worksheets/from_xml_350/public/basic/od6"
+        }
+      }
+    ], 
+    "link": [
+      {
+        "href": "https://spreadsheets.google.com/pub?key=from_xml_350", 
+        "type": "text/html", 
+        "rel": "alternate"
+      }, 
+      {
+        "href": "https://spreadsheets.google.com/feeds/worksheets/from_xml_350/public/basic", 
+        "type": "application/atom+xml", 
+        "rel": "http://schemas.google.com/g/2005#feed"
+      }, 
+      {
+        "href": "https://spreadsheets.google.com/feeds/worksheets/from_xml_350/public/basic?alt=json-in-script", 
+        "type": "application/atom+xml", 
+        "rel": "self"
+      }
+    ], 
+    "openSearch$totalResults": {
+      "$t": "1"
+    }, 
+    "id": {
+      "$t": "https://spreadsheets.google.com/feeds/worksheets/from_xml_350/public/basic"
+    }
+  }, 
+  "version": "1.0", 
+  "encoding": "UTF-8"
+});
