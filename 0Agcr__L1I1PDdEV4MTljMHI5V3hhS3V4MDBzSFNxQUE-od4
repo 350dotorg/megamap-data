@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-04-08T21:28:35.534Z"
+      "$t": "2014-04-08T21:33:41.277Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,13 +56,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-04-08T21:28:35.534Z"
+          "$t": "2014-04-08T21:33:41.277Z"
         }, 
         "gsx$xmlfeedurl": {
           "$t": "http://350dotorg.github.io/megamap-data/xml/living-dangerously/lcv.xml"
         }, 
         "title": {
-          "$t": "LCV", 
+          "$t": "League of Conservation Voters", 
           "type": "text"
         }, 
         "gsx$publicsubmissionspreadsheet": {
@@ -76,7 +76,7 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$type": {
-          "$t": "LCV"
+          "$t": "League of Conservation Voters"
         }, 
         "link": [
           {
@@ -100,13 +100,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-04-08T21:28:35.534Z"
+          "$t": "2014-04-08T21:33:41.277Z"
         }, 
         "gsx$xmlfeedurl": {
           "$t": "http://act.350.org/event/years/search/?template_set=map_xml"
         }, 
         "title": {
-          "$t": "350", 
+          "$t": "350.org", 
           "type": "text"
         }, 
         "gsx$publicsubmissionspreadsheet": {
@@ -120,7 +120,7 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$type": {
-          "$t": "350"
+          "$t": "350.org"
         }, 
         "link": [
           {
