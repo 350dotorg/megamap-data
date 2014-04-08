@@ -66,17 +66,17 @@ Tabletop.singleton.loadSheet({
           "$t": "44.263534"
         }, 
         "title": {
-          "$t": ""Years of Living Dangerously" Watch Party in Appleton", 
+          "$t": "\"Years of Living Dangerously\" Watch Party in Appleton", 
           "type": "text"
         }, 
         "gsx$link": {
           "$t": "https://www.surveymonkey.com/s/FCYCMJ9"
         }, 
         "gsx$name": {
-          "$t": ""Years of Living Dangerously" Watch Party in Appleton"
+          "$t": "\"Years of Living Dangerously\" Watch Party in Appleton"
         }, 
         "content": {
-          "$t": "datetime: 2014-04-09 19:00:00, link: https://www.surveymonkey.com/s/FCYCMJ9, description: Join Wisconsin League of Conservation Voters to watch the premiere of Showtime’s new climate change documentary series " Years of Living Dangerously. "  We'll watch the show and then talk about what we can do to fight climate change here in Wisconsin., longitude: -88.407081, latitude: 44.263534",
+          "$t": "datetime: 2014-04-09 19:00:00, link: https://www.surveymonkey.com/s/FCYCMJ9, description: Join Wisconsin League of Conservation Voters to watch the premiere of Showtime’s new climate change documentary series \" Years of Living Dangerously. \"  We'll watch the show and then talk about what we can do to fight climate change here in Wisconsin., longitude: -88.407081, latitude: 44.263534",
           "type": "text"
         }, 
         "link": [
@@ -93,7 +93,7 @@ Tabletop.singleton.loadSheet({
           "$t": "https://spreadsheets.google.com/feeds/list/from_xml_lcv/od6/public/values/event0"
         }, 
         "gsx$description": {
-          "$t": "Join Wisconsin League of Conservation Voters to watch the premiere of Showtime’s new climate change documentary series " Years of Living Dangerously. "  We'll watch the show and then talk about what we can do to fight climate change here in Wisconsin."
+          "$t": "Join Wisconsin League of Conservation Voters to watch the premiere of Showtime’s new climate change documentary series \" Years of Living Dangerously. \"  We'll watch the show and then talk about what we can do to fight climate change here in Wisconsin."
         }
       },
       
@@ -114,17 +114,17 @@ Tabletop.singleton.loadSheet({
           "$t": "42.959582"
         }, 
         "title": {
-          "$t": ""Years of Living Dangerously" Watch Party in Dodgeville", 
+          "$t": "\"Years of Living Dangerously\" Watch Party in Dodgeville", 
           "type": "text"
         }, 
         "gsx$link": {
           "$t": "https://www.surveymonkey.com/s/FSNN2XS"
         }, 
         "gsx$name": {
-          "$t": ""Years of Living Dangerously" Watch Party in Dodgeville"
+          "$t": "\"Years of Living Dangerously\" Watch Party in Dodgeville"
         }, 
         "content": {
-          "$t": "datetime: 2014-04-10 19:00:00, link: https://www.surveymonkey.com/s/FSNN2XS, description: Join Wisconsin League of Conservation Voters to watch the premiere of Showtime’s new climate change documentary series " Years of Living Dangerously. "  We'll watch the show and then talk about what we can do to fight climate change here in Wisconsin., longitude: -90.129931, latitude: 42.959582",
+          "$t": "datetime: 2014-04-10 19:00:00, link: https://www.surveymonkey.com/s/FSNN2XS, description: Join Wisconsin League of Conservation Voters to watch the premiere of Showtime’s new climate change documentary series \" Years of Living Dangerously. \"  We'll watch the show and then talk about what we can do to fight climate change here in Wisconsin., longitude: -90.129931, latitude: 42.959582",
           "type": "text"
         }, 
         "link": [
@@ -141,7 +141,7 @@ Tabletop.singleton.loadSheet({
           "$t": "https://spreadsheets.google.com/feeds/list/from_xml_lcv/od6/public/values/event1"
         }, 
         "gsx$description": {
-          "$t": "Join Wisconsin League of Conservation Voters to watch the premiere of Showtime’s new climate change documentary series " Years of Living Dangerously. "  We'll watch the show and then talk about what we can do to fight climate change here in Wisconsin."
+          "$t": "Join Wisconsin League of Conservation Voters to watch the premiere of Showtime’s new climate change documentary series \" Years of Living Dangerously. \"  We'll watch the show and then talk about what we can do to fight climate change here in Wisconsin."
         }
       }
       
