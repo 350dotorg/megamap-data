@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-04-08T17:40:34.843Z"
+      "$t": "2014-04-08T18:10:50.447Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,95 +56,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-04-08T17:40:34.843Z"
-        }, 
-        "gsx$xmlfeedurl": {
-          "$t": ""
-        }, 
-        "title": {
-          "$t": "Partner Org 1", 
-          "type": "text"
-        }, 
-        "gsx$publicsubmissionspreadsheet": {
-          "$t": "0Agcr__L1I1PDdENEU25BNjhid1BlLV9tUmVuQXliVHc"
-        }, 
-        "gsx$publicsubmissionform": {
-          "$t": ""
-        }, 
-        "content": {
-          "$t": "template:           <div class=\"popup_box\">\n            <div class=\"popup_box_header\">\n              <strong><a target=\"_blank\" href=\"{{ link }}\">{{ name }}</a></strong>\n            </div>\n            <em>{{ datetime }}</em>\n            <hr />\n            {{ description }}\n          </div>\n, publicsubmissionspreadsheet: 0Agcr__L1I1PDdENEU25BNjhid1BlLV9tUmVuQXliVHc", 
-          "type": "text"
-        }, 
-        "gsx$type": {
-          "$t": "Partner Org 1"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/od4/public/values/cokwr", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$template": {
-          "$t": "          <div class=\"popup_box\">\n            <div class=\"popup_box_header\">\n              <strong><a target=\"_blank\" href=\"{{ link }}\">{{ name }}</a></strong>\n            </div>\n            <em>{{ datetime }}</em>\n            <hr />\n            {{ description }}\n          </div>\n"
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/od4/public/values/cokwr"
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "updated": {
-          "$t": "2014-04-08T17:40:34.843Z"
-        }, 
-        "gsx$xmlfeedurl": {
-          "$t": ""
-        }, 
-        "title": {
-          "$t": "Partner Org 2", 
-          "type": "text"
-        }, 
-        "gsx$publicsubmissionspreadsheet": {
-          "$t": "0Agcr__L1I1PDdFUtdEo1dVE3UGVRbTN5c3NjS3l0SHc"
-        }, 
-        "gsx$publicsubmissionform": {
-          "$t": ""
-        }, 
-        "content": {
-          "$t": "template:           <div class=\"popup_box\">\n            <div class=\"popup_box_header\">\n              <strong><a target=\"_blank\" href=\"{{ link }}\">{{ name }}</a></strong>\n            </div>\n            <em>{{ datetime }}</em>\n            <hr />\n            {{ description }}\n          </div>\n, publicsubmissionspreadsheet: 0Agcr__L1I1PDdFUtdEo1dVE3UGVRbTN5c3NjS3l0SHc", 
-          "type": "text"
-        }, 
-        "gsx$type": {
-          "$t": "Partner Org 2"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/od4/public/values/cpzh4", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$template": {
-          "$t": "          <div class=\"popup_box\">\n            <div class=\"popup_box_header\">\n              <strong><a target=\"_blank\" href=\"{{ link }}\">{{ name }}</a></strong>\n            </div>\n            <em>{{ datetime }}</em>\n            <hr />\n            {{ description }}\n          </div>\n"
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/od4/public/values/cpzh4"
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "updated": {
-          "$t": "2014-04-08T17:40:34.843Z"
+          "$t": "2014-04-08T18:10:50.447Z"
         }, 
         "gsx$xmlfeedurl": {
           "$t": "http://350dotorg.github.io/megamap-data/xml/living-dangerously/lcv.xml"
@@ -168,7 +80,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/od4/public/values/cre1l", 
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/od4/public/values/cokwr", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -177,12 +89,56 @@ Tabletop.singleton.loadSheet({
           "$t": "          <div class=\"popup_box\">\n            <div class=\"popup_box_header\">\n              <strong><a target=\"_blank\" href=\"{{ link }}\">{{ name }}</a></strong>\n            </div>\n            <em>{{ datetime }}</em>\n            <hr />\n            {{ description }}\n          </div>\n"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/od4/public/values/cre1l"
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/od4/public/values/cokwr"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-04-08T18:10:50.447Z"
+        }, 
+        "gsx$xmlfeedurl": {
+          "$t": "http://act.350.org/event/years/search/?template_set=map_xml"
+        }, 
+        "title": {
+          "$t": "350", 
+          "type": "text"
+        }, 
+        "gsx$publicsubmissionspreadsheet": {
+          "$t": "from_xml_350"
+        }, 
+        "gsx$publicsubmissionform": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "template:           <div class=\"popup_box\">\n            <div class=\"popup_box_header\">\n              <strong><a target=\"_blank\" href=\"{{ link }}\">{{ name }}</a></strong>\n            </div>\n            <em>{{ datetime }}</em>\n            <hr />\n            {{ description }}\n          </div>\n, publicsubmissionspreadsheet: from_xml_350, xmlfeedurl: http://act.350.org/event/years/search/?template_set=map_xml", 
+          "type": "text"
+        }, 
+        "gsx$type": {
+          "$t": "350"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/od4/public/values/cpzh4", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$template": {
+          "$t": "          <div class=\"popup_box\">\n            <div class=\"popup_box_header\">\n              <strong><a target=\"_blank\" href=\"{{ link }}\">{{ name }}</a></strong>\n            </div>\n            <em>{{ datetime }}</em>\n            <hr />\n            {{ description }}\n          </div>\n"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/od4/public/values/cpzh4"
         }
       }
     ], 
     "openSearch$totalResults": {
-      "$t": "3"
+      "$t": "2"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/od4/public/values"
