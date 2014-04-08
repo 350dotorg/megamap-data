@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-04-08T17:13:59.089Z"
+      "$t": "2014-04-08T17:16:50.955Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,7 +56,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-04-08T17:13:59.089Z"
+          "$t": "2014-04-08T17:16:50.955Z"
         }, 
         "gsx$xmlfeedurl": {
           "$t": ""
@@ -100,7 +100,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-04-08T17:13:59.089Z"
+          "$t": "2014-04-08T17:16:50.955Z"
         }, 
         "gsx$xmlfeedurl": {
           "$t": ""
@@ -144,7 +144,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-04-08T17:13:59.089Z"
+          "$t": "2014-04-08T17:16:50.955Z"
         }, 
         "gsx$xmlfeedurl": {
           "$t": "http://act.350.org/event/years/search/?template_set=map_xml"
@@ -188,10 +188,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-04-08T17:13:59.089Z"
+          "$t": "2014-04-08T17:16:50.955Z"
         }, 
         "gsx$xmlfeedurl": {
-          "$t": ""
+          "$t": "http://350dotorg.github.io/megamap-data/xml/living-dangerously/lcv.xml"
         }, 
         "title": {
           "$t": "LCV", 
@@ -204,7 +204,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "content": {
-          "$t": "", 
+          "$t": "xmlfeedurl: http://350dotorg.github.io/megamap-data/xml/living-dangerously/lcv.xml", 
           "type": "text"
         }, 
         "gsx$type": {
