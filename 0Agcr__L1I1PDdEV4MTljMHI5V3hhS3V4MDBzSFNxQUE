@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheets({
       }
     ], 
     "updated": {
-      "$t": "2014-04-08T21:33:41.277Z"
+      "$t": "2014-04-08T23:17:02.064Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "title": {
@@ -39,95 +39,7 @@ Tabletop.singleton.loadSheets({
           }
         ], 
         "updated": {
-          "$t": "2014-04-08T21:33:41.277Z"
-        }, 
-        "title": {
-          "$t": "Partner Org 1", 
-          "type": "text"
-        }, 
-        "content": {
-          "$t": "Partner Org 1", 
-          "type": "text"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/od6/public/basic", 
-            "type": "application/atom+xml", 
-            "rel": "http://schemas.google.com/spreadsheets/2006#listfeed"
-          }, 
-          {
-            "href": "https://spreadsheets.google.com/feeds/cells/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/od6/public/basic", 
-            "type": "application/atom+xml", 
-            "rel": "http://schemas.google.com/spreadsheets/2006#cellsfeed"
-          }, 
-          {
-            "href": "https://spreadsheets.google.com/tq?key=0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE&sheet=od6&pub=1", 
-            "type": "application/atom+xml", 
-            "rel": "http://schemas.google.com/visualization/2008#visualizationApi"
-          }, 
-          {
-            "href": "https://spreadsheets.google.com/feeds/worksheets/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/public/basic/od6", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/worksheets/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/public/basic/od6"
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#worksheet", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "updated": {
-          "$t": "2014-04-08T21:33:41.277Z"
-        }, 
-        "title": {
-          "$t": "Partner Org 2", 
-          "type": "text"
-        }, 
-        "content": {
-          "$t": "Partner Org 2", 
-          "type": "text"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/ocz/public/basic", 
-            "type": "application/atom+xml", 
-            "rel": "http://schemas.google.com/spreadsheets/2006#listfeed"
-          }, 
-          {
-            "href": "https://spreadsheets.google.com/feeds/cells/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/ocz/public/basic", 
-            "type": "application/atom+xml", 
-            "rel": "http://schemas.google.com/spreadsheets/2006#cellsfeed"
-          }, 
-          {
-            "href": "https://spreadsheets.google.com/tq?key=0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE&sheet=ocz&pub=1", 
-            "type": "application/atom+xml", 
-            "rel": "http://schemas.google.com/visualization/2008#visualizationApi"
-          }, 
-          {
-            "href": "https://spreadsheets.google.com/feeds/worksheets/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/public/basic/ocz", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/worksheets/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/public/basic/ocz"
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#worksheet", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "updated": {
-          "$t": "2014-04-08T21:33:41.277Z"
+          "$t": "2014-04-08T23:17:02.064Z"
         }, 
         "title": {
           "$t": "Markers", 
@@ -171,7 +83,7 @@ Tabletop.singleton.loadSheets({
           }
         ], 
         "updated": {
-          "$t": "2014-04-08T21:33:41.277Z"
+          "$t": "2014-04-08T23:17:02.064Z"
         }, 
         "title": {
           "$t": "Layers", 
@@ -226,7 +138,7 @@ Tabletop.singleton.loadSheets({
       }
     ], 
     "openSearch$totalResults": {
-      "$t": "4"
+      "$t": "2"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/worksheets/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/public/basic"

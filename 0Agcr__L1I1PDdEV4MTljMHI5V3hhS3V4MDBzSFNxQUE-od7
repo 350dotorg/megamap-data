@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-04-08T21:33:41.277Z"
+      "$t": "2014-04-08T23:17:02.064Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -47,146 +47,8 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/", 
-    "entry": [
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "gsx$shadowwidth": {
-          "$t": ""
-        }, 
-        "updated": {
-          "$t": "2014-04-08T21:33:41.277Z"
-        }, 
-        "gsx$popupanchory": {
-          "$t": "-25"
-        }, 
-        "gsx$shadowanchorx": {
-          "$t": ""
-        }, 
-        "title": {
-          "$t": "Sheet5", 
-          "type": "text"
-        }, 
-        "gsx$iconheight": {
-          "$t": "53"
-        }, 
-        "gsx$shadowanchory": {
-          "$t": ""
-        }, 
-        "gsx$iconwidth": {
-          "$t": "53"
-        }, 
-        "gsx$iconurl": {
-          "$t": "http://static.local.350.org/images/map_markers/map-pin-multiple.png"
-        }, 
-        "content": {
-          "$t": "iconurl: http://static.local.350.org/images/map_markers/map-pin-multiple.png, iconwidth: 53, iconheight: 53, iconanchorx: 50, iconanchory: 50, popupanchorx: -50, popupanchory: -25", 
-          "type": "text"
-        }, 
-        "gsx$type": {
-          "$t": "Sheet5"
-        }, 
-        "gsx$popupanchorx": {
-          "$t": "-50"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/od7/public/values/cpzh4", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$iconanchorx": {
-          "$t": "50"
-        }, 
-        "gsx$shadowheight": {
-          "$t": ""
-        }, 
-        "gsx$shadowurl": {
-          "$t": ""
-        }, 
-        "gsx$iconanchory": {
-          "$t": "50"
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/od7/public/values/cpzh4"
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "gsx$shadowwidth": {
-          "$t": ""
-        }, 
-        "updated": {
-          "$t": "2014-04-08T21:33:41.277Z"
-        }, 
-        "gsx$popupanchory": {
-          "$t": "-25"
-        }, 
-        "gsx$shadowanchorx": {
-          "$t": ""
-        }, 
-        "title": {
-          "$t": "Global Power Shifts", 
-          "type": "text"
-        }, 
-        "gsx$iconheight": {
-          "$t": "36"
-        }, 
-        "gsx$shadowanchory": {
-          "$t": ""
-        }, 
-        "gsx$iconwidth": {
-          "$t": "32"
-        }, 
-        "gsx$iconurl": {
-          "$t": "https://s3.amazonaws.com/s3.350.org/images/gps_arrow.png"
-        }, 
-        "content": {
-          "$t": "iconurl: https://s3.amazonaws.com/s3.350.org/images/gps_arrow.png, iconwidth: 32, iconheight: 36, iconanchorx: 30, iconanchory: 30, popupanchorx: -10, popupanchory: -25", 
-          "type": "text"
-        }, 
-        "gsx$type": {
-          "$t": "Global Power Shifts"
-        }, 
-        "gsx$popupanchorx": {
-          "$t": "-10"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/od7/public/values/cre1l", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$iconanchorx": {
-          "$t": "30"
-        }, 
-        "gsx$shadowheight": {
-          "$t": ""
-        }, 
-        "gsx$shadowurl": {
-          "$t": ""
-        }, 
-        "gsx$iconanchory": {
-          "$t": "30"
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/od7/public/values/cre1l"
-        }
-      }
-    ], 
     "openSearch$totalResults": {
-      "$t": "2"
+      "$t": "0"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/od7/public/values"
