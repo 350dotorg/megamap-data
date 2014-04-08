@@ -6095,11 +6095,59 @@ Tabletop.singleton.loadSheet({
         "gsx$description": {
           "$t": "Join us for a screening of \"Years of Living Dangerously\".  We invite you to join us at 7pm, for the viewing to start promptly at 7:30pm.  Organic popcorn and healthy water available, but you are welcome to bring your own snacks.  Opportunity for group discussion afterwards, or to view the live web-cam from the producers.  Our choice!\nThis is a wonderful opportunity for high class, unbiased education and opportunity to take part in making a difference within our own community, and meeting like minded souls.  Look forward to seeing you there.  Judith Van Cleave"
         }
+      },
+      
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-04-07T02:18:33.388Z"
+        }, 
+        "gsx$datetime": {
+          "$t": "2014-04-13 19:00:00"
+        }, 
+        "gsx$latitude": {
+          "$t": "44.6638"
+        }, 
+        "title": {
+          "$t": "\"Years of Living Dangerously\" Watch Gathering in Jeff", 
+          "type": "text"
+        }, 
+        "gsx$link": {
+          "$t": "https://act.350.org/event/years/7186"
+        }, 
+        "gsx$name": {
+          "$t": "\"Years of Living Dangerously\" Watch Gathering in Jeff"
+        }, 
+        "content": {
+          "$t": "datetime: 2014-04-13 19:00:00, link: https://act.350.org/event/years/7186, description: Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps locally!  \n\nEmail or call for the exact street address and parking instructions for our home in Jeffersonville.  This is an alcohol and smoke-free event.  Please also refrain from wearing any strong perfumes or fragrances to support those who may have allergies to enjoy the screening as well., longitude: -72.7837, latitude: 44.6638",
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/cokwr", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$longitude": {
+          "$t": "-72.7837"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event126"
+        }, 
+        "gsx$description": {
+          "$t": "Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps locally!  \n\nEmail or call for the exact street address and parking instructions for our home in Jeffersonville.  This is an alcohol and smoke-free event.  Please also refrain from wearing any strong perfumes or fragrances to support those who may have allergies to enjoy the screening as well."
+        }
       }
       
     ], 
     "openSearch$totalResults": {
-      "$t": "126"
+      "$t": "127"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values"
