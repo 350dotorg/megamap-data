@@ -12,7 +12,7 @@ Tabletop.singleton.loadSheets({
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "title": {
-      "$t": "350 Distributed Action Spreadsheet", 
+      "$t": "350 - Distributed Orgs - Year of Living Dangerously Events", 
       "type": "text"
     }, 
     "author": [
