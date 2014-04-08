@@ -1,0 +1,158 @@
+// API callback
+Tabletop.singleton.loadSheet({
+  "feed": {
+    "category": [
+      {
+        "term": "http://schemas.google.com/spreadsheets/2006#list", 
+        "scheme": "http://schemas.google.com/spreadsheets/2006"
+      }
+    ], 
+    "updated": {
+      "$t": "2014-04-07T02:18:33.388Z"
+    }, 
+    "xmlns": "http://www.w3.org/2005/Atom", 
+    "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
+    "title": {
+      "$t": "sheet1", 
+      "type": "text"
+    }, 
+    "author": [
+      {
+        "name": {
+          "$t": "jwarnow"
+        }, 
+        "email": {
+          "$t": "jon@350.org"
+        }
+      }
+    ], 
+    "openSearch$startIndex": {
+      "$t": "1"
+    }, 
+    "link": [
+      {
+        "href": "https://spreadsheets.google.com/pub?key=from_xml_lcv", 
+        "type": "text/html", 
+        "rel": "alternate"
+      }, 
+      {
+        "href": "https://spreadsheets.google.com/feeds/list/from_xml_lcv/od6/public/values", 
+        "type": "application/atom+xml", 
+        "rel": "http://schemas.google.com/g/2005#feed"
+      }, 
+      {
+        "href": "https://spreadsheets.google.com/feeds/list/from_xml_lcv/od6/public/values?alt=json-in-script&sq=", 
+        "type": "application/atom+xml", 
+        "rel": "self"
+      }
+    ], 
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/", 
+    "entry": [
+      
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-04-07T02:18:33.388Z"
+        }, 
+        "gsx$datetime": {
+          "$t": "2014-04-09 19:00:00"
+        }, 
+        "gsx$latitude": {
+          "$t": "44.263534"
+        }, 
+        "title": {
+          "$t": ""Years of Living Dangerously" Watch Party in Appleton", 
+          "type": "text"
+        }, 
+        "gsx$link": {
+          "$t": "https://www.surveymonkey.com/s/FCYCMJ9"
+        }, 
+        "gsx$name": {
+          "$t": ""Years of Living Dangerously" Watch Party in Appleton"
+        }, 
+        "content": {
+          "$t": "datetime: 2014-04-09 19:00:00, link: https://www.surveymonkey.com/s/FCYCMJ9, description: Join Wisconsin League of Conservation Voters to watch the premiere of Showtime’s new climate change documentary series " Years of Living Dangerously. "  We'll watch the show and then talk about what we can do to fight climate change here in Wisconsin., longitude: -88.407081, latitude: 44.263534",
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/from_xml_lcv/od6/public/values/cokwr", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$longitude": {
+          "$t": "-88.407081"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_lcv/od6/public/values/event0"
+        }, 
+        "gsx$description": {
+          "$t": "Join Wisconsin League of Conservation Voters to watch the premiere of Showtime’s new climate change documentary series " Years of Living Dangerously. "  We'll watch the show and then talk about what we can do to fight climate change here in Wisconsin."
+        }
+      },
+      
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-04-07T02:18:33.388Z"
+        }, 
+        "gsx$datetime": {
+          "$t": "2014-04-10 19:00:00"
+        }, 
+        "gsx$latitude": {
+          "$t": "42.959582"
+        }, 
+        "title": {
+          "$t": ""Years of Living Dangerously" Watch Party in Dodgeville", 
+          "type": "text"
+        }, 
+        "gsx$link": {
+          "$t": "https://www.surveymonkey.com/s/FSNN2XS"
+        }, 
+        "gsx$name": {
+          "$t": ""Years of Living Dangerously" Watch Party in Dodgeville"
+        }, 
+        "content": {
+          "$t": "datetime: 2014-04-10 19:00:00, link: https://www.surveymonkey.com/s/FSNN2XS, description: Join Wisconsin League of Conservation Voters to watch the premiere of Showtime’s new climate change documentary series " Years of Living Dangerously. "  We'll watch the show and then talk about what we can do to fight climate change here in Wisconsin., longitude: -90.129931, latitude: 42.959582",
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/from_xml_lcv/od6/public/values/cokwr", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$longitude": {
+          "$t": "-90.129931"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_lcv/od6/public/values/event1"
+        }, 
+        "gsx$description": {
+          "$t": "Join Wisconsin League of Conservation Voters to watch the premiere of Showtime’s new climate change documentary series " Years of Living Dangerously. "  We'll watch the show and then talk about what we can do to fight climate change here in Wisconsin."
+        }
+      }
+      
+    ], 
+    "openSearch$totalResults": {
+      "$t": "2"
+    }, 
+    "id": {
+      "$t": "https://spreadsheets.google.com/feeds/list/from_xml_lcv/od6/public/values"
+    }
+  }, 
+  "version": "1.0", 
+  "encoding": "UTF-8"
+});
