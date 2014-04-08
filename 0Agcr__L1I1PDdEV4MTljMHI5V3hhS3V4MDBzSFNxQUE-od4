@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-04-08T17:12:14.903Z"
+      "$t": "2014-04-08T17:13:59.089Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,7 +56,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-04-08T17:12:14.903Z"
+          "$t": "2014-04-08T17:13:59.089Z"
+        }, 
+        "gsx$xmlfeedurl": {
+          "$t": ""
         }, 
         "title": {
           "$t": "Partner Org 1", 
@@ -97,7 +100,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-04-08T17:12:14.903Z"
+          "$t": "2014-04-08T17:13:59.089Z"
+        }, 
+        "gsx$xmlfeedurl": {
+          "$t": ""
         }, 
         "title": {
           "$t": "Partner Org 2", 
@@ -138,7 +144,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-04-08T17:12:14.903Z"
+          "$t": "2014-04-08T17:13:59.089Z"
+        }, 
+        "gsx$xmlfeedurl": {
+          "$t": "http://act.350.org/event/years/search/?template_set=map_xml"
         }, 
         "title": {
           "$t": "350", 
@@ -151,7 +160,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "content": {
-          "$t": "template:           <div class=\"popup_box\">\n            <div class=\"popup_box_header\">\n              <strong><a target=\"_blank\" href=\"{{ link }}\">{{ name }}</a></strong>\n            </div>\n            <em>{{ datetime }}</em>\n            <hr />\n            {{ description }}\n          </div>\n", 
+          "$t": "template:           <div class=\"popup_box\">\n            <div class=\"popup_box_header\">\n              <strong><a target=\"_blank\" href=\"{{ link }}\">{{ name }}</a></strong>\n            </div>\n            <em>{{ datetime }}</em>\n            <hr />\n            {{ description }}\n          </div>\n, xmlfeedurl: http://act.350.org/event/years/search/?template_set=map_xml", 
           "type": "text"
         }, 
         "gsx$type": {
@@ -170,10 +179,54 @@ Tabletop.singleton.loadSheet({
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/od4/public/values/cre1l"
         }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-04-08T17:13:59.089Z"
+        }, 
+        "gsx$xmlfeedurl": {
+          "$t": ""
+        }, 
+        "title": {
+          "$t": "LCV", 
+          "type": "text"
+        }, 
+        "gsx$publicsubmissionspreadsheet": {
+          "$t": ""
+        }, 
+        "gsx$publicsubmissionform": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "", 
+          "type": "text"
+        }, 
+        "gsx$type": {
+          "$t": "LCV"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/od4/public/values/chk2m", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$template": {
+          "$t": ""
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/od4/public/values/chk2m"
+        }
       }
     ], 
     "openSearch$totalResults": {
-      "$t": "3"
+      "$t": "4"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEV4MTljMHI5V3hhS3V4MDBzSFNxQUE/od4/public/values"
