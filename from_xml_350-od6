@@ -6159,6 +6159,54 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-04-13 19:00:00"
         }, 
         "gsx$latitude": {
+          "$t": "41.0306"
+        }, 
+        "title": {
+          "$t": "Jeffrey Geary", 
+          "type": "text"
+        }, 
+        "gsx$link": {
+          "$t": "https://act.350.org/event/years/7189"
+        }, 
+        "gsx$name": {
+          "$t": "Jeffrey Geary"
+        }, 
+        "content": {
+          "$t": "datetime: 2014-04-13 19:00:00, link: https://act.350.org/event/years/7189, description: On Monday, the United Nations released its second report on climate change. And the consensus of scientific experts is that things are worse, far worse than we thought. We need to think hard and to pray hard about what we are prepared to do with the time that has been given to us.  We are the ones living here and now.  It is to us that the faces of our grandchildren and great grandchildren will turn and say, “Daddy, Grandmom, what did you do?” Join us for a screening of Years of Living Dangerously this Sunday and be a part of the conversation. We'll watch the show, tune into the video call afterwards, and make a plan for our next steps!, longitude: -73.7639, latitude: 41.0306",
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/cokwr", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$longitude": {
+          "$t": "-73.7639"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event127"
+        }, 
+        "gsx$description": {
+          "$t": "On Monday, the United Nations released its second report on climate change. And the consensus of scientific experts is that things are worse, far worse than we thought. We need to think hard and to pray hard about what we are prepared to do with the time that has been given to us.  We are the ones living here and now.  It is to us that the faces of our grandchildren and great grandchildren will turn and say, “Daddy, Grandmom, what did you do?” Join us for a screening of Years of Living Dangerously this Sunday and be a part of the conversation. We'll watch the show, tune into the video call afterwards, and make a plan for our next steps!"
+        }
+      },
+      
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-04-07T02:18:33.388Z"
+        }, 
+        "gsx$datetime": {
+          "$t": "2014-04-13 19:00:00"
+        }, 
+        "gsx$latitude": {
           "$t": "44.7725"
         }, 
         "title": {
@@ -6186,7 +6234,7 @@ Tabletop.singleton.loadSheet({
           "$t": "-69.3996"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event127"
+          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event128"
         }, 
         "gsx$description": {
           "$t": "Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show and tune into the video call afterwards… \n\nAll are welcome!"
@@ -6195,7 +6243,7 @@ Tabletop.singleton.loadSheet({
       
     ], 
     "openSearch$totalResults": {
-      "$t": "128"
+      "$t": "129"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values"
