@@ -9359,11 +9359,59 @@ Tabletop.singleton.loadSheet({
         "gsx$description": {
           "$t": "Conservation Voters of South Carolina is hosting a viewing of “Years of Living Dangerously” on Sunday April 13 at 7:15  p.m., in room 5. \n\nYou’re invited to join us. Refreshments will be provided, with a discussion to follow."
         }
+      },
+      
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-04-07T02:18:33.388Z"
+        }, 
+        "gsx$datetime": {
+          "$t": "2014-04-13 20:00:00"
+        }, 
+        "gsx$latitude": {
+          "$t": "38.4344"
+        }, 
+        "title": {
+          "$t": "\"Years of Living Dangerously\" Watch Party", 
+          "type": "text"
+        }, 
+        "gsx$link": {
+          "$t": "https://act.350.org/event/years/7272"
+        }, 
+        "gsx$name": {
+          "$t": "\"Years of Living Dangerously\" Watch Party"
+        }, 
+        "content": {
+          "$t": "datetime: 2014-04-13 20:00:00, link: https://act.350.org/event/years/7272, description: The E.A.R.T.H. Club of James Madison University and the Climate Action Alliance of the Valley invite everyone to join us for a screening of the first episode of Years of Living Dangerously. \nWe've reserved the Grafton-Stovall Theater on the JMU campus; parking will be available in the Grace Street parking deck.  Check out the parking map at jmu.edu/parking.\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!, longitude: -78.8747, latitude: 38.4344",
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/cokwr", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$longitude": {
+          "$t": "-78.8747"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event194"
+        }, 
+        "gsx$description": {
+          "$t": "The E.A.R.T.H. Club of James Madison University and the Climate Action Alliance of the Valley invite everyone to join us for a screening of the first episode of Years of Living Dangerously. \nWe've reserved the Grafton-Stovall Theater on the JMU campus; parking will be available in the Grace Street parking deck.  Check out the parking map at jmu.edu/parking.\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!"
+        }
       }
       
     ], 
     "openSearch$totalResults": {
-      "$t": "194"
+      "$t": "195"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values"
