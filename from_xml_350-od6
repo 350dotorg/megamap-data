@@ -6972,6 +6972,54 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-04-07T02:18:33.388Z"
         }, 
         "gsx$datetime": {
+          "$t": "2014-04-13 20:00:00"
+        }, 
+        "gsx$latitude": {
+          "$t": "43.6705"
+        }, 
+        "title": {
+          "$t": "\"Years of Living Dangerously\" Screening", 
+          "type": "text"
+        }, 
+        "gsx$link": {
+          "$t": "https://act.350.org/event/years/7239"
+        }, 
+        "gsx$name": {
+          "$t": "\"Years of Living Dangerously\" Screening"
+        }, 
+        "content": {
+          "$t": "datetime: 2014-04-13 20:00:00, link: https://act.350.org/event/years/7239, description: Join Toronto350 for a screening of Years of Living Dangerously, a groundbreaking new television series that uses celebrity involvement and incredible cinematography to grapple with climate change and its inevitable impacts.\n\nNationwide, hundreds of groups and tens of thousands of people will be tuning in or gathering to watch.  We want you to join us.  We're going to watch the show and host an open community discussion about climate change and what it means for us personally., longitude: -79.3901, latitude: 43.6705",
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/cokwr", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$longitude": {
+          "$t": "-79.3901"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event144"
+        }, 
+        "gsx$description": {
+          "$t": "Join Toronto350 for a screening of Years of Living Dangerously, a groundbreaking new television series that uses celebrity involvement and incredible cinematography to grapple with climate change and its inevitable impacts.\n\nNationwide, hundreds of groups and tens of thousands of people will be tuning in or gathering to watch.  We want you to join us.  We're going to watch the show and host an open community discussion about climate change and what it means for us personally."
+        }
+      },
+      
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-04-07T02:18:33.388Z"
+        }, 
+        "gsx$datetime": {
           "$t": "2014-04-13 19:00:00"
         }, 
         "gsx$latitude": {
@@ -7002,7 +7050,7 @@ Tabletop.singleton.loadSheet({
           "$t": "-72.5159"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event144"
+          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event145"
         }, 
         "gsx$description": {
           "$t": "Join us for a screening of the first episode of the ShowTime movie \"Years of Living Dangerously\", which is about the risks of climate change for all of us and other living things on planet Earth. We'll watch the show, tune into the video call afterwards that is sponsored by 350.org, and make a plan for our next steps! This showing is cosponsored by the UUS:E Climate Action Team and the Manchester chapter of the Citizens Climate Lobby (www.citizensclimatelobby.org)"
@@ -7011,7 +7059,7 @@ Tabletop.singleton.loadSheet({
       
     ], 
     "openSearch$totalResults": {
-      "$t": "145"
+      "$t": "146"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values"
