@@ -8412,6 +8412,54 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-04-07T02:18:33.388Z"
         }, 
         "gsx$datetime": {
+          "$t": "2014-04-13 14:00:00"
+        }, 
+        "gsx$latitude": {
+          "$t": "37.8882"
+        }, 
+        "title": {
+          "$t": "\"Years of Living Dangerously\" Watch Party", 
+          "type": "text"
+        }, 
+        "gsx$link": {
+          "$t": "https://act.350.org/event/years/7286"
+        }, 
+        "gsx$name": {
+          "$t": "\"Years of Living Dangerously\" Watch Party"
+        }, 
+        "content": {
+          "$t": "datetime: 2014-04-13 14:00:00, link: https://act.350.org/event/years/7286, description: Transition Albany invites you to come and watch Years of Living Dangerously in the company of other thoughtful and concerned people. We will listen to the panel discussion afterwards and think about next steps. I am so glad something like this exists and is being broadcast on a mainstream network like Showtime. It's about time!, longitude: -122.294, latitude: 37.8882",
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/cokwr", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$longitude": {
+          "$t": "-122.294"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event174"
+        }, 
+        "gsx$description": {
+          "$t": "Transition Albany invites you to come and watch Years of Living Dangerously in the company of other thoughtful and concerned people. We will listen to the panel discussion afterwards and think about next steps. I am so glad something like this exists and is being broadcast on a mainstream network like Showtime. It's about time!"
+        }
+      },
+      
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-04-07T02:18:33.388Z"
+        }, 
+        "gsx$datetime": {
           "$t": "2014-04-13 12:00:00"
         }, 
         "gsx$latitude": {
@@ -8442,7 +8490,7 @@ Tabletop.singleton.loadSheet({
           "$t": "-93.6629"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event174"
+          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event175"
         }, 
         "gsx$description": {
           "$t": "Join us for a screening of Years of Living Dangerously. We will screen the movie continuously from 12:00 pm and 6:30 pm, so drop by at a time that is convenient for you! Approximate movie start times will be 12:00, 1:30, 3:00, and 4:30 pm. Snacks and refreshments will be served.\n\nThis event is being co-sponsored by the League of Conservation Voters and ActivUs."
@@ -8451,7 +8499,7 @@ Tabletop.singleton.loadSheet({
       
     ], 
     "openSearch$totalResults": {
-      "$t": "175"
+      "$t": "176"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values"
