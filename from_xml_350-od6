@@ -8495,11 +8495,59 @@ Tabletop.singleton.loadSheet({
         "gsx$description": {
           "$t": "Join us for a screening of Years of Living Dangerously. We will screen the movie continuously from 12:00 pm and 6:30 pm, so drop by at a time that is convenient for you! Approximate movie start times will be 12:00, 1:30, 3:00, and 4:30 pm. Snacks and refreshments will be served.\n\nThis event is being co-sponsored by the League of Conservation Voters and ActivUs."
         }
+      },
+      
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-04-07T02:18:33.388Z"
+        }, 
+        "gsx$datetime": {
+          "$t": "2014-04-13 19:30:00"
+        }, 
+        "gsx$latitude": {
+          "$t": "34.2955"
+        }, 
+        "title": {
+          "$t": "\"Years of Living Dangerously\" Watch Party", 
+          "type": "text"
+        }, 
+        "gsx$link": {
+          "$t": "https://act.350.org/event/years/7294"
+        }, 
+        "gsx$name": {
+          "$t": "\"Years of Living Dangerously\" Watch Party"
+        }, 
+        "content": {
+          "$t": "datetime: 2014-04-13 19:30:00, link: https://act.350.org/event/years/7294, description: Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show and make a plan for our next steps!\n\nPark by the oil well next to The Storage Place or along the driveway. Our house is the first building, set back, before the garage., longitude: -119.292, latitude: 34.2955",
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/cokwr", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$longitude": {
+          "$t": "-119.292"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event176"
+        }, 
+        "gsx$description": {
+          "$t": "Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show and make a plan for our next steps!\n\nPark by the oil well next to The Storage Place or along the driveway. Our house is the first building, set back, before the garage."
+        }
       }
       
     ], 
     "openSearch$totalResults": {
-      "$t": "176"
+      "$t": "177"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values"
