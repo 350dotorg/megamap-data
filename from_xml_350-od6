@@ -8524,7 +8524,7 @@ Tabletop.singleton.loadSheet({
           "$t": "\"Years of Living Dangerously\" Watch Party"
         }, 
         "content": {
-          "$t": "datetime: 2014-04-13 19:30:00, link: https://act.350.org/event/years/7294, description: Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show and make a plan for our next steps!\n\nPark by the oil well next to The Storage Place or along the driveway. Our house is the first building, set back, before the garage., longitude: -119.292, latitude: 34.2955",
+          "$t": "datetime: 2014-04-13 19:30:00, link: https://act.350.org/event/years/7294, description: Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show and make a plan for our next steps!\n\nPark by the oil well next to The Storage Place or along the driveway. Our house is the first building, set back, before the garage. The bus stops at the corner of Orchard and Ventura Avenue. Email us if you want to carpool and we'll help work that out., longitude: -119.292, latitude: 34.2955",
           "type": "text"
         }, 
         "link": [
@@ -8541,7 +8541,7 @@ Tabletop.singleton.loadSheet({
           "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event176"
         }, 
         "gsx$description": {
-          "$t": "Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show and make a plan for our next steps!\n\nPark by the oil well next to The Storage Place or along the driveway. Our house is the first building, set back, before the garage."
+          "$t": "Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show and make a plan for our next steps!\n\nPark by the oil well next to The Storage Place or along the driveway. Our house is the first building, set back, before the garage. The bus stops at the corner of Orchard and Ventura Avenue. Email us if you want to carpool and we'll help work that out."
         }
       }
       
