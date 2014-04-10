@@ -9071,11 +9071,59 @@ Tabletop.singleton.loadSheet({
         "gsx$description": {
           "$t": "<h3>Note: this event is at 205 Main St N in Berea</h3>\n\n<br>Join Sustainable Berea and the Berea College Sustainability and Environmental Studies Program for a screening of Years of Living Dangerously. \n\nClimate change is severely affecting the world now, and future impacts may be catastrophic\n\nhttp://www.nytimes.com/2014/04/01/science/earth/climate.html\nIt is time to learn about the issues and take action for your household, community, world. Join us for the screening followed by a discussion of next steps."
         }
+      },
+      
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-04-07T02:18:33.388Z"
+        }, 
+        "gsx$datetime": {
+          "$t": "2014-04-13 12:30:00"
+        }, 
+        "gsx$latitude": {
+          "$t": "42.0237"
+        }, 
+        "title": {
+          "$t": "\"Years of Living Dangerously\" Watch Party", 
+          "type": "text"
+        }, 
+        "gsx$link": {
+          "$t": "https://act.350.org/event/years/7289"
+        }, 
+        "gsx$name": {
+          "$t": "\"Years of Living Dangerously\" Watch Party"
+        }, 
+        "content": {
+          "$t": "datetime: 2014-04-13 12:30:00, link: https://act.350.org/event/years/7289, description: Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!, longitude: -93.6629, latitude: 42.0237",
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/cokwr", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$longitude": {
+          "$t": "-93.6629"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event188"
+        }, 
+        "gsx$description": {
+          "$t": "Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!"
+        }
       }
       
     ], 
     "openSearch$totalResults": {
-      "$t": "188"
+      "$t": "189"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values"
