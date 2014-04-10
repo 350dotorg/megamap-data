@@ -1026,17 +1026,17 @@ Tabletop.singleton.loadSheet({
           "$t": "39.7126"
         }, 
         "title": {
-          "$t": "Martin Voelker", 
+          "$t": "Launch Party in Golden at JUC with CRES & 350", 
           "type": "text"
         }, 
         "gsx$link": {
           "$t": "https://act.350.org/event/years/6869"
         }, 
         "gsx$name": {
-          "$t": "Martin Voelker"
+          "$t": "Launch Party in Golden at JUC with CRES & 350"
         }, 
         "content": {
-          "$t": "datetime: 2014-04-13 19:00:00, link: https://act.350.org/event/years/6869, description: Join us for a screening of \"Years of Living Dangerously.\" \nPersonally speaking I have real hopes that this series will make climate change issues a priority for people who have been on the fence about it.\n\nWe'll watch the one hour show,  have a Q & A, discuss plans for next steps, and have fun  networking during refreshments. BYOB.\n\nThis screening is a joint effort with JUC's Green committee, the Jeffco chapter of the Colorado Renewable Energy Society, and 350colorado.org., longitude: -105.23, latitude: 39.7126",
+          "$t": "datetime: 2014-04-13 19:00:00, link: https://act.350.org/event/years/6869, description: Join us for a screening of \"Years of Living Dangerously.\" \nThis series will make climate change issues a priority for people who have been on the fence about it.\n\nWe'll watch the one hour show,  have a discussion moderated by climate change educator Dr. Maria Talero, make  plans for next steps, and have fun  networking during refreshments. BYOB.\n\nThis screening is a joint effort with JUC's Green committee, the Jeffco chapter of the Colorado Renewable Energy Society, and 350colorado.org., longitude: -105.23, latitude: 39.7126",
           "type": "text"
         }, 
         "link": [
@@ -1053,7 +1053,7 @@ Tabletop.singleton.loadSheet({
           "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event20"
         }, 
         "gsx$description": {
-          "$t": "Join us for a screening of \"Years of Living Dangerously.\" \nPersonally speaking I have real hopes that this series will make climate change issues a priority for people who have been on the fence about it.\n\nWe'll watch the one hour show,  have a Q & A, discuss plans for next steps, and have fun  networking during refreshments. BYOB.\n\nThis screening is a joint effort with JUC's Green committee, the Jeffco chapter of the Colorado Renewable Energy Society, and 350colorado.org."
+          "$t": "Join us for a screening of \"Years of Living Dangerously.\" \nThis series will make climate change issues a priority for people who have been on the fence about it.\n\nWe'll watch the one hour show,  have a discussion moderated by climate change educator Dr. Maria Talero, make  plans for next steps, and have fun  networking during refreshments. BYOB.\n\nThis screening is a joint effort with JUC's Green committee, the Jeffco chapter of the Colorado Renewable Energy Society, and 350colorado.org."
         }
       },
       
