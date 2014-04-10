@@ -700,7 +700,7 @@ Tabletop.singleton.loadSheet({
           "$t": "\"Years of Living Dangerously\" Watch Party at American University"
         }, 
         "content": {
-          "$t": "datetime: 2014-04-13 19:00:00, link: https://act.350.org/event/years/6855, description: Join American University students for a screening of Years of Living Dangerously. \n\nRSVP to the Facebook event\nhttps://www.facebook.com/events/267161440120325/?ref_newsfeed_story_type=regular, longitude: -77.0886, latitude: 38.9403",
+          "$t": "datetime: 2014-04-13 19:00:00, link: https://act.350.org/event/years/6855, description: Join American University students for a screening of Years of Living Dangerously with special guest Reverend Lennox Yearwood. \n\nRSVP to the Facebook event\nhttps://www.facebook.com/events/267161440120325/?ref_newsfeed_story_type=regular, longitude: -77.0886, latitude: 38.9403",
           "type": "text"
         }, 
         "link": [
@@ -717,7 +717,7 @@ Tabletop.singleton.loadSheet({
           "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event13"
         }, 
         "gsx$description": {
-          "$t": "Join American University students for a screening of Years of Living Dangerously. \n\nRSVP to the Facebook event\nhttps://www.facebook.com/events/267161440120325/?ref_newsfeed_story_type=regular"
+          "$t": "Join American University students for a screening of Years of Living Dangerously with special guest Reverend Lennox Yearwood. \n\nRSVP to the Facebook event\nhttps://www.facebook.com/events/267161440120325/?ref_newsfeed_story_type=regular"
         }
       },
       
