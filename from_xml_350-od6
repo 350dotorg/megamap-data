@@ -8572,7 +8572,7 @@ Tabletop.singleton.loadSheet({
           "$t": "\"Years of Living Dangerously\" Watch Party"
         }, 
         "content": {
-          "$t": "datetime: 2014-04-13 18:00:00, link: https://act.350.org/event/years/7297, description: Join us for a screening of\" Years of Living Dangerously.\"  Co-sponsored by Nashville Urban Green Lab, Cumberland River Compact, and Citizens Climate Lobby.\n\nAfter the show, we'll talk about ways to get involved locally and beyond to combat this mounting problem. BYOB (beer/wine OK) & food to enjoy respectfully in the Cumberland River Compact's beautiful facility overlooking the river.\n\nRSVP requested at Eventbrite:   . (No need to print your ticket)., longitude: -86.865, latitude: 36.111",
+          "$t": "datetime: 2014-04-13 18:00:00, link: https://act.350.org/event/years/7297, description: Join us for a screening of\" Years of Living Dangerously.\"  Co-sponsored by Nashville Urban Green Lab, Cumberland River Compact, and Citizens Climate Lobby.\n\nAfter the show, we'll talk about ways to get involved locally and beyond to combat this mounting problem. BYOB (beer/wine OK) & food to enjoy respectfully in the Cumberland River Compact's beautiful facility overlooking the river.\n\nRSVP requested at Eventbrite:   . (No need to print your ticket).\nhttp://www.eventbrite.com/o/urban-green-lab-the-cumberland-river-compact-and-citizens-climate-lobby-6396791275?s=24046581, longitude: -86.865, latitude: 36.111",
           "type": "text"
         }, 
         "link": [
@@ -8589,7 +8589,7 @@ Tabletop.singleton.loadSheet({
           "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event177"
         }, 
         "gsx$description": {
-          "$t": "Join us for a screening of\" Years of Living Dangerously.\"  Co-sponsored by Nashville Urban Green Lab, Cumberland River Compact, and Citizens Climate Lobby.\n\nAfter the show, we'll talk about ways to get involved locally and beyond to combat this mounting problem. BYOB (beer/wine OK) & food to enjoy respectfully in the Cumberland River Compact's beautiful facility overlooking the river.\n\nRSVP requested at Eventbrite:   . (No need to print your ticket)."
+          "$t": "Join us for a screening of\" Years of Living Dangerously.\"  Co-sponsored by Nashville Urban Green Lab, Cumberland River Compact, and Citizens Climate Lobby.\n\nAfter the show, we'll talk about ways to get involved locally and beyond to combat this mounting problem. BYOB (beer/wine OK) & food to enjoy respectfully in the Cumberland River Compact's beautiful facility overlooking the river.\n\nRSVP requested at Eventbrite:   . (No need to print your ticket).\nhttp://www.eventbrite.com/o/urban-green-lab-the-cumberland-river-compact-and-citizens-climate-lobby-6396791275?s=24046581"
         }
       },
       
