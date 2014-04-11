@@ -9423,6 +9423,54 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-04-13 19:00:00"
         }, 
         "gsx$latitude": {
+          "$t": "43.7334"
+        }, 
+        "title": {
+          "$t": "\"Years of Living Dangerously\" Watch Party", 
+          "type": "text"
+        }, 
+        "gsx$link": {
+          "$t": "https://act.350.org/event/years/7338"
+        }, 
+        "gsx$name": {
+          "$t": "\"Years of Living Dangerously\" Watch Party"
+        }, 
+        "content": {
+          "$t": "datetime: 2014-04-13 19:00:00, link: https://act.350.org/event/years/7338, description: Join us for a screening of Years of Living Dangerously in the beautiful Wood River Valley, Idaho!   \n\nWe'll watch the show, have some cocktails, and make a plan for our next steps!, longitude: -114.512, latitude: 43.7334",
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/cokwr", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$longitude": {
+          "$t": "-114.512"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event195"
+        }, 
+        "gsx$description": {
+          "$t": "Join us for a screening of Years of Living Dangerously in the beautiful Wood River Valley, Idaho!   \n\nWe'll watch the show, have some cocktails, and make a plan for our next steps!"
+        }
+      },
+      
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-04-07T02:18:33.388Z"
+        }, 
+        "gsx$datetime": {
+          "$t": "2014-04-13 19:00:00"
+        }, 
+        "gsx$latitude": {
           "$t": "38.4052"
         }, 
         "title": {
@@ -9450,7 +9498,7 @@ Tabletop.singleton.loadSheet({
           "$t": "-122.735"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event195"
+          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event196"
         }, 
         "gsx$description": {
           "$t": "Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!  If you can help with a larger screen for the U tube streaming, or help set up old speakers I have or anything like that it would be great.  I want to offer a local showing, but I don't have much time or technical knowledge or equipment to get the sound right and the screen large."
@@ -9498,7 +9546,7 @@ Tabletop.singleton.loadSheet({
           "$t": "-121.848"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event196"
+          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event197"
         }, 
         "gsx$description": {
           "$t": "Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!"
@@ -9546,7 +9594,7 @@ Tabletop.singleton.loadSheet({
           "$t": "-149.867"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event197"
+          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event198"
         }, 
         "gsx$description": {
           "$t": "Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!"
@@ -9555,7 +9603,7 @@ Tabletop.singleton.loadSheet({
       
     ], 
     "openSearch$totalResults": {
-      "$t": "198"
+      "$t": "199"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values"
