@@ -9311,11 +9311,59 @@ Tabletop.singleton.loadSheet({
         "gsx$description": {
           "$t": "Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!\n\nEvergreen, the green church, is hosting in the parlor of Friendship Christian Church (Disciples of Christ), just beyond the Perimeter on Oglethorpe Ave/Tallassee Rd."
         }
+      },
+      
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-04-07T02:18:33.388Z"
+        }, 
+        "gsx$datetime": {
+          "$t": "2014-04-13 18:30:00"
+        }, 
+        "gsx$latitude": {
+          "$t": "30.3067"
+        }, 
+        "title": {
+          "$t": "\"Years of Living Dangerously\" Watch Party", 
+          "type": "text"
+        }, 
+        "gsx$link": {
+          "$t": "https://act.350.org/event/years/7337"
+        }, 
+        "gsx$name": {
+          "$t": "\"Years of Living Dangerously\" Watch Party"
+        }, 
+        "content": {
+          "$t": "datetime: 2014-04-13 18:30:00, link: https://act.350.org/event/years/7337, description: Please join other green folk for a screening of Years of Living Dangerously. We'll dig the show, dialog with climate scientist Michael Tobis, tune in to the video call afterwards, and then watch Cosmos., longitude: -97.6831, latitude: 30.3067",
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/cokwr", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$longitude": {
+          "$t": "-97.6831"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event193"
+        }, 
+        "gsx$description": {
+          "$t": "Please join other green folk for a screening of Years of Living Dangerously. We'll dig the show, dialog with climate scientist Michael Tobis, tune in to the video call afterwards, and then watch Cosmos."
+        }
       }
       
     ], 
     "openSearch$totalResults": {
-      "$t": "193"
+      "$t": "194"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values"
