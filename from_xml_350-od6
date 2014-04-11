@@ -9292,7 +9292,7 @@ Tabletop.singleton.loadSheet({
           "$t": "\"Years of Living Dangerously\" Watch Party"
         }, 
         "content": {
-          "$t": "datetime: 2014-04-13 19:00:00, link: https://act.350.org/event/years/7332, description: Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!, longitude: -83.4232, latitude: 33.949",
+          "$t": "datetime: 2014-04-13 19:00:00, link: https://act.350.org/event/years/7332, description: Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!\n\nEvergreen, the green church, is hosting in the parlor of Friendship Christian Church (Disciples of Christ), just beyond the Perimeter on Oglethorpe Ave/Tallassee Rd., longitude: -83.4232, latitude: 33.949",
           "type": "text"
         }, 
         "link": [
@@ -9309,7 +9309,7 @@ Tabletop.singleton.loadSheet({
           "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event192"
         }, 
         "gsx$description": {
-          "$t": "Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!"
+          "$t": "Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!\n\nEvergreen, the green church, is hosting in the parlor of Friendship Christian Church (Disciples of Christ), just beyond the Perimeter on Oglethorpe Ave/Tallassee Rd."
         }
       }
       
