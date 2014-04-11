@@ -10271,11 +10271,59 @@ Tabletop.singleton.loadSheet({
         "gsx$description": {
           "$t": "Years of Living Dangerously promises to be a gripping and enlightening program. This series puts a spotlight on the stories of real heroes fighting climate change and features celebrity correspondents including Harrison Ford, America Ferrara, Don Cheadle, Matt Damon, Jessica Alba, Ian Somerhalder, and more!\n\nFor this series, Executive Producers James Cameron, Jerry Weintraub, and Arnold Schwarzenegger have come together with a slew of Hollywood stars to explore the intimate stories of people impacted by climate change. New episodes will air Sundays at 10PM, from April 13th until June 1st only on SHOWTIME.\n \nWe will watch the premiere episode, have a short discussion, and enjoy delicious appetizers at Postbellum.\n \nRSVP NOW to let us know that you will be there to watch, discuss, and mingle!\n \nWHO: You, your friends, family, and neighbors\nWHAT: Years of Living Dangerously Premiere Episode Screening\nWHEN:   Tuesday, April 15, at 6:30PM (Screening will start at 7PM)\nWHERE: Postbellum, 1323 West Main Street, Richmond, VA 23220 (MAP)\nQuestions? Contact Kendyl Crawford: 757-268-8810\n\nRSVP today and come learn how people are being affected by climate change."
         }
+      },
+      
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-04-07T02:18:33.388Z"
+        }, 
+        "gsx$datetime": {
+          "$t": "2014-04-13 18:30:00"
+        }, 
+        "gsx$latitude": {
+          "$t": "44.8357"
+        }, 
+        "title": {
+          "$t": "\"Years of Living Dangerously\" Watch Party", 
+          "type": "text"
+        }, 
+        "gsx$link": {
+          "$t": "https://act.350.org/event/years/7402"
+        }, 
+        "gsx$name": {
+          "$t": "\"Years of Living Dangerously\" Watch Party"
+        }, 
+        "content": {
+          "$t": "datetime: 2014-04-13 18:30:00, link: https://act.350.org/event/years/7402, description: Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!\n\nCome early to order something to eat or drink from Davanni's before the showing of \"Years of Living Dangerously\" starts at 6:30., longitude: -93.2753, latitude: 44.8357",
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/cokwr", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$longitude": {
+          "$t": "-93.2753"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event213"
+        }, 
+        "gsx$description": {
+          "$t": "Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!\n\nCome early to order something to eat or drink from Davanni's before the showing of \"Years of Living Dangerously\" starts at 6:30."
+        }
       }
       
     ], 
     "openSearch$totalResults": {
-      "$t": "213"
+      "$t": "214"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values"
