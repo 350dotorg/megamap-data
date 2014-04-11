@@ -5452,7 +5452,7 @@ Tabletop.singleton.loadSheet({
           "$t": "\"Years of Living Dangerously\" Watch Party"
         }, 
         "content": {
-          "$t": "datetime: 2014-04-13 19:00:00, link: https://act.350.org/event/years/7113, description: Join us for a screening of Years of Living Dangerously. \n\nSo far we can use my living room and projector and sound.  I'm trying to find a local venue that we can use if we get more than 30 people.\n\nBring a snack or beverage of your choice.  I'll supply popcorn, water, wine and tea!, longitude: -75.1168, latitude: 40.3323",
+          "$t": "datetime: 2014-04-13 19:00:00, link: https://act.350.org/event/years/7113, description: Join us for a screening of Years of Living Dangerously. \n\nOur  living room and projector and sound.  I'm trying to find a local venue that we can use if we get more than 30 people.\n\nBring a snack or beverage of your choice.  We willl supply popcorn, water, wine and tea!, longitude: -75.1168, latitude: 40.3323",
           "type": "text"
         }, 
         "link": [
@@ -5469,7 +5469,7 @@ Tabletop.singleton.loadSheet({
           "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event112"
         }, 
         "gsx$description": {
-          "$t": "Join us for a screening of Years of Living Dangerously. \n\nSo far we can use my living room and projector and sound.  I'm trying to find a local venue that we can use if we get more than 30 people.\n\nBring a snack or beverage of your choice.  I'll supply popcorn, water, wine and tea!"
+          "$t": "Join us for a screening of Years of Living Dangerously. \n\nOur  living room and projector and sound.  I'm trying to find a local venue that we can use if we get more than 30 people.\n\nBring a snack or beverage of your choice.  We willl supply popcorn, water, wine and tea!"
         }
       },
       
