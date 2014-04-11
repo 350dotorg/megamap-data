@@ -9215,11 +9215,59 @@ Tabletop.singleton.loadSheet({
         "gsx$description": {
           "$t": "Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!"
         }
+      },
+      
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-04-07T02:18:33.388Z"
+        }, 
+        "gsx$datetime": {
+          "$t": "2014-04-13 15:00:00"
+        }, 
+        "gsx$latitude": {
+          "$t": "-30.5083"
+        }, 
+        "title": {
+          "$t": "\"Years of Living Dangerously\" Watch Party", 
+          "type": "text"
+        }, 
+        "gsx$link": {
+          "$t": "https://act.350.org/event/years/7328"
+        }, 
+        "gsx$name": {
+          "$t": "\"Years of Living Dangerously\" Watch Party"
+        }, 
+        "content": {
+          "$t": "datetime: 2014-04-13 15:00:00, link: https://act.350.org/event/years/7328, description: Join us for a screening of Years of Living Dangerously on Sunday afternoon\n\nThis will be followed by a talk on Climate Change: Adaptation and Mitigation at 7pm in Kent House on Tuesday, 15th. All welcome but please email colin.hargreaves@aoc.org.au so that we have an idea of numbers for Sunday and Tuesday. Climate Action Group, Sustainable Living Armidale. If more than 20 sign up for Sunday, we will find another venue., longitude: 151.671, latitude: -30.5083",
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/cokwr", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$longitude": {
+          "$t": "151.671"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event191"
+        }, 
+        "gsx$description": {
+          "$t": "Join us for a screening of Years of Living Dangerously on Sunday afternoon\n\nThis will be followed by a talk on Climate Change: Adaptation and Mitigation at 7pm in Kent House on Tuesday, 15th. All welcome but please email colin.hargreaves@aoc.org.au so that we have an idea of numbers for Sunday and Tuesday. Climate Action Group, Sustainable Living Armidale. If more than 20 sign up for Sunday, we will find another venue."
+        }
       }
       
     ], 
     "openSearch$totalResults": {
-      "$t": "191"
+      "$t": "192"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values"
