@@ -9090,14 +9090,14 @@ Tabletop.singleton.loadSheet({
           "$t": "34.0793"
         }, 
         "title": {
-          "$t": "\"Years of Living Dangerously\" Watch Party", 
+          "$t": "\"Years of Living Dangerously\" SoCal 350 Watch Party", 
           "type": "text"
         }, 
         "gsx$link": {
           "$t": "https://act.350.org/event/years/7318"
         }, 
         "gsx$name": {
-          "$t": "\"Years of Living Dangerously\" Watch Party"
+          "$t": "\"Years of Living Dangerously\" SoCal 350 Watch Party"
         }, 
         "content": {
           "$t": "datetime: 2014-04-13 19:00:00, link: https://act.350.org/event/years/7318, description: Join SoCal Climate Action Coalition 350.org for a screening of Years of Living Dangerously. \n\nWe'll watch the show, tune into the video call afterwards, and then discuss how to get further involved be it with SoCal 350.org  and/or other local collaborative partners., longitude: -118.263, latitude: 34.0793",
