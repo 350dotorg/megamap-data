@@ -8655,7 +8655,7 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-04-13 19:00:00"
         }, 
         "gsx$latitude": {
-          "$t": "42.366"
+          "$t": "42.3666"
         }, 
         "title": {
           "$t": "\"Years of Living Dangerously\" Watch Party", 
@@ -8668,7 +8668,7 @@ Tabletop.singleton.loadSheet({
           "$t": "\"Years of Living Dangerously\" Watch Party"
         }, 
         "content": {
-          "$t": "datetime: 2014-04-13 19:00:00, link: https://act.350.org/event/years/7302, description: Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!, longitude: -71.1035, latitude: 42.366",
+          "$t": "datetime: 2014-04-13 19:00:00, link: https://act.350.org/event/years/7302, description: Join us for a screening of Years of Living Dangerously at MIT. \n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!, longitude: -71.0876, latitude: 42.3666",
           "type": "text"
         }, 
         "link": [
@@ -8679,13 +8679,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$longitude": {
-          "$t": "-71.1035"
+          "$t": "-71.0876"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event179"
         }, 
         "gsx$description": {
-          "$t": "Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!"
+          "$t": "Join us for a screening of Years of Living Dangerously at MIT. \n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!"
         }
       },
       
