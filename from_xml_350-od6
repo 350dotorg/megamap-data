@@ -4492,7 +4492,7 @@ Tabletop.singleton.loadSheet({
           "$t": "\"Years of Living Dangerously\" Watch Party"
         }, 
         "content": {
-          "$t": "datetime: 2014-04-17 19:00:00, link: https://act.350.org/event/years/7065, description: Join us for a screening and panel discussion of Years of Living Dangerously. \n \nWe'll watch the first episode, hear commentary from the four panelists, and end with an open discussion!\n \nLocation: \nScience Center Room 199 (Cunniff Lecture Hall)\nSwarthmore College\n \nParking:\nDuPont Parking Lot (North Entrance), longitude: -75.344, latitude: 39.8965",
+          "$t": "datetime: 2014-04-17 19:00:00, link: https://act.350.org/event/years/7065, description: Join us for a screening and panel discussion of Years of Living Dangerously. \n \nWe'll watch the first episode, hear commentary from the four panelists, and end with an open discussion!\n \nLocation: \nScience Center Room 199 (Cunniff Lecture Hall)\n \nParking:\nDuPont Parking Lot (North Entrance), longitude: -75.344, latitude: 39.8965",
           "type": "text"
         }, 
         "link": [
@@ -4509,7 +4509,7 @@ Tabletop.singleton.loadSheet({
           "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event92"
         }, 
         "gsx$description": {
-          "$t": "Join us for a screening and panel discussion of Years of Living Dangerously. \n \nWe'll watch the first episode, hear commentary from the four panelists, and end with an open discussion!\n \nLocation: \nScience Center Room 199 (Cunniff Lecture Hall)\nSwarthmore College\n \nParking:\nDuPont Parking Lot (North Entrance)"
+          "$t": "Join us for a screening and panel discussion of Years of Living Dangerously. \n \nWe'll watch the first episode, hear commentary from the four panelists, and end with an open discussion!\n \nLocation: \nScience Center Room 199 (Cunniff Lecture Hall)\n \nParking:\nDuPont Parking Lot (North Entrance)"
         }
       },
       
