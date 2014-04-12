@@ -11452,7 +11452,7 @@ Tabletop.singleton.loadSheet({
           "$t": "\"Years of Living Dangerously\" Watch Party"
         }, 
         "content": {
-          "$t": "datetime: 2014-04-13 19:00:00, link: https://act.350.org/event/years/7451, description: Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!, longitude: -89.7372, latitude: 43.2737",
+          "$t": "datetime: 2014-04-13 19:00:00, link: https://act.350.org/event/years/7451, description: Join us for a free screening of Years of Living Dangerously. \n\nWe'll watch the show, discuss afterwards, and make a plan for our next steps! Free popcorn and non-alcoholic beverages will be served., longitude: -89.7372, latitude: 43.2737",
           "type": "text"
         }, 
         "link": [
@@ -11469,7 +11469,7 @@ Tabletop.singleton.loadSheet({
           "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event237"
         }, 
         "gsx$description": {
-          "$t": "Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!"
+          "$t": "Join us for a free screening of Years of Living Dangerously. \n\nWe'll watch the show, discuss afterwards, and make a plan for our next steps! Free popcorn and non-alcoholic beverages will be served."
         }
       }
       
