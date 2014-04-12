@@ -11327,11 +11327,59 @@ Tabletop.singleton.loadSheet({
         "gsx$description": {
           "$t": "Join us for a screening of Years of Living Dangerously. SOL not Coal - we can make an impact here in Santa Fe. We can oppose PNM's energy plan which is more coal, nuclear, gas, and a tiny bit of solar. In the land of abundant sun, with the sun zia on our flag, it is criminal that PNM only has 2% solar in its energy mix. We can do better! We can use water for drinking and farming not waste it on coal and nukes. We can create a new energy economy here in Santa Fe and be a model unto others. Join us!\n\nWe'll watch the show, maybe tune into the video call afterwards, and make a plan for our next steps!"
         }
+      },
+      
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-04-07T02:18:33.388Z"
+        }, 
+        "gsx$datetime": {
+          "$t": "2014-04-13 18:00:00"
+        }, 
+        "gsx$latitude": {
+          "$t": "38.8964"
+        }, 
+        "title": {
+          "$t": "\"Years of Living Dangerously\" Watch Party", 
+          "type": "text"
+        }, 
+        "gsx$link": {
+          "$t": "https://act.350.org/event/years/7444"
+        }, 
+        "gsx$name": {
+          "$t": "\"Years of Living Dangerously\" Watch Party"
+        }, 
+        "content": {
+          "$t": "datetime: 2014-04-13 18:00:00, link: https://act.350.org/event/years/7444, description: Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!, longitude: -92.2463, latitude: 38.8964",
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/cokwr", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$longitude": {
+          "$t": "-92.2463"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event235"
+        }, 
+        "gsx$description": {
+          "$t": "Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!"
+        }
       }
       
     ], 
     "openSearch$totalResults": {
-      "$t": "235"
+      "$t": "236"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values"
