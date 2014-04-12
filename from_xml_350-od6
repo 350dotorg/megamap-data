@@ -1407,7 +1407,7 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-04-13 19:00:00"
         }, 
         "gsx$latitude": {
-          "$t": "43.0482"
+          "$t": "43.069"
         }, 
         "title": {
           "$t": "\"Years of Living Dangerously\" Watch Party", 
@@ -1420,7 +1420,7 @@ Tabletop.singleton.loadSheet({
           "$t": "\"Years of Living Dangerously\" Watch Party"
         }, 
         "content": {
-          "$t": "datetime: 2014-04-13 19:00:00, link: https://act.350.org/event/years/6887, description: Join a community gathering to energize and organize ourselves given the reality of climate change. Showtime begins a 9 part series exploring the effects of climate change: Years of Living Dangerously. We will watch the first episode, tune into a video call afterwards, and make a plan for our next steps!, longitude: -87.9646, latitude: 43.0482",
+          "$t": "datetime: 2014-04-13 19:00:00, link: https://act.350.org/event/years/6887, description: Join a community gathering to energize and organize ourselves given the reality of climate change. Showtime begins a 9 part series exploring the effects of climate change: Years of Living Dangerously. We will watch the first episode, tune into a video call afterwards, and make a plan for our next steps!, longitude: -87.979, latitude: 43.069",
           "type": "text"
         }, 
         "link": [
@@ -1431,7 +1431,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$longitude": {
-          "$t": "-87.9646"
+          "$t": "-87.979"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event28"
