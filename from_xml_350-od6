@@ -5452,7 +5452,7 @@ Tabletop.singleton.loadSheet({
           "$t": "\"Years of Living Dangerously\" Watch Party"
         }, 
         "content": {
-          "$t": "datetime: 2014-04-13 19:00:00, link: https://act.350.org/event/years/7112, description: <h3>Note: address of event is 85 Moki Rd, Orcas, WA</h3>\n<hr>\nJoin us for a screening of Years of Living Dangerously. \nWe'll watch the show, tune into the video call afterwards, and have a discussion about what we saw.\n\nIf you would like to show up early at 6:30pm;  we can take you on a short tour of our solar electric home and explain how it works. This could include a short discussion of simple grid connected homes if you are interested.\nHomemade apple wine, coffee, and breve latte's will be served\nIf you feel like it, ….   bring an appetizer, longitude: -122.881, latitude: 48.6054",
+          "$t": "datetime: 2014-04-13 19:00:00, link: https://act.350.org/event/years/7112, description: <h3>Note: address of event is 85 Moki Rd, Orcas, WA</h3>\n<hr>\nJoin us for a screening of Years of Living Dangerously. \nWe'll watch the show, tune into the video call afterwards, and have a discussion about what we saw.\n\nIf you would like to show up early at 6:30pm;  we can take you on a short tour of our solar electric home and explain how it works.\nHomemade apple wine, coffee, and breve latte's will be served\nIf you feel like it, ….   bring an appetizer, longitude: -122.881, latitude: 48.6054",
           "type": "text"
         }, 
         "link": [
@@ -5469,7 +5469,7 @@ Tabletop.singleton.loadSheet({
           "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event112"
         }, 
         "gsx$description": {
-          "$t": "<h3>Note: address of event is 85 Moki Rd, Orcas, WA</h3>\n<hr>\nJoin us for a screening of Years of Living Dangerously. \nWe'll watch the show, tune into the video call afterwards, and have a discussion about what we saw.\n\nIf you would like to show up early at 6:30pm;  we can take you on a short tour of our solar electric home and explain how it works. This could include a short discussion of simple grid connected homes if you are interested.\nHomemade apple wine, coffee, and breve latte's will be served\nIf you feel like it, ….   bring an appetizer"
+          "$t": "<h3>Note: address of event is 85 Moki Rd, Orcas, WA</h3>\n<hr>\nJoin us for a screening of Years of Living Dangerously. \nWe'll watch the show, tune into the video call afterwards, and have a discussion about what we saw.\n\nIf you would like to show up early at 6:30pm;  we can take you on a short tour of our solar electric home and explain how it works.\nHomemade apple wine, coffee, and breve latte's will be served\nIf you feel like it, ….   bring an appetizer"
         }
       },
       
