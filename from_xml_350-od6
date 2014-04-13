@@ -3948,7 +3948,7 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-04-07T02:18:33.388Z"
         }, 
         "gsx$datetime": {
-          "$t": "2014-04-13 19:00:00"
+          "$t": "2014-04-13 18:30:00"
         }, 
         "gsx$latitude": {
           "$t": "40.7564"
@@ -3964,7 +3964,7 @@ Tabletop.singleton.loadSheet({
           "$t": "\"Years of Living Dangerously\" Watch Party"
         }, 
         "content": {
-          "$t": "datetime: 2014-04-13 19:00:00, link: https://act.350.org/event/years/7030, description: Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!, longitude: -111.899, latitude: 40.7564",
+          "$t": "datetime: 2014-04-13 18:30:00, link: https://act.350.org/event/years/7030, description: Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!, longitude: -111.899, latitude: 40.7564",
           "type": "text"
         }, 
         "link": [
