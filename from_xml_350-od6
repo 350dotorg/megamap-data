@@ -9388,7 +9388,7 @@ Tabletop.singleton.loadSheet({
           "$t": "\"Years of Living Dangerously\" Watch Party"
         }, 
         "content": {
-          "$t": "datetime: 2014-04-13 19:00:00, link: https://act.350.org/event/years/7339, description: Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!  If you can help with a larger screen for the U tube streaming, or help set up old speakers I have or anything like that it would be great.  I want to offer a local showing, but I don't have much time or technical knowledge or equipment to get the sound right and the screen large., longitude: -122.735, latitude: 38.4052",
+          "$t": "datetime: 2014-04-13 19:00:00, link: https://act.350.org/event/years/7339, description: Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!  If you can help with a larger screen for the U tube streaming, or help set up old speakers I have or anything like that it would be great.  (Yay, a wonderful person who lives near G&G is borrowing a flat screen tv, if  G&G is between you and Hickory Circle, please let me know if you are willing to give a nice person and tv screen a ride.)   I want to offer a local showing, but I don't have much time or technical knowledge or equipment to get the sound right and the screen large., longitude: -122.735, latitude: 38.4052",
           "type": "text"
         }, 
         "link": [
@@ -9405,7 +9405,7 @@ Tabletop.singleton.loadSheet({
           "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event194"
         }, 
         "gsx$description": {
-          "$t": "Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!  If you can help with a larger screen for the U tube streaming, or help set up old speakers I have or anything like that it would be great.  I want to offer a local showing, but I don't have much time or technical knowledge or equipment to get the sound right and the screen large."
+          "$t": "Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!  If you can help with a larger screen for the U tube streaming, or help set up old speakers I have or anything like that it would be great.  (Yay, a wonderful person who lives near G&G is borrowing a flat screen tv, if  G&G is between you and Hickory Circle, please let me know if you are willing to give a nice person and tv screen a ride.)   I want to offer a local showing, but I don't have much time or technical knowledge or equipment to get the sound right and the screen large."
         }
       },
       
@@ -11567,11 +11567,59 @@ Tabletop.singleton.loadSheet({
         "gsx$description": {
           "$t": "Join us for a screening of Years of Living Dangerously. We'll have a potluck at 6:30 (bring a dish to pass if you're able, or just show up), then we'll screen the film around 7pm. Sponsored by the Brookings Interfaith Council. We'd be discussing the film and the issues it highlights  in the context of our individual faith and cultural perspectives."
         }
+      },
+      
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-04-07T02:18:33.388Z"
+        }, 
+        "gsx$datetime": {
+          "$t": "2014-04-13 19:00:00"
+        }, 
+        "gsx$latitude": {
+          "$t": "40.1668"
+        }, 
+        "title": {
+          "$t": "\"Years of Living Dangerously\" Watch Party", 
+          "type": "text"
+        }, 
+        "gsx$link": {
+          "$t": "https://act.350.org/event/years/7464"
+        }, 
+        "gsx$name": {
+          "$t": "\"Years of Living Dangerously\" Watch Party"
+        }, 
+        "content": {
+          "$t": "datetime: 2014-04-13 19:00:00, link: https://act.350.org/event/years/7464, description: Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!, longitude: -105.135, latitude: 40.1668",
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/cokwr", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$longitude": {
+          "$t": "-105.135"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event240"
+        }, 
+        "gsx$description": {
+          "$t": "Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!"
+        }
       }
       
     ], 
     "openSearch$totalResults": {
-      "$t": "240"
+      "$t": "241"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values"
