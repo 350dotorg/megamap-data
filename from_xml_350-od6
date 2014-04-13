@@ -11247,6 +11247,54 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-04-17 19:00:00"
         }, 
         "gsx$latitude": {
+          "$t": "41.4828"
+        }, 
+        "title": {
+          "$t": "\"Years of Living Dangerously\" Watch Party", 
+          "type": "text"
+        }, 
+        "gsx$link": {
+          "$t": "https://act.350.org/event/years/7434"
+        }, 
+        "gsx$name": {
+          "$t": "\"Years of Living Dangerously\" Watch Party"
+        }, 
+        "content": {
+          "$t": "datetime: 2014-04-17 19:00:00, link: https://act.350.org/event/years/7434, description: Join us for a screening of Years of Living Dangerously. \n\nJoin the Cleveland Environmental Action Network (CLEAN, a local group of environmental stewards and volunteers from different local organizations), to watch the show, discuss climate change and local energy issues, and make plans for solutions to challenges that are unique to Northeast Ohio!  Everyone is welcome.  Please RSVP by Wed., April 16., longitude: -81.6943, latitude: 41.4828",
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/cokwr", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$longitude": {
+          "$t": "-81.6943"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event233"
+        }, 
+        "gsx$description": {
+          "$t": "Join us for a screening of Years of Living Dangerously. \n\nJoin the Cleveland Environmental Action Network (CLEAN, a local group of environmental stewards and volunteers from different local organizations), to watch the show, discuss climate change and local energy issues, and make plans for solutions to challenges that are unique to Northeast Ohio!  Everyone is welcome.  Please RSVP by Wed., April 16."
+        }
+      },
+      
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-04-07T02:18:33.388Z"
+        }, 
+        "gsx$datetime": {
+          "$t": "2014-04-17 19:00:00"
+        }, 
+        "gsx$latitude": {
           "$t": "47.6984"
         }, 
         "title": {
@@ -11274,7 +11322,7 @@ Tabletop.singleton.loadSheet({
           "$t": "-114.141"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event233"
+          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event234"
         }, 
         "gsx$description": {
           "$t": "Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!"
@@ -11322,7 +11370,7 @@ Tabletop.singleton.loadSheet({
           "$t": "-77.2682"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event234"
+          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event235"
         }, 
         "gsx$description": {
           "$t": "Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!"
@@ -11370,7 +11418,7 @@ Tabletop.singleton.loadSheet({
           "$t": "-92.2463"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event235"
+          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event236"
         }, 
         "gsx$description": {
           "$t": "Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!"
@@ -11418,7 +11466,7 @@ Tabletop.singleton.loadSheet({
           "$t": "-89.7372"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event236"
+          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event237"
         }, 
         "gsx$description": {
           "$t": "Join us for a free screening of Years of Living Dangerously. \n\nWe'll watch the show, discuss afterwards, and make a plan for our next steps! Free popcorn and non-alcoholic beverages will be served."
@@ -11466,7 +11514,7 @@ Tabletop.singleton.loadSheet({
           "$t": "-94.3656"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event237"
+          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event238"
         }, 
         "gsx$description": {
           "$t": "Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!"
@@ -11514,7 +11562,7 @@ Tabletop.singleton.loadSheet({
           "$t": "-96.7914"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event238"
+          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event239"
         }, 
         "gsx$description": {
           "$t": "Join us for a screening of Years of Living Dangerously. We'll have a potluck at 6:30 (bring a dish to pass if you're able, or just show up), then we'll screen the film around 7pm. Sponsored by the Brookings Interfaith Council. We'd be discussing the film and the issues it highlights  in the context of our individual faith and cultural perspectives."
@@ -11562,7 +11610,7 @@ Tabletop.singleton.loadSheet({
           "$t": "-105.135"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event239"
+          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event240"
         }, 
         "gsx$description": {
           "$t": "Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!"
@@ -11571,7 +11619,7 @@ Tabletop.singleton.loadSheet({
       
     ], 
     "openSearch$totalResults": {
-      "$t": "240"
+      "$t": "241"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values"
