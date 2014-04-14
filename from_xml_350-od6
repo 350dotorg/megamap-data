@@ -3516,7 +3516,7 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-04-07T02:18:33.388Z"
         }, 
         "gsx$datetime": {
-          "$t": "2014-04-14 10:00:00"
+          "$t": "2014-04-14 10:30:00"
         }, 
         "gsx$latitude": {
           "$t": "46.55"
@@ -3532,7 +3532,7 @@ Tabletop.singleton.loadSheet({
           "$t": "\"Years of Living Dangerously\" Watch Party"
         }, 
         "content": {
-          "$t": "datetime: 2014-04-14 10:00:00, link: https://act.350.org/event/years/7024, description: Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the film, discuss and make a plan for our next steps!\n\nThis is part of a regularly scheduled class, Environmental Communication (SP 432). There are about 20 students in the class and we'll gather at 10:00 for a brief student presentation, and then we'll begin the film at 10:30. There is visitor parking outside the Hedgecock building and the University Center. \n\nOur class has created a 350.org group for Marquette. We are hosting this viewing on April 14, and No Impact Week (starting April 20). We also have a \"climate change book club\" and we just finished reading Climate Change Politics. Please join us for any of the activities that interest you., longitude: -87.4, latitude: 46.55",
+          "$t": "datetime: 2014-04-14 10:30:00, link: https://act.350.org/event/years/7024, description: Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the film, discuss and make a plan for our next steps!\n\nThis is part of a regularly scheduled class, Environmental Communication (SP 432). There are about 20 students in the class and we'll gather at 10:00 for a brief student presentation, and then we'll begin the film at 10:30. There is visitor parking outside the Hedgecock building and the University Center. \n\nOur class has created a 350.org group for Marquette. We are hosting this viewing on April 14, and No Impact Week (starting April 20). We also have a \"climate change book club\" and we just finished reading Climate Change Politics. Please join us for any of the activities that interest you., longitude: -87.4, latitude: 46.55",
           "type": "text"
         }, 
         "link": [
