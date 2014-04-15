@@ -12210,17 +12210,17 @@ Tabletop.singleton.loadSheet({
           "$t": "23.7104"
         }, 
         "title": {
-          "$t": "Documentary Screening & Discussion on Earth Day", 
+          "$t": "Documentary Screening & Discussion on Earth Day at MIST", 
           "type": "text"
         }, 
         "gsx$link": {
           "$t": "https://act.350.org/event/years/7527"
         }, 
         "gsx$name": {
-          "$t": "Documentary Screening & Discussion on Earth Day"
+          "$t": "Documentary Screening & Discussion on Earth Day at MIST"
         }, 
         "content": {
-          "$t": "datetime: 2014-04-22 10:50:00, link: https://act.350.org/event/years/7527, description: Join us for a screening of Years of Living Dangerously. We'll be screening this epic show from now on in CE-13, Level-4 classroom of MIST. All those environmentalists and climate change activists are invited to join the show.\n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!, longitude: 90.4074, latitude: 23.7104",
+          "$t": "datetime: 2014-04-22 10:50:00, link: https://act.350.org/event/years/7527, description: Join us for a screening of Years of Living Dangerously. We'll be screening this epic show from now on in  MIST. All those environmentalists and climate change activists are invited to join the show.\n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!, longitude: 90.4074, latitude: 23.7104",
           "type": "text"
         }, 
         "link": [
@@ -12237,7 +12237,7 @@ Tabletop.singleton.loadSheet({
           "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event253"
         }, 
         "gsx$description": {
-          "$t": "Join us for a screening of Years of Living Dangerously. We'll be screening this epic show from now on in CE-13, Level-4 classroom of MIST. All those environmentalists and climate change activists are invited to join the show.\n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!"
+          "$t": "Join us for a screening of Years of Living Dangerously. We'll be screening this epic show from now on in  MIST. All those environmentalists and climate change activists are invited to join the show.\n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!"
         }
       }
       
