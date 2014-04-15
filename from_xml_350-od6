@@ -12191,11 +12191,59 @@ Tabletop.singleton.loadSheet({
         "gsx$description": {
           "$t": "Join us for a screening of Years of Living Dangerously with Tufts Divest."
         }
+      },
+      
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-04-07T02:18:33.388Z"
+        }, 
+        "gsx$datetime": {
+          "$t": "2014-04-22 10:50:00"
+        }, 
+        "gsx$latitude": {
+          "$t": "23.7104"
+        }, 
+        "title": {
+          "$t": "\"Years of Living Dangerously\" Public Screening", 
+          "type": "text"
+        }, 
+        "gsx$link": {
+          "$t": "https://act.350.org/event/years/7527"
+        }, 
+        "gsx$name": {
+          "$t": "\"Years of Living Dangerously\" Public Screening"
+        }, 
+        "content": {
+          "$t": "datetime: 2014-04-22 10:50:00, link: https://act.350.org/event/years/7527, description: Join us for a screening of Years of Living Dangerously. We'll be screening this epic show from now on in CE-13, Level-4 classroom of MIST. All those environmentalists and climate change activists are invited to join the show.\n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!, longitude: 90.4074, latitude: 23.7104",
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/cokwr", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$longitude": {
+          "$t": "90.4074"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event253"
+        }, 
+        "gsx$description": {
+          "$t": "Join us for a screening of Years of Living Dangerously. We'll be screening this epic show from now on in CE-13, Level-4 classroom of MIST. All those environmentalists and climate change activists are invited to join the show.\n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!"
+        }
       }
       
     ], 
     "openSearch$totalResults": {
-      "$t": "253"
+      "$t": "254"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values"
