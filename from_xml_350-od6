@@ -12239,11 +12239,59 @@ Tabletop.singleton.loadSheet({
         "gsx$description": {
           "$t": "Join us for a screening of Years of Living Dangerously. We'll be screening this epic show from now on in  MIST. All those environmentalists and climate change activists are invited to join the show.\n\nWe'll watch the show, tune into the video call afterwards, and make a plan for our next steps!"
         }
+      },
+      
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-04-07T02:18:33.388Z"
+        }, 
+        "gsx$datetime": {
+          "$t": "2014-04-22 19:00:00"
+        }, 
+        "gsx$latitude": {
+          "$t": "41.1807"
+        }, 
+        "title": {
+          "$t": "Bridgeport \"Years of Living Dangerously\" Watch Party", 
+          "type": "text"
+        }, 
+        "gsx$link": {
+          "$t": "https://act.350.org/event/years/7531"
+        }, 
+        "gsx$name": {
+          "$t": "Bridgeport \"Years of Living Dangerously\" Watch Party"
+        }, 
+        "content": {
+          "$t": "datetime: 2014-04-22 19:00:00, link: https://act.350.org/event/years/7531, description: The Hive Bridgeport is blasting off this spring! Come meet us on Earth Day and we will have an introductory meeting and screen \"Years of Living Dangerously\" after and have a discussion!\n\n'The Hive' is a community initiative of IDEAS For Us, a 501c3 nonprofit organization. http://ideasforus.org/, longitude: -73.193, latitude: 41.1807",
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/cokwr", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$longitude": {
+          "$t": "-73.193"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event254"
+        }, 
+        "gsx$description": {
+          "$t": "The Hive Bridgeport is blasting off this spring! Come meet us on Earth Day and we will have an introductory meeting and screen \"Years of Living Dangerously\" after and have a discussion!\n\n'The Hive' is a community initiative of IDEAS For Us, a 501c3 nonprofit organization. http://ideasforus.org/"
+        }
       }
       
     ], 
     "openSearch$totalResults": {
-      "$t": "254"
+      "$t": "255"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values"
