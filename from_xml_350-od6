@@ -12335,11 +12335,59 @@ Tabletop.singleton.loadSheet({
         "gsx$description": {
           "$t": "Join us for a screening of episode 2 of Years of Living Dangerously.  We connected cable and got Showtime just for this.\n\nWe'll watch the show, discuss our reactions afterwards, and make a plan for our next steps!"
         }
+      },
+      
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-04-07T02:18:33.388Z"
+        }, 
+        "gsx$datetime": {
+          "$t": "2014-04-22 17:30:00"
+        }, 
+        "gsx$latitude": {
+          "$t": "44.445"
+        }, 
+        "title": {
+          "$t": "\"Years of Living Dangerously\" Watch Party", 
+          "type": "text"
+        }, 
+        "gsx$link": {
+          "$t": "https://act.350.org/event/years/7536"
+        }, 
+        "gsx$name": {
+          "$t": "\"Years of Living Dangerously\" Watch Party"
+        }, 
+        "content": {
+          "$t": "datetime: 2014-04-22 17:30:00, link: https://act.350.org/event/years/7536, description: Join us for a screening of Years of Living Dangerously. \n\nPlease come for vegetarian soup at 5:30pm. Contributions to go along with the soup are welcome. We'll start the film at 6:30 pm. If you want to come just for the film that's ok. After the film we'll have a short discussion to share comments and talk about next steps.\n\nCannon Valley Friends Meeting (Quakers)., longitude: -93.1815, latitude: 44.445",
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/cokwr", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$longitude": {
+          "$t": "-93.1815"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event256"
+        }, 
+        "gsx$description": {
+          "$t": "Join us for a screening of Years of Living Dangerously. \n\nPlease come for vegetarian soup at 5:30pm. Contributions to go along with the soup are welcome. We'll start the film at 6:30 pm. If you want to come just for the film that's ok. After the film we'll have a short discussion to share comments and talk about next steps.\n\nCannon Valley Friends Meeting (Quakers)."
+        }
       }
       
     ], 
     "openSearch$totalResults": {
-      "$t": "256"
+      "$t": "257"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values"
