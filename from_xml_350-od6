@@ -12383,11 +12383,59 @@ Tabletop.singleton.loadSheet({
         "gsx$description": {
           "$t": "Join us for a screening of Years of Living Dangerously. \n\nPlease come for vegetarian soup at 5:30pm. Contributions to go along with the soup are welcome. We'll start the film at 6:30 pm. If you want to come just for the film that's ok. After the film we'll have a short discussion to share comments and talk about next steps.\n\nCannon Valley Friends Meeting (Quakers)."
         }
+      },
+      
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-04-07T02:18:33.388Z"
+        }, 
+        "gsx$datetime": {
+          "$t": "2014-05-08 19:00:00"
+        }, 
+        "gsx$latitude": {
+          "$t": "42.2947"
+        }, 
+        "title": {
+          "$t": "\"Years of Living Dangerously\" Watch Party", 
+          "type": "text"
+        }, 
+        "gsx$link": {
+          "$t": "https://act.350.org/event/years/7537"
+        }, 
+        "gsx$name": {
+          "$t": "\"Years of Living Dangerously\" Watch Party"
+        }, 
+        "content": {
+          "$t": "datetime: 2014-05-08 19:00:00, link: https://act.350.org/event/years/7537, description: Join us for a screening of \"Years of Living Dangerously\". \n\nWe'll watch the show, discuss what we've seen, and consider follow-up!, longitude: -71.1305, latitude: 42.2947",
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/cokwr", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$longitude": {
+          "$t": "-71.1305"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event257"
+        }, 
+        "gsx$description": {
+          "$t": "Join us for a screening of \"Years of Living Dangerously\". \n\nWe'll watch the show, discuss what we've seen, and consider follow-up!"
+        }
       }
       
     ], 
     "openSearch$totalResults": {
-      "$t": "257"
+      "$t": "258"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values"
