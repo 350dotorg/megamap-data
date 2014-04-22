@@ -11292,7 +11292,7 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-04-07T02:18:33.388Z"
         }, 
         "gsx$datetime": {
-          "$t": "2014-05-03 18:30:00"
+          "$t": "2014-05-01 18:30:00"
         }, 
         "gsx$latitude": {
           "$t": "44.2875"
@@ -11308,7 +11308,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Brookings Interfaith Council Screening: \"Years of Living Dangerously\""
         }, 
         "content": {
-          "$t": "datetime: 2014-05-03 18:30:00, link: https://act.350.org/event/years/7461, description: Join us for a screening of Years of Living Dangerously. We'll have a potluck at 6:30 (bring a dish to pass if you're able, or just show up), then we'll screen the film around 7pm. Sponsored by the Brookings Interfaith Council. We'd be discussing the film and the issues it highlights  in the context of our individual faith and cultural perspectives., longitude: -96.7914, latitude: 44.2875",
+          "$t": "datetime: 2014-05-01 18:30:00, link: https://act.350.org/event/years/7461, description: Join us for a screening of Years of Living Dangerously. We'll have a potluck at 6:30 (bring a dish to pass if you're able, or just show up), then we'll screen the film around 7pm. Sponsored by the Brookings Interfaith Council. We'd be discussing the film and the issues it highlights  in the context of our individual faith and cultural perspectives., longitude: -96.7914, latitude: 44.2875",
           "type": "text"
         }, 
         "link": [
