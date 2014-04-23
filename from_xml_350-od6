@@ -7836,7 +7836,7 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-04-07T02:18:33.388Z"
         }, 
         "gsx$datetime": {
-          "$t": "2014-05-03 11:45:00"
+          "$t": "2014-05-22 11:45:00"
         }, 
         "gsx$latitude": {
           "$t": "41.8466"
@@ -7846,13 +7846,13 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$link": {
-          "$t": "https://act.350.org/event/years/7550"
+          "$t": "https://act.350.org/event/years/7549"
         }, 
         "gsx$name": {
           "$t": "\"Years of Living Dangerously\" Watch Party"
         }, 
         "content": {
-          "$t": "datetime: 2014-05-03 11:45:00, link: https://act.350.org/event/years/7550, description: Join us for a screening of Years of Living Dangerously in Little Village, Chicago, IL in order to self-educate and contribute to the momentum in combatting dangerous climate change. \n\n\nThe host's living room cannot fit more than ten people, so make sure you contact us to make sure there's enough room.  If for some reason we don't respond to you within 36 hours, e-mail the host Chris (preciado.christopher@gmail.com) or call him personally (210-548-2621).\n\n\nThe venue may change to Toman Public Library, down the street, at 2708 S Pulaski Rd, Chicago, IL 60623.  You will be notified via e-mail if this occurs.\n\n\nIf you would really like to attend, but there is a schedule conflict, please contact Chris and tell him which days and times are best for you and what neighborhood you live in, so that Chicago 350 can better understand people's schedules and accommodate to them., longitude: -87.7172, latitude: 41.8466",
+          "$t": "datetime: 2014-05-22 11:45:00, link: https://act.350.org/event/years/7549, description: Join us for a screening of Years of Living Dangerously in Little Village, Chicago, IL in order to self-educate and contribute to the momentum in combatting dangerous climate change. \n\nThe host's living room cannot fit more than ten people, so make sure you contact us to make sure there's enough room.  If for some reason we don't respond to you within 36 hours, e-mail the host Chris (preciado.christopher@gmail.com) or call him personally (210-548-2621).\n\nThe venue may change to Toman Public Library, down the street, at 2708 S Pulaski Rd, Chicago, IL 60623.  You will be notified via e-mail if this occurs.\n\nIf you would really like to attend, but there is a schedule conflict, please contact Chris and tell him which days and times are best for you and what neighborhood you live in, so that Chicago 350 can better understand people's schedules and accommodate to them., longitude: -87.7172, latitude: 41.8466",
           "type": "text"
         }, 
         "link": [
@@ -7869,7 +7869,7 @@ Tabletop.singleton.loadSheet({
           "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event162"
         }, 
         "gsx$description": {
-          "$t": "Join us for a screening of Years of Living Dangerously in Little Village, Chicago, IL in order to self-educate and contribute to the momentum in combatting dangerous climate change. \n\n\nThe host's living room cannot fit more than ten people, so make sure you contact us to make sure there's enough room.  If for some reason we don't respond to you within 36 hours, e-mail the host Chris (preciado.christopher@gmail.com) or call him personally (210-548-2621).\n\n\nThe venue may change to Toman Public Library, down the street, at 2708 S Pulaski Rd, Chicago, IL 60623.  You will be notified via e-mail if this occurs.\n\n\nIf you would really like to attend, but there is a schedule conflict, please contact Chris and tell him which days and times are best for you and what neighborhood you live in, so that Chicago 350 can better understand people's schedules and accommodate to them."
+          "$t": "Join us for a screening of Years of Living Dangerously in Little Village, Chicago, IL in order to self-educate and contribute to the momentum in combatting dangerous climate change. \n\nThe host's living room cannot fit more than ten people, so make sure you contact us to make sure there's enough room.  If for some reason we don't respond to you within 36 hours, e-mail the host Chris (preciado.christopher@gmail.com) or call him personally (210-548-2621).\n\nThe venue may change to Toman Public Library, down the street, at 2708 S Pulaski Rd, Chicago, IL 60623.  You will be notified via e-mail if this occurs.\n\nIf you would really like to attend, but there is a schedule conflict, please contact Chris and tell him which days and times are best for you and what neighborhood you live in, so that Chicago 350 can better understand people's schedules and accommodate to them."
         }
       },
       
