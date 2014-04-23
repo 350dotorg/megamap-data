@@ -12508,7 +12508,7 @@ Tabletop.singleton.loadSheet({
           "$t": "\"Years of Living Dangerously\" Watch Party"
         }, 
         "content": {
-          "$t": "datetime: 2014-04-24 12:00:00, link: https://act.350.org/event/years/7539, description: Join us for a screening of Years of Living Dangerously  in Little Village, Chicago, IL in order to self-educate and contribute to the momentum in combatting dangerous climate change. \n\nMy living room cannot fit too many people, so please contact me (preciado.christopher@gmail.com or 210-548-2621) to make sure there's enough space., longitude: -87.7172, latitude: 41.8466",
+          "$t": "datetime: 2014-04-24 12:00:00, link: https://act.350.org/event/years/7539, description: Join us for a screening of Years of Living Dangerously in Little Village, Chicago, IL in order to self-educate and contribute to the momentum in combatting dangerous climate change. \n\nThe host's living room cannot fit more than ten people, so make sure you contact us to make sure there's enough room.  If for some reason we don't respond to you within 36 hours, e-mail the host Chris (preciado.christopher@gmail.com) or call him personally (210-548-2621).\n\nThe venue may change to Toman Public Library, down the street, at 2708 S Pulaski Rd, Chicago, IL 60623.  You will be notified via e-mail if this occurs.\n\nIf you would really like to attend, but there is a schedule conflict, please contact Chris and tell him which days and times are best for you and what neighborhood you live in, so that Chicago 350 can better understand people's schedules and accommodate to them., longitude: -87.7172, latitude: 41.8466",
           "type": "text"
         }, 
         "link": [
@@ -12525,7 +12525,7 @@ Tabletop.singleton.loadSheet({
           "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event259"
         }, 
         "gsx$description": {
-          "$t": "Join us for a screening of Years of Living Dangerously  in Little Village, Chicago, IL in order to self-educate and contribute to the momentum in combatting dangerous climate change. \n\nMy living room cannot fit too many people, so please contact me (preciado.christopher@gmail.com or 210-548-2621) to make sure there's enough space."
+          "$t": "Join us for a screening of Years of Living Dangerously in Little Village, Chicago, IL in order to self-educate and contribute to the momentum in combatting dangerous climate change. \n\nThe host's living room cannot fit more than ten people, so make sure you contact us to make sure there's enough room.  If for some reason we don't respond to you within 36 hours, e-mail the host Chris (preciado.christopher@gmail.com) or call him personally (210-548-2621).\n\nThe venue may change to Toman Public Library, down the street, at 2708 S Pulaski Rd, Chicago, IL 60623.  You will be notified via e-mail if this occurs.\n\nIf you would really like to attend, but there is a schedule conflict, please contact Chris and tell him which days and times are best for you and what neighborhood you live in, so that Chicago 350 can better understand people's schedules and accommodate to them."
         }
       }
       
