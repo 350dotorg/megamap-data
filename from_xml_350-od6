@@ -2044,7 +2044,7 @@ Tabletop.singleton.loadSheet({
           "$t": "\"Years of Living Dangerously\" Watch Party"
         }, 
         "content": {
-          "$t": "datetime: 2014-05-10 14:00:00, link: https://act.350.org/event/years/7582, description: Join us for a screening of Years of Living Dangerously - wherever you are in Australia. \n\nWe'll watch the show, and get ready for our next moves to inspire climate action.\n\nAfterward, if you can stay, we are planning on holding a screening of Bill McKibben's Do the Math., longitude: 153.017, latitude: -27.4833",
+          "$t": "datetime: 2014-05-10 14:00:00, link: https://act.350.org/event/years/7582, description: Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show, and get ready for our next moves to raise awareness of climate change and inspire action.\n\nAfterward, if you can stay, we are planning on holding a screening of Bill McKibben's Do the Math., longitude: 153.017, latitude: -27.4833",
           "type": "text"
         }, 
         "link": [
@@ -2061,7 +2061,7 @@ Tabletop.singleton.loadSheet({
           "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event41"
         }, 
         "gsx$description": {
-          "$t": "Join us for a screening of Years of Living Dangerously - wherever you are in Australia. \n\nWe'll watch the show, and get ready for our next moves to inspire climate action.\n\nAfterward, if you can stay, we are planning on holding a screening of Bill McKibben's Do the Math."
+          "$t": "Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show, and get ready for our next moves to raise awareness of climate change and inspire action.\n\nAfterward, if you can stay, we are planning on holding a screening of Bill McKibben's Do the Math."
         }
       },
       
