@@ -2034,14 +2034,14 @@ Tabletop.singleton.loadSheet({
           "$t": "-27.4833"
         }, 
         "title": {
-          "$t": "\"Years of Living Dangerously\" Watch Party", 
+          "$t": "\"Years of Living Dangerously\" screening", 
           "type": "text"
         }, 
         "gsx$link": {
           "$t": "https://act.350.org/event/years/7582"
         }, 
         "gsx$name": {
-          "$t": "\"Years of Living Dangerously\" Watch Party"
+          "$t": "\"Years of Living Dangerously\" screening"
         }, 
         "content": {
           "$t": "datetime: 2014-05-10 14:00:00, link: https://act.350.org/event/years/7582, description: Join us for a screening of Years of Living Dangerously. \n\nWe'll watch the show, and get ready for our next moves to raise awareness of climate change and inspire action.\n\nAfterward, if you can stay, we are planning on holding a screening of Bill McKibben's Do the Math., longitude: 153.017, latitude: -27.4833",
