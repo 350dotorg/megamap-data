@@ -14460,6 +14460,54 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-04-07T02:18:33.388Z"
         }, 
         "gsx$datetime": {
+          "$t": "2014-06-17 10:00:00"
+        }, 
+        "gsx$latitude": {
+          "$t": "41.8466"
+        }, 
+        "title": {
+          "$t": "\"Years of Living Dangerously\" Watch Party", 
+          "type": "text"
+        }, 
+        "gsx$link": {
+          "$t": "https://act.350.org/event/years/7618"
+        }, 
+        "gsx$name": {
+          "$t": "\"Years of Living Dangerously\" Watch Party"
+        }, 
+        "content": {
+          "$t": "datetime: 2014-06-17 10:00:00, link: https://act.350.org/event/years/7618, description: This local 350 group will be screening Years of Living Dangerously weekly (Tues., Thurs., Sat.) from 10 a.m. to 1 p.m. (3 consecutive showings per day) in order to self-educate and contribute to the momentum in combatting dangerous climate change. \n\nIf we don't respond to you within 24 hours, e-mail the host Chris (preciado.christopher@gmail.com) or call/text him personally (210-548-2621). \n\nIf the venue changes to Toman Public Library (2708 S Pulaski Rd, Chicago, IL 60623), you will be notified. \n\nIf you would really like to attend, but there is a schedule conflict, please contact Chris and tell him what's best for you, so that Chicago 350 can try to accommodate., longitude: -87.7172, latitude: 41.8466",
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/cokwr", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$longitude": {
+          "$t": "-87.7172"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event300"
+        }, 
+        "gsx$description": {
+          "$t": "This local 350 group will be screening Years of Living Dangerously weekly (Tues., Thurs., Sat.) from 10 a.m. to 1 p.m. (3 consecutive showings per day) in order to self-educate and contribute to the momentum in combatting dangerous climate change. \n\nIf we don't respond to you within 24 hours, e-mail the host Chris (preciado.christopher@gmail.com) or call/text him personally (210-548-2621). \n\nIf the venue changes to Toman Public Library (2708 S Pulaski Rd, Chicago, IL 60623), you will be notified. \n\nIf you would really like to attend, but there is a schedule conflict, please contact Chris and tell him what's best for you, so that Chicago 350 can try to accommodate."
+        }
+      },
+      
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-04-07T02:18:33.388Z"
+        }, 
+        "gsx$datetime": {
           "$t": "2014-06-21 10:00:00"
         }, 
         "gsx$latitude": {
@@ -14490,7 +14538,151 @@ Tabletop.singleton.loadSheet({
           "$t": "-87.7172"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event300"
+          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event301"
+        }, 
+        "gsx$description": {
+          "$t": "This local 350 group will be screening Years of Living Dangerously weekly (Tues., Thurs., Sat.) from 10 a.m. to 1 p.m. (3 consecutive showings per day) in order to self-educate and contribute to the momentum in combatting dangerous climate change. \n\n\nIf we don't respond to you within 24 hours, e-mail the host Chris (preciado.christopher@gmail.com) or call/text him personally (210-548-2621). \n\n\nIf the venue changes to Toman Public Library (2708 S Pulaski Rd, Chicago, IL 60623), you will be notified. \n\n\nIf you would really like to attend, but there is a schedule conflict, please contact Chris and tell him what's best for you, so that Chicago 350 can try to accommodate."
+        }
+      },
+      
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-04-07T02:18:33.388Z"
+        }, 
+        "gsx$datetime": {
+          "$t": "2014-06-24 10:00:00"
+        }, 
+        "gsx$latitude": {
+          "$t": "41.8466"
+        }, 
+        "title": {
+          "$t": "\"Years of Living Dangerously\" Watch Party", 
+          "type": "text"
+        }, 
+        "gsx$link": {
+          "$t": "https://act.350.org/event/years/7621"
+        }, 
+        "gsx$name": {
+          "$t": "\"Years of Living Dangerously\" Watch Party"
+        }, 
+        "content": {
+          "$t": "datetime: 2014-06-24 10:00:00, link: https://act.350.org/event/years/7621, description: This local 350 group will be screening Years of Living Dangerously weekly (Tues., Thurs., Sat.) from 10 a.m. to 1 p.m. (3 consecutive showings per day) in order to self-educate and contribute to the momentum in combatting dangerous climate change. \n\n\nIf we don't respond to you within 24 hours, e-mail the host Chris (preciado.christopher@gmail.com) or call/text him personally (210-548-2621). \n\n\nIf the venue changes to Toman Public Library (2708 S Pulaski Rd, Chicago, IL 60623), you will be notified. \n\n\nIf you would really like to attend, but there is a schedule conflict, please contact Chris and tell him what's best for you, so that Chicago 350 can try to accommodate., longitude: -87.7172, latitude: 41.8466",
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/cokwr", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$longitude": {
+          "$t": "-87.7172"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event302"
+        }, 
+        "gsx$description": {
+          "$t": "This local 350 group will be screening Years of Living Dangerously weekly (Tues., Thurs., Sat.) from 10 a.m. to 1 p.m. (3 consecutive showings per day) in order to self-educate and contribute to the momentum in combatting dangerous climate change. \n\n\nIf we don't respond to you within 24 hours, e-mail the host Chris (preciado.christopher@gmail.com) or call/text him personally (210-548-2621). \n\n\nIf the venue changes to Toman Public Library (2708 S Pulaski Rd, Chicago, IL 60623), you will be notified. \n\n\nIf you would really like to attend, but there is a schedule conflict, please contact Chris and tell him what's best for you, so that Chicago 350 can try to accommodate."
+        }
+      },
+      
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-04-07T02:18:33.388Z"
+        }, 
+        "gsx$datetime": {
+          "$t": "2014-06-26 10:00:00"
+        }, 
+        "gsx$latitude": {
+          "$t": "41.8466"
+        }, 
+        "title": {
+          "$t": "\"Years of Living Dangerously\" Watch Party", 
+          "type": "text"
+        }, 
+        "gsx$link": {
+          "$t": "https://act.350.org/event/years/7622"
+        }, 
+        "gsx$name": {
+          "$t": "\"Years of Living Dangerously\" Watch Party"
+        }, 
+        "content": {
+          "$t": "datetime: 2014-06-26 10:00:00, link: https://act.350.org/event/years/7622, description: This local 350 group will be screening Years of Living Dangerously weekly (Tues., Thurs., Sat.) from 10 a.m. to 1 p.m. (3 consecutive showings per day) in order to self-educate and contribute to the momentum in combatting dangerous climate change. \n\n\nIf we don't respond to you within 24 hours, e-mail the host Chris (preciado.christopher@gmail.com) or call/text him personally (210-548-2621). \n\n\nIf the venue changes to Toman Public Library (2708 S Pulaski Rd, Chicago, IL 60623), you will be notified. \n\n\nIf you would really like to attend, but there is a schedule conflict, please contact Chris and tell him what's best for you, so that Chicago 350 can try to accommodate., longitude: -87.7172, latitude: 41.8466",
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/cokwr", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$longitude": {
+          "$t": "-87.7172"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event303"
+        }, 
+        "gsx$description": {
+          "$t": "This local 350 group will be screening Years of Living Dangerously weekly (Tues., Thurs., Sat.) from 10 a.m. to 1 p.m. (3 consecutive showings per day) in order to self-educate and contribute to the momentum in combatting dangerous climate change. \n\n\nIf we don't respond to you within 24 hours, e-mail the host Chris (preciado.christopher@gmail.com) or call/text him personally (210-548-2621). \n\n\nIf the venue changes to Toman Public Library (2708 S Pulaski Rd, Chicago, IL 60623), you will be notified. \n\n\nIf you would really like to attend, but there is a schedule conflict, please contact Chris and tell him what's best for you, so that Chicago 350 can try to accommodate."
+        }
+      },
+      
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-04-07T02:18:33.388Z"
+        }, 
+        "gsx$datetime": {
+          "$t": "2014-06-28 10:00:00"
+        }, 
+        "gsx$latitude": {
+          "$t": "41.8466"
+        }, 
+        "title": {
+          "$t": "\"Years of Living Dangerously\" Watch Party", 
+          "type": "text"
+        }, 
+        "gsx$link": {
+          "$t": "https://act.350.org/event/years/7623"
+        }, 
+        "gsx$name": {
+          "$t": "\"Years of Living Dangerously\" Watch Party"
+        }, 
+        "content": {
+          "$t": "datetime: 2014-06-28 10:00:00, link: https://act.350.org/event/years/7623, description: This local 350 group will be screening Years of Living Dangerously weekly (Tues., Thurs., Sat.) from 10 a.m. to 1 p.m. (3 consecutive showings per day) in order to self-educate and contribute to the momentum in combatting dangerous climate change. \n\n\nIf we don't respond to you within 24 hours, e-mail the host Chris (preciado.christopher@gmail.com) or call/text him personally (210-548-2621). \n\n\nIf the venue changes to Toman Public Library (2708 S Pulaski Rd, Chicago, IL 60623), you will be notified. \n\n\nIf you would really like to attend, but there is a schedule conflict, please contact Chris and tell him what's best for you, so that Chicago 350 can try to accommodate., longitude: -87.7172, latitude: 41.8466",
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/cokwr", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$longitude": {
+          "$t": "-87.7172"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event304"
         }, 
         "gsx$description": {
           "$t": "This local 350 group will be screening Years of Living Dangerously weekly (Tues., Thurs., Sat.) from 10 a.m. to 1 p.m. (3 consecutive showings per day) in order to self-educate and contribute to the momentum in combatting dangerous climate change. \n\n\nIf we don't respond to you within 24 hours, e-mail the host Chris (preciado.christopher@gmail.com) or call/text him personally (210-548-2621). \n\n\nIf the venue changes to Toman Public Library (2708 S Pulaski Rd, Chicago, IL 60623), you will be notified. \n\n\nIf you would really like to attend, but there is a schedule conflict, please contact Chris and tell him what's best for you, so that Chicago 350 can try to accommodate."
@@ -14499,7 +14691,7 @@ Tabletop.singleton.loadSheet({
       
     ], 
     "openSearch$totalResults": {
-      "$t": "301"
+      "$t": "305"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values"
