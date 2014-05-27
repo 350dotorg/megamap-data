@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-05-12T22:02:07.427Z"
+      "$t": "2014-05-25T23:31:30.968Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,7 +56,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-05-12T22:02:07.427Z"
+          "$t": "2014-05-25T23:31:30.968Z"
         }, 
         "gsx$latitude": {
           "$t": "41.10445"
@@ -106,7 +106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-05-12T22:02:07.427Z"
+          "$t": "2014-05-25T23:31:30.968Z"
         }, 
         "gsx$latitude": {
           "$t": "-37.82005"
@@ -156,7 +156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-05-12T22:02:07.427Z"
+          "$t": "2014-05-25T23:31:30.968Z"
         }, 
         "gsx$latitude": {
           "$t": "60.604819"
@@ -206,7 +206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-05-12T22:02:07.427Z"
+          "$t": "2014-05-25T23:31:30.968Z"
         }, 
         "gsx$latitude": {
           "$t": "10.7684511"
@@ -256,7 +256,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-05-12T22:02:07.427Z"
+          "$t": "2014-05-25T23:31:30.968Z"
         }, 
         "gsx$latitude": {
           "$t": "48.4266797"
@@ -306,7 +306,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-05-12T22:02:07.427Z"
+          "$t": "2014-05-25T23:31:30.968Z"
         }, 
         "gsx$latitude": {
           "$t": "40.4313684"
@@ -356,7 +356,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-05-12T22:02:07.427Z"
+          "$t": "2014-05-25T23:31:30.968Z"
         }, 
         "gsx$latitude": {
           "$t": "50.4020355"
@@ -406,7 +406,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-05-12T22:02:07.427Z"
+          "$t": "2014-05-25T23:31:30.968Z"
         }, 
         "gsx$latitude": {
           "$t": "52.232938"
@@ -456,7 +456,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-05-12T22:02:07.427Z"
+          "$t": "2014-05-25T23:31:30.968Z"
         }, 
         "gsx$latitude": {
           "$t": "11.1212751"
@@ -506,7 +506,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-05-12T22:02:07.427Z"
+          "$t": "2014-05-25T23:31:30.968Z"
         }, 
         "gsx$latitude": {
           "$t": "52.0716542"
@@ -556,7 +556,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-05-12T22:02:07.427Z"
+          "$t": "2014-05-25T23:31:30.968Z"
         }, 
         "gsx$latitude": {
           "$t": "13.7246004"
@@ -606,7 +606,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-05-12T22:02:07.427Z"
+          "$t": "2014-05-25T23:31:30.968Z"
         }, 
         "gsx$latitude": {
           "$t": "2.968981"
@@ -656,7 +656,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-05-12T22:02:07.427Z"
+          "$t": "2014-05-25T23:31:30.968Z"
         }, 
         "gsx$latitude": {
           "$t": "13.0898019"
@@ -706,7 +706,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-05-12T22:02:07.427Z"
+          "$t": "2014-05-25T23:31:30.968Z"
         }, 
         "gsx$latitude": {
           "$t": "42.3458543"
@@ -756,7 +756,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-05-12T22:02:07.427Z"
+          "$t": "2014-05-25T23:31:30.968Z"
         }, 
         "gsx$latitude": {
           "$t": "42.8760664"
@@ -806,7 +806,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-05-12T22:02:07.427Z"
+          "$t": "2014-05-25T23:31:30.968Z"
         }, 
         "gsx$latitude": {
           "$t": "35.673343"
@@ -856,7 +856,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-05-12T22:02:07.427Z"
+          "$t": "2014-05-25T23:31:30.968Z"
         }, 
         "gsx$latitude": {
           "$t": "10.3789284"
@@ -906,7 +906,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-05-12T22:02:07.427Z"
+          "$t": "2014-05-25T23:31:30.968Z"
         }, 
         "gsx$latitude": {
           "$t": "-12.2400732"
@@ -956,7 +956,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-05-12T22:02:07.427Z"
+          "$t": "2014-05-25T23:31:30.968Z"
         }, 
         "gsx$latitude": {
           "$t": "26.9405829"
@@ -1006,7 +1006,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-05-12T22:02:07.427Z"
+          "$t": "2014-05-25T23:31:30.968Z"
         }, 
         "gsx$latitude": {
           "$t": "28.3973623"
@@ -1056,7 +1056,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-05-12T22:02:07.427Z"
+          "$t": "2014-05-25T23:31:30.968Z"
         }, 
         "gsx$latitude": {
           "$t": "-13.2512161"
@@ -1097,10 +1097,510 @@ Tabletop.singleton.loadSheet({
         "gsx$description": {
           "$t": "National Power Shift (NPS) is a National climate movement comprising youth activists from Malawi working on climate change education, policy and other issues related to climate change, youth empowerment and development. "
         }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-05-25T23:31:30.968Z"
+        }, 
+        "gsx$latitude": {
+          "$t": "56.29274"
+        }, 
+        "title": {
+          "$t": "Russia Power Shifts", 
+          "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": ""
+        }, 
+        "gsx$name": {
+          "$t": "Russia Power Shifts"
+        }, 
+        "content": {
+          "$t": "geom: Nizhny Novgorod, Russia, geolocation: Nizhny Novgorod, Russia, description: The climate forum \u201cClimate is changing, are we changing ourselves?\u201d took place in Nizhny Novgorod. About 40 participants from 5 regions of the country met to discuss causes and impacts of climate change and to generate new ideas about its solutions which can be implemented by the society. Among them were university and school students, environmental activists, teachers and journalists., longitude: 43.9267452, latitude: 56.29274", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/d6ua4", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$geolocation": {
+          "$t": "Nizhny Novgorod, Russia"
+        }, 
+        "gsx$longitude": {
+          "$t": "43.9267452"
+        }, 
+        "gsx$geom": {
+          "$t": "Nizhny Novgorod, Russia"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/d6ua4"
+        }, 
+        "gsx$description": {
+          "$t": "The climate forum \u201cClimate is changing, are we changing ourselves?\u201d took place in Nizhny Novgorod. About 40 participants from 5 regions of the country met to discuss causes and impacts of climate change and to generate new ideas about its solutions which can be implemented by the society. Among them were university and school students, environmental activists, teachers and journalists."
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-05-25T23:31:30.968Z"
+        }, 
+        "gsx$latitude": {
+          "$t": "-7.812494"
+        }, 
+        "title": {
+          "$t": "Indonesia Power Shift #Switchcamp", 
+          "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": "http://350indonesia.org/switch-camp/"
+        }, 
+        "gsx$name": {
+          "$t": "Indonesia Power Shift #Switchcamp"
+        }, 
+        "content": {
+          "$t": "geom: Kulonprogo, Indonesia, geolocation: Kulonprogo, Indonesia, website: http://350indonesia.org/switch-camp/, longitude: 110.144139, latitude: -7.812494", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/d88ul", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$geolocation": {
+          "$t": "Kulonprogo, Indonesia"
+        }, 
+        "gsx$longitude": {
+          "$t": "110.144139"
+        }, 
+        "gsx$geom": {
+          "$t": "Kulonprogo, Indonesia"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/d88ul"
+        }, 
+        "gsx$description": {
+          "$t": ""
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-05-25T23:31:30.968Z"
+        }, 
+        "gsx$latitude": {
+          "$t": "46.71109"
+        }, 
+        "title": {
+          "$t": "France Power Shift - Printemps du Climat", 
+          "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": "http://world.350.org/printemps-du-climat"
+        }, 
+        "gsx$name": {
+          "$t": "France Power Shift - Printemps du Climat"
+        }, 
+        "content": {
+          "$t": "geom: France, geolocation: France, website: http://world.350.org/printemps-du-climat, description: 'Printemps du Climat' (Climate Spring) - a month of action on climate calling for a real energy transition and ambition ahead of the EU policy decisions on climate targets/package.  Starting on the first day of spring in Paris, actions will follow around the country, uniting the climate movement., longitude: 1.7191036, latitude: 46.71109", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/dkvya", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$geolocation": {
+          "$t": "France"
+        }, 
+        "gsx$longitude": {
+          "$t": "1.7191036"
+        }, 
+        "gsx$geom": {
+          "$t": "France"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/dkvya"
+        }, 
+        "gsx$description": {
+          "$t": "'Printemps du Climat' (Climate Spring) - a month of action on climate calling for a real energy transition and ambition ahead of the EU policy decisions on climate targets/package.  Starting on the first day of spring in Paris, actions will follow around the country, uniting the climate movement."
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-05-25T23:31:30.968Z"
+        }, 
+        "gsx$latitude": {
+          "$t": "14.6262201"
+        }, 
+        "title": {
+          "$t": "Guatemala Power Shift", 
+          "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": "https://www.facebook.com/AguaYJuventudGuatemala"
+        }, 
+        "gsx$name": {
+          "$t": "Guatemala Power Shift"
+        }, 
+        "content": {
+          "$t": "geom: Guatemala City, Guatemala, geolocation: Guatemala City, Guatemala, website: https://www.facebook.com/AguaYJuventudGuatemala, longitude: ,-90.4919386, latitude: 14.6262201", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/dmair", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$geolocation": {
+          "$t": "Guatemala City, Guatemala"
+        }, 
+        "gsx$longitude": {
+          "$t": ",-90.4919386"
+        }, 
+        "gsx$geom": {
+          "$t": "Guatemala City, Guatemala"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/dmair"
+        }, 
+        "gsx$description": {
+          "$t": ""
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-05-25T23:31:30.968Z"
+        }, 
+        "gsx$latitude": {
+          "$t": "10.3789285"
+        }, 
+        "title": {
+          "$t": "Philippines Power Shift", 
+          "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": "http://world.350.org/philippines/sulong-power-shift-pilipinas/"
+        }, 
+        "gsx$name": {
+          "$t": "Philippines Power Shift"
+        }, 
+        "content": {
+          "$t": "geom: Cebu City - Philippines, geolocation: Cebu City - Philippines, website: http://world.350.org/philippines/sulong-power-shift-pilipinas/, description: \"Sulong!: Power Shift Pilipinas\" is gathering more than 200 passionate and committed youth leaders and activists from across the country to push the climate movement in the Philippines forward., longitude: 123.8480186, latitude: 10.3789285", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/dnp34", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$geolocation": {
+          "$t": "Cebu City - Philippines"
+        }, 
+        "gsx$longitude": {
+          "$t": "123.8480186"
+        }, 
+        "gsx$geom": {
+          "$t": "Cebu City - Philippines"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/dnp34"
+        }, 
+        "gsx$description": {
+          "$t": "\"Sulong!: Power Shift Pilipinas\" is gathering more than 200 passionate and committed youth leaders and activists from across the country to push the climate movement in the Philippines forward."
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-05-25T23:31:30.968Z"
+        }, 
+        "gsx$latitude": {
+          "$t": "51.5286416"
+        }, 
+        "title": {
+          "$t": "UK Power Shift", 
+          "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": "http://world.350.org/uk-gps/"
+        }, 
+        "gsx$name": {
+          "$t": "UK Power Shift"
+        }, 
+        "content": {
+          "$t": "geom: London, United Kingdom, geolocation: London, United Kingdom, website: http://world.350.org/uk-gps/, description: As part of Global Power Shift, Campaign Against Climate Change and Power Shift UK are  working together on \u2018Power Shift UK: Breaking Down the Barriers and Diversifying the Climate Movement\u2019 to bring people across the UK for a weekend of discussions and workshops, to share stories and ideas for action, and to challenge some of our assumptions about diversifying the movement., longitude: -0.1015987, latitude: 51.5286416", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/dp3nl", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$geolocation": {
+          "$t": "London, United Kingdom"
+        }, 
+        "gsx$longitude": {
+          "$t": "-0.1015987"
+        }, 
+        "gsx$geom": {
+          "$t": "London, United Kingdom"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/dp3nl"
+        }, 
+        "gsx$description": {
+          "$t": "As part of Global Power Shift, Campaign Against Climate Change and Power Shift UK are  working together on \u2018Power Shift UK: Breaking Down the Barriers and Diversifying the Climate Movement\u2019 to bring people across the UK for a weekend of discussions and workshops, to share stories and ideas for action, and to challenge some of our assumptions about diversifying the movement."
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-05-25T23:31:30.968Z"
+        }, 
+        "gsx$latitude": {
+          "$t": "-16.2837065"
+        }, 
+        "title": {
+          "$t": "Bolivia Power Shift - TierraActiva", 
+          "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": "http://www.tierractiva.org/klab/"
+        }, 
+        "gsx$name": {
+          "$t": "Bolivia Power Shift - TierraActiva"
+        }, 
+        "content": {
+          "$t": "geom: Bolivia, geolocation: Bolivia, website: http://www.tierractiva.org/klab/, longitude: -63.5493965, latitude: -16.2837065", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/df9om", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$geolocation": {
+          "$t": "Bolivia"
+        }, 
+        "gsx$longitude": {
+          "$t": "-63.5493965"
+        }, 
+        "gsx$geom": {
+          "$t": "Bolivia"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/df9om"
+        }, 
+        "gsx$description": {
+          "$t": ""
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-05-25T23:31:30.968Z"
+        }, 
+        "gsx$latitude": {
+          "$t": "38.4192641"
+        }, 
+        "title": {
+          "$t": "Aclimantado - Argentina Power Shift", 
+          "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": "http://aclimatando.org.ar/"
+        }, 
+        "gsx$name": {
+          "$t": "Aclimantado - Argentina Power Shift"
+        }, 
+        "content": {
+          "$t": "geom: Argentina, geolocation: Argentina, website: http://aclimatando.org.ar/, longitude: -63.5989206, latitude: 38.4192641", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/dgo93", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$geolocation": {
+          "$t": "Argentina"
+        }, 
+        "gsx$longitude": {
+          "$t": "-63.5989206"
+        }, 
+        "gsx$geom": {
+          "$t": "Argentina"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/dgo93"
+        }, 
+        "gsx$description": {
+          "$t": ""
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-05-25T23:31:30.968Z"
+        }, 
+        "gsx$latitude": {
+          "$t": "22.9736614"
+        }, 
+        "title": {
+          "$t": "Taiwan Power Shift", 
+          "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": "http://tps.twycc.org.tw/"
+        }, 
+        "gsx$name": {
+          "$t": "Taiwan Power Shift"
+        }, 
+        "content": {
+          "$t": "geom: Taipei, Kaohsiung, geolocation: Taipei, Kaohsiung, website: http://tps.twycc.org.tw/, description: Taiwan Power Shift is an event for young environmental activists in Taiwan. During this exciting gathering, we hope not only to build capacity among young Taiwanese, but also trigger the next big thing - a widespread climate action in Taiwan through strategic meeting within each region and across region., longitude: 120.6118536, latitude: 22.9736614", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/di2tg", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$geolocation": {
+          "$t": "Taipei, Kaohsiung"
+        }, 
+        "gsx$longitude": {
+          "$t": "120.6118536"
+        }, 
+        "gsx$geom": {
+          "$t": "Taipei, Kaohsiung"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/di2tg"
+        }, 
+        "gsx$description": {
+          "$t": "Taiwan Power Shift is an event for young environmental activists in Taiwan. During this exciting gathering, we hope not only to build capacity among young Taiwanese, but also trigger the next big thing - a widespread climate action in Taiwan through strategic meeting within each region and across region."
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-05-25T23:31:30.968Z"
+        }, 
+        "gsx$latitude": {
+          "$t": "7.9527706"
+        }, 
+        "title": {
+          "$t": "Ghana Power Shift", 
+          "type": "text"
+        }, 
+        "gsx$website": {
+          "$t": ""
+        }, 
+        "gsx$name": {
+          "$t": "Ghana Power Shift"
+        }, 
+        "content": {
+          "$t": "geom: Ghana, geolocation: Ghana, longitude: -1.0307118, latitude: 7.9527706", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/djhdx", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$geolocation": {
+          "$t": "Ghana"
+        }, 
+        "gsx$longitude": {
+          "$t": "-1.0307118"
+        }, 
+        "gsx$geom": {
+          "$t": "Ghana"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/djhdx"
+        }, 
+        "gsx$description": {
+          "$t": ""
+        }
       }
     ], 
     "openSearch$totalResults": {
-      "$t": "21"
+      "$t": "31"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values"
