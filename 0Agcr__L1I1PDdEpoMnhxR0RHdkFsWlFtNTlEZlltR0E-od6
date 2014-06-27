@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-06-25T20:28:47.807Z"
+      "$t": "2014-06-27T18:40:06.982Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,7 +56,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "29.4246002"
@@ -68,7 +68,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://350SanAntonio.org"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 San Antonio"
         }, 
         "content": {
@@ -106,7 +106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "44.5645659"
@@ -118,7 +118,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://350Corvallis.org"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350Corvallis"
         }, 
         "content": {
@@ -156,7 +156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "34.3999755"
@@ -168,7 +168,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://www.350sb.org"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Santa Barbara"
         }, 
         "content": {
@@ -206,7 +206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "38.029306"
@@ -218,7 +218,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://350centralvirginia.org/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Central Virginia"
         }, 
         "content": {
@@ -256,7 +256,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "33.01978205"
@@ -268,7 +268,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://www.sandiego350.org"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "SanDiego350.org"
         }, 
         "content": {
@@ -306,7 +306,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "5.3203571"
@@ -318,7 +318,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": ""
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 C\u00f4te d'Ivoire"
         }, 
         "content": {
@@ -356,7 +356,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "38.4732259"
@@ -368,7 +368,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://www.350sacramento.org"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Sacramento"
         }, 
         "content": {
@@ -406,7 +406,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "39.952335"
@@ -418,7 +418,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "https://www.facebook.com/350Philadelphia"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Philly"
         }, 
         "content": {
@@ -456,7 +456,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "44.6697805"
@@ -468,7 +468,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": ""
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "North Country 350 Alliance"
         }, 
         "content": {
@@ -506,7 +506,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "29.9499323"
@@ -518,7 +518,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://350nola.org"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 NOLA"
         }, 
         "content": {
@@ -556,7 +556,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "60.1713198"
@@ -568,7 +568,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://world.350.org/finland/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Finland"
         }, 
         "content": {
@@ -606,7 +606,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "38.7604815"
@@ -618,7 +618,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": ""
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350.org Missouri"
         }, 
         "content": {
@@ -656,7 +656,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "35.6009498"
@@ -668,7 +668,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": ""
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Asheville"
         }, 
         "content": {
@@ -706,7 +706,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "32.2217429"
@@ -718,7 +718,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": ""
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Tucson"
         }, 
         "content": {
@@ -756,7 +756,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "8.4865914"
@@ -768,7 +768,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "https://www.facebook.com/pages/350-Kerala/104524633051294"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Kerala"
         }, 
         "content": {
@@ -806,7 +806,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "33.9595974"
@@ -818,7 +818,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "https://www.facebook.com/climatecrusaders"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "Climate Crusaders"
         }, 
         "content": {
@@ -856,7 +856,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "42.291707"
@@ -868,7 +868,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": ""
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Kalamazoo"
         }, 
         "content": {
@@ -906,7 +906,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": ""
@@ -918,7 +918,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": ""
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Myanmar"
         }, 
         "content": {
@@ -956,7 +956,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "-1.2832533"
@@ -968,7 +968,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": ""
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350.org Kenya"
         }, 
         "content": {
@@ -1006,7 +1006,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "30.421309"
@@ -1018,7 +1018,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": ""
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Pensacola"
         }, 
         "content": {
@@ -1056,7 +1056,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "43.6529206"
@@ -1068,7 +1068,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://toronto350.org/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "Toronto350"
         }, 
         "content": {
@@ -1106,7 +1106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "45.4210328"
@@ -1118,7 +1118,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": ""
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Ottawa"
         }, 
         "content": {
@@ -1156,7 +1156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "36.9746099"
@@ -1168,7 +1168,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "https://www.facebook.com/350santacruz"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "Santa Cruz 350.org"
         }, 
         "content": {
@@ -1206,7 +1206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "42.2681569"
@@ -1218,7 +1218,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://www.aa350.org"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Ann Arbor"
         }, 
         "content": {
@@ -1256,7 +1256,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "44.4723989"
@@ -1268,7 +1268,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://world.350.org/vermont/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350Vermont"
         }, 
         "content": {
@@ -1306,7 +1306,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "-3.3638125"
@@ -1318,7 +1318,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": ""
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Burundi"
         }, 
         "content": {
@@ -1356,7 +1356,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "40.7606467"
@@ -1368,7 +1368,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://corr.peacefuluprising.org/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "PU Community of Resilience and Resistance (CORR)"
         }, 
         "content": {
@@ -1406,7 +1406,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "50.6765557"
@@ -1418,7 +1418,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": ""
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "Kamloops 350"
         }, 
         "content": {
@@ -1456,7 +1456,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "47.6038321"
@@ -1468,7 +1468,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://350Seattle.org"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Seattle"
         }, 
         "content": {
@@ -1506,7 +1506,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "-12.9816356"
@@ -1518,7 +1518,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "https://www.facebook.com/350salvador"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Salvador"
         }, 
         "content": {
@@ -1556,7 +1556,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "46.8700801"
@@ -1568,7 +1568,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://world.350.org/missoula/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Missoula"
         }, 
         "content": {
@@ -1606,7 +1606,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "26.9405829"
@@ -1618,7 +1618,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "https://www.facebook.com/350Egypt"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Egypt"
         }, 
         "content": {
@@ -1656,7 +1656,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "39.2151996"
@@ -1668,7 +1668,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://www.hococlimatechange.org"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "Climate Change Initiative of Howard County - CCIHC"
         }, 
         "content": {
@@ -1706,7 +1706,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": ""
@@ -1718,7 +1718,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": ""
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "South Jersey 350.org"
         }, 
         "content": {
@@ -1756,7 +1756,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "41.8756208"
@@ -1768,7 +1768,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://www.facebook.com/chicago350.org"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "Chicago 350"
         }, 
         "content": {
@@ -1806,7 +1806,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "45.709097"
@@ -1818,7 +1818,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://www.350maine.org/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Maine"
         }, 
         "content": {
@@ -1856,7 +1856,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "40.1784471"
@@ -1868,7 +1868,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "https://facebook.com/350jerseyshore"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Jersey Shore"
         }, 
         "content": {
@@ -1906,7 +1906,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "38.2542376"
@@ -1918,7 +1918,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": ""
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Louisville"
         }, 
         "content": {
@@ -1956,7 +1956,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "38.8462236"
@@ -1968,7 +1968,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "https://www.facebook.com/FairfaxClimateWatch"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "Fairfax 350"
         }, 
         "content": {
@@ -2006,7 +2006,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "39.1154496"
@@ -2018,7 +2018,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "https://www.facebook.com/350Loudoun"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Loudoun"
         }, 
         "content": {
@@ -2056,7 +2056,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "37.442156"
@@ -2068,7 +2068,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://www.350siliconvalley.org"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Silicon Valley"
         }, 
         "content": {
@@ -2106,7 +2106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "40.7305991"
@@ -2118,7 +2118,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://350nyc.org/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350NYC"
         }, 
         "content": {
@@ -2156,7 +2156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "43.4849133"
@@ -2168,7 +2168,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://world.350.org/nh/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350NH"
         }, 
         "content": {
@@ -2206,7 +2206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "37.7884969"
@@ -2218,7 +2218,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://350BayArea.org"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350BayArea"
         }, 
         "content": {
@@ -2256,7 +2256,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "43.074761"
@@ -2268,7 +2268,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://350madison.org"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Madison"
         }, 
         "content": {
@@ -2306,7 +2306,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "38.384423"
@@ -2318,7 +2318,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://world.350.org/sonomacounty/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350sonomacounty"
         }, 
         "content": {
@@ -2356,7 +2356,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "3.1570976"
@@ -2368,7 +2368,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": ""
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350.org Malaysia or #PowerShiftMsia"
         }, 
         "content": {
@@ -2406,7 +2406,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "42.3604823"
@@ -2418,7 +2418,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://www.350ma.org"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Massachusetts"
         }, 
         "content": {
@@ -2456,7 +2456,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "33.9595974"
@@ -2468,7 +2468,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://www.georgiaclimatecoalition.org"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "Georgia Climate Change Coalition"
         }, 
         "content": {
@@ -2506,7 +2506,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "45.5202471"
@@ -2518,7 +2518,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://350pdx.org"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 PDX"
         }, 
         "content": {
@@ -2556,7 +2556,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "38.528599"
@@ -2568,7 +2568,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://world.350.org/centralcolorado/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Central Colorado"
         }, 
         "content": {
@@ -2606,7 +2606,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "34.0536781"
@@ -2618,7 +2618,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "https://www.facebook.com/SoCal350"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "SoCal Climate Action Coalition"
         }, 
         "content": {
@@ -2656,7 +2656,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "33.8491816"
@@ -2668,7 +2668,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://southbay350.wordpress.com/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "South Bay 350 Climate Action Group"
         }, 
         "content": {
@@ -2706,7 +2706,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "38.3498221"
@@ -2718,7 +2718,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "https://sites.google.com/site/wv350reversingclimatechange/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "WV 350 Reversing Climate Change"
         }, 
         "content": {
@@ -2756,7 +2756,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "35.0841034"
@@ -2768,7 +2768,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "https://www.facebook.com/350NM"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 New Mexico"
         }, 
         "content": {
@@ -2806,7 +2806,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "38.7251776"
@@ -2818,7 +2818,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://350colorado.org/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Colorado"
         }, 
         "content": {
@@ -2856,7 +2856,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "40.2293615"
@@ -2868,7 +2868,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "https://www.facebook.com/350orgbucks?ref=hl"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Bucks County"
         }, 
         "content": {
@@ -2906,7 +2906,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "44.9772995"
@@ -2918,7 +2918,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://www.mn350.org/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 MN"
         }, 
         "content": {
@@ -2956,7 +2956,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "-25.012617"
@@ -2968,7 +2968,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://350.org.au/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350.org Australia"
         }, 
         "content": {
@@ -3006,7 +3006,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "-41.28655"
@@ -3018,7 +3018,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://350.org.nz/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Aotearoa"
         }, 
         "content": {
@@ -3056,7 +3056,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "42.3604823"
@@ -3068,7 +3068,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://www.350ma.org"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350MA-Boston"
         }, 
         "content": {
@@ -3106,7 +3106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "42.3750997"
@@ -3118,7 +3118,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://www.350ma.org"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350MA-Cambridge"
         }, 
         "content": {
@@ -3156,7 +3156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "42.6334247"
@@ -3168,7 +3168,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://www.350ma.org"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350MA-Lowell"
         }, 
         "content": {
@@ -3206,7 +3206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "42.3834278"
@@ -3218,7 +3218,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://www.350ma.org"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350MA-MetroWest"
         }, 
         "content": {
@@ -3256,7 +3256,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "42.5195292"
@@ -3268,7 +3268,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://www.350ma.org"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350MA-North Shore"
         }, 
         "content": {
@@ -3306,7 +3306,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "42.2417669"
@@ -3318,7 +3318,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://www.350ma.org"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350MA-South Shore"
         }, 
         "content": {
@@ -3356,7 +3356,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "42.2625932"
@@ -3368,7 +3368,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://www.350ma.org"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350MA-Worcester"
         }, 
         "content": {
@@ -3406,7 +3406,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "42.1712518"
@@ -3418,7 +3418,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://www.350ma.org"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350MA-Pioneer Valley"
         }, 
         "content": {
@@ -3456,7 +3456,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "44.567574"
@@ -3468,7 +3468,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "https://www.facebook.com/350GBOS"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Grey-Bruce \u2013 Owen Sound"
         }, 
         "content": {
@@ -3506,7 +3506,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "-35.2945151"
@@ -3518,7 +3518,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": ""
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Canberra"
         }, 
         "content": {
@@ -3556,7 +3556,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "-33.8623762"
@@ -3568,7 +3568,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": ""
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Sydney"
         }, 
         "content": {
@@ -3606,7 +3606,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "-31.9688836"
@@ -3618,7 +3618,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": ""
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Perth"
         }, 
         "content": {
@@ -3656,7 +3656,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "-42.8823911"
@@ -3668,7 +3668,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": ""
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Hobart"
         }, 
         "content": {
@@ -3706,7 +3706,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "-27.4702796"
@@ -3718,7 +3718,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": ""
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Brisbane"
         }, 
         "content": {
@@ -3756,7 +3756,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "-28.6468715"
@@ -3768,7 +3768,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": ""
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Byron Bay"
         }, 
         "content": {
@@ -3806,7 +3806,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "-37.7099646"
@@ -3818,7 +3818,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": ""
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Melbourne"
         }, 
         "content": {
@@ -3856,7 +3856,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "39.7391536"
@@ -3868,7 +3868,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://350colorado.org/350-local-teams/350-denver/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Denver"
         }, 
         "content": {
@@ -3906,7 +3906,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "40.0149856"
@@ -3918,7 +3918,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://350colorado.org/350-local-teams/350-boulder-county/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Boulder"
         }, 
         "content": {
@@ -3956,7 +3956,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "39.0844687"
@@ -3968,7 +3968,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://world.350.org/kansascity/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350KC"
         }, 
         "content": {
@@ -4006,7 +4006,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "49.2669829"
@@ -4018,7 +4018,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://www.ubcc350.org/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "UBCC350"
         }, 
         "content": {
@@ -4056,7 +4056,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "38.06819805"
@@ -4068,7 +4068,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://350marin.org/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Marin"
         }, 
         "content": {
@@ -4106,7 +4106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "44.0505054"
@@ -4118,7 +4118,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://world.350.org/eugene/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Eugene"
         }, 
         "content": {
@@ -4156,7 +4156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "25.7742658"
@@ -4168,7 +4168,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://world.350.org/southflorida/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 South Florida"
         }, 
         "content": {
@@ -4206,7 +4206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "40.9445428"
@@ -4218,7 +4218,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "https://www.facebook.com/350NJ"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 New Jersey"
         }, 
         "content": {
@@ -4256,7 +4256,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "41.7248164"
@@ -4268,7 +4268,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "https://www.facebook.com/HV350.org"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Housatonic Valley"
         }, 
         "content": {
@@ -4306,7 +4306,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "43.615046"
@@ -4318,7 +4318,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "https://www.facebook.com/350Boise"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Boise"
         }, 
         "content": {
@@ -4356,7 +4356,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "43.6529206"
@@ -4368,7 +4368,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://www.ryerson350.org/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Ryerson University"
         }, 
         "content": {
@@ -4406,7 +4406,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "39.1406267"
@@ -4418,7 +4418,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "https://www.facebook.com/350MontgomeryCountyMD"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Montgomery County"
         }, 
         "content": {
@@ -4456,7 +4456,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "17.385044"
@@ -4468,7 +4468,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "https://www.facebook.com/groups/289467541215826/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "Hyderabad Solidarity Group"
         }, 
         "content": {
@@ -4506,7 +4506,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "7.9527706"
@@ -4518,7 +4518,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "https://www.facebook.com/pages/Ghana-Reducing-Our-Carbon-G-ROC/466541173438577"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 G-ROC (Ghana reducing our carbon)"
         }, 
         "content": {
@@ -4556,7 +4556,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "-18.1407475"
@@ -4568,7 +4568,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://350pacific.org/melanesian-islands/fiji/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Fiji"
         }, 
         "content": {
@@ -4606,7 +4606,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "-9.4770181"
@@ -4618,7 +4618,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://350pacific.org/melanesian-islands/papua-new-guinea/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 PNG"
         }, 
         "content": {
@@ -4656,7 +4656,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "-9.4361203"
@@ -4668,7 +4668,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://350pacific.org/melanesian-islands/solomon-islands/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Solomon Islands"
         }, 
         "content": {
@@ -4706,7 +4706,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "-17.7369433"
@@ -4718,7 +4718,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://350pacific.org/melanesian-islands/vanuatu/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Vanuatu"
         }, 
         "content": {
@@ -4756,7 +4756,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "6.9192694"
@@ -4768,7 +4768,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://350pacific.org/micronesian-islands/federated-states-of-micronesia/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 FSM"
         }, 
         "content": {
@@ -4806,7 +4806,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "1.3796008"
@@ -4818,7 +4818,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://350pacific.org/micronesian-islands/kiribati/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Kiribati"
         }, 
         "content": {
@@ -4856,7 +4856,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "7.0917384"
@@ -4868,7 +4868,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://350pacific.org/micronesian-islands/marshall-islands/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Marshall Islands"
         }, 
         "content": {
@@ -4906,7 +4906,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "-0.546363"
@@ -4918,7 +4918,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://350pacific.org/micronesian-islands/nauru/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Nauru"
         }, 
         "content": {
@@ -4956,7 +4956,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "7.5121956"
@@ -4968,7 +4968,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://350pacific.org/micronesian-islands/palau/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Palau"
         }, 
         "content": {
@@ -5006,7 +5006,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "-14.2777618"
@@ -5018,7 +5018,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://350pacific.org/polynesian-islands/american-samoa/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 America Samoa"
         }, 
         "content": {
@@ -5056,7 +5056,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "-19.0530613"
@@ -5068,7 +5068,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://350pacific.org/polynesian-islands/niue/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Niue"
         }, 
         "content": {
@@ -5106,7 +5106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "-13.8600523"
@@ -5118,7 +5118,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://350pacific.org/polynesian-islands/samoa/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Samoa"
         }, 
         "content": {
@@ -5156,7 +5156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "-9.1668337"
@@ -5168,7 +5168,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "350pacific.org/polynesian-islands/tokelau/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Tokelau"
         }, 
         "content": {
@@ -5206,7 +5206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "-21.1419326"
@@ -5218,7 +5218,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://350pacific.org/polynesian-islands/tonga/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Tonga"
         }, 
         "content": {
@@ -5256,7 +5256,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "-8.5212233"
@@ -5268,7 +5268,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://350pacific.org/polynesian-islands/tuvalu/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Tuvalu"
         }, 
         "content": {
@@ -5306,7 +5306,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "44.9391565"
@@ -5318,7 +5318,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "https://www.facebook.com/pages/Salem-Climate-Activists/210186279163882"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Salem"
         }, 
         "content": {
@@ -5356,7 +5356,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-25T20:28:47.807Z"
+          "$t": "2014-06-27T18:40:06.982Z"
         }, 
         "gsx$latitude": {
           "$t": "36.216795"
@@ -5368,7 +5368,7 @@ Tabletop.singleton.loadSheet({
         "gsx$website": {
           "$t": "http://booneclimatemovement.org/"
         }, 
-        "gsx$name": {
+        "gsx$l": {
           "$t": "350 Boone"
         }, 
         "content": {
