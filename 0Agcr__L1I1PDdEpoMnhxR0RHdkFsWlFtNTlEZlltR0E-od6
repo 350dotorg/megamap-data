@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-06-27T18:44:48.465Z"
+      "$t": "2014-07-06T23:40:07.143Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,7 +56,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "29.4246002"
@@ -106,7 +106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "44.5645659"
@@ -156,7 +156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "34.3999755"
@@ -206,7 +206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "38.029306"
@@ -256,7 +256,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "33.01978205"
@@ -306,7 +306,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "5.3203571"
@@ -356,7 +356,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "38.4732259"
@@ -406,7 +406,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "39.952335"
@@ -456,7 +456,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "44.6697805"
@@ -506,7 +506,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "29.9499323"
@@ -556,7 +556,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "60.1713198"
@@ -606,7 +606,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "38.7604815"
@@ -656,7 +656,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "35.6009498"
@@ -706,7 +706,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "32.2217429"
@@ -756,7 +756,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "8.4865914"
@@ -806,7 +806,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "33.9595974"
@@ -856,7 +856,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "42.291707"
@@ -906,7 +906,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": ""
@@ -956,7 +956,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "-1.2832533"
@@ -1006,7 +1006,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "30.421309"
@@ -1056,7 +1056,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "43.6529206"
@@ -1106,7 +1106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "45.4210328"
@@ -1156,7 +1156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "36.9746099"
@@ -1206,7 +1206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "42.2681569"
@@ -1256,7 +1256,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "44.4723989"
@@ -1306,7 +1306,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "-3.3638125"
@@ -1356,7 +1356,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "40.7606467"
@@ -1406,7 +1406,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "50.6765557"
@@ -1456,7 +1456,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "47.6038321"
@@ -1506,7 +1506,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "-12.9816356"
@@ -1556,7 +1556,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "46.8700801"
@@ -1606,7 +1606,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "26.9405829"
@@ -1656,7 +1656,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "39.2151996"
@@ -1706,7 +1706,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": ""
@@ -1756,7 +1756,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "41.8756208"
@@ -1806,7 +1806,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "45.709097"
@@ -1856,7 +1856,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "40.1784471"
@@ -1906,7 +1906,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "38.2542376"
@@ -1956,7 +1956,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "38.8462236"
@@ -2006,7 +2006,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "39.1154496"
@@ -2056,7 +2056,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "37.442156"
@@ -2106,7 +2106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "40.7305991"
@@ -2156,7 +2156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "43.4849133"
@@ -2206,7 +2206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "37.7884969"
@@ -2256,7 +2256,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "43.074761"
@@ -2306,7 +2306,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "38.384423"
@@ -2356,7 +2356,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "3.1570976"
@@ -2406,7 +2406,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "42.3604823"
@@ -2456,7 +2456,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "33.9595974"
@@ -2506,7 +2506,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "45.5202471"
@@ -2556,7 +2556,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "38.528599"
@@ -2606,7 +2606,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "34.0536781"
@@ -2656,7 +2656,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "33.8491816"
@@ -2706,7 +2706,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "38.3498221"
@@ -2756,7 +2756,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "35.0841034"
@@ -2806,7 +2806,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "38.7251776"
@@ -2856,7 +2856,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "40.2293615"
@@ -2906,7 +2906,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "44.9772995"
@@ -2956,7 +2956,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "-25.012617"
@@ -3006,7 +3006,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "-41.28655"
@@ -3056,7 +3056,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "42.3604823"
@@ -3106,7 +3106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "42.3750997"
@@ -3156,7 +3156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "42.6334247"
@@ -3206,7 +3206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "42.3834278"
@@ -3256,7 +3256,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "42.5195292"
@@ -3306,7 +3306,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "42.2417669"
@@ -3356,7 +3356,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "42.2625932"
@@ -3406,7 +3406,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "42.1712518"
@@ -3456,7 +3456,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "44.567574"
@@ -3506,7 +3506,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "-35.2945151"
@@ -3556,7 +3556,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "-33.8623762"
@@ -3566,13 +3566,13 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$website": {
-          "$t": ""
+          "$t": "http://350.org.au/"
         }, 
         "gsx$name": {
           "$t": "350 Sydney"
         }, 
         "content": {
-          "$t": "geom: Sydney, Australia, geolocation: Sydney, Australia, description: The Sydney chapter of 350.org Australia,\u00a0we have regular monthly meetings to discuss the state of the world and our plans to change it. Members are running Fossil Free campaings\u00a0at the major universities in Sydney, and we also run education and outreach events publicly while tying in\u00a0with other 350 activities around the country. We're always looking for more keen\u00a0volunteers to help out, no matter your skills set,\u00a0so drop us a line if you'd like to get involved.\u00a0Sydney Coordinators are Josh, Nicholas and Maggie., longitude: 151.2351996, latitude: -33.8623762", 
+          "$t": "geom: Sydney, Australia, geolocation: Sydney, Australia, website: http://350.org.au/, description: The Sydney chapter of 350.org Australia,\u00a0we have regular monthly meetings to discuss the state of the world and our plans to change it. Members are running Fossil Free campaings\u00a0at the major universities in Sydney, and we also run education and outreach events publicly while tying in\u00a0with other 350 activities around the country. We're always looking for more keen\u00a0volunteers to help out, no matter your skills set,\u00a0so drop us a line if you'd like to get involved.\u00a0Sydney Coordinators are Josh, Nicholas and Maggie., longitude: 151.2351996, latitude: -33.8623762", 
           "type": "text"
         }, 
         "link": [
@@ -3606,7 +3606,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "-31.9688836"
@@ -3616,13 +3616,13 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$website": {
-          "$t": ""
+          "$t": "http://350.org.au/"
         }, 
         "gsx$name": {
           "$t": "350 Perth"
         }, 
         "content": {
-          "$t": "geom: Perth, Australia, geolocation: Perth, Australia, description: Perth 350 run regular community events and meet on the third Thursday of each month.\u00a0 We support individuals and institutions to Divest and work to increase public awareness of the need for urgent and effective climate action.\u00a0 We are working to build the broader climate movement, including developing NVDA capacity and legal support within the community.\u00a0 We are keen to work with individuals, groups and organisations in pursuit creating a safe climate., longitude: 115.931341, latitude: -31.9688836", 
+          "$t": "geom: Perth, Australia, geolocation: Perth, Australia, website: http://350.org.au/, description: Perth 350 run regular community events and meet on the third Thursday of each month.\u00a0 We support individuals and institutions to Divest and work to increase public awareness of the need for urgent and effective climate action.\u00a0 We are working to build the broader climate movement, including developing NVDA capacity and legal support within the community.\u00a0 We are keen to work with individuals, groups and organisations in pursuit creating a safe climate., longitude: 115.931341, latitude: -31.9688836", 
           "type": "text"
         }, 
         "link": [
@@ -3656,7 +3656,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "-42.8823911"
@@ -3666,13 +3666,13 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$website": {
-          "$t": ""
+          "$t": "http://350.org.au/"
         }, 
         "gsx$name": {
           "$t": "350 Hobart"
         }, 
         "content": {
-          "$t": "geom: Hobart, Australia, geolocation: Hobart, Australia, description: 350 Hobart is a group of dedicated individuals of all ages working to spread the climate message and divest our universities, local government and religious organisations from the fossil fuel industry., longitude: 147.328591, latitude: -42.8823911", 
+          "$t": "geom: Hobart, Australia, geolocation: Hobart, Australia, website: http://350.org.au/, description: 350 Hobart is a group of dedicated individuals of all ages working to spread the climate message and divest our universities, local government and religious organisations from the fossil fuel industry., longitude: 147.328591, latitude: -42.8823911", 
           "type": "text"
         }, 
         "link": [
@@ -3706,7 +3706,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "-27.4702796"
@@ -3716,13 +3716,13 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$website": {
-          "$t": ""
+          "$t": "http://350.org.au/"
         }, 
         "gsx$name": {
           "$t": "350 Brisbane"
         }, 
         "content": {
-          "$t": "geom: Brisbane, Australia, geolocation: Brisbane, Australia, description: 350 Brisbane is working locally to help build the global 350.org movement to solve the climate crisis and transition to a clean, renewable energy future.\nQueenslanders are the guardians of the Great Barrier Reef, the Earths largest coral reef system.\nQueensland is also home to the Galilee Basin, an inland area with current estimates of 27,750 million tonnes of coal, or 5% of the Worlds current Carbon budget. \nSix mines are planned for this area, together with three railway alignments, two coal\u2010fired power stations and two massive port expansions. \n350.org Brisbane was formed in June 2013, to run forums on divestment, superannuation education nights, and offer opportunities for Queenslanders throughout the regions to take meaningful action to protect the Reef and the Planet.\nWe meet fortnightly and are always looking for volunteers. Join us. More details Facebook 350Queensland, longitude: 153.023036, latitude: -27.4702796", 
+          "$t": "geom: Brisbane, Australia, geolocation: Brisbane, Australia, website: http://350.org.au/, description: 350 Brisbane is working locally to help build the global 350.org movement to solve the climate crisis and transition to a clean, renewable energy future.\nQueenslanders are the guardians of the Great Barrier Reef, the Earths largest coral reef system.\nQueensland is also home to the Galilee Basin, an inland area with current estimates of 27,750 million tonnes of coal, or 5% of the Worlds current Carbon budget. \nSix mines are planned for this area, together with three railway alignments, two coal\u2010fired power stations and two massive port expansions. \n350.org Brisbane was formed in June 2013, to run forums on divestment, superannuation education nights, and offer opportunities for Queenslanders throughout the regions to take meaningful action to protect the Reef and the Planet.\nWe meet fortnightly and are always looking for volunteers. Join us. More details Facebook 350Queensland, longitude: 153.023036, latitude: -27.4702796", 
           "type": "text"
         }, 
         "link": [
@@ -3756,7 +3756,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "-28.6468715"
@@ -3766,13 +3766,13 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$website": {
-          "$t": ""
+          "$t": "http://350.org.au/"
         }, 
         "gsx$name": {
           "$t": "350 Byron Bay"
         }, 
         "content": {
-          "$t": "geom: Byron Bay, Australia, geolocation: Byron Bay, Australia, description: 350 Byron is a small but committed group of inviduals working to educate and empower people to take action on climate change and divest from the fossil fuel industry. , longitude: 153.6024951, latitude: -28.6468715", 
+          "$t": "geom: Byron Bay, Australia, geolocation: Byron Bay, Australia, website: http://350.org.au/, description: 350 Byron is a small but committed group of inviduals working to educate and empower people to take action on climate change and divest from the fossil fuel industry. , longitude: 153.6024951, latitude: -28.6468715", 
           "type": "text"
         }, 
         "link": [
@@ -3806,7 +3806,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "-37.7099646"
@@ -3816,13 +3816,13 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$website": {
-          "$t": ""
+          "$t": "http://350.org.au/"
         }, 
         "gsx$name": {
           "$t": "350 Melbourne"
         }, 
         "content": {
-          "$t": "geom: Melbourne, Australia, geolocation: Melbourne, Australia, description: 350 Melbourne meets weekly on Monday evenings. Our core group is focused on getting local councils across the state to change banks to those which don't lend to fossil fuel projects, and we also have a community engagement group which aims to spread the word about divestment and seed local campaigns. We're always looking for new people, and have recently added someone to focus on divestment in religious organisations. If you're interested in helping to build on this work and extend it into new areas we'd love to hear from you!, longitude: 144.8214373, latitude: -37.7099646", 
+          "$t": "geom: Melbourne, Australia, geolocation: Melbourne, Australia, website: http://350.org.au/, description: 350 Melbourne meets weekly on Monday evenings. Our core group is focused on getting local councils across the state to change banks to those which don't lend to fossil fuel projects, and we also have a community engagement group which aims to spread the word about divestment and seed local campaigns. We're always looking for new people, and have recently added someone to focus on divestment in religious organisations. If you're interested in helping to build on this work and extend it into new areas we'd love to hear from you!, longitude: 144.8214373, latitude: -37.7099646", 
           "type": "text"
         }, 
         "link": [
@@ -3856,7 +3856,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "39.7391536"
@@ -3906,7 +3906,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "40.0149856"
@@ -3956,7 +3956,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "39.0844687"
@@ -4006,7 +4006,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "49.2669829"
@@ -4056,7 +4056,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "38.06819805"
@@ -4106,7 +4106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "44.0505054"
@@ -4156,7 +4156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "25.7742658"
@@ -4206,7 +4206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "40.9445428"
@@ -4256,7 +4256,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "41.7248164"
@@ -4306,7 +4306,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "43.615046"
@@ -4356,7 +4356,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "43.6529206"
@@ -4406,7 +4406,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "39.1406267"
@@ -4456,7 +4456,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "17.385044"
@@ -4506,7 +4506,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "7.9527706"
@@ -4556,7 +4556,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "-18.1407475"
@@ -4606,7 +4606,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "-9.4770181"
@@ -4656,7 +4656,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "-9.4361203"
@@ -4706,7 +4706,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "-17.7369433"
@@ -4756,7 +4756,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "6.9192694"
@@ -4806,7 +4806,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "1.3796008"
@@ -4856,7 +4856,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "7.0917384"
@@ -4906,7 +4906,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "-0.546363"
@@ -4956,7 +4956,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "7.5121956"
@@ -5006,7 +5006,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "-14.2777618"
@@ -5056,7 +5056,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "-19.0530613"
@@ -5106,7 +5106,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "-13.8600523"
@@ -5156,7 +5156,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "-9.1668337"
@@ -5206,7 +5206,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "-21.1419326"
@@ -5256,7 +5256,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "-8.5212233"
@@ -5306,7 +5306,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "44.9391565"
@@ -5356,7 +5356,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "36.216795"
@@ -5406,7 +5406,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-06-27T18:44:48.465Z"
+          "$t": "2014-07-06T23:40:07.143Z"
         }, 
         "gsx$latitude": {
           "$t": "43.0349931"
