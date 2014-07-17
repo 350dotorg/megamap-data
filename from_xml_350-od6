@@ -2572,7 +2572,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Film & Feast -\"Years of Living Dangerously\" Documentary & Local Organic Dinner"
         }, 
         "content": {
-          "$t": "datetime: 2014-07-23 18:45:00, link: https://act.350.org/event/years/7626, description: Join us for a screening of \"YEARS OF LIVING DANGEROUSLY\" - with HARRISON FORD - wherever you are in Australia. \n\nWe'll watch the show, and get ready for our next moves to inspire climate action.\n\n6.30 for 7 pm start, 95 Roscoe Street, Bondi Beach - FILM, TALK & FEAST \n\nYummy local organic meal, and a REALLY INSPIRING MOVIE!, longitude: 151.267, latitude: -33.8917",
+          "$t": "datetime: 2014-07-23 18:45:00, link: https://act.350.org/event/years/7626, description: you can pre pay for tickets here \nhttp://www.eventbrite.com.au/e/film-feast-years-of-living-dangerously-documentary-dinner-tickets-12026554749\n\nJoin us for a screening of \"YEARS OF LIVING DANGEROUSLY\" - with HARRISON FORD - wherever you are in Australia. \n\nWe'll watch the show, and get ready for our next moves to inspire climate action.\n\n6.30 for 7 pm start, 95 Roscoe Street, Bondi Beach - FILM, TALK & FEAST \n\nYummy local organic meal, and a REALLY INSPIRING MOVIE!, longitude: 151.267, latitude: -33.8917",
           "type": "text"
         }, 
         "link": [
@@ -2589,7 +2589,7 @@ Tabletop.singleton.loadSheet({
           "$t": "https://spreadsheets.google.com/feeds/list/from_xml_350/od6/public/values/event52"
         }, 
         "gsx$description": {
-          "$t": "Join us for a screening of \"YEARS OF LIVING DANGEROUSLY\" - with HARRISON FORD - wherever you are in Australia. \n\nWe'll watch the show, and get ready for our next moves to inspire climate action.\n\n6.30 for 7 pm start, 95 Roscoe Street, Bondi Beach - FILM, TALK & FEAST \n\nYummy local organic meal, and a REALLY INSPIRING MOVIE!"
+          "$t": "you can pre pay for tickets here \nhttp://www.eventbrite.com.au/e/film-feast-years-of-living-dangerously-documentary-dinner-tickets-12026554749\n\nJoin us for a screening of \"YEARS OF LIVING DANGEROUSLY\" - with HARRISON FORD - wherever you are in Australia. \n\nWe'll watch the show, and get ready for our next moves to inspire climate action.\n\n6.30 for 7 pm start, 95 Roscoe Street, Bondi Beach - FILM, TALK & FEAST \n\nYummy local organic meal, and a REALLY INSPIRING MOVIE!"
         }
       },
       
