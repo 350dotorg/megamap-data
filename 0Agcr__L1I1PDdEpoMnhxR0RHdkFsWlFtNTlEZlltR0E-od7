@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-08-25T14:20:37.739Z"
+      "$t": "2014-08-25T14:22:52.662Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -59,7 +59,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-08-25T14:20:37.739Z"
+          "$t": "2014-08-25T14:22:52.662Z"
         }, 
         "gsx$popupanchory": {
           "$t": "-25"
@@ -127,7 +127,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-08-25T14:20:37.739Z"
+          "$t": "2014-08-25T14:22:52.662Z"
         }, 
         "gsx$popupanchory": {
           "$t": "-25"
