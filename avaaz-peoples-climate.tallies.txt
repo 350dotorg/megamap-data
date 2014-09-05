@@ -26,3 +26,92 @@ Number of countries: 115
 	Croatia: 1
 	Cyprus: 1
 	Czech Republic: 1
+	Côte d'Ivoire: 1
+	Denmark: 3
+	Dominican Republic: 4
+	Ecuador: 9
+	Egypt: 13
+	El Salvador: 2
+	Estonia: 1
+	Finland: 4
+	France: 84
+	French Guiana: 2
+	French Polynesia: 1
+	Georgia: 1
+	Germany: 42
+	Greece: 22
+	Guatemala: 6
+	Guinea: 1
+	Honduras: 3
+	Hong Kong: 1
+	India: 24
+	Iran: 4
+	Iraq: 9
+	Ireland: 5
+	Israel: 4
+	Italy: 78
+	Japan: 4
+	Jordan: 1
+	Kenya: 2
+	Kuwait: 1
+	Kyrgistan: 1
+	Lebanon: 1
+	Liberia: 2
+	Libya: 3
+	Lithuania: 1
+	Madagascar: 4
+	Mali: 1
+	Martinique: 1
+	Mauritania: 2
+	Mexico: 64
+	Moldova: 2
+	Morocco: 23
+	Myanmar: 1
+	Nepal: 1
+	Netherlands: 10
+	New Caledonia: 2
+	New Zealand: 13
+	Nicaragua: 1
+	Nigeria: 4
+	Norway: 4
+	Oman: 1
+	Pakistan: 3
+	Palestine: 6
+	Paraguay: 1
+	Peru: 25
+	Philippines: 2
+	Poland: 8
+	Portugal: 8
+	Puerto Rico: 2
+	Qatar: 1
+	Reunion: 1
+	Romania: 11
+	Russia: 24
+	Saudi Arabia: 5
+	Senegal: 2
+	Serbia: 3
+	Singapore: 1
+	Slovakia: 2
+	Slovenia: 3
+	South Africa: 12
+	South Korea: 1
+	Spain: 80
+	Sri Lanka: 1
+	Sudan: 4
+	Sweden: 9
+	Switzerland: 13
+	Thailand: 2
+	Togo: 1
+	Trinidad and Tobago: 1
+	Tunisia: 4
+	Turkey: 12
+	Uganda: 2
+	Ukraine: 32
+	United Arab Emirates: 2
+	United Kingdom: 38
+	United States of America: 49
+	Uruguay: 9
+	Venezuela: 15
+	Yemen: 9
+	Zambia: 2
+	Zimbabwe: 1
