@@ -1,9 +1,9 @@
-Number of events: 1268
+Number of events: 1284
 Number of countries: 115
 	Algeria: 11
 	Argentina: 31
 	Armenia: 2
-	Australia: 33
+	Australia: 46
 	Austria: 17
 	Bahrain: 2
 	Bangladesh: 3
@@ -30,7 +30,7 @@ Number of countries: 115
 	Denmark: 3
 	Dominican Republic: 4
 	Ecuador: 9
-	Egypt: 13
+	Egypt: 14
 	El Salvador: 2
 	Estonia: 1
 	Finland: 4
@@ -38,7 +38,7 @@ Number of countries: 115
 	French Guiana: 2
 	French Polynesia: 1
 	Georgia: 1
-	Germany: 42
+	Germany: 41
 	Greece: 22
 	Guatemala: 6
 	Guinea: 1
@@ -49,7 +49,7 @@ Number of countries: 115
 	Iraq: 9
 	Ireland: 5
 	Israel: 4
-	Italy: 78
+	Italy: 79
 	Japan: 4
 	Jordan: 1
 	Kenya: 2
@@ -95,7 +95,7 @@ Number of countries: 115
 	Slovenia: 3
 	South Africa: 12
 	South Korea: 1
-	Spain: 80
+	Spain: 82
 	Sri Lanka: 1
 	Sudan: 4
 	Sweden: 9
