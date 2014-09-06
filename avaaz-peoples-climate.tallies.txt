@@ -1,4 +1,4 @@
-Number of events: 1287
+Number of events: 1288
 Number of countries: 115
 	Algeria: 11
 	Argentina: 31
@@ -112,6 +112,6 @@ Number of countries: 115
 	United States of America: 49
 	Uruguay: 9
 	Venezuela: 16
-	Yemen: 9
+	Yemen: 10
 	Zambia: 2
 	Zimbabwe: 1
