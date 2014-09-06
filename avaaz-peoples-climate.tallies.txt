@@ -49,7 +49,7 @@ Number of countries: 116
 	Iraq: 9
 	Ireland: 6
 	Israel: 4
-	Italy: 79
+	Italy: 80
 	Japan: 4
 	Jordan: 1
 	Kenya: 2
@@ -100,7 +100,7 @@ Number of countries: 116
 	Sri Lanka: 1
 	Sudan: 4
 	Sweden: 9
-	Switzerland: 14
+	Switzerland: 13
 	Thailand: 2
 	Togo: 1
 	Trinidad and Tobago: 1
