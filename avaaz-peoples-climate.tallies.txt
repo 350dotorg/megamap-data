@@ -1,4 +1,4 @@
-Number of events: 1293
+Number of events: 1297
 Number of countries: 116
 	Algeria: 11
 	Argentina: 31
@@ -13,11 +13,11 @@ Number of countries: 116
 	Bermuda: 1
 	Bolivia: 5
 	Bosnia and Herzegovina: 1
-	Brazil: 120
+	Brazil: 121
 	Bulgaria: 4
 	Burkina Faso: 1
 	Cameroon: 1
-	Canada: 59
+	Canada: 60
 	Cayman Islands: 1
 	Chile: 18
 	Colombia: 51
@@ -64,7 +64,7 @@ Number of countries: 116
 	Mali: 1
 	Martinique: 1
 	Mauritania: 2
-	Mexico: 65
+	Mexico: 66
 	Moldova: 2
 	Morocco: 23
 	Myanmar: 1
@@ -100,7 +100,7 @@ Number of countries: 116
 	Sri Lanka: 1
 	Sudan: 4
 	Sweden: 9
-	Switzerland: 13
+	Switzerland: 14
 	Thailand: 2
 	Togo: 1
 	Trinidad and Tobago: 1
