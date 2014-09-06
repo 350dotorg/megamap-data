@@ -1,4 +1,4 @@
-Number of events: 1298
+Number of events: 1300
 Number of countries: 117
 	Algeria: 11
 	Argentina: 31
@@ -48,7 +48,7 @@ Number of countries: 117
 	India: 24
 	Iran: 4
 	Iraq: 9
-	Ireland: 6
+	Ireland: 7
 	Israel: 4
 	Italy: 80
 	Japan: 4
@@ -97,7 +97,7 @@ Number of countries: 117
 	Slovenia: 3
 	South Africa: 12
 	South Korea: 1
-	Spain: 81
+	Spain: 82
 	Sri Lanka: 1
 	Sudan: 4
 	Sweden: 9
