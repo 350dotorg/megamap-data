@@ -1,5 +1,5 @@
-Number of events: 1297
-Number of countries: 116
+Number of events: 1298
+Number of countries: 117
 	Algeria: 11
 	Argentina: 31
 	Armenia: 2
@@ -22,6 +22,7 @@ Number of countries: 116
 	Chile: 18
 	Colombia: 51
 	Congo, DPR: 2
+	Congo, PR: 1
 	Costa Rica: 2
 	Croatia: 1
 	Cyprus: 1
