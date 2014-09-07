@@ -1,4 +1,4 @@
-Number of events: 1308
+Number of events: 1311
 Number of countries: 117
 	Algeria: 11
 	Argentina: 31
@@ -31,7 +31,7 @@ Number of countries: 117
 	Denmark: 3
 	Dominican Republic: 4
 	Ecuador: 9
-	Egypt: 14
+	Egypt: 15
 	El Salvador: 2
 	Estonia: 1
 	Finland: 4
@@ -97,7 +97,7 @@ Number of countries: 117
 	Slovenia: 3
 	South Africa: 12
 	South Korea: 1
-	Spain: 82
+	Spain: 83
 	Sri Lanka: 1
 	Sudan: 4
 	Sweden: 9
@@ -114,6 +114,6 @@ Number of countries: 117
 	United States of America: 50
 	Uruguay: 9
 	Venezuela: 17
-	Yemen: 11
+	Yemen: 12
 	Zambia: 2
 	Zimbabwe: 1
