@@ -1,9 +1,9 @@
-Number of events: 1303
+Number of events: 1305
 Number of countries: 117
 	Algeria: 11
 	Argentina: 31
 	Armenia: 2
-	Australia: 46
+	Australia: 47
 	Austria: 18
 	Bahrain: 2
 	Bangladesh: 3
@@ -114,6 +114,6 @@ Number of countries: 117
 	United States of America: 50
 	Uruguay: 9
 	Venezuela: 16
-	Yemen: 10
+	Yemen: 11
 	Zambia: 2
 	Zimbabwe: 1
