@@ -1,4 +1,4 @@
-Number of events: 1301
+Number of events: 1303
 Number of countries: 117
 	Algeria: 11
 	Argentina: 31
@@ -11,7 +11,7 @@ Number of countries: 117
 	Belgium: 17
 	Benin: 1
 	Bermuda: 1
-	Bolivia: 5
+	Bolivia: 6
 	Bosnia and Herzegovina: 1
 	Brazil: 121
 	Bulgaria: 4
@@ -62,7 +62,7 @@ Number of countries: 117
 	Lithuania: 1
 	Madagascar: 4
 	Maldives: 1
-	Mali: 1
+	Mali: 2
 	Martinique: 1
 	Mauritania: 2
 	Mexico: 66
