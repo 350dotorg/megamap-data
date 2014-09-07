@@ -1,4 +1,4 @@
-Number of events: 1314
+Number of events: 1315
 Number of countries: 117
 	Algeria: 11
 	Argentina: 31
@@ -35,7 +35,7 @@ Number of countries: 117
 	El Salvador: 2
 	Estonia: 1
 	Finland: 4
-	France: 88
+	France: 89
 	French Guiana: 2
 	French Polynesia: 1
 	Georgia: 1
