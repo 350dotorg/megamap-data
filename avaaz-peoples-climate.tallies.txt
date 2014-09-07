@@ -1,4 +1,4 @@
-Number of events: 1316
+Number of events: 1319
 Number of countries: 117
 	Algeria: 11
 	Argentina: 31
@@ -13,7 +13,7 @@ Number of countries: 117
 	Bermuda: 1
 	Bolivia: 6
 	Bosnia and Herzegovina: 1
-	Brazil: 122
+	Brazil: 123
 	Bulgaria: 4
 	Burkina Faso: 1
 	Cameroon: 1
@@ -50,7 +50,7 @@ Number of countries: 117
 	Iraq: 9
 	Ireland: 7
 	Israel: 4
-	Italy: 80
+	Italy: 79
 	Japan: 4
 	Jordan: 1
 	Kenya: 2
@@ -97,10 +97,10 @@ Number of countries: 117
 	Slovenia: 3
 	South Africa: 12
 	South Korea: 1
-	Spain: 82
+	Spain: 83
 	Sri Lanka: 1
 	Sudan: 4
-	Sweden: 9
+	Sweden: 11
 	Switzerland: 13
 	Thailand: 2
 	Togo: 1
