@@ -1,4 +1,4 @@
-Number of events: 1319
+Number of events: 1320
 Number of countries: 117
 	Algeria: 11
 	Argentina: 31
@@ -72,7 +72,7 @@ Number of countries: 117
 	Nepal: 1
 	Netherlands: 10
 	New Caledonia: 2
-	New Zealand: 13
+	New Zealand: 14
 	Nicaragua: 1
 	Nigeria: 4
 	Norway: 4
