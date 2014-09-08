@@ -1,4 +1,4 @@
-Number of events: 1314
+Number of events: 1316
 Number of countries: 118
 	Algeria: 11
 	Argentina: 31
@@ -17,7 +17,7 @@ Number of countries: 118
 	Bulgaria: 4
 	Burkina Faso: 1
 	Cameroon: 1
-	Canada: 61
+	Canada: 62
 	Cayman Islands: 1
 	Chile: 18
 	Colombia: 52
@@ -35,7 +35,7 @@ Number of countries: 118
 	El Salvador: 2
 	Estonia: 1
 	Finland: 4
-	France: 89
+	France: 90
 	French Guiana: 2
 	French Polynesia: 1
 	Georgia: 1
