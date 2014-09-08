@@ -1,4 +1,4 @@
-Number of events: 1326
+Number of events: 1329
 Number of countries: 118
 	Algeria: 12
 	Argentina: 31
@@ -13,7 +13,7 @@ Number of countries: 118
 	Bermuda: 1
 	Bolivia: 6
 	Bosnia and Herzegovina: 1
-	Brazil: 124
+	Brazil: 125
 	Bulgaria: 4
 	Burkina Faso: 1
 	Cameroon: 1
@@ -35,7 +35,7 @@ Number of countries: 118
 	El Salvador: 2
 	Estonia: 1
 	Finland: 4
-	France: 94
+	France: 95
 	French Guiana: 2
 	French Polynesia: 1
 	Georgia: 1
@@ -111,7 +111,7 @@ Number of countries: 118
 	Uganda: 2
 	Ukraine: 32
 	United Arab Emirates: 2
-	United Kingdom: 40
+	United Kingdom: 41
 	United States of America: 50
 	Uruguay: 9
 	Venezuela: 17
