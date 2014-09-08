@@ -1,9 +1,9 @@
-Number of events: 1320
+Number of events: 1321
 Number of countries: 117
 	Algeria: 11
 	Argentina: 31
 	Armenia: 2
-	Australia: 48
+	Australia: 47
 	Austria: 19
 	Bahrain: 2
 	Bangladesh: 3
@@ -20,7 +20,7 @@ Number of countries: 117
 	Canada: 61
 	Cayman Islands: 1
 	Chile: 18
-	Colombia: 51
+	Colombia: 52
 	Congo, DPR: 2
 	Congo, PR: 1
 	Costa Rica: 2
@@ -72,7 +72,7 @@ Number of countries: 117
 	Nepal: 1
 	Netherlands: 10
 	New Caledonia: 2
-	New Zealand: 14
+	New Zealand: 15
 	Nicaragua: 1
 	Nigeria: 4
 	Norway: 4
