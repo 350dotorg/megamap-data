@@ -35,7 +35,7 @@ Number of countries: 118
 	El Salvador: 2
 	Estonia: 1
 	Finland: 4
-	France: 97
+	France: 99
 	French Guiana: 2
 	French Polynesia: 1
 	Georgia: 1
@@ -98,7 +98,7 @@ Number of countries: 118
 	Slovenia: 3
 	South Africa: 12
 	South Korea: 1
-	Spain: 84
+	Spain: 82
 	Sri Lanka: 2
 	Sudan: 4
 	Sweden: 11
