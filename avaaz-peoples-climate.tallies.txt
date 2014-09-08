@@ -1,9 +1,9 @@
-Number of events: 1311
-Number of countries: 117
+Number of events: 1314
+Number of countries: 118
 	Algeria: 11
 	Argentina: 31
 	Armenia: 2
-	Australia: 37
+	Australia: 38
 	Austria: 19
 	Bahrain: 2
 	Bangladesh: 3
@@ -79,6 +79,7 @@ Number of countries: 117
 	Oman: 1
 	Pakistan: 3
 	Palestine: 6
+	Panama: 1
 	Paraguay: 1
 	Peru: 26
 	Philippines: 2
@@ -98,7 +99,7 @@ Number of countries: 117
 	South Africa: 12
 	South Korea: 1
 	Spain: 83
-	Sri Lanka: 1
+	Sri Lanka: 2
 	Sudan: 4
 	Sweden: 11
 	Switzerland: 13
