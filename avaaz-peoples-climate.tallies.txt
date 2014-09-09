@@ -1,4 +1,4 @@
-Number of events: 1384
+Number of events: 1389
 Number of countries: 121
 	Algeria: 12
 	Argentina: 33
@@ -87,7 +87,7 @@ Number of countries: 121
 	Peru: 26
 	Philippines: 3
 	Poland: 8
-	Portugal: 8
+	Portugal: 9
 	Puerto Rico: 2
 	Qatar: 1
 	Reunion: 1
@@ -114,8 +114,8 @@ Number of countries: 121
 	Uganda: 2
 	Ukraine: 33
 	United Arab Emirates: 2
-	United Kingdom: 44
-	United States of America: 53
+	United Kingdom: 46
+	United States of America: 55
 	Uruguay: 9
 	Venezuela: 17
 	Yemen: 12
