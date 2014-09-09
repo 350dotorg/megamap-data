@@ -1,4 +1,4 @@
-Number of events: 1333
+Number of events: 1334
 Number of countries: 118
 	Algeria: 12
 	Argentina: 31
@@ -35,7 +35,7 @@ Number of countries: 118
 	El Salvador: 2
 	Estonia: 1
 	Finland: 4
-	France: 99
+	France: 98
 	French Guiana: 2
 	French Polynesia: 1
 	Georgia: 1
@@ -89,7 +89,7 @@ Number of countries: 118
 	Qatar: 1
 	Reunion: 1
 	Romania: 11
-	Russia: 25
+	Russia: 26
 	Saudi Arabia: 5
 	Senegal: 2
 	Serbia: 3
@@ -111,7 +111,7 @@ Number of countries: 118
 	Uganda: 2
 	Ukraine: 32
 	United Arab Emirates: 2
-	United Kingdom: 41
+	United Kingdom: 42
 	United States of America: 50
 	Uruguay: 9
 	Venezuela: 17
