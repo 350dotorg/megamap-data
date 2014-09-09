@@ -1,4 +1,4 @@
-Number of events: 1335
+Number of events: 1337
 Number of countries: 118
 	Algeria: 12
 	Argentina: 31
@@ -17,7 +17,7 @@ Number of countries: 118
 	Bulgaria: 4
 	Burkina Faso: 1
 	Cameroon: 1
-	Canada: 62
+	Canada: 63
 	Cayman Islands: 1
 	Chile: 18
 	Colombia: 52
@@ -49,7 +49,7 @@ Number of countries: 118
 	Iran: 4
 	Iraq: 9
 	Ireland: 7
-	Israel: 4
+	Israel: 5
 	Italy: 80
 	Japan: 4
 	Jordan: 1
