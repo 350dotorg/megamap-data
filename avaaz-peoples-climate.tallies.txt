@@ -1,14 +1,14 @@
-Number of events: 1377
+Number of events: 1384
 Number of countries: 121
 	Algeria: 12
-	Argentina: 32
+	Argentina: 33
 	Armenia: 2
-	Australia: 40
+	Australia: 41
 	Austria: 19
 	Bahrain: 2
 	Bangladesh: 3
 	Belarus: 2
-	Belgium: 18
+	Belgium: 19
 	Benin: 1
 	Bermuda: 1
 	Bolivia: 6
@@ -18,7 +18,7 @@ Number of countries: 121
 	Burkina Faso: 1
 	Cambodia: 1
 	Cameroon: 1
-	Canada: 64
+	Canada: 65
 	Cayman Islands: 1
 	Chile: 18
 	Colombia: 53
@@ -47,13 +47,13 @@ Number of countries: 121
 	Guinea: 1
 	Honduras: 3
 	Hong Kong: 1
-	Hungary: 1
+	Hungary: 2
 	India: 24
 	Iran: 4
 	Iraq: 9
-	Ireland: 7
+	Ireland: 6
 	Israel: 5
-	Italy: 82
+	Italy: 83
 	Japan: 4
 	Jordan: 1
 	Kenya: 2
@@ -101,10 +101,10 @@ Number of countries: 121
 	Slovenia: 3
 	South Africa: 12
 	South Korea: 1
-	Spain: 84
+	Spain: 85
 	Sri Lanka: 2
 	Sudan: 4
-	Sweden: 11
+	Sweden: 12
 	Switzerland: 14
 	Thailand: 2
 	Togo: 1
