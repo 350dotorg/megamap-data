@@ -1,4 +1,4 @@
-Number of events: 1334
+Number of events: 1335
 Number of countries: 118
 	Algeria: 12
 	Argentina: 31
@@ -13,7 +13,7 @@ Number of countries: 118
 	Bermuda: 1
 	Bolivia: 6
 	Bosnia and Herzegovina: 1
-	Brazil: 126
+	Brazil: 127
 	Bulgaria: 4
 	Burkina Faso: 1
 	Cameroon: 1
