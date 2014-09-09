@@ -1,9 +1,9 @@
-Number of events: 1341
+Number of events: 1345
 Number of countries: 118
 	Algeria: 12
 	Argentina: 31
 	Armenia: 2
-	Australia: 38
+	Australia: 39
 	Austria: 19
 	Bahrain: 2
 	Bangladesh: 3
@@ -24,7 +24,7 @@ Number of countries: 118
 	Congo, DPR: 2
 	Congo, PR: 1
 	Costa Rica: 2
-	Croatia: 1
+	Croatia: 2
 	Cyprus: 1
 	Czech Republic: 1
 	Côte d'Ivoire: 1
@@ -111,8 +111,8 @@ Number of countries: 118
 	Uganda: 2
 	Ukraine: 32
 	United Arab Emirates: 2
-	United Kingdom: 42
-	United States of America: 50
+	United Kingdom: 43
+	United States of America: 51
 	Uruguay: 9
 	Venezuela: 17
 	Yemen: 12
