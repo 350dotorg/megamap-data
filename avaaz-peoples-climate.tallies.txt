@@ -1,4 +1,4 @@
-Number of events: 1347
+Number of events: 1350
 Number of countries: 118
 	Algeria: 12
 	Argentina: 31
@@ -40,7 +40,7 @@ Number of countries: 118
 	French Polynesia: 1
 	Georgia: 1
 	Germany: 39
-	Greece: 22
+	Greece: 23
 	Guatemala: 6
 	Guinea: 1
 	Honduras: 3
@@ -65,9 +65,9 @@ Number of countries: 118
 	Mali: 2
 	Martinique: 1
 	Mauritania: 2
-	Mexico: 66
+	Mexico: 67
 	Moldova: 2
-	Morocco: 23
+	Morocco: 24
 	Myanmar: 1
 	Nepal: 1
 	Netherlands: 10
