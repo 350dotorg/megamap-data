@@ -1,3 +1,4 @@
+initData({}, 
 [
     {
         "address": "Columbus Circle, 1849 Broadway, New York, NY 10023, USA", 
@@ -21664,3 +21665,4 @@
         "venue": "\u0410\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u041f\u0443\u0448\u043a\u0438\u043d\u0441\u043a\u043e\u0433\u043e \u0420\u0430\u0439\u043e\u043d\u0430"
     }
 ]
+);
