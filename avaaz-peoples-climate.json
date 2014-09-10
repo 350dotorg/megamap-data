@@ -15632,6 +15632,22 @@
     "id": 3231
   }, 
   {
+    "city": "Wilderness", 
+    "name": "People's Climate March", 
+    "rsvp_count": 9, 
+    "country": "South Africa", 
+    "start_time": "16:30:00", 
+    "venue": "Kleinkrantz Beach main parking lot", 
+    "longitude": 22.653268, 
+    "state": "WC", 
+    "country_code": "ZA", 
+    "address": "Protea Lane, Wilderness 6560, South Africa", 
+    "latitude": -34.0023289, 
+    "event_date": "2014-09-17", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1250", 
+    "id": 3232
+  }, 
+  {
     "city": "Szczecin", 
     "name": "Marsz dla Klimatu", 
     "rsvp_count": 1, 
@@ -18288,6 +18304,22 @@
     "id": 3502
   }, 
   {
+    "city": "Kings County", 
+    "name": "Shabbat for the Planet", 
+    "rsvp_count": 4, 
+    "country": "United States of America", 
+    "start_time": "18:00:00", 
+    "venue": "", 
+    "longitude": -73.976997, 
+    "state": "NY", 
+    "country_code": "US", 
+    "address": "", 
+    "latitude": 40.689831, 
+    "event_date": "2014-09-19", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Shabbat_for_the_Planet", 
+    "id": 3507
+  }, 
+  {
     "city": "An\u00e1polis", 
     "name": "Caminhada pelo Clima", 
     "rsvp_count": 8, 
@@ -19614,6 +19646,22 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/ar/event/climate/lmsyr_lmnkhy_lshby_124", 
     "id": 3630
+  }, 
+  {
+    "city": "Barrydale", 
+    "name": "People's Climate March", 
+    "rsvp_count": 6, 
+    "country": "South Africa", 
+    "start_time": "13:00:00", 
+    "venue": "Cnr Bain Street & Van Riebeek Street, Municipality Parking", 
+    "longitude": 20.7182064, 
+    "state": "WC", 
+    "country_code": "ZA", 
+    "address": "Barrydale, South Africa", 
+    "latitude": -33.9076091, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1354", 
+    "id": 3631
   }, 
   {
     "city": "Vilnius", 
