@@ -1,9 +1,9 @@
-Number of events: 1458
+Number of events: 1466
 Number of countries: 122
 	Algeria: 12
 	Argentina: 44
 	Armenia: 2
-	Australia: 43
+	Australia: 44
 	Austria: 19
 	Bahrain: 2
 	Bangladesh: 3
@@ -35,7 +35,7 @@ Number of countries: 122
 	Egypt: 16
 	El Salvador: 2
 	Estonia: 1
-	Finland: 4
+	Finland: 5
 	France: 99
 	French Guiana: 2
 	French Polynesia: 1
@@ -43,7 +43,7 @@ Number of countries: 122
 	Germany: 39
 	Greece: 23
 	Guadeloupe: 1
-	Guatemala: 9
+	Guatemala: 10
 	Guinea: 1
 	Honduras: 3
 	Hong Kong: 1
@@ -79,7 +79,7 @@ Number of countries: 122
 	New Zealand: 16
 	Nicaragua: 1
 	Nigeria: 5
-	Norway: 4
+	Norway: 5
 	Oman: 1
 	Pakistan: 3
 	Palestine: 6
@@ -93,7 +93,7 @@ Number of countries: 122
 	Qatar: 1
 	Reunion: 1
 	Romania: 12
-	Russia: 29
+	Russia: 30
 	Saudi Arabia: 5
 	Senegal: 2
 	Serbia: 3
@@ -102,7 +102,7 @@ Number of countries: 122
 	Slovenia: 3
 	South Africa: 12
 	South Korea: 1
-	Spain: 93
+	Spain: 96
 	Sri Lanka: 2
 	Sudan: 4
 	Sweden: 12
