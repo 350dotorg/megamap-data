@@ -1,26 +1,27 @@
-Number of events: 1614
-Number of countries: 126
+Number of events: 1647
+Number of countries: 127
+	Albania: 1
 	Algeria: 40
 	Argentina: 52
 	Armenia: 2
-	Australia: 44
+	Australia: 45
 	Austria: 20
 	Bahrain: 2
 	Bangladesh: 3
 	Belarus: 2
-	Belgium: 22
+	Belgium: 23
 	Benin: 1
 	Bermuda: 1
 	Bolivia: 6
 	Bosnia and Herzegovina: 1
 	Botswana: 1
-	Brazil: 131
-	Bulgaria: 5
+	Brazil: 137
+	Bulgaria: 6
 	Burkina Faso: 1
 	Burundi: 1
 	Cambodia: 1
 	Cameroon: 1
-	Canada: 70
+	Canada: 74
 	Cayman Islands: 1
 	Chile: 22
 	Colombia: 70
@@ -38,12 +39,12 @@ Number of countries: 126
 	El Salvador: 2
 	Estonia: 1
 	Finland: 5
-	France: 115
+	France: 117
 	French Guiana: 2
 	French Polynesia: 1
 	Georgia: 1
-	Germany: 47
-	Greece: 24
+	Germany: 50
+	Greece: 28
 	Guadeloupe: 2
 	Guatemala: 10
 	Guinea: 1
@@ -55,7 +56,7 @@ Number of countries: 126
 	Iraq: 10
 	Ireland: 6
 	Israel: 6
-	Italy: 88
+	Italy: 89
 	Japan: 4
 	Jordan: 1
 	Kenya: 2
@@ -97,7 +98,7 @@ Number of countries: 126
 	Reunion: 1
 	Romania: 12
 	Russia: 32
-	Saudi Arabia: 7
+	Saudi Arabia: 8
 	Senegal: 2
 	Serbia: 3
 	Singapore: 1
@@ -105,22 +106,22 @@ Number of countries: 126
 	Slovenia: 4
 	South Africa: 12
 	South Korea: 1
-	Spain: 106
+	Spain: 108
 	Sri Lanka: 2
 	Sudan: 5
-	Sweden: 13
+	Sweden: 14
 	Switzerland: 18
 	Syria: 2
 	Thailand: 2
 	Togo: 1
 	Trinidad and Tobago: 1
 	Tunisia: 6
-	Turkey: 15
+	Turkey: 16
 	Uganda: 2
 	Ukraine: 33
 	United Arab Emirates: 2
-	United Kingdom: 50
-	United States of America: 61
+	United Kingdom: 52
+	United States of America: 63
 	Uruguay: 10
 	Venezuela: 21
 	Yemen: 12
