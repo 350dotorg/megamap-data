@@ -1,4 +1,4 @@
-Number of events: 1449
+Number of events: 1458
 Number of countries: 122
 	Algeria: 12
 	Argentina: 44
@@ -21,10 +21,10 @@ Number of countries: 122
 	Canada: 66
 	Cayman Islands: 1
 	Chile: 21
-	Colombia: 57
+	Colombia: 61
 	Congo, DPR: 2
 	Congo, PR: 1
-	Costa Rica: 3
+	Costa Rica: 4
 	Croatia: 3
 	Cyprus: 1
 	Czech Republic: 1
@@ -85,14 +85,14 @@ Number of countries: 122
 	Palestine: 6
 	Panama: 1
 	Paraguay: 1
-	Peru: 28
+	Peru: 30
 	Philippines: 3
 	Poland: 8
 	Portugal: 9
 	Puerto Rico: 2
 	Qatar: 1
 	Reunion: 1
-	Romania: 11
+	Romania: 12
 	Russia: 29
 	Saudi Arabia: 5
 	Senegal: 2
@@ -102,7 +102,7 @@ Number of countries: 122
 	Slovenia: 3
 	South Africa: 12
 	South Korea: 1
-	Spain: 92
+	Spain: 93
 	Sri Lanka: 2
 	Sudan: 4
 	Sweden: 12
