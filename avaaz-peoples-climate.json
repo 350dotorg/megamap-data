@@ -1,21 +1,5 @@
 [
   {
-    "city": "New York", 
-    "name": "People's Climate March NYC", 
-    "rsvp_count": 96, 
-    "country": "United States of America", 
-    "start_time": "11:30:00", 
-    "venue": "Just north of Columbus Circle", 
-    "longitude": -73.9818886, 
-    "state": "NY", 
-    "country_code": "US", 
-    "address": "Columbus Circle, 1849 Broadway, New York, NY 10023, USA", 
-    "latitude": 40.7681092, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_NYC", 
-    "id": 1348
-  }, 
-  {
     "city": "Melbourne", 
     "name": "Melbourne Climate March", 
     "rsvp_count": 492, 
@@ -18302,22 +18286,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/ar/event/climate/lmsyr_lmnkhy_lshby_117", 
     "id": 3502
-  }, 
-  {
-    "city": "Kings County", 
-    "name": "Shabbat for the Planet", 
-    "rsvp_count": 4, 
-    "country": "United States of America", 
-    "start_time": "18:00:00", 
-    "venue": "", 
-    "longitude": -73.976997, 
-    "state": "NY", 
-    "country_code": "US", 
-    "address": "", 
-    "latitude": 40.689831, 
-    "event_date": "2014-09-19", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Shabbat_for_the_Planet", 
-    "id": 3507
   }, 
   {
     "city": "An\u00e1polis", 
