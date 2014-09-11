@@ -1,4 +1,4 @@
-Number of events: 1706
+Number of events: 1707
 Number of countries: 131
 	Albania: 1
 	Algeria: 40
@@ -57,7 +57,7 @@ Number of countries: 131
 	Iran: 5
 	Iraq: 12
 	Ireland: 7
-	Israel: 6
+	Israel: 7
 	Italy: 89
 	Japan: 6
 	Jordan: 1

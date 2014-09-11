@@ -1554,7 +1554,7 @@
   {
     "city": "Bogota", 
     "name": "Bogot\u00e1 Marcha X el Clima", 
-    "rsvp_count": 217, 
+    "rsvp_count": 218, 
     "country": "Colombia", 
     "start_time": "10:00:00", 
     "venue": "Parque Nacional hasta Plaza de los Periodistas", 
@@ -5090,7 +5090,7 @@
   {
     "city": "Glebe", 
     "name": "People's Climate March Sydney", 
-    "rsvp_count": 326, 
+    "rsvp_count": 327, 
     "country": "Australia", 
     "start_time": "11:00:00", 
     "venue": "", 
@@ -12930,7 +12930,7 @@
   {
     "city": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 13, 
+    "rsvp_count": 14, 
     "country": "Russia", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -13490,7 +13490,7 @@
   {
     "city": "Tegucigalpa", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 15, 
+    "rsvp_count": 16, 
     "country": "Honduras", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -16450,7 +16450,7 @@
   {
     "city": "Barranquilla", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 19, 
+    "rsvp_count": 20, 
     "country": "Colombia", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -24306,7 +24306,7 @@
   {
     "city": "Sevilla", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Plaza de la Encarnacion (las Setas)", 
@@ -27294,5 +27294,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_432", 
     "id": 4212
+  }, 
+  {
+    "city": "Jerusalem", 
+    "name": "Urgent Climate Action", 
+    "rsvp_count": 1, 
+    "country": "Israel", 
+    "start_time": "13:00:00", 
+    "venue": "Gan HaPaamon", 
+    "longitude": 35.21371, 
+    "state": "", 
+    "country_code": "IL", 
+    "address": "Jerusalem, Israel", 
+    "latitude": 31.768319, 
+    "event_date": "2014-09-26", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Urgent_Climate_Action", 
+    "id": 4213
   }
 ]
