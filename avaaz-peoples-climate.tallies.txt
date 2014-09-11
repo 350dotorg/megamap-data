@@ -1,5 +1,5 @@
-Number of events: 1884
-Number of countries: 136
+Number of events: 1897
+Number of countries: 135
 	Afghanistan: 1
 	Albania: 1
 	Algeria: 42
@@ -17,14 +17,14 @@ Number of countries: 136
 	Bolivia: 6
 	Bosnia and Herzegovina: 1
 	Botswana: 1
-	Brazil: 167
+	Brazil: 169
 	Brunei: 1
 	Bulgaria: 6
 	Burkina Faso: 1
 	Burundi: 1
 	Cambodia: 1
 	Cameroon: 1
-	Canada: 85
+	Canada: 89
 	Cayman Islands: 1
 	Chile: 25
 	Colombia: 78
@@ -43,11 +43,10 @@ Number of countries: 136
 	El Salvador: 2
 	Estonia: 1
 	Finland: 5
-	France: 138
+	France: 139
 	French Guiana: 2
 	French Polynesia: 3
-	Georgia: 1
-	Germany: 60
+	Germany: 61
 	Greece: 36
 	Guadeloupe: 3
 	Guatemala: 13
@@ -60,7 +59,7 @@ Number of countries: 136
 	Iran: 5
 	Iraq: 12
 	Ireland: 7
-	Israel: 8
+	Israel: 9
 	Italy: 97
 	Japan: 8
 	Jordan: 1
@@ -82,9 +81,9 @@ Number of countries: 136
 	Morocco: 28
 	Myanmar: 1
 	Nepal: 1
-	Netherlands: 24
+	Netherlands: 25
 	New Caledonia: 2
-	New Zealand: 23
+	New Zealand: 24
 	Nicaragua: 1
 	Nigeria: 4
 	Norway: 8
@@ -111,11 +110,11 @@ Number of countries: 136
 	Slovenia: 4
 	South Africa: 12
 	South Korea: 1
-	Spain: 116
+	Spain: 117
 	Sri Lanka: 2
 	Sudan: 5
 	Sweden: 16
-	Switzerland: 18
+	Switzerland: 17
 	Syria: 2
 	Taiwan: 1
 	Thailand: 3
@@ -126,13 +125,13 @@ Number of countries: 136
 	Uganda: 2
 	Ukraine: 43
 	United Arab Emirates: 2
-	United Kingdom: 58
-	United States of America: 67
+	United Kingdom: 59
+	United States of America: 68
 	Uruguay: 11
 	Uzbekistan: 1
 	Venezuela: 23
 	Vietnam: 1
 	Western Sahara: 1
-	Yemen: 12
+	Yemen: 13
 	Zambia: 3
 	Zimbabwe: 1
