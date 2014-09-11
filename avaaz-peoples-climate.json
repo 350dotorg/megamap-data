@@ -2,7 +2,7 @@
   {
     "city": "Melbourne", 
     "name": "Melbourne Climate March", 
-    "rsvp_count": 540, 
+    "rsvp_count": 543, 
     "country": "Australia", 
     "start_time": "11:00:00", 
     "venue": "State Library", 
@@ -98,7 +98,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 625, 
+    "rsvp_count": 626, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -3090,7 +3090,7 @@
   {
     "city": "Roma", 
     "name": "Marcia Globale per il Clima a Roma: LA BICICLETTATA, IL CUORE VERDE", 
-    "rsvp_count": 200, 
+    "rsvp_count": 201, 
     "country": "Italy", 
     "start_time": "15:00:00", 
     "venue": "COLOSSEO, ROMA", 
@@ -4402,7 +4402,7 @@
   {
     "city": "Orba", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 13, 
+    "rsvp_count": 14, 
     "country": "Spain", 
     "start_time": "12:00:00", 
     "venue": "Plaza de Espa\u00f1a", 
@@ -23730,7 +23730,7 @@
   {
     "city": "La Chaux-de-Fonds", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Switzerland", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -27982,5 +27982,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1490", 
     "id": 4255
+  }, 
+  {
+    "city": "Lower Hutt", 
+    "name": "Chillin out laxin and riding some bikes", 
+    "rsvp_count": 1, 
+    "country": "New Zealand", 
+    "start_time": "13:00:00", 
+    "venue": "Belmont Park entrance Oakleigh Street", 
+    "longitude": 174.8793801, 
+    "state": "Wellington", 
+    "country_code": "NZ", 
+    "address": "Oakleigh Street, Maungaraki, Lower Hutt 5010, New Zealand", 
+    "latitude": -41.2029747, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Chillin_out_laxin_and_riding_some_bikes", 
+    "id": 4256
   }
 ]
