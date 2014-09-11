@@ -578,7 +578,7 @@
   {
     "city": "Helsinki", 
     "name": "People's Climate March - Helsinki", 
-    "rsvp_count": 92, 
+    "rsvp_count": 93, 
     "country": "Finland", 
     "start_time": "16:00:00", 
     "venue": "Kamppi", 
@@ -962,7 +962,7 @@
   {
     "city": "Brussels", 
     "name": "People's Climate March", 
-    "rsvp_count": 405, 
+    "rsvp_count": 406, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "Place Polaert", 
@@ -3266,7 +3266,7 @@
   {
     "city": "Vancouver", 
     "name": "People's Climate March", 
-    "rsvp_count": 453, 
+    "rsvp_count": 454, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Main street", 
@@ -5094,11 +5094,11 @@
     "country": "Australia", 
     "start_time": "11:00:00", 
     "venue": "", 
-    "longitude": 151.2204337, 
+    "longitude": 151.1761665, 
     "state": "NSW", 
     "country_code": "AU", 
     "address": "Bicentennial Park - Glebe, Glebe NSW 2037, Australia", 
-    "latitude": -33.8621662, 
+    "latitude": -33.8728029, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1038", 
     "id": 2330
@@ -11986,7 +11986,7 @@
   {
     "city": "Santa Rosa", 
     "name": "People's Climate March", 
-    "rsvp_count": 33, 
+    "rsvp_count": 34, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "Luther Burbank gardens", 
@@ -18882,7 +18882,7 @@
   {
     "city": "Coquimbo", 
     "name": "Regi\u00f3n de Coquimbo sin agua, el clima ya cambio", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Chile", 
     "start_time": "13:00:00", 
     "venue": "plaza de la serena", 
@@ -23682,7 +23682,7 @@
   {
     "city": "El Palomar", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Argentina", 
     "start_time": "13:00:00", 
     "venue": "av gaona esquina rosales", 
