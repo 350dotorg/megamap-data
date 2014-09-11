@@ -1,4 +1,4 @@
-Number of events: 1792
+Number of events: 1793
 Number of countries: 135
 	Afghanistan: 1
 	Albania: 1
@@ -25,7 +25,7 @@ Number of countries: 135
 	Cameroon: 1
 	Canada: 80
 	Cayman Islands: 1
-	Chile: 24
+	Chile: 25
 	Colombia: 75
 	Congo, DPR: 2
 	Congo, PR: 1
