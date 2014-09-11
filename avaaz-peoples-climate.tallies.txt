@@ -1,4 +1,4 @@
-Number of events: 1823
+Number of events: 1824
 Number of countries: 135
 	Afghanistan: 1
 	Albania: 1
@@ -126,7 +126,7 @@ Number of countries: 135
 	Ukraine: 40
 	United Arab Emirates: 2
 	United Kingdom: 55
-	United States of America: 66
+	United States of America: 67
 	Uruguay: 11
 	Uzbekistan: 1
 	Venezuela: 23
