@@ -1,4 +1,4 @@
-Number of events: 1869
+Number of events: 1871
 Number of countries: 136
 	Afghanistan: 1
 	Albania: 1
@@ -17,7 +17,7 @@ Number of countries: 136
 	Bolivia: 6
 	Bosnia and Herzegovina: 1
 	Botswana: 1
-	Brazil: 163
+	Brazil: 164
 	Brunei: 1
 	Bulgaria: 6
 	Burkina Faso: 1
@@ -79,7 +79,7 @@ Number of countries: 136
 	Mauritius: 1
 	Mexico: 99
 	Moldova: 2
-	Morocco: 27
+	Morocco: 28
 	Myanmar: 1
 	Nepal: 1
 	Netherlands: 23
