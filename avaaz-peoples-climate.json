@@ -21062,11 +21062,11 @@
     "country": "Canada", 
     "start_time": "19:00:00", 
     "venue": "", 
-    "longitude": -79.8547883, 
+    "longitude": -79.8548443, 
     "state": "ON", 
     "country_code": "CA", 
-    "address": "Victoria Avenue North & Cannon Street East, Hamilton, ON L8L, Canada", 
-    "latitude": 43.2577225, 
+    "address": "281 Cannon Street East, Hamilton, ON L8L 2B5, Canada", 
+    "latitude": 43.2577507, 
     "event_date": "2014-09-20", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Screening_of_Disruption", 
     "id": 3764
@@ -25234,7 +25234,7 @@
   {
     "city": "Bogot\u00e1", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 7, 
+    "rsvp_count": 8, 
     "country": "Colombia", 
     "start_time": "13:00:00", 
     "venue": "parque el tunal", 
