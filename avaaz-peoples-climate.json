@@ -82,7 +82,7 @@
   {
     "city": "Berlin", 
     "name": "Mal schnell die Welt retten - BERLIN", 
-    "rsvp_count": 237, 
+    "rsvp_count": 238, 
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "Brandenburger Tor", 
@@ -578,7 +578,7 @@
   {
     "city": "Helsinki", 
     "name": "People's Climate March - Helsinki", 
-    "rsvp_count": 93, 
+    "rsvp_count": 94, 
     "country": "Finland", 
     "start_time": "16:00:00", 
     "venue": "Kamppi", 
@@ -3570,7 +3570,7 @@
   {
     "city": "Parksville", 
     "name": "Parksville People's Climate March", 
-    "rsvp_count": 27, 
+    "rsvp_count": 28, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Parksville Curling Club in the Community Park - we will begin and end there", 
@@ -4178,7 +4178,7 @@
   {
     "city": "\u041a\u0438\u0435\u0432", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 81, 
+    "rsvp_count": 82, 
     "country": "Ukraine", 
     "start_time": "13:00:00", 
     "venue": "\u041c\u0435\u0442\u0440\u043e \"\u0417\u043e\u043b\u043e\u0442\u044b\u0435 \u0432\u043e\u0440\u043e\u0442\u0430\"", 
@@ -9874,7 +9874,7 @@
   {
     "city": "Miraflores", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 93, 
+    "rsvp_count": 94, 
     "country": "Peru", 
     "start_time": "13:00:00", 
     "venue": "28 de julio", 
@@ -11346,7 +11346,7 @@
   {
     "city": "Guadalajara", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 83, 
+    "rsvp_count": 84, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Glorieta La Minerva", 
@@ -27150,5 +27150,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_428", 
     "id": 4203
+  }, 
+  {
+    "city": "Ciudad de M\u00e9xico", 
+    "name": "Santa Eucarist\u00eda (Misa) por el cuidado de la Creaci\u00f3n", 
+    "rsvp_count": 1, 
+    "country": "Mexico", 
+    "start_time": "11:00:00", 
+    "venue": "", 
+    "longitude": -99.1191287, 
+    "state": "D.F.", 
+    "country_code": "MX", 
+    "address": "Oriente 87 2426, Emiliano Zapata, 07889 Ciudad de M\u00e9xico, D.F., M\u00e9xico", 
+    "latitude": 19.4607007, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/es/event/climate/Santa_Eucaristia_Misa_por_el_cuidado_de_la_Creacion", 
+    "id": 4204
   }
 ]
