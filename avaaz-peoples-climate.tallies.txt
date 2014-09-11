@@ -1,4 +1,4 @@
-Number of events: 1724
+Number of events: 1725
 Number of countries: 131
 	Albania: 1
 	Algeria: 40
@@ -111,7 +111,7 @@ Number of countries: 131
 	Spain: 111
 	Sri Lanka: 2
 	Sudan: 5
-	Sweden: 14
+	Sweden: 15
 	Switzerland: 18
 	Syria: 2
 	Taiwan: 1
