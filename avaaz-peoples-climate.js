@@ -26879,6 +26879,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_door_to_door", 
     "id": 4186
+  }, 
+  {
+    "city": "Cairns", 
+    "name": "People's Climate March", 
+    "rsvp_count": 1, 
+    "country": "Australia", 
+    "start_time": "09:00:00", 
+    "venue": "Pullman Reef Casino", 
+    "longitude": 145.7798673, 
+    "state": "QLD", 
+    "country_code": "AU", 
+    "address": "35-41 Wharf Street, Cairns QLD 4870, Australia", 
+    "latitude": -16.9237646, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1470", 
+    "id": 4187
   }
 ]
 );
