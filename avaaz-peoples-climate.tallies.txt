@@ -1,4 +1,4 @@
-Number of events: 1722
+Number of events: 1723
 Number of countries: 131
 	Albania: 1
 	Algeria: 40
@@ -22,7 +22,7 @@ Number of countries: 131
 	Burundi: 1
 	Cambodia: 1
 	Cameroon: 1
-	Canada: 79
+	Canada: 80
 	Cayman Islands: 1
 	Chile: 23
 	Colombia: 75
