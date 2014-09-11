@@ -1,4 +1,4 @@
-Number of events: 1765
+Number of events: 1766
 Number of countries: 133
 	Albania: 1
 	Algeria: 40
@@ -44,7 +44,7 @@ Number of countries: 133
 	French Guiana: 2
 	French Polynesia: 3
 	Georgia: 1
-	Germany: 53
+	Germany: 54
 	Greece: 31
 	Guadeloupe: 3
 	Guatemala: 10

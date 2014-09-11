@@ -2,7 +2,7 @@
   {
     "city": "Melbourne", 
     "name": "Melbourne Climate March", 
-    "rsvp_count": 608, 
+    "rsvp_count": 609, 
     "country": "Australia", 
     "start_time": "11:00:00", 
     "venue": "State Library", 
@@ -18,7 +18,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1215, 
+    "rsvp_count": 1216, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -66,7 +66,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 99, 
+    "rsvp_count": 100, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -98,7 +98,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 711, 
+    "rsvp_count": 715, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -3154,7 +3154,7 @@
   {
     "city": "The Hague", 
     "name": "People's Climate March", 
-    "rsvp_count": 78, 
+    "rsvp_count": 79, 
     "country": "Netherlands", 
     "start_time": "13:00:00", 
     "venue": "Plaats", 
@@ -3890,7 +3890,7 @@
   {
     "city": "Sunshine Beach", 
     "name": "People's Climate March", 
-    "rsvp_count": 32, 
+    "rsvp_count": 33, 
     "country": "Australia", 
     "start_time": "13:00:00", 
     "venue": "sunshine beach", 
@@ -23906,7 +23906,7 @@
   {
     "city": "Barcelona", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 50, 
+    "rsvp_count": 51, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "CALLE LA ERA N\u00ba 5, FRENTE AL AYUNTAMIENTO", 
@@ -28238,5 +28238,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/ru/event/climate/Narodnyy_klimaticheskiy_marsh_131", 
     "id": 4281
+  }, 
+  {
+    "city": "G\u00f6ttingen", 
+    "name": "Klima-Aktionstag", 
+    "rsvp_count": 1, 
+    "country": "Germany", 
+    "start_time": "13:00:00", 
+    "venue": "Fahrradtour vom Kiessee G\u00f6ttingen durch den Kaufunger Wald nach Kassel HBF (mit dem Zug zur\u00fcck) - 700 H\u00f6henmeter!", 
+    "longitude": 9.9158035, 
+    "state": "NDS", 
+    "country_code": "DE", 
+    "address": "G\u00f6ttingen, Deutschland", 
+    "latitude": 51.5412804, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaAktionstag_126", 
+    "id": 4283
   }
 ]
