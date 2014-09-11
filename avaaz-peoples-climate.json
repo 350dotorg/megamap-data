@@ -2,7 +2,7 @@
   {
     "city": "Melbourne", 
     "name": "Melbourne Climate March", 
-    "rsvp_count": 612, 
+    "rsvp_count": 614, 
     "country": "Australia", 
     "start_time": "11:00:00", 
     "venue": "State Library", 
@@ -18,7 +18,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1216, 
+    "rsvp_count": 1217, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -66,7 +66,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 100, 
+    "rsvp_count": 103, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -4194,7 +4194,7 @@
   {
     "city": "Cluj-Napoca", 
     "name": "Mar\u0219ul Cet\u0103\u021benilor pentru Ac\u021biune Climatic\u0103", 
-    "rsvp_count": 43, 
+    "rsvp_count": 44, 
     "country": "Romania", 
     "start_time": "13:00:00", 
     "venue": "Piata Unirii", 
@@ -9010,7 +9010,7 @@
   {
     "city": "Valencia", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 162, 
+    "rsvp_count": 163, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -11074,7 +11074,7 @@
   {
     "city": "Hendaye", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 16, 
+    "rsvp_count": 17, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Xingudi", 
@@ -11346,7 +11346,7 @@
   {
     "city": "Guadalajara", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 85, 
+    "rsvp_count": 86, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Glorieta La Minerva", 
@@ -13666,7 +13666,7 @@
   {
     "city": "Brive-la-Gaillarde", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 14, 
+    "rsvp_count": 15, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "place de l'h\u00f4tel de ville", 
@@ -21602,7 +21602,7 @@
   {
     "city": "Belfast", 
     "name": "People's Climate March", 
-    "rsvp_count": 22, 
+    "rsvp_count": 23, 
     "country": "United Kingdom", 
     "start_time": "13:00:00", 
     "venue": "Belfast City Hall", 
@@ -21874,7 +21874,7 @@
   {
     "city": "Budapest", 
     "name": "People's Climate March - Hungary", 
-    "rsvp_count": 57, 
+    "rsvp_count": 58, 
     "country": "Hungary", 
     "start_time": "13:00:00", 
     "venue": "Budapest, Kossuth Lajos t\u00e9r, 1055 Magyarorsz\u00e1g", 
@@ -28254,5 +28254,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaAktionstag_126", 
     "id": 4283
+  }, 
+  {
+    "city": "\u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7", 
+    "name": "\u03a0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u039b\u03b1\u03ce\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
+    "rsvp_count": 1, 
+    "country": "Greece", 
+    "start_time": "13:00:00", 
+    "venue": "", 
+    "longitude": 22.9444191, 
+    "state": "\u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1 \u0398\u03c1\u03ac\u03ba\u03b7", 
+    "country_code": "GR", 
+    "address": "\u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1", 
+    "latitude": 40.6400629, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/el/event/climate/Poreia_ton_Laon_gia_to_Klima_100", 
+    "id": 4284
   }
 ]
