@@ -1,4 +1,4 @@
-Number of events: 1883
+Number of events: 1884
 Number of countries: 136
 	Afghanistan: 1
 	Albania: 1
@@ -114,7 +114,7 @@ Number of countries: 136
 	Spain: 116
 	Sri Lanka: 2
 	Sudan: 5
-	Sweden: 15
+	Sweden: 16
 	Switzerland: 18
 	Syria: 2
 	Taiwan: 1

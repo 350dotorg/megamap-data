@@ -2,7 +2,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1534, 
+    "rsvp_count": 1536, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -34,7 +34,7 @@
   {
     "city": "Berlin", 
     "name": "Mal schnell die Welt retten - BERLIN", 
-    "rsvp_count": 404, 
+    "rsvp_count": 406, 
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "Brandenburger Tor", 
@@ -226,7 +226,7 @@
   {
     "city": "Auckland", 
     "name": "People's Climate March - Auckland", 
-    "rsvp_count": 174, 
+    "rsvp_count": 175, 
     "country": "New Zealand", 
     "start_time": "13:00:00", 
     "venue": "From Britomart to Aotea Square", 
@@ -1106,7 +1106,7 @@
   {
     "city": "Oslo", 
     "name": "People's Climate March", 
-    "rsvp_count": 129, 
+    "rsvp_count": 130, 
     "country": "Norway", 
     "start_time": "14:00:00", 
     "venue": "Eidsvolls plass - in front of Stortinget (the Parlament)", 
@@ -5986,7 +5986,7 @@
   {
     "city": "Whitby", 
     "name": "People's Climate Concert", 
-    "rsvp_count": 13, 
+    "rsvp_count": 14, 
     "country": "United Kingdom", 
     "start_time": "13:00:00", 
     "venue": "Whitby Rifle Club", 
@@ -6258,7 +6258,7 @@
   {
     "city": "\u0411\u0435\u043e\u0433\u0440\u0430\u0434", 
     "name": "People's Climate March", 
-    "rsvp_count": 43, 
+    "rsvp_count": 44, 
     "country": "Serbia", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -7058,7 +7058,7 @@
   {
     "city": "Santo Domingo", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 90, 
+    "rsvp_count": 91, 
     "country": "Dominican Republic", 
     "start_time": "13:00:00", 
     "venue": "Plaza la bandera", 
@@ -17890,7 +17890,7 @@
   {
     "city": "Lugano", 
     "name": "Marcia Globale per il Clima - Lugano", 
-    "rsvp_count": 26, 
+    "rsvp_count": 27, 
     "country": "Switzerland", 
     "start_time": "18:00:00", 
     "venue": "Nel Parco Ciani in zona foce", 
@@ -23618,7 +23618,7 @@
   {
     "city": "Barcelona", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 65, 
+    "rsvp_count": 66, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "CALLE LA ERA N\u00ba 5, FRENTE AL AYUNTAMIENTO", 
@@ -29170,7 +29170,7 @@
   {
     "city": "Wiesbaden", 
     "name": "Verkehrswendefest an der Ringkirche Wiesbaden", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Germany", 
     "start_time": "12:00:00", 
     "venue": "An der Ringkirche", 
@@ -30126,5 +30126,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Plantio_de_arvores_para_recomposicao_de_mata_ciliar_sabado_e_domingo_20_e_2109", 
     "id": 4494
+  }, 
+  {
+    "city": "Mullsj\u00f6", 
+    "name": "People's Climate March", 
+    "rsvp_count": 1, 
+    "country": "Sweden", 
+    "start_time": "13:00:00", 
+    "venue": "", 
+    "longitude": 13.8791689, 
+    "state": "J\u00f6nk\u00f6pings l\u00e4n", 
+    "country_code": "SE", 
+    "address": "H\u00e4ggstigen 27, 565 31 Mullsj\u00f6, Sverige", 
+    "latitude": 57.9234662, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1517", 
+    "id": 4495
   }
 ]
