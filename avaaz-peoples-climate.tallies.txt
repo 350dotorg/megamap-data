@@ -1,8 +1,8 @@
-Number of events: 1698
+Number of events: 1701
 Number of countries: 131
 	Albania: 1
 	Algeria: 40
-	Argentina: 57
+	Argentina: 58
 	Armenia: 2
 	Australia: 46
 	Austria: 20
@@ -62,7 +62,7 @@ Number of countries: 131
 	Japan: 5
 	Jordan: 1
 	Kenya: 2
-	Kuwait: 1
+	Kuwait: 2
 	Kyrgistan: 2
 	Lebanon: 1
 	Liberia: 2
@@ -99,7 +99,7 @@ Number of countries: 131
 	Qatar: 2
 	Reunion: 1
 	Romania: 13
-	Russia: 34
+	Russia: 35
 	Saudi Arabia: 8
 	Senegal: 2
 	Serbia: 3
