@@ -2,7 +2,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1503, 
+    "rsvp_count": 1504, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 1307, 
+    "rsvp_count": 1310, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -1090,7 +1090,7 @@
   {
     "city": "Ottawa", 
     "name": "People's Climate March - Ottawa Event", 
-    "rsvp_count": 235, 
+    "rsvp_count": 236, 
     "country": "Canada", 
     "start_time": "12:00:00", 
     "venue": "Parliament Hill", 
@@ -2144,16 +2144,16 @@
     "id": 2050
   }, 
   {
-    "city": "Brasilia", 
+    "city": "Bras\u00edlia", 
     "name": "Uni\u00e3o Avaaz em Bras\u00edlia contra as Mudan\u00e7as Clim\u00e1ticas", 
     "rsvp_count": 378, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
-    "venue": "Esplanada dos Minist\u00e9rios", 
+    "venue": "", 
     "longitude": -47.8711395, 
-    "state": "DF", 
+    "state": "", 
     "country_code": "BR", 
-    "address": "Esplanada dos Minist\u00e9rios - Brasilia, Brasilia - Federal District, Brazil", 
+    "address": "", 
     "latitude": -15.7970941, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Uniao_Avaaz_em_Brasilia_contra_as_Mudancas_Climaticas", 
@@ -2578,7 +2578,7 @@
   {
     "city": "Nyon", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 40, 
+    "rsvp_count": 41, 
     "country": "Switzerland", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -3266,7 +3266,7 @@
   {
     "city": "Taranto", 
     "name": "People's Climate March", 
-    "rsvp_count": 23, 
+    "rsvp_count": 24, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "ilva", 
@@ -9314,7 +9314,7 @@
   {
     "city": "Hermosillo", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 30, 
+    "rsvp_count": 31, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Plaza Emiliana de Zubeldia", 
@@ -19106,7 +19106,7 @@
   {
     "city": "Svendborg", 
     "name": "People's Climate March", 
-    "rsvp_count": 12, 
+    "rsvp_count": 13, 
     "country": "Denmark", 
     "start_time": "12:00:00", 
     "venue": "m\u00f8llergade", 
@@ -21938,7 +21938,7 @@
   {
     "city": "Albacete", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Spain", 
     "start_time": "18:00:00", 
     "venue": "Parque fiesta del arbol. Marcha por la Via Verde", 
@@ -27698,7 +27698,7 @@
   {
     "city": "Braunschweig", 
     "name": "Klima-Aktionstag - Greenpeace Aktion", 
-    "rsvp_count": 6, 
+    "rsvp_count": 7, 
     "country": "Germany", 
     "start_time": "20:00:00", 
     "venue": "Treffpunkt ist das Universum Kino", 
