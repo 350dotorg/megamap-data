@@ -18,7 +18,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 607, 
+    "rsvp_count": 609, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -402,7 +402,7 @@
   {
     "city": "Cuenca", 
     "name": "Cuenca - Avaaz Marcha Ciudadana Contra Cambio Clim\u00e1tico", 
-    "rsvp_count": 54, 
+    "rsvp_count": 55, 
     "country": "Ecuador", 
     "start_time": "11:00:00", 
     "venue": "Parque de La Madre", 
@@ -1874,7 +1874,7 @@
   {
     "city": "Udine", 
     "name": "Flash Mob Udine per il Clima", 
-    "rsvp_count": 32, 
+    "rsvp_count": 33, 
     "country": "Italy", 
     "start_time": "19:00:00", 
     "venue": "Piazza Libert\u00e0", 
@@ -3602,7 +3602,7 @@
   {
     "city": "Sankt P\u00f6lten", 
     "name": "People's Climate March", 
-    "rsvp_count": 32, 
+    "rsvp_count": 33, 
     "country": "Austria", 
     "start_time": "13:00:00", 
     "venue": "Vor Cinema Paradiso, Rathaus Platz", 
@@ -4802,7 +4802,7 @@
   {
     "city": "Zaragoza", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 132, 
+    "rsvp_count": 133, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Plaza de Espa\u00f1a", 
@@ -4930,7 +4930,7 @@
   {
     "city": "Steyr", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 40, 
+    "rsvp_count": 41, 
     "country": "Austria", 
     "start_time": "13:00:00", 
     "venue": "Stadtplatz", 
@@ -16434,7 +16434,7 @@
   {
     "city": "Salvador", 
     "name": "EDUCA\u00c7\u00c3O PELA PAZ CLIM\u00c1TICA", 
-    "rsvp_count": 69, 
+    "rsvp_count": 70, 
     "country": "Brazil", 
     "start_time": "09:00:00", 
     "venue": "BAIRRO DO RIO VERMELHO, REGI\u00c3O DAS DUAS IGREJAS DOS PESCADORES", 
@@ -25666,7 +25666,7 @@
   {
     "city": "Haliburton County", 
     "name": "People's Climate March", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -26098,7 +26098,7 @@
   {
     "city": "Burns Lake", 
     "name": "People's Care about Climate Event", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Spirit Square", 
@@ -30014,5 +30014,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1516", 
     "id": 4487
+  }, 
+  {
+    "city": "Luino", 
+    "name": "Marcia Globale per il Clima", 
+    "rsvp_count": 1, 
+    "country": "Italy", 
+    "start_time": "13:00:00", 
+    "venue": "lungolago Luino", 
+    "longitude": 8.741683, 
+    "state": "Lombardia", 
+    "country_code": "IT", 
+    "address": "Lungolago, 21016 Luino VA, Italia", 
+    "latitude": 46.00264, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/it/event/climate/Marcia_Globale_per_il_Clima_124", 
+    "id": 4488
   }
 ]
