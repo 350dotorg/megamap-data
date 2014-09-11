@@ -1,4 +1,4 @@
-Number of events: 1733
+Number of events: 1745
 Number of countries: 131
 	Albania: 1
 	Algeria: 40
@@ -40,12 +40,12 @@ Number of countries: 131
 	El Salvador: 2
 	Estonia: 1
 	Finland: 5
-	France: 118
+	France: 122
 	French Guiana: 2
 	French Polynesia: 3
 	Georgia: 1
 	Germany: 50
-	Greece: 28
+	Greece: 31
 	Guadeloupe: 3
 	Guatemala: 10
 	Guinea: 1
@@ -77,7 +77,7 @@ Number of countries: 131
 	Mauritius: 1
 	Mexico: 89
 	Moldova: 2
-	Morocco: 26
+	Morocco: 27
 	Myanmar: 1
 	Nepal: 1
 	Netherlands: 18
@@ -85,7 +85,7 @@ Number of countries: 131
 	New Zealand: 22
 	Nicaragua: 1
 	Nigeria: 5
-	Norway: 6
+	Norway: 7
 	Oman: 1
 	Pakistan: 3
 	Palestine: 8
@@ -104,7 +104,7 @@ Number of countries: 131
 	Senegal: 2
 	Serbia: 3
 	Singapore: 1
-	Slovakia: 4
+	Slovakia: 5
 	Slovenia: 4
 	South Africa: 12
 	South Korea: 1
@@ -119,11 +119,11 @@ Number of countries: 131
 	Togo: 1
 	Trinidad and Tobago: 1
 	Tunisia: 6
-	Turkey: 19
+	Turkey: 20
 	Uganda: 2
 	Ukraine: 38
 	United Arab Emirates: 2
-	United Kingdom: 53
+	United Kingdom: 54
 	United States of America: 64
 	Uruguay: 11
 	Venezuela: 23
