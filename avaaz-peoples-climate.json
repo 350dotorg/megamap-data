@@ -2,7 +2,7 @@
   {
     "city": "Melbourne", 
     "name": "Melbourne Climate March", 
-    "rsvp_count": 679, 
+    "rsvp_count": 680, 
     "country": "Australia", 
     "start_time": "11:00:00", 
     "venue": "State Library", 
@@ -66,7 +66,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 311, 
+    "rsvp_count": 312, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -674,7 +674,7 @@
   {
     "city": "Coffs Harbour", 
     "name": "People's Climate March - Coffs Harbour", 
-    "rsvp_count": 28, 
+    "rsvp_count": 29, 
     "country": "Australia", 
     "start_time": "11:00:00", 
     "venue": "Jetty Beach", 
@@ -1890,7 +1890,7 @@
   {
     "city": "Medell\u00edn", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 320, 
+    "rsvp_count": 321, 
     "country": "Colombia", 
     "start_time": "09:00:00", 
     "venue": "Alcald\u00eda de Medell\u00edn", 
@@ -5410,7 +5410,7 @@
   {
     "city": "Belo Horizonte", 
     "name": "Caminhada pelo Clima BH - Pra\u00e7a da Liberdade", 
-    "rsvp_count": 130, 
+    "rsvp_count": 131, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a da Liberdade", 
@@ -13346,7 +13346,7 @@
   {
     "city": "Valdivia", 
     "name": "Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Chile", 
     "start_time": "15:00:00", 
     "venue": "plaza de la rep\u00fablica (plaza de armas de Valdivia)", 
@@ -16690,7 +16690,7 @@
   {
     "city": "Salvador", 
     "name": "EDUCA\u00c7\u00c3O PELA PAZ CLIM\u00c1TICA", 
-    "rsvp_count": 53, 
+    "rsvp_count": 54, 
     "country": "Brazil", 
     "start_time": "09:00:00", 
     "venue": "BAIRRO DO RIO VERMELHO, REGI\u00c3O DAS DUAS IGREJAS DOS PESCADORES", 
