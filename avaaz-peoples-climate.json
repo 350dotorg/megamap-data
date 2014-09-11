@@ -2,7 +2,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1510, 
+    "rsvp_count": 1511, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -18,7 +18,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 609, 
+    "rsvp_count": 610, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 1339, 
+    "rsvp_count": 1341, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -1922,7 +1922,7 @@
   {
     "city": "Salerno", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 20, 
+    "rsvp_count": 21, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "PIazza Portanova", 
@@ -2066,7 +2066,7 @@
   {
     "city": "Hamburg", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 282, 
+    "rsvp_count": 283, 
     "country": "Germany", 
     "start_time": "16:00:00", 
     "venue": "vor dem Rathaus", 
@@ -2770,7 +2770,7 @@
   {
     "city": "Klagenfurt am W\u00f6rthersee", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 72, 
+    "rsvp_count": 73, 
     "country": "Austria", 
     "start_time": "13:00:00", 
     "venue": "Rathaus", 
@@ -3202,7 +3202,7 @@
   {
     "city": "Vancouver", 
     "name": "People's Climate March", 
-    "rsvp_count": 494, 
+    "rsvp_count": 495, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Main street", 
@@ -6610,7 +6610,7 @@
   {
     "city": "Roma", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 122, 
+    "rsvp_count": 123, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "roma", 
@@ -10194,7 +10194,7 @@
   {
     "city": "Munich", 
     "name": "People's Climate March", 
-    "rsvp_count": 342, 
+    "rsvp_count": 343, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Karlsplatz", 
@@ -15218,7 +15218,7 @@
   {
     "city": "Owen Sound", 
     "name": "People's Climate March - Parade and Ruckus-raising!", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Owen Sound City Hall", 
@@ -17170,7 +17170,7 @@
   {
     "city": "Bel\u00e9m", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 28, 
+    "rsvp_count": 29, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a Batista Campos", 
@@ -17714,7 +17714,7 @@
   {
     "city": "Santos", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 38, 
+    "rsvp_count": 39, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a das Bandeiras - Gonzaga - Santos", 
@@ -23218,7 +23218,7 @@
   {
     "city": "Quattromiglia", 
     "name": "Marcia Globale per il Clima all'Unical", 
-    "rsvp_count": 6, 
+    "rsvp_count": 7, 
     "country": "Italy", 
     "start_time": "19:00:00", 
     "venue": "", 
@@ -30030,5 +30030,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/it/event/climate/Marcia_Globale_per_il_Clima_124", 
     "id": 4488
+  }, 
+  {
+    "city": "Aragua\u00edna", 
+    "name": "Caminhada pelo Clima", 
+    "rsvp_count": 1, 
+    "country": "Brazil", 
+    "start_time": "13:00:00", 
+    "venue": "Av filadelfia", 
+    "longitude": -48.2259231, 
+    "state": "TO", 
+    "country_code": "BR", 
+    "address": "Avenida Filad\u00e9lfia, Aragua\u00edna - TO, Rep\u00fablica Federativa do Brasil", 
+    "latitude": -7.20459, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_150", 
+    "id": 4489
   }
 ]
