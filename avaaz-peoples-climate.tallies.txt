@@ -1,4 +1,4 @@
-Number of events: 1746
+Number of events: 1747
 Number of countries: 131
 	Albania: 1
 	Algeria: 40
@@ -9,7 +9,7 @@ Number of countries: 131
 	Azerbaijan: 1
 	Bahrain: 3
 	Bangladesh: 3
-	Belarus: 2
+	Belarus: 3
 	Belgium: 24
 	Benin: 1
 	Bermuda: 1
