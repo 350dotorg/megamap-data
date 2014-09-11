@@ -1122,7 +1122,7 @@
   {
     "city": "Toronto", 
     "name": "People's Climate March", 
-    "rsvp_count": 76, 
+    "rsvp_count": 77, 
     "country": "Canada", 
     "start_time": "15:30:00", 
     "venue": "Queen's Park", 
@@ -5218,7 +5218,7 @@
   {
     "city": "Pretoria", 
     "name": "People's Climate March", 
-    "rsvp_count": 52, 
+    "rsvp_count": 53, 
     "country": "South Africa", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -25138,7 +25138,7 @@
   {
     "city": "Xalapa Enr\u00edquez", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Teatro del Estado", 
