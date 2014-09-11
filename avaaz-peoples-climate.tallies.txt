@@ -1,4 +1,4 @@
-Number of events: 1684
+Number of events: 1685
 Number of countries: 129
 	Albania: 1
 	Algeria: 40
@@ -74,7 +74,7 @@ Number of countries: 129
 	Martinique: 1
 	Mauritania: 2
 	Mauritius: 1
-	Mexico: 86
+	Mexico: 87
 	Moldova: 2
 	Morocco: 26
 	Myanmar: 1
