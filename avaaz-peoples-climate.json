@@ -66,7 +66,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 507, 
+    "rsvp_count": 509, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -178,7 +178,7 @@
   {
     "city": "Montreal", 
     "name": "Peoples' Climate March @ Montreal // Marche mondiale pour le climat @ Montr\u00e9al", 
-    "rsvp_count": 169, 
+    "rsvp_count": 170, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Parc Lafontaine", 
@@ -3698,7 +3698,7 @@
   {
     "city": "D\u00fcsseldorf", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 157, 
+    "rsvp_count": 158, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Schlossturm", 
@@ -4578,7 +4578,7 @@
   {
     "city": "Wien", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 294, 
+    "rsvp_count": 295, 
     "country": "Austria", 
     "start_time": "16:00:00", 
     "venue": "Gleich neben dem Stephansdom", 
@@ -9746,7 +9746,7 @@
   {
     "city": "Arequipa", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 17, 
+    "rsvp_count": 18, 
     "country": "Peru", 
     "start_time": "12:00:00", 
     "venue": "Parque \"Libertad de Expresi\u00f3n\"", 
@@ -16242,7 +16242,7 @@
   {
     "city": "Darmstadt", 
     "name": "Trommelkreis f\u00fcr unser Klima", 
-    "rsvp_count": 23, 
+    "rsvp_count": 24, 
     "country": "Germany", 
     "start_time": "14:30:00", 
     "venue": "Luisenplatz, 64283", 
@@ -29438,5 +29438,37 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/de/event/climate/Verkehrswendefest_an_der_Ringkirche_Wiesbaden", 
     "id": 4423
+  }, 
+  {
+    "city": "Hoffen", 
+    "name": "Klima-Aktionstag", 
+    "rsvp_count": 1, 
+    "country": "France", 
+    "start_time": "18:00:00", 
+    "venue": "1 rue de la Bitzmatt", 
+    "longitude": 7.9112736, 
+    "state": "Elsass", 
+    "country_code": "FR", 
+    "address": "1A Rue Bitzmatt, 67250 Hoffen, Frankreich", 
+    "latitude": 48.9378505, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaAktionstag_129", 
+    "id": 4424
+  }, 
+  {
+    "city": "Hoffen", 
+    "name": "Klima-Aktionstag", 
+    "rsvp_count": 1, 
+    "country": "France", 
+    "start_time": "18:00:00", 
+    "venue": "1 rue de la Bitzmatt", 
+    "longitude": 7.9112736, 
+    "state": "Elsass", 
+    "country_code": "FR", 
+    "address": "1A Rue Bitzmatt, 67250 Hoffen, Frankreich", 
+    "latitude": 48.9378505, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaAktionstag_130", 
+    "id": 4425
   }
 ]

@@ -1,4 +1,4 @@
-Number of events: 1840
+Number of events: 1842
 Number of countries: 136
 	Afghanistan: 1
 	Albania: 1
@@ -42,7 +42,7 @@ Number of countries: 136
 	El Salvador: 2
 	Estonia: 1
 	Finland: 5
-	France: 128
+	France: 130
 	French Guiana: 2
 	French Polynesia: 3
 	Georgia: 1
