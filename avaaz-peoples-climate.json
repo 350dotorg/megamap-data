@@ -18,7 +18,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1229, 
+    "rsvp_count": 1230, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -66,7 +66,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 129, 
+    "rsvp_count": 131, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -82,7 +82,7 @@
   {
     "city": "Berlin", 
     "name": "Mal schnell die Welt retten - BERLIN", 
-    "rsvp_count": 317, 
+    "rsvp_count": 318, 
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "Brandenburger Tor", 
@@ -6706,7 +6706,7 @@
   {
     "city": "Gro\u00dfenkneten", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -19986,7 +19986,7 @@
   {
     "city": "Calafell", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "", 
