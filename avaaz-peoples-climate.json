@@ -18,7 +18,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 610, 
+    "rsvp_count": 611, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 1341, 
+    "rsvp_count": 1343, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -1026,7 +1026,7 @@
   {
     "city": "Saint Paul", 
     "name": "People's Climate March Minnesota", 
-    "rsvp_count": 68, 
+    "rsvp_count": 69, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "Minnesota State Capitol", 
@@ -3202,7 +3202,7 @@
   {
     "city": "Vancouver", 
     "name": "People's Climate March", 
-    "rsvp_count": 495, 
+    "rsvp_count": 497, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Main street", 
@@ -6450,7 +6450,7 @@
   {
     "city": "Tel Aviv-Yafo", 
     "name": "\u05e0\u05d7\u05e0\u05e7\u05d9\u05dd \u05de\u05d4\u05d6\u05d9\u05d4\u05d5\u05dd - \u05d3\u05d5\u05e8\u05e9\u05d9\u05dd 100% \u05d0\u05e0\u05e8\u05d2\u05d9\u05d4 \u05e0\u05e7\u05d9\u05d9\u05d4!", 
-    "rsvp_count": 89, 
+    "rsvp_count": 90, 
     "country": "Israel", 
     "start_time": "18:00:00", 
     "venue": "\u05db\u05d9\u05db\u05e8 \u05d4\u05d1\u05d9\u05de\u05d4", 
@@ -12146,7 +12146,7 @@
   {
     "city": "Leipzig", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 74, 
+    "rsvp_count": 75, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Marktplatz", 
@@ -17842,7 +17842,7 @@
   {
     "city": "Yal\u0131kavak", 
     "name": "\u0130klim \u0130\u00e7in Halk Y\u00fcr\u00fcy\u00fc\u015f\u00fc", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Turkey", 
     "start_time": "13:00:00", 
     "venue": "Yal\u0131kavak Belediye Meydan\u0131", 
@@ -18130,7 +18130,7 @@
   {
     "city": "Bolzano", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 35, 
+    "rsvp_count": 36, 
     "country": "Italy", 
     "start_time": "16:00:00", 
     "venue": "Piazza Walter", 
@@ -18914,7 +18914,7 @@
   {
     "city": "C\u00facuta", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 17, 
+    "rsvp_count": 18, 
     "country": "Colombia", 
     "start_time": "08:00:00", 
     "venue": "av. Libertadores con av. 0", 
@@ -18946,7 +18946,7 @@
   {
     "city": "Varese", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 9, 
+    "rsvp_count": 10, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "Giardini Estensi - via Luigi Sacco Varese VA, Italia", 
@@ -29170,7 +29170,7 @@
   {
     "city": "Wiesbaden", 
     "name": "Verkehrswendefest an der Ringkirche Wiesbaden", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Germany", 
     "start_time": "12:00:00", 
     "venue": "An der Ringkirche", 
