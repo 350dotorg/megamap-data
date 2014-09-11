@@ -26658,7 +26658,7 @@
   {
     "city": "Otaki", 
     "name": "People's Climate March", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "New Zealand", 
     "start_time": "13:00:00", 
     "venue": "Haruatai Park", 
@@ -26862,5 +26862,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/phrhpydny_twny_jynghyy_hwshyr", 
     "id": 4185
+  }, 
+  {
+    "city": "Red Lake", 
+    "name": "People's Climate March - door to door", 
+    "rsvp_count": 1, 
+    "country": "Canada", 
+    "start_time": "13:00:00", 
+    "venue": "Meet at Norseman Park at 1:00 pm CST", 
+    "longitude": -93.828916, 
+    "state": "ON", 
+    "country_code": "CA", 
+    "address": "Red Lake, ON P0V, Canada", 
+    "latitude": 51.0145968, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_door_to_door", 
+    "id": 4186
   }
 ]
