@@ -1,4 +1,4 @@
-Number of events: 1708
+Number of events: 1709
 Number of countries: 131
 	Albania: 1
 	Algeria: 40
@@ -99,7 +99,7 @@ Number of countries: 131
 	Qatar: 2
 	Reunion: 1
 	Romania: 13
-	Russia: 35
+	Russia: 36
 	Saudi Arabia: 8
 	Senegal: 2
 	Serbia: 3
