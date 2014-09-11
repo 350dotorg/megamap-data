@@ -66,7 +66,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 429, 
+    "rsvp_count": 431, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -338,7 +338,7 @@
   {
     "city": "Napoli", 
     "name": "Napoli: E' tempo di cambiare...il clima !", 
-    "rsvp_count": 14, 
+    "rsvp_count": 15, 
     "country": "Italy", 
     "start_time": "18:00:00", 
     "venue": "via partenope", 
@@ -3778,7 +3778,7 @@
   {
     "city": "Porto Alegre", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 227, 
+    "rsvp_count": 228, 
     "country": "Brazil", 
     "start_time": "11:00:00", 
     "venue": "Parque Farroupilha - Reden\u00e7\u00e3o", 
@@ -8514,7 +8514,7 @@
   {
     "city": "Temuco", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 6, 
+    "rsvp_count": 7, 
     "country": "Chile", 
     "start_time": "13:00:00", 
     "venue": "Plaza de Armas", 
@@ -16578,7 +16578,7 @@
   {
     "city": "Goi\u00e2nia", 
     "name": "Recomposi\u00e7\u00e3o Total das Matas Ciliares", 
-    "rsvp_count": 250, 
+    "rsvp_count": 251, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a C\u00edvica", 
@@ -16834,7 +16834,7 @@
   {
     "city": "Divin\u00f3polis", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 7, 
+    "rsvp_count": 8, 
     "country": "Brazil", 
     "start_time": "08:00:00", 
     "venue": "Pra\u00e7a Benedito Valadares, Pra\u00e7a do Santu\u00e1rio (ao lado da Igreja do Santu\u00e1rio de Santo Ant\u00f4nio)", 
@@ -16914,7 +16914,7 @@
   {
     "city": "Fortaleza", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 27, 
+    "rsvp_count": 28, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Memorial Castelo Branco, Palacio da Aboli\u00e7\u00e3o - sede do governo do Cear\u00e1", 
