@@ -1,4 +1,4 @@
-Number of events: 1866
+Number of events: 1867
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
@@ -89,7 +89,7 @@ Number of countries: 137
 	Nicaragua: 1
 	Nigeria: 5
 	Norway: 8
-	Oman: 1
+	Oman: 2
 	Pakistan: 3
 	Palestine: 8
 	Panama: 3
