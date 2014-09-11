@@ -1,4 +1,4 @@
-Number of events: 1909
+Number of events: 1910
 Number of countries: 136
 	Afghanistan: 1
 	Albania: 1
@@ -47,7 +47,7 @@ Number of countries: 136
 	French Guiana: 2
 	French Polynesia: 3
 	Germany: 61
-	Greece: 36
+	Greece: 37
 	Guadeloupe: 3
 	Guatemala: 13
 	Guinea: 1
