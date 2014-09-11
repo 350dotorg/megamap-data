@@ -18803,7 +18803,7 @@ initData({},
   {
     "city": "\u6771\u4eac", 
     "name": "\u5e02\u6c11\u306e\u6c17\u5019\u30de\u30fc\u30c1", 
-    "rsvp_count": 10, 
+    "rsvp_count": 11, 
     "country": "Japan", 
     "start_time": "13:00:00", 
     "venue": "", 
