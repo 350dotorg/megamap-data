@@ -1,4 +1,4 @@
-Number of events: 1875
+Number of events: 1878
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
@@ -48,7 +48,7 @@ Number of countries: 137
 	French Polynesia: 3
 	Georgia: 1
 	Germany: 59
-	Greece: 33
+	Greece: 35
 	Guadeloupe: 3
 	Guatemala: 13
 	Guinea: 1
@@ -83,7 +83,7 @@ Number of countries: 137
 	Morocco: 27
 	Myanmar: 1
 	Nepal: 1
-	Netherlands: 22
+	Netherlands: 23
 	New Caledonia: 2
 	New Zealand: 23
 	Nicaragua: 1
