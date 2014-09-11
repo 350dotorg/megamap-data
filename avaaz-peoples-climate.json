@@ -18,7 +18,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 603, 
+    "rsvp_count": 604, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 1312, 
+    "rsvp_count": 1313, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -1570,7 +1570,7 @@
   {
     "city": "Marseille", 
     "name": "Marche Pour le Climat - Marseille", 
-    "rsvp_count": 210, 
+    "rsvp_count": 211, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Palais Longchamp, Marseille", 
@@ -20882,7 +20882,7 @@
   {
     "city": "Belo Horizonte", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 15, 
+    "rsvp_count": 16, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Parque das Mangabeiras -", 
@@ -28546,7 +28546,7 @@
   {
     "city": "Strasbourg", 
     "name": "Strasbourg marche Pour le Climat", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "France", 
     "start_time": "18:00:00", 
     "venue": "Parvis de l'h\u00e9micycle du Parlement Europ\u00e9en", 
