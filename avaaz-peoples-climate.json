@@ -66,7 +66,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 319, 
+    "rsvp_count": 321, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -98,7 +98,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 790, 
+    "rsvp_count": 792, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -2210,7 +2210,7 @@
   {
     "city": "Brasilia", 
     "name": "Uni\u00e3o Avaaz em Brasilia contra as Mudan\u00e7as Climaticas", 
-    "rsvp_count": 352, 
+    "rsvp_count": 354, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Esplanada dos Ministerios", 
@@ -2818,7 +2818,7 @@
   {
     "city": "Santa Eul\u00e0ria des Riu", 
     "name": "Llamamiento contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 29, 
+    "rsvp_count": 30, 
     "country": "Spain", 
     "start_time": "12:00:00", 
     "venue": "Frente al Ayuntamiento", 
@@ -3730,7 +3730,7 @@
   {
     "city": "La Coru\u00f1a", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 60, 
+    "rsvp_count": 61, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "plaza maria pita", 
@@ -4258,7 +4258,7 @@
   {
     "city": "Grenoble", 
     "name": "La marche pour le climat", 
-    "rsvp_count": 125, 
+    "rsvp_count": 126, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Hotel de ville", 
@@ -9794,7 +9794,7 @@
   {
     "city": "Nueva San Salvador", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 64, 
+    "rsvp_count": 65, 
     "country": "El Salvador", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -16722,7 +16722,7 @@
   {
     "city": "Cuiab\u00e1", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 40, 
+    "rsvp_count": 41, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "pra\u00e7a oito de abril", 
@@ -16898,7 +16898,7 @@
   {
     "city": "Uberl\u00e2ndia", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 46, 
+    "rsvp_count": 47, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a Tubal Vilela", 
@@ -18530,7 +18530,7 @@
   {
     "city": "Ciudad de M\u00e9xico", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 34, 
+    "rsvp_count": 35, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -20610,7 +20610,7 @@
   {
     "city": "Goi\u00e2nia", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 17, 
+    "rsvp_count": 18, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a C\u00edvica, setor Sul", 
@@ -21154,7 +21154,7 @@
   {
     "city": "Belo Horizonte", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Parque das Mangabeiras -", 
@@ -21602,7 +21602,7 @@
   {
     "city": "Bras\u00edlia", 
     "name": "People's Climate March", 
-    "rsvp_count": 7, 
+    "rsvp_count": 8, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Esplanada dos Minist\u00e9rios", 
@@ -25026,7 +25026,7 @@
   {
     "city": "Banfield", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Argentina", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -28546,7 +28546,7 @@
   {
     "city": "Roma", 
     "name": "Meditazione Globale per il Clima", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Italy", 
     "start_time": "18:30:00", 
     "venue": "", 
@@ -28686,5 +28686,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/Marcha_Ciudadana_contra_el_Cambio_Climatico_Santiago_de_Chile_1", 
     "id": 4347
+  }, 
+  {
+    "city": "Cassil\u00e2ndia", 
+    "name": "Caminhada pelo Clima", 
+    "rsvp_count": 1, 
+    "country": "Brazil", 
+    "start_time": "13:00:00", 
+    "venue": "Pra\u00e7a S\u00e3o Jos\u00e9", 
+    "longitude": -51.734498, 
+    "state": "MS", 
+    "country_code": "BR", 
+    "address": "Pra\u00e7a S\u00e3o Jos\u00e9 - \u30bb\u30f3\u30c8\u30ed Cassil\u00e2ndia - MS, Rep\u00fablica Federativa do Brasil", 
+    "latitude": -19.1131056, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_132", 
+    "id": 4350
   }
 ]
