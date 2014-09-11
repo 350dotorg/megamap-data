@@ -1954,7 +1954,7 @@
   {
     "city": "San Juan", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 101, 
+    "rsvp_count": 102, 
     "country": "Puerto Rico", 
     "start_time": "13:00:00", 
     "venue": "Capitolio", 
@@ -3202,7 +3202,7 @@
   {
     "city": "Saskatoon", 
     "name": "People's Climate March", 
-    "rsvp_count": 44, 
+    "rsvp_count": 45, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Friendship Park", 
@@ -9874,7 +9874,7 @@
   {
     "city": "Miraflores", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 90, 
+    "rsvp_count": 91, 
     "country": "Peru", 
     "start_time": "13:00:00", 
     "venue": "28 de julio", 
@@ -13618,7 +13618,7 @@
   {
     "city": "\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 10, 
+    "rsvp_count": 11, 
     "country": "Russia", 
     "start_time": "13:00:00", 
     "venue": "\u041c\u0438\u0440\u0430 \u041e\u0431\u043e\u0440\u043e\u043d\u044b", 
@@ -22578,7 +22578,7 @@
   {
     "city": "La Plata", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 12, 
+    "rsvp_count": 13, 
     "country": "Argentina", 
     "start_time": "13:00:00", 
     "venue": "Plaza Moreno LA PLATA Buenos Aires Argentina", 
@@ -26894,5 +26894,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1470", 
     "id": 4187
+  }, 
+  {
+    "city": "\u0411\u0435\u043b\u043e\u0432\u043e", 
+    "name": "People's Climate March", 
+    "rsvp_count": 1, 
+    "country": "Russia", 
+    "start_time": "13:00:00", 
+    "venue": "\u042e\u0431\u0438\u043b\u0435\u0439\u043d\u0430\u044f", 
+    "longitude": 86.2951538, 
+    "state": "\u041a\u0435\u043c\u0435\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", 
+    "country_code": "RU", 
+    "address": "\u042e\u0431\u0438\u043b\u0435\u0439\u043d\u0430\u044f \u0443\u043b\u0438\u0446\u0430, \u0411\u0435\u043b\u043e\u0432\u043e, \u041a\u0435\u043c\u0435\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0420\u043e\u0441\u0441\u0438\u044f", 
+    "latitude": 54.4116866, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1471", 
+    "id": 4188
   }
 ]
