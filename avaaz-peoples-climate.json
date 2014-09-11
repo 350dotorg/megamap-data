@@ -2,7 +2,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1507, 
+    "rsvp_count": 1510, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -18,7 +18,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 605, 
+    "rsvp_count": 607, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 1328, 
+    "rsvp_count": 1335, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -2850,7 +2850,7 @@
   {
     "city": "Milano", 
     "name": "Climate March", 
-    "rsvp_count": 237, 
+    "rsvp_count": 238, 
     "country": "Italy", 
     "start_time": "10:00:00", 
     "venue": "", 
@@ -3714,7 +3714,7 @@
   {
     "city": "Porto Alegre", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 247, 
+    "rsvp_count": 248, 
     "country": "Brazil", 
     "start_time": "11:00:00", 
     "venue": "Parque Farroupilha - Reden\u00e7\u00e3o", 
@@ -8610,7 +8610,7 @@
   {
     "city": "Cinisello Balsamo", 
     "name": "una giornata al parco nord pensando al clima", 
-    "rsvp_count": 23, 
+    "rsvp_count": 24, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "cinisello balsamo parco nord", 
@@ -15842,7 +15842,7 @@
   {
     "city": "Torino", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 115, 
+    "rsvp_count": 116, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "PIAZZA CASTELLO", 
@@ -23234,7 +23234,7 @@
   {
     "city": "Modena", 
     "name": "Marcia Globale per il Clima \u2022 Bike \u2022 Percorso natura fiume Panaro", 
-    "rsvp_count": 18, 
+    "rsvp_count": 19, 
     "country": "Italy", 
     "start_time": "11:00:00", 
     "venue": "Parco Ducale Estense (Giardini Pubblici) Modena", 
@@ -24882,7 +24882,7 @@
   {
     "city": "Villahermosa", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 17, 
+    "rsvp_count": 18, 
     "country": "Mexico", 
     "start_time": "10:00:00", 
     "venue": "Parque Tomas Garrido", 
@@ -26210,7 +26210,7 @@
   {
     "city": "S\u00e3o Jos\u00e9 dos Campos", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 15, 
+    "rsvp_count": 16, 
     "country": "Brazil", 
     "start_time": "11:00:00", 
     "venue": "Parque Vicentina Aranha", 
@@ -29952,17 +29952,17 @@
     "id": 4483
   }, 
   {
-    "city": "", 
+    "city": "Midlands", 
     "name": "People's Climate March", 
     "rsvp_count": 1, 
     "country": "Mauritius", 
     "start_time": "13:00:00", 
     "venue": "", 
-    "longitude": 57.4730477, 
-    "state": "", 
+    "longitude": 57.578379, 
+    "state": "Moka", 
     "country_code": "MU", 
-    "address": "", 
-    "latitude": -20.2130533, 
+    "address": "Pitel - La Chartreuse Road, Midlands, Mauritius", 
+    "latitude": -20.3259883, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1515", 
     "id": 4484
