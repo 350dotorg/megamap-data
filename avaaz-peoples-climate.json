@@ -2,7 +2,7 @@
   {
     "city": "Melbourne", 
     "name": "Melbourne Climate March", 
-    "rsvp_count": 514, 
+    "rsvp_count": 515, 
     "country": "Australia", 
     "start_time": "11:00:00", 
     "venue": "State Library", 
@@ -18,7 +18,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1151, 
+    "rsvp_count": 1152, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -98,7 +98,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 605, 
+    "rsvp_count": 606, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -3010,7 +3010,7 @@
   {
     "city": "Toulouse", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 240, 
+    "rsvp_count": 241, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "place du capitole", 
@@ -19202,7 +19202,7 @@
   {
     "city": "Remagen", 
     "name": "Klima Aktionstag", 
-    "rsvp_count": 13, 
+    "rsvp_count": 14, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Marktplatz", 
@@ -22674,7 +22674,7 @@
   {
     "city": "Vigo", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 39, 
+    "rsvp_count": 40, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Farola de Urz\u00e1iz, r\u00faa de Urz\u00e1iz, esquina coa r\u00faa de Col\u00f3n", 
@@ -23874,7 +23874,7 @@
   {
     "city": "Cardigan", 
     "name": "Concerned People's Climate Vigil in conjuction with support for Drape the Drones & Intrnational Day of Peace on 21st September.", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "United Kingdom", 
     "start_time": "11:00:00", 
     "venue": "", 
@@ -26834,7 +26834,7 @@
   {
     "city": "Oviedo", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "la escandalera", 
