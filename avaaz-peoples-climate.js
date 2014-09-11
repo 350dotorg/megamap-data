@@ -19,7 +19,7 @@ initData({},
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1102, 
+    "rsvp_count": 1103, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
