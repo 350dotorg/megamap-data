@@ -1,4 +1,4 @@
-Number of events: 1730
+Number of events: 1731
 Number of countries: 131
 	Albania: 1
 	Algeria: 40
@@ -119,7 +119,7 @@ Number of countries: 131
 	Togo: 1
 	Trinidad and Tobago: 1
 	Tunisia: 6
-	Turkey: 18
+	Turkey: 19
 	Uganda: 2
 	Ukraine: 38
 	United Arab Emirates: 2

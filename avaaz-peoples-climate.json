@@ -98,7 +98,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 427, 
+    "rsvp_count": 431, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -2130,7 +2130,7 @@
   {
     "city": "Hamburg", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 231, 
+    "rsvp_count": 232, 
     "country": "Germany", 
     "start_time": "16:00:00", 
     "venue": "vor dem Rathaus", 
@@ -3266,7 +3266,7 @@
   {
     "city": "Vancouver", 
     "name": "People's Climate March", 
-    "rsvp_count": 464, 
+    "rsvp_count": 465, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Main street", 
@@ -4178,7 +4178,7 @@
   {
     "city": "\u041a\u0438\u0435\u0432", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 100, 
+    "rsvp_count": 101, 
     "country": "Ukraine", 
     "start_time": "13:00:00", 
     "venue": "\u041c\u0435\u0442\u0440\u043e \"\u0417\u043e\u043b\u043e\u0442\u044b\u0435 \u0432\u043e\u0440\u043e\u0442\u0430\"", 
@@ -9010,7 +9010,7 @@
   {
     "city": "Valencia", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 148, 
+    "rsvp_count": 149, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -16578,7 +16578,7 @@
   {
     "city": "Groningen", 
     "name": "Actiedag voor het Klimaat", 
-    "rsvp_count": 35, 
+    "rsvp_count": 36, 
     "country": "Netherlands", 
     "start_time": "13:00:00", 
     "venue": "Grote Markt", 
@@ -23826,7 +23826,7 @@
   {
     "city": "Chamb\u00e9ry", 
     "name": "Chamb\u00e9ry : \"Marche pour le climat", 
-    "rsvp_count": 20, 
+    "rsvp_count": 21, 
     "country": "France", 
     "start_time": "15:00:00", 
     "venue": "Parc du Verney", 
@@ -27678,5 +27678,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_223", 
     "id": 4236
+  }, 
+  {
+    "city": "Trabzon", 
+    "name": "People's Climate March", 
+    "rsvp_count": 1, 
+    "country": "Turkey", 
+    "start_time": "13:00:00", 
+    "venue": "-", 
+    "longitude": 39.7240492, 
+    "state": "Trabzon", 
+    "country_code": "TR", 
+    "address": "Trabzon, 61000 Trabzon/Trabzon, T\u00fcrkiye", 
+    "latitude": 41.00355, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1484", 
+    "id": 4237
   }
 ]
