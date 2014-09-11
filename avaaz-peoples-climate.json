@@ -66,7 +66,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 509, 
+    "rsvp_count": 511, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -6578,7 +6578,7 @@
   {
     "city": "Graz", 
     "name": "Graz, Hauptplatz", 
-    "rsvp_count": 147, 
+    "rsvp_count": 149, 
     "country": "Austria", 
     "start_time": "13:00:00", 
     "venue": "Hauptplatz vor dem Rathaus", 
@@ -10610,7 +10610,7 @@
   {
     "city": "Durango", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 28, 
+    "rsvp_count": 29, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Plaza IV centenario zona centro", 
@@ -16418,7 +16418,7 @@
   {
     "city": "Barranquilla", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 22, 
+    "rsvp_count": 23, 
     "country": "Colombia", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -29534,5 +29534,37 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaAktionstag_134", 
     "id": 4429
+  }, 
+  {
+    "city": "Hoffen", 
+    "name": "Klima-Aktionstag", 
+    "rsvp_count": 1, 
+    "country": "France", 
+    "start_time": "18:00:00", 
+    "venue": "", 
+    "longitude": 7.9112736, 
+    "state": "Elsass", 
+    "country_code": "FR", 
+    "address": "1A Rue Bitzmatt, 67250 Hoffen, Frankreich", 
+    "latitude": 48.9378505, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaAktionstag_135", 
+    "id": 4430
+  }, 
+  {
+    "city": "Hoffen", 
+    "name": "Klima-Aktionstag", 
+    "rsvp_count": 1, 
+    "country": "France", 
+    "start_time": "18:00:00", 
+    "venue": "maison GABRIEL", 
+    "longitude": 7.9112736, 
+    "state": "Elsass", 
+    "country_code": "FR", 
+    "address": "", 
+    "latitude": 48.9378505, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaAktionstag_136", 
+    "id": 4431
   }
 ]
