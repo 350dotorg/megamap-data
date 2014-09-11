@@ -3682,7 +3682,7 @@
   {
     "city": "Bietigheim-Bissingen", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 13, 
+    "rsvp_count": 14, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Ku(h)riosum", 
@@ -5938,7 +5938,7 @@
   {
     "city": "Salisbury", 
     "name": "People's Climate March", 
-    "rsvp_count": 33, 
+    "rsvp_count": 34, 
     "country": "United Kingdom", 
     "start_time": "13:00:00", 
     "venue": "cathedral, city centre", 
@@ -10402,7 +10402,7 @@
   {
     "city": "Munich", 
     "name": "People's Climate March", 
-    "rsvp_count": 278, 
+    "rsvp_count": 279, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Karlsplatz", 
@@ -11122,7 +11122,7 @@
   {
     "city": "Madrid", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 437, 
+    "rsvp_count": 438, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Cada persona en la puerta de su casa: Inundemos las aceras de la ciudad.", 
@@ -14466,7 +14466,7 @@
   {
     "city": "Cambridge", 
     "name": "People's Climate March", 
-    "rsvp_count": 39, 
+    "rsvp_count": 40, 
     "country": "United Kingdom", 
     "start_time": "13:00:00", 
     "venue": "Kings parade", 
@@ -19585,11 +19585,11 @@
   }, 
   {
     "city": "Vilnius", 
-    "name": "Prisijunk prie \u201eKlimato kaitos \u017eygio\u201c!", 
+    "name": "Klimato kaitos \u017eygis Vilniuje", 
     "rsvp_count": 15, 
     "country": "Lithuania", 
     "start_time": "13:00:00", 
-    "venue": "\u017dygis prasid\u0117s nuo Prezident\u016bros (S. Daukanto aik\u0161t\u0117) ir pajud\u0117s Gedimino prospektu iki Vyriausyb\u0117s r\u016bm\u0173 (sustosime V. Kudirkos aik\u0161t\u0117je).", 
+    "venue": "\u017dygis prasid\u0117s nuo Prezident\u016bros (S. Daukanto aik\u0161t\u0117) ir pajud\u0117s iki Vyriausyb\u0117s r\u016bm\u0173.", 
     "longitude": 25.2881752, 
     "state": "Vilniaus apskr.", 
     "country_code": "LT", 
@@ -20786,7 +20786,7 @@
   {
     "city": "Brest", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 18, 
+    "rsvp_count": 19, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "brest", 
@@ -21138,7 +21138,7 @@
   {
     "city": "Lancaster", 
     "name": "People's Climate Picnic", 
-    "rsvp_count": 6, 
+    "rsvp_count": 7, 
     "country": "United Kingdom", 
     "start_time": "13:00:00", 
     "venue": "Market Square, in front of the museum", 
@@ -27666,7 +27666,7 @@
   {
     "city": "Thonon-les-Bains", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Place de la Mairie", 
@@ -28002,7 +28002,7 @@
   {
     "city": "\u041a\u0438\u0435\u0432", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Ukraine", 
     "start_time": "13:00:00", 
     "venue": "\u043c\u0430\u0439\u0434\u0430\u043d \u043d\u0435\u0437\u0430\u043b\u0435\u0436\u043d\u043e\u0441\u0442\u0438", 
