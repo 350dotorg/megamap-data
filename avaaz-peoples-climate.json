@@ -18,7 +18,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1148, 
+    "rsvp_count": 1149, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -98,7 +98,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 593, 
+    "rsvp_count": 595, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -914,7 +914,7 @@
   {
     "city": "Dresden", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 84, 
+    "rsvp_count": 85, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "S\u00e4chsischer Landtag", 
@@ -2754,7 +2754,7 @@
   {
     "city": "Li\u00e8ge", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 58, 
+    "rsvp_count": 59, 
     "country": "Belgium", 
     "start_time": "13:00:00", 
     "venue": "Universit\u00e9 de Li\u00e8ge, Place du XX Ao\u00fbt", 
@@ -3140,13 +3140,13 @@
     "name": "Marche Pour le Climat", 
     "rsvp_count": 246, 
     "country": "France", 
-    "start_time": "15:00:00", 
-    "venue": "Terreaux - Carnot", 
-    "longitude": 4.8268318, 
+    "start_time": "14:00:00", 
+    "venue": "Terreaux", 
+    "longitude": 4.8334089, 
     "state": "RA", 
     "country_code": "FR", 
-    "address": "Place Carnot, 69002 Lyon, France", 
-    "latitude": 45.7510397, 
+    "address": "Place des Terreaux, 69001 Lyon, France", 
+    "latitude": 45.76774, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_46", 
     "id": 2136
@@ -5506,7 +5506,7 @@
   {
     "city": "Blandford Forum", 
     "name": "People's Climate March", 
-    "rsvp_count": 10, 
+    "rsvp_count": 11, 
     "country": "United Kingdom", 
     "start_time": "13:00:00", 
     "venue": "Pump", 
@@ -6002,7 +6002,7 @@
   {
     "city": "Galway", 
     "name": "People's Climate March", 
-    "rsvp_count": 71, 
+    "rsvp_count": 72, 
     "country": "Ireland", 
     "start_time": "13:00:00", 
     "venue": "Eyre Square", 
@@ -10226,7 +10226,7 @@
   {
     "city": "San Sebasti\u00e1n", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 49, 
+    "rsvp_count": 50, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -11154,7 +11154,7 @@
   {
     "city": "Madrid", 
     "name": "La Marcha Ciudadana por la Naturaleza, la Vida y Evoluci\u00f3n Humana", 
-    "rsvp_count": 192, 
+    "rsvp_count": 193, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "La Puerta de La Tabacalera", 
@@ -18386,7 +18386,7 @@
   {
     "city": "\u03a4\u03c1\u03af\u03ba\u03b1\u03bb\u03b1", 
     "name": "\u03a0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u039b\u03b1\u03ce\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
-    "rsvp_count": 6, 
+    "rsvp_count": 7, 
     "country": "Greece", 
     "start_time": "13:00:00", 
     "venue": "\u03ba\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03b7 \u03c0\u03bb\u03b1\u03c4\u03b9\u03b1", 
@@ -25394,7 +25394,7 @@
   {
     "city": "Le\u00f3n", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Plaza de S. Marcos", 
