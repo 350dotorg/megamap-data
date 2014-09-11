@@ -1,5 +1,5 @@
-Number of events: 1767
-Number of countries: 133
+Number of events: 1768
+Number of countries: 134
 	Albania: 1
 	Algeria: 40
 	Argentina: 58
@@ -127,6 +127,7 @@ Number of countries: 133
 	United Kingdom: 55
 	United States of America: 64
 	Uruguay: 11
+	Uzbekistan: 1
 	Venezuela: 23
 	Vietnam: 1
 	Western Sahara: 1
