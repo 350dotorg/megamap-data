@@ -4274,7 +4274,7 @@
   {
     "city": "Amsterdam", 
     "name": "Amsterdam People's Climate March \u2764\ufe0e De mars van de Klimmuur naar het slotevent op de EYE kade", 
-    "rsvp_count": 81, 
+    "rsvp_count": 82, 
     "country": "Netherlands", 
     "start_time": "17:00:00", 
     "venue": "Plein bij de Klimmuur", 
@@ -11122,7 +11122,7 @@
   {
     "city": "Madrid", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 389, 
+    "rsvp_count": 390, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Cada persona en la puerta de su casa: Inundemos las aceras de la ciudad.", 
@@ -12018,7 +12018,7 @@
   {
     "city": "Maribor", 
     "name": "Zeleno drevo, moje zdravje", 
-    "rsvp_count": 24, 
+    "rsvp_count": 25, 
     "country": "Slovenia", 
     "start_time": "19:00:00", 
     "venue": "Zeleno drevo, moje zdravje", 
@@ -12370,7 +12370,7 @@
   {
     "city": "Leipzig", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 49, 
+    "rsvp_count": 50, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Marktplatz", 
@@ -15074,7 +15074,7 @@
   {
     "city": "Spital am Pyhrn", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 10, 
+    "rsvp_count": 11, 
     "country": "Austria", 
     "start_time": "13:00:00", 
     "venue": "Campingplatz Pyhrn-Priel, Gasthaus \"Hummel in der Au\"", 
@@ -27602,7 +27602,7 @@
   {
     "city": "Amsterdam", 
     "name": "People's Climate March", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Netherlands", 
     "start_time": "18:00:00", 
     "venue": "Eye Film Museum - Peoples Climate March slotevenement", 
@@ -27646,5 +27646,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaAktionstag_116", 
     "id": 4234
+  }, 
+  {
+    "city": "Cartagena", 
+    "name": "Concentraci\u00f3n Ciudadana contra el Cambio Clim\u00e1tico", 
+    "rsvp_count": 1, 
+    "country": "Spain", 
+    "start_time": "12:00:00", 
+    "venue": "Parque de Los Juncos", 
+    "longitude": -0.98751119999997, 
+    "state": "Regi\u00f3n de Murcia", 
+    "country_code": "ES", 
+    "address": "Parque de Los Juncos, Cartagena, Murcia, Espa\u00f1a", 
+    "latitude": 37.6108484, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/es/event/climate/Concentracion_Ciudadana_contra_el_Cambio_Climatico_1", 
+    "id": 4235
   }
 ]
