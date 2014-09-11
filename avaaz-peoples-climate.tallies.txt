@@ -1,11 +1,11 @@
-Number of events: 1727
+Number of events: 1728
 Number of countries: 131
 	Albania: 1
 	Algeria: 40
 	Argentina: 58
 	Armenia: 3
 	Australia: 47
-	Austria: 21
+	Austria: 22
 	Azerbaijan: 1
 	Bahrain: 3
 	Bangladesh: 3
