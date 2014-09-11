@@ -50,7 +50,7 @@
   {
     "city": "New Delhi", 
     "name": "People's Climate March in Delhi", 
-    "rsvp_count": 80, 
+    "rsvp_count": 81, 
     "country": "India", 
     "start_time": "10:00:00", 
     "venue": "Mandi House", 
@@ -66,7 +66,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 564, 
+    "rsvp_count": 565, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -418,7 +418,7 @@
   {
     "city": "Alicante", 
     "name": "People's Climate March - Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 117, 
+    "rsvp_count": 118, 
     "country": "Spain", 
     "start_time": "19:00:00", 
     "venue": "Escaleras del Instituto Jorge Juan", 
@@ -642,7 +642,7 @@
   {
     "city": "Genova", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 74, 
+    "rsvp_count": 75, 
     "country": "Italy", 
     "start_time": "11:00:00", 
     "venue": "Piazza De Ferrari", 
@@ -914,7 +914,7 @@
   {
     "city": "Dresden", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 101, 
+    "rsvp_count": 102, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "S\u00e4chsischer Landtag", 
@@ -1250,7 +1250,7 @@
   {
     "city": "Bristol", 
     "name": "Bristol People's Climate March", 
-    "rsvp_count": 310, 
+    "rsvp_count": 311, 
     "country": "United Kingdom", 
     "start_time": "14:30:00", 
     "venue": "Castle Park", 
@@ -1810,7 +1810,7 @@
   {
     "city": "Verona", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 71, 
+    "rsvp_count": 72, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "Piazza Bra", 
@@ -6626,7 +6626,7 @@
   {
     "city": "Tel Aviv-Yafo", 
     "name": "\u05e0\u05d7\u05e0\u05e7\u05d9\u05dd \u05de\u05d4\u05d6\u05d9\u05d4\u05d5\u05dd - \u05d3\u05d5\u05e8\u05e9\u05d9\u05dd 100% \u05d0\u05e0\u05e8\u05d2\u05d9\u05d4 \u05e0\u05e7\u05d9\u05d9\u05d4!", 
-    "rsvp_count": 87, 
+    "rsvp_count": 88, 
     "country": "Israel", 
     "start_time": "18:00:00", 
     "venue": "\u05db\u05d9\u05db\u05e8 \u05d4\u05d1\u05d9\u05de\u05d4", 
@@ -7522,7 +7522,7 @@
   {
     "city": "Trento", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 34, 
+    "rsvp_count": 35, 
     "country": "Italy", 
     "start_time": "14:00:00", 
     "venue": "Piazza Duomo", 
@@ -11106,7 +11106,7 @@
   {
     "city": "Madrid", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 481, 
+    "rsvp_count": 482, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Cada persona en la puerta de su casa: Inundemos las aceras de la ciudad.", 
@@ -25698,7 +25698,7 @@
   {
     "city": "Gdynia", 
     "name": "Marsz dla Klimatu", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Poland", 
     "start_time": "13:00:00", 
     "venue": "Pod Urz\u0119dem Miasta- \u015awi\u0119toja\u0144ska", 
