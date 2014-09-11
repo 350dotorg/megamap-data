@@ -2,7 +2,7 @@
   {
     "city": "Melbourne", 
     "name": "Melbourne Climate March", 
-    "rsvp_count": 525, 
+    "rsvp_count": 526, 
     "country": "Australia", 
     "start_time": "11:00:00", 
     "venue": "State Library", 
@@ -98,7 +98,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 612, 
+    "rsvp_count": 613, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -1346,7 +1346,7 @@
   {
     "city": "Nantes", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 205, 
+    "rsvp_count": 206, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Ile de Nantes - Grue Titan Jaune", 
@@ -1906,7 +1906,7 @@
   {
     "city": "Freiburg im Breisgau", 
     "name": "Klimaevent", 
-    "rsvp_count": 91, 
+    "rsvp_count": 92, 
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "Ecke Bertoldstr./Niemenstr.", 
@@ -3810,7 +3810,7 @@
   {
     "city": "Frankfurt am Main", 
     "name": "KLIMA-AKTIONSTAG FRANKFURT AM MAIN", 
-    "rsvp_count": 152, 
+    "rsvp_count": 153, 
     "country": "Germany", 
     "start_time": "10:00:00", 
     "venue": "Zwischen R\u00f6mer und Zeil", 
@@ -6018,7 +6018,7 @@
   {
     "city": "Manchester", 
     "name": "People's Climate March", 
-    "rsvp_count": 107, 
+    "rsvp_count": 108, 
     "country": "United Kingdom", 
     "start_time": "11:00:00", 
     "venue": "Piccadilly gardens", 
@@ -6882,7 +6882,7 @@
   {
     "city": "Ciudad de M\u00e9xico", 
     "name": "La Marcha Chilanga contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 88, 
+    "rsvp_count": 89, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "\u00c1ngel de la Independencia", 
@@ -18706,7 +18706,7 @@
   {
     "city": "Honolulu", 
     "name": "People's Climate March", 
-    "rsvp_count": 18, 
+    "rsvp_count": 19, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -27698,7 +27698,7 @@
   {
     "city": "newport pembs", 
     "name": "People's Climate March", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "United Kingdom", 
     "start_time": "11:00:00", 
     "venue": "high street pembrokeshire by the bank", 
