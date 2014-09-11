@@ -18,7 +18,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1303, 
+    "rsvp_count": 1305, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -66,7 +66,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 431, 
+    "rsvp_count": 434, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -98,7 +98,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 820, 
+    "rsvp_count": 821, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -4322,7 +4322,7 @@
   {
     "city": "Lille", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 176, 
+    "rsvp_count": 177, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -7234,7 +7234,7 @@
   {
     "city": "Santo Domingo", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 87, 
+    "rsvp_count": 88, 
     "country": "Dominican Republic", 
     "start_time": "13:00:00", 
     "venue": "Plaza la bandera", 
@@ -10386,7 +10386,7 @@
   {
     "city": "Munich", 
     "name": "People's Climate March", 
-    "rsvp_count": 290, 
+    "rsvp_count": 292, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Karlsplatz", 
@@ -20866,7 +20866,7 @@
   {
     "city": "Ploemeur", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 11, 
+    "rsvp_count": 12, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Centre ville", 
@@ -22946,7 +22946,7 @@
   {
     "city": "Petaling Jaya", 
     "name": "People's Climate March", 
-    "rsvp_count": 28, 
+    "rsvp_count": 29, 
     "country": "Malaysia", 
     "start_time": "13:00:00", 
     "venue": "Stadium MPPJ", 
@@ -24386,7 +24386,7 @@
   {
     "city": "Cagnes-sur-Mer", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "port du cros de cagnes", 
@@ -24642,7 +24642,7 @@
   {
     "city": "M\u00e9rida", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 7, 
+    "rsvp_count": 8, 
     "country": "Mexico", 
     "start_time": "10:00:00", 
     "venue": "monumento a la bandera. Paseo de Montejo.", 
@@ -25410,7 +25410,7 @@
   {
     "city": "Chihuahua", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -26578,7 +26578,7 @@
   {
     "city": "Buenos Aires", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 11, 
+    "rsvp_count": 12, 
     "country": "Argentina", 
     "start_time": "13:00:00", 
     "venue": "plaza montecastro miranda mercedes gualeguaychu elpidio gonzalez", 
@@ -29134,5 +29134,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_451", 
     "id": 4385
+  }, 
+  {
+    "city": "Ciudad Obreg\u00f3n", 
+    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
+    "rsvp_count": 1, 
+    "country": "Mexico", 
+    "start_time": "13:00:00", 
+    "venue": "Laguna del N\u00e1inari", 
+    "longitude": -109.969783, 
+    "state": "SON", 
+    "country_code": "MX", 
+    "address": "Laguna del N\u00e1inari, Laguna Nainari, 85137 Ciudad Obreg\u00f3n, SON, M\u00e9xico", 
+    "latitude": 27.4976781, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_452", 
+    "id": 4388
   }
 ]

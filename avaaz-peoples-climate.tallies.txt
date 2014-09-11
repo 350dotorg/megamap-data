@@ -1,4 +1,4 @@
-Number of events: 1821
+Number of events: 1822
 Number of countries: 135
 	Afghanistan: 1
 	Albania: 1
@@ -76,7 +76,7 @@ Number of countries: 135
 	Martinique: 2
 	Mauritania: 2
 	Mauritius: 1
-	Mexico: 94
+	Mexico: 95
 	Moldova: 2
 	Morocco: 27
 	Myanmar: 1
