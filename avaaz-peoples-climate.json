@@ -2,7 +2,7 @@
   {
     "city": "Melbourne", 
     "name": "Melbourne Climate March", 
-    "rsvp_count": 607, 
+    "rsvp_count": 608, 
     "country": "Australia", 
     "start_time": "11:00:00", 
     "venue": "State Library", 
@@ -66,7 +66,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 98, 
+    "rsvp_count": 99, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -8674,7 +8674,7 @@
   {
     "city": "Stuttgart", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 97, 
+    "rsvp_count": 98, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Fu\u00dfg\u00e4ngerzone S-Untertr\u00fcrkheim", 
@@ -18802,7 +18802,7 @@
   {
     "city": "\u6771\u4eac", 
     "name": "\u5e02\u6c11\u306e\u6c17\u5019\u30de\u30fc\u30c1", 
-    "rsvp_count": 15, 
+    "rsvp_count": 16, 
     "country": "Japan", 
     "start_time": "13:00:00", 
     "venue": "", 
