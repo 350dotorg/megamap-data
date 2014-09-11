@@ -98,7 +98,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 1014, 
+    "rsvp_count": 1013, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -29998,21 +29998,5 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1514", 
     "id": 4471
-  }, 
-  {
-    "city": "Varik", 
-    "name": "Actiedag voor het Klimaat", 
-    "rsvp_count": 1, 
-    "country": "Netherlands", 
-    "start_time": "13:00:00", 
-    "venue": "", 
-    "longitude": 5.3775124, 
-    "state": "GE", 
-    "country_code": "NL", 
-    "address": "Waalbandijk 8, 4064 CB Varik, The Netherlands", 
-    "latitude": 51.826529, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/nl/event/climate/Actiedag_voor_het_Klimaat_26", 
-    "id": 4472
   }
 ]
