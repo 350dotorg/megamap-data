@@ -18,7 +18,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1355, 
+    "rsvp_count": 1356, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -98,7 +98,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 964, 
+    "rsvp_count": 965, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -354,7 +354,7 @@
   {
     "city": "Napoli", 
     "name": "Napoli: E'tempo di cambiare ... il clima", 
-    "rsvp_count": 70, 
+    "rsvp_count": 71, 
     "country": "Italy", 
     "start_time": "18:00:00", 
     "venue": "napoli", 
@@ -4242,7 +4242,7 @@
   {
     "city": "\u041e\u0434\u0435\u0441\u0441\u0430", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 62, 
+    "rsvp_count": 63, 
     "country": "Ukraine", 
     "start_time": "13:00:00", 
     "venue": "\u0413\u043b\u0430\u0432\u043f\u043e\u0447\u0442\u0430\u043c\u043f", 
@@ -4290,7 +4290,7 @@
   {
     "city": "Moscow", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 159, 
+    "rsvp_count": 160, 
     "country": "Russia", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -4882,7 +4882,7 @@
   {
     "city": "Zaragoza", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 129, 
+    "rsvp_count": 130, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Plaza de Espa\u00f1a", 
@@ -6450,7 +6450,7 @@
   {
     "city": "Rouen", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 67, 
+    "rsvp_count": 68, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "palais de justice", 
@@ -8402,7 +8402,7 @@
   {
     "city": "Brome", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 18, 
+    "rsvp_count": 19, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -16562,7 +16562,7 @@
   {
     "city": "Goi\u00e2nia", 
     "name": "Recomposi\u00e7\u00e3o Total das Matas Ciliares", 
-    "rsvp_count": 287, 
+    "rsvp_count": 289, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a C\u00edvica", 
@@ -18898,7 +18898,7 @@
   {
     "city": "Pesqueira", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a Dom Jos\u00e9 Lopes", 
@@ -21378,7 +21378,7 @@
   {
     "city": "Playa del Carmen", 
     "name": "People's Climate March", 
-    "rsvp_count": 12, 
+    "rsvp_count": 13, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Plaza municipal", 
@@ -22066,7 +22066,7 @@
   {
     "city": "Adrogu\u00e9", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 12, 
+    "rsvp_count": 13, 
     "country": "Argentina", 
     "start_time": "13:00:00", 
     "venue": "Adrogu\u00e9", 
@@ -24210,7 +24210,7 @@
   {
     "city": "Heidelberg", 
     "name": "Infost\u00e4nde und Mitmachaktionen", 
-    "rsvp_count": 9, 
+    "rsvp_count": 10, 
     "country": "Germany", 
     "start_time": "11:00:00", 
     "venue": "Bunsenplatz am Psychologischen Institut", 
