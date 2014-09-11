@@ -18,7 +18,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 614, 
+    "rsvp_count": 615, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 1363, 
+    "rsvp_count": 1368, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -8338,7 +8338,7 @@
   {
     "city": "Concepci\u00f3n del Uruguay", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Argentina", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -23618,7 +23618,7 @@
   {
     "city": "Barcelona", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 64, 
+    "rsvp_count": 65, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "CALLE LA ERA N\u00ba 5, FRENTE AL AYUNTAMIENTO", 
@@ -28338,7 +28338,7 @@
   {
     "city": "Santiago Province", 
     "name": "Marcha Ciudadana contra el Cambio Clim\u00e1tico, MAC Santiago de Chile", 
-    "rsvp_count": 31, 
+    "rsvp_count": 32, 
     "country": "Chile", 
     "start_time": "12:00:00", 
     "venue": "Jos\u00e9 Victorino Lastarria 307, Plaza Mulato Gil de Castro (Metro U. Cat\u00f3lica y/o Bellas Artes)", 
@@ -28786,7 +28786,7 @@
   {
     "city": "Porto Alegre", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 27, 
+    "rsvp_count": 28, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "", 
