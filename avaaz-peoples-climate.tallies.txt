@@ -1,4 +1,4 @@
-Number of events: 1707
+Number of events: 1708
 Number of countries: 131
 	Albania: 1
 	Algeria: 40
@@ -82,7 +82,7 @@ Number of countries: 131
 	Nepal: 1
 	Netherlands: 17
 	New Caledonia: 2
-	New Zealand: 20
+	New Zealand: 21
 	Nicaragua: 1
 	Nigeria: 5
 	Norway: 6
