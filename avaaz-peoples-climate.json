@@ -1282,7 +1282,7 @@
   {
     "city": "\u0420\u043e\u0441\u0442\u043e\u0432-\u043d\u0430-\u0414\u043e\u043d\u0443", 
     "name": "\u0412\u0441\u0435\u043c\u0438\u0440\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 14, 
+    "rsvp_count": 15, 
     "country": "Russia", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -11218,7 +11218,7 @@
   {
     "city": "Logro\u00f1o", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 21, 
+    "rsvp_count": 22, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "paseo del espolon", 
@@ -11362,7 +11362,7 @@
   {
     "city": "Singapore", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 24, 
+    "rsvp_count": 25, 
     "country": "Singapore", 
     "start_time": "13:00:00", 
     "venue": "McRitchie Reservoir", 
