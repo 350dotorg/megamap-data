@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 1403, 
+    "rsvp_count": 1407, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -2882,7 +2882,7 @@
   {
     "city": "Buenos Aires", 
     "name": "Movimiento Global Ciudadano por el Cambio Clim\u00e1tico", 
-    "rsvp_count": 84, 
+    "rsvp_count": 85, 
     "country": "Argentina", 
     "start_time": "15:00:00", 
     "venue": "", 
@@ -3074,7 +3074,7 @@
   {
     "city": "Lyon", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 255, 
+    "rsvp_count": 256, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Terreaux", 
@@ -3202,7 +3202,7 @@
   {
     "city": "Vancouver", 
     "name": "People's Climate March", 
-    "rsvp_count": 504, 
+    "rsvp_count": 505, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Main street", 
@@ -3874,7 +3874,7 @@
   {
     "city": "Pisa", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 80, 
+    "rsvp_count": 81, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "Corso Italia, centro di Pisa", 
@@ -6434,7 +6434,7 @@
   {
     "city": "Sankt Wendel", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 36, 
+    "rsvp_count": 37, 
     "country": "Germany", 
     "start_time": "12:00:00", 
     "venue": "Schlossplatz", 
@@ -7442,7 +7442,7 @@
   {
     "city": "K\u00f6ln", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 223, 
+    "rsvp_count": 224, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "K\u00f6lner Dom", 
@@ -26274,7 +26274,7 @@
   {
     "city": "Whangarei", 
     "name": "People's Climate March", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "New Zealand", 
     "start_time": "13:00:00", 
     "venue": "Cameron St Mall", 
