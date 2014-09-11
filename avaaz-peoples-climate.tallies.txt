@@ -1,4 +1,4 @@
-Number of events: 1865
+Number of events: 1866
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
@@ -50,7 +50,7 @@ Number of countries: 137
 	Germany: 59
 	Greece: 33
 	Guadeloupe: 3
-	Guatemala: 12
+	Guatemala: 13
 	Guinea: 1
 	Honduras: 3
 	Hong Kong: 1
