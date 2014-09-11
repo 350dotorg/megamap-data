@@ -1,4 +1,4 @@
-Number of events: 1911
+Number of events: 1912
 Number of countries: 136
 	Afghanistan: 1
 	Albania: 1
@@ -39,7 +39,7 @@ Number of countries: 136
 	Denmark: 6
 	Dominican Republic: 7
 	Ecuador: 11
-	Egypt: 22
+	Egypt: 23
 	El Salvador: 2
 	Estonia: 1
 	Finland: 5
