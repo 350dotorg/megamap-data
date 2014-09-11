@@ -66,7 +66,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 117, 
+    "rsvp_count": 118, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -82,7 +82,7 @@
   {
     "city": "Berlin", 
     "name": "Mal schnell die Welt retten - BERLIN", 
-    "rsvp_count": 311, 
+    "rsvp_count": 312, 
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "Brandenburger Tor", 
@@ -866,7 +866,7 @@
   {
     "city": "Monterrey", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 180, 
+    "rsvp_count": 181, 
     "country": "Mexico", 
     "start_time": "10:00:00", 
     "venue": "Explanada de lod heroes", 
@@ -4290,7 +4290,7 @@
   {
     "city": "Moscow", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 142, 
+    "rsvp_count": 143, 
     "country": "Russia", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -11122,7 +11122,7 @@
   {
     "city": "Madrid", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 438, 
+    "rsvp_count": 439, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Cada persona en la puerta de su casa: Inundemos las aceras de la ciudad.", 
@@ -16274,7 +16274,7 @@
   {
     "city": "Darmstadt", 
     "name": "Trommelkreis f\u00fcr unser Klima", 
-    "rsvp_count": 19, 
+    "rsvp_count": 20, 
     "country": "Germany", 
     "start_time": "14:30:00", 
     "venue": "Luisenplatz, 64283", 
@@ -18772,12 +18772,12 @@
     "name": "Marche Pour le Climat", 
     "rsvp_count": 2, 
     "country": "Mali", 
-    "start_time": "13:00:00", 
-    "venue": "marche commence la place de libert\u00e9 jusqu'au munument de l'independance", 
+    "start_time": "08:00:00", 
+    "venue": "", 
     "longitude": -8, 
     "state": "Bamako", 
     "country_code": "ML", 
-    "address": "", 
+    "address": "Bamako, Mali", 
     "latitude": 12.65, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_157", 
@@ -19250,7 +19250,7 @@
   {
     "city": "Arona", 
     "name": "People's Climate March", 
-    "rsvp_count": 8, 
+    "rsvp_count": 9, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "Stazione Ferroviaria", 
