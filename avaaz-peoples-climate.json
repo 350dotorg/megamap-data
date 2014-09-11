@@ -66,7 +66,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 323, 
+    "rsvp_count": 327, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -370,7 +370,7 @@
   {
     "city": "Montr\u00e9al", 
     "name": "People's Climate March", 
-    "rsvp_count": 62, 
+    "rsvp_count": 63, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -562,7 +562,7 @@
   {
     "city": "Lisbon", 
     "name": "Marcha Contra as Altera\u00e7\u00f5es Clim\u00e1ticas - Salvem o Planeta!", 
-    "rsvp_count": 288, 
+    "rsvp_count": 289, 
     "country": "Portugal", 
     "start_time": "16:00:00", 
     "venue": "Rossio", 
@@ -2210,7 +2210,7 @@
   {
     "city": "Brasilia", 
     "name": "Uni\u00e3o Avaaz em Brasilia contra as Mudan\u00e7as Climaticas", 
-    "rsvp_count": 354, 
+    "rsvp_count": 355, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Esplanada dos Ministerios", 
@@ -2530,7 +2530,7 @@
   {
     "city": "\u039b\u03ac\u03c1\u03b9\u03c3\u03b1", 
     "name": "\u03a0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u039b\u03b1\u03ce\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
-    "rsvp_count": 19, 
+    "rsvp_count": 20, 
     "country": "Greece", 
     "start_time": "13:00:00", 
     "venue": "\u03ba\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae \u03c0\u03bb\u03b1\u03c4\u03b5\u03af\u03b1", 
@@ -3122,7 +3122,7 @@
   {
     "city": "Ottignies-Louvain-la-Neuve", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 142, 
+    "rsvp_count": 143, 
     "country": "Belgium", 
     "start_time": "13:00:00", 
     "venue": "Grand Place de Louvain-la-Neuve", 
@@ -4258,7 +4258,7 @@
   {
     "city": "Grenoble", 
     "name": "La marche pour le climat", 
-    "rsvp_count": 126, 
+    "rsvp_count": 127, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Hotel de ville", 
@@ -7666,7 +7666,7 @@
   {
     "city": "New York", 
     "name": "People's Climate March", 
-    "rsvp_count": 49, 
+    "rsvp_count": 50, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "Central Park", 
@@ -11154,7 +11154,7 @@
   {
     "city": "Madrid", 
     "name": "La Marcha Ciudadana por la Naturaleza, la Vida y Evoluci\u00f3n Humana", 
-    "rsvp_count": 235, 
+    "rsvp_count": 236, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "La Puerta de La Tabacalera", 
@@ -16594,7 +16594,7 @@
   {
     "city": "Goi\u00e2nia", 
     "name": "Recomposi\u00e7\u00e3o Total das Matas Ciliares", 
-    "rsvp_count": 212, 
+    "rsvp_count": 213, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a C\u00edvica", 
@@ -17314,7 +17314,7 @@
   {
     "city": "Cascavel", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 8, 
+    "rsvp_count": 9, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a do cal\u00e7ad\u00e3o - Catedra N SR\u00aa Aparecida", 
@@ -22994,7 +22994,7 @@
   {
     "city": "Bogot\u00e1", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 13, 
+    "rsvp_count": 14, 
     "country": "Colombia", 
     "start_time": "13:00:00", 
     "venue": "Centro de Investigaciones Cu\u00e1nticas Virtual, Proyecto Kryon", 
@@ -25474,7 +25474,7 @@
   {
     "city": "Guanajuato", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Alhondiga de Granaditas", 
@@ -28702,5 +28702,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_132", 
     "id": 4350
+  }, 
+  {
+    "city": "Alboraya", 
+    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
+    "rsvp_count": 1, 
+    "country": "Spain", 
+    "start_time": "13:30:00", 
+    "venue": "Parque P\u00fablico junto a la Estaci\u00f3n de metro L-3 Palmaret-Alboraia", 
+    "longitude": -0.35434369999996, 
+    "state": "Comunidad Valenciana", 
+    "country_code": "ES", 
+    "address": "Orxata - Ausi\u00e0s March, 46120 Alboraya, Valencia, Espa\u00f1a", 
+    "latitude": 39.4960423, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_445", 
+    "id": 4351
   }
 ]
