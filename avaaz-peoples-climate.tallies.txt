@@ -1,5 +1,5 @@
-Number of events: 1904
-Number of countries: 135
+Number of events: 1905
+Number of countries: 136
 	Afghanistan: 1
 	Albania: 1
 	Algeria: 42
@@ -110,6 +110,7 @@ Number of countries: 135
 	Slovenia: 4
 	South Africa: 12
 	South Korea: 1
+	South Sudan: 1
 	Spain: 117
 	Sri Lanka: 2
 	Sudan: 5
