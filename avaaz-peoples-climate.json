@@ -66,7 +66,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 439, 
+    "rsvp_count": 440, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -866,7 +866,7 @@
   {
     "city": "Monterrey", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 187, 
+    "rsvp_count": 188, 
     "country": "Mexico", 
     "start_time": "10:00:00", 
     "venue": "Explanada de lod heroes", 
@@ -5938,7 +5938,7 @@
   {
     "city": "Ulm", 
     "name": "People's Climate March", 
-    "rsvp_count": 24, 
+    "rsvp_count": 25, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "M\u00fcnsterplatz", 
@@ -6722,7 +6722,7 @@
   {
     "city": "Cotonou", 
     "name": "Cotonou en Marche Pour le Climat", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Benin", 
     "start_time": "13:00:00", 
     "venue": "Cadjehoun, pr\u00e8s de l'a\u00e9roport", 
@@ -10406,11 +10406,11 @@
     "country": "Switzerland", 
     "start_time": "13:00:00", 
     "venue": "", 
-    "longitude": 7.6303424, 
+    "longitude": 7.6320558, 
     "state": "BE", 
     "country_code": "CH", 
-    "address": "Aarefeldstrasse 16, 3600 Thun, Schweiz", 
-    "latitude": 46.7555002, 
+    "address": "Schulhausstrasse 13, 3600 Thun, Schweiz", 
+    "latitude": 46.7551465, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaAktionstag_87", 
     "id": 2871
@@ -14386,7 +14386,7 @@
   {
     "city": "\u0425\u0435\u0440\u0441\u043e\u043d", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Ukraine", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -18322,7 +18322,7 @@
   {
     "city": "Piracicaba", 
     "name": "Psseata de jeep's pelo Clima", 
-    "rsvp_count": 6, 
+    "rsvp_count": 7, 
     "country": "Brazil", 
     "start_time": "09:00:00", 
     "venue": "RUA DO PORTO", 
@@ -24114,7 +24114,7 @@
   {
     "city": "Ancona", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 9, 
+    "rsvp_count": 10, 
     "country": "Italy", 
     "start_time": "15:00:00", 
     "venue": "piazza Cavour", 
@@ -24274,7 +24274,7 @@
   {
     "city": "Sevilla", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 9, 
+    "rsvp_count": 10, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Plaza de la Encarnacion (las Setas)", 
@@ -26386,7 +26386,7 @@
   {
     "city": "Ia\u0219i", 
     "name": "Mar\u0219ul Cet\u0103\u021benilor pentru Ac\u021biune Climatic\u0103", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Romania", 
     "start_time": "13:00:00", 
     "venue": "CAMPUS TUDOR VLADIMIRESCU", 
@@ -28706,7 +28706,7 @@
   {
     "city": "Joinville", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 6, 
+    "rsvp_count": 7, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a Nereu Ramos", 
