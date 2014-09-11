@@ -3203,7 +3203,7 @@ initData({},
   {
     "city": "Saskatoon", 
     "name": "People's Climate March", 
-    "rsvp_count": 43, 
+    "rsvp_count": 44, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Friendship Park", 
