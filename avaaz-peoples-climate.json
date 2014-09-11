@@ -1554,7 +1554,7 @@
   {
     "city": "Bogota", 
     "name": "Bogot\u00e1 Marcha X el Clima", 
-    "rsvp_count": 216, 
+    "rsvp_count": 217, 
     "country": "Colombia", 
     "start_time": "10:00:00", 
     "venue": "Parque Nacional hasta Plaza de los Periodistas", 
@@ -4530,7 +4530,7 @@
   {
     "city": "\u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 21, 
+    "rsvp_count": 22, 
     "country": "Ukraine", 
     "start_time": "13:00:00", 
     "venue": "\u0424\u0435\u0441\u0442\u0438\u0432\u0430\u043b\u044c\u043d\u044b\u0439 \u043f\u0440\u0438\u0447\u0430\u043b", 
@@ -22578,7 +22578,7 @@
   {
     "city": "La Plata", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 13, 
+    "rsvp_count": 14, 
     "country": "Argentina", 
     "start_time": "13:00:00", 
     "venue": "Plaza Moreno LA PLATA Buenos Aires Argentina", 
@@ -27262,5 +27262,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/jp/event/climate/petition_5411252155ea8", 
     "id": 4210
+  }, 
+  {
+    "city": "Filandia", 
+    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
+    "rsvp_count": 1, 
+    "country": "Colombia", 
+    "start_time": "13:00:00", 
+    "venue": "Reserva forestal protectora Barbas-Bremen", 
+    "longitude": -72, 
+    "state": "Quind\u00edo", 
+    "country_code": "CO", 
+    "address": "Plazuind\u00eco, Colombiaa principal del municipio de Filandia, Departamento del Quind\u00edo, Colombia", 
+    "latitude": 4, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_431", 
+    "id": 4211
   }
 ]
