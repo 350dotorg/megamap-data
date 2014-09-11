@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 1572, 
+    "rsvp_count": 1574, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -2514,7 +2514,7 @@
   {
     "city": "Cape Town", 
     "name": "People's Climate March", 
-    "rsvp_count": 387, 
+    "rsvp_count": 388, 
     "country": "South Africa", 
     "start_time": "13:00:00", 
     "venue": "Green Point Stadium", 
@@ -3906,7 +3906,7 @@
   {
     "city": "Dublin", 
     "name": "People's Climate March", 
-    "rsvp_count": 188, 
+    "rsvp_count": 189, 
     "country": "Ireland", 
     "start_time": "13:00:00", 
     "venue": "D\u00e1il \u00c9ireann, Dublin city centre", 
@@ -6834,7 +6834,7 @@
   {
     "city": "Palermo", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 77, 
+    "rsvp_count": 78, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -7762,7 +7762,7 @@
   {
     "city": "Valpara\u00edso", 
     "name": "People's Climate March", 
-    "rsvp_count": 29, 
+    "rsvp_count": 30, 
     "country": "Chile", 
     "start_time": "13:00:00", 
     "venue": "CHILE", 
@@ -14722,7 +14722,7 @@
   {
     "city": "Catania", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 16, 
+    "rsvp_count": 17, 
     "country": "Italy", 
     "start_time": "10:00:00", 
     "venue": "Catania", 
@@ -30446,5 +30446,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/ar/event/climate/lmsyr_lmnkhy_lshby_190", 
     "id": 4519
+  }, 
+  {
+    "city": "Guelph", 
+    "name": "People's Climate March", 
+    "rsvp_count": 1, 
+    "country": "Canada", 
+    "start_time": "16:00:00", 
+    "venue": "", 
+    "longitude": -80.2478365, 
+    "state": "ON", 
+    "country_code": "CA", 
+    "address": "60 Carden Street, Guelph, ON N1H 3A2, Canada", 
+    "latitude": 43.5442581, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1524", 
+    "id": 4520
   }
 ]
