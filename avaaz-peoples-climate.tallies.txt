@@ -1,4 +1,4 @@
-Number of events: 1682
+Number of events: 1683
 Number of countries: 129
 	Albania: 1
 	Algeria: 40
@@ -98,7 +98,7 @@ Number of countries: 129
 	Qatar: 2
 	Reunion: 1
 	Romania: 13
-	Russia: 33
+	Russia: 34
 	Saudi Arabia: 8
 	Senegal: 2
 	Serbia: 3
