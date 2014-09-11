@@ -1778,7 +1778,7 @@
   {
     "city": "Pergine Valsugana", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 14, 
+    "rsvp_count": 15, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "Parco Tre Castagni", 
@@ -4434,7 +4434,7 @@
   {
     "city": "Bucharest", 
     "name": "Mar\u0219ul Cet\u0103\u021benilor pentru Ac\u021biune Climatic\u0103", 
-    "rsvp_count": 97, 
+    "rsvp_count": 98, 
     "country": "Romania", 
     "start_time": "17:00:00", 
     "venue": "Piata Universitatii", 
@@ -4994,7 +4994,7 @@
   {
     "city": "Canberra", 
     "name": "People's Climate March Canberra", 
-    "rsvp_count": 73, 
+    "rsvp_count": 74, 
     "country": "Australia", 
     "start_time": "13:00:00", 
     "venue": "City Walk", 
@@ -22322,7 +22322,7 @@
   {
     "city": "San Jos\u00e9", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 101, 
+    "rsvp_count": 102, 
     "country": "Costa Rica", 
     "start_time": "13:00:00", 
     "venue": "Parque Metropolitano La Sabana", 
