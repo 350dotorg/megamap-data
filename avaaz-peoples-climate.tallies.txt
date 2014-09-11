@@ -1,16 +1,16 @@
-Number of events: 1709
+Number of events: 1722
 Number of countries: 131
 	Albania: 1
 	Algeria: 40
 	Argentina: 58
 	Armenia: 3
-	Australia: 46
-	Austria: 20
+	Australia: 47
+	Austria: 21
 	Azerbaijan: 1
-	Bahrain: 2
+	Bahrain: 3
 	Bangladesh: 3
 	Belarus: 2
-	Belgium: 23
+	Belgium: 24
 	Benin: 1
 	Bermuda: 1
 	Bolivia: 6
@@ -36,7 +36,7 @@ Number of countries: 131
 	Denmark: 5
 	Dominican Republic: 7
 	Ecuador: 11
-	Egypt: 20
+	Egypt: 21
 	El Salvador: 2
 	Estonia: 1
 	Finland: 5
@@ -57,7 +57,7 @@ Number of countries: 131
 	Iran: 5
 	Iraq: 12
 	Ireland: 7
-	Israel: 7
+	Israel: 8
 	Italy: 89
 	Japan: 6
 	Jordan: 1
@@ -82,13 +82,13 @@ Number of countries: 131
 	Nepal: 1
 	Netherlands: 17
 	New Caledonia: 2
-	New Zealand: 21
+	New Zealand: 22
 	Nicaragua: 1
 	Nigeria: 5
 	Norway: 6
 	Oman: 1
 	Pakistan: 3
-	Palestine: 7
+	Palestine: 8
 	Panama: 2
 	Paraguay: 1
 	Peru: 30
@@ -99,7 +99,7 @@ Number of countries: 131
 	Qatar: 2
 	Reunion: 1
 	Romania: 13
-	Russia: 36
+	Russia: 37
 	Saudi Arabia: 8
 	Senegal: 2
 	Serbia: 3
@@ -108,7 +108,7 @@ Number of countries: 131
 	Slovenia: 4
 	South Africa: 12
 	South Korea: 1
-	Spain: 110
+	Spain: 111
 	Sri Lanka: 2
 	Sudan: 5
 	Sweden: 14
@@ -121,7 +121,7 @@ Number of countries: 131
 	Tunisia: 6
 	Turkey: 18
 	Uganda: 2
-	Ukraine: 35
+	Ukraine: 37
 	United Arab Emirates: 2
 	United Kingdom: 52
 	United States of America: 64
@@ -129,5 +129,5 @@ Number of countries: 131
 	Venezuela: 23
 	Western Sahara: 1
 	Yemen: 12
-	Zambia: 2
+	Zambia: 3
 	Zimbabwe: 1
