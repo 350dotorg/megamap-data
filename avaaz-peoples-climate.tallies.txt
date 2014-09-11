@@ -1,11 +1,11 @@
-Number of events: 1878
-Number of countries: 137
+Number of events: 1869
+Number of countries: 136
 	Afghanistan: 1
 	Albania: 1
 	Algeria: 42
 	Argentina: 58
 	Armenia: 3
-	Australia: 47
+	Australia: 36
 	Austria: 23
 	Azerbaijan: 1
 	Bahrain: 3
@@ -24,7 +24,7 @@ Number of countries: 137
 	Burundi: 1
 	Cambodia: 1
 	Cameroon: 1
-	Canada: 83
+	Canada: 85
 	Cayman Islands: 1
 	Chile: 25
 	Colombia: 78
@@ -47,7 +47,7 @@ Number of countries: 137
 	French Guiana: 2
 	French Polynesia: 3
 	Georgia: 1
-	Germany: 59
+	Germany: 60
 	Greece: 35
 	Guadeloupe: 3
 	Guatemala: 13
@@ -55,19 +55,18 @@ Number of countries: 137
 	Honduras: 3
 	Hong Kong: 1
 	Hungary: 2
-	India: 25
+	India: 24
 	Indonesia: 1
 	Iran: 5
 	Iraq: 12
 	Ireland: 7
 	Israel: 8
-	Italy: 93
+	Italy: 94
 	Japan: 8
 	Jordan: 1
 	Kenya: 2
 	Kuwait: 2
 	Kyrgistan: 2
-	Lebanon: 1
 	Liberia: 2
 	Libya: 3
 	Lithuania: 2
@@ -87,7 +86,7 @@ Number of countries: 137
 	New Caledonia: 2
 	New Zealand: 23
 	Nicaragua: 1
-	Nigeria: 5
+	Nigeria: 4
 	Norway: 8
 	Oman: 2
 	Pakistan: 3
@@ -105,7 +104,7 @@ Number of countries: 137
 	Russia: 40
 	Saudi Arabia: 8
 	Senegal: 2
-	Serbia: 3
+	Serbia: 4
 	Seychelles: 2
 	Singapore: 1
 	Slovakia: 6
@@ -119,7 +118,7 @@ Number of countries: 137
 	Switzerland: 18
 	Syria: 2
 	Taiwan: 1
-	Thailand: 2
+	Thailand: 3
 	Togo: 1
 	Trinidad and Tobago: 1
 	Tunisia: 8
@@ -128,7 +127,7 @@ Number of countries: 137
 	Ukraine: 43
 	United Arab Emirates: 2
 	United Kingdom: 58
-	United States of America: 68
+	United States of America: 67
 	Uruguay: 11
 	Uzbekistan: 1
 	Venezuela: 23
