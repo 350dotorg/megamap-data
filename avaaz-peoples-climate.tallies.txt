@@ -1,4 +1,4 @@
-Number of events: 1685
+Number of events: 1686
 Number of countries: 129
 	Albania: 1
 	Algeria: 40
@@ -62,7 +62,7 @@ Number of countries: 129
 	Jordan: 1
 	Kenya: 2
 	Kuwait: 1
-	Kyrgistan: 1
+	Kyrgistan: 2
 	Lebanon: 1
 	Liberia: 2
 	Libya: 3

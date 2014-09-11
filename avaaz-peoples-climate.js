@@ -19555,7 +19555,7 @@ initData({},
   {
     "city": "Benghazi", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Libya", 
     "start_time": "13:00:00", 
     "venue": "\u0633\u0627\u062d\u0629 \u0627\u0644\u0643\u064a\u0634", 
@@ -26883,7 +26883,7 @@ initData({},
   {
     "city": "Cairns", 
     "name": "People's Climate March", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Australia", 
     "start_time": "09:00:00", 
     "venue": "Pullman Reef Casino", 
@@ -26959,6 +26959,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_425", 
     "id": 4191
+  }, 
+  {
+    "city": "\u041a\u0430\u0440\u0430\u043a\u043e\u043b", 
+    "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
+    "rsvp_count": 1, 
+    "country": "Kyrgistan", 
+    "start_time": "13:00:00", 
+    "venue": "\u041c\u044d\u0440\u0438\u044f \u0433. \u041a\u0430\u0440\u0430\u043a\u043e\u043b, \u0443\u043b. \u0414\u0436\u0443\u0441\u0430\u0435\u0432\u0430 \u043d\u0430 \u043f\u0435\u0440\u0435\u0441\u0435\u0447\u0435\u043d\u0438\u0438 \u0410\u0431\u0434\u0440\u0430\u0445\u043c\u0430\u043d\u043e\u0432\u0430", 
+    "longitude": 78.4, 
+    "state": "\u0418\u0441\u0441\u044b\u043a-\u041a\u0443\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+    "country_code": "KG", 
+    "address": "\u041a\u0430\u0440\u0430\u043a\u043e\u043b, \u041a\u0438\u0440\u0433\u0438\u0437\u0438\u044f", 
+    "latitude": 42.483333, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/ru/event/climate/Narodnyy_klimaticheskiy_marsh_114", 
+    "id": 4192
   }
 ]
 );
