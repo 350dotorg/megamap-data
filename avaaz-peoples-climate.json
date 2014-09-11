@@ -4434,7 +4434,7 @@
   {
     "city": "Bucharest", 
     "name": "Mar\u0219ul Cet\u0103\u021benilor pentru Ac\u021biune Climatic\u0103", 
-    "rsvp_count": 98, 
+    "rsvp_count": 99, 
     "country": "Romania", 
     "start_time": "17:00:00", 
     "venue": "Piata Universitatii", 
@@ -4722,7 +4722,7 @@
   {
     "city": "Puebla", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 94, 
+    "rsvp_count": 95, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Z\u00f3calo de la Ciudad de Puebla", 
@@ -9874,7 +9874,7 @@
   {
     "city": "Miraflores", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 95, 
+    "rsvp_count": 96, 
     "country": "Peru", 
     "start_time": "13:00:00", 
     "venue": "28 de julio", 
@@ -14114,7 +14114,7 @@
   {
     "city": "Santiago", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 71, 
+    "rsvp_count": 72, 
     "country": "Chile", 
     "start_time": "13:00:00", 
     "venue": "Ciudad Sat\u00e9lite, Maip\u00fa", 
@@ -18706,7 +18706,7 @@
   {
     "city": "Honolulu", 
     "name": "People's Climate March", 
-    "rsvp_count": 16, 
+    "rsvp_count": 17, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -27230,5 +27230,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/ru/event/climate/Narodnyy_klimaticheskiy_marsh_118", 
     "id": 4208
+  }, 
+  {
+    "city": "Guayaquil", 
+    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
+    "rsvp_count": 1, 
+    "country": "Ecuador", 
+    "start_time": "13:00:00", 
+    "venue": "En la Avenida 27NO, entre  Urdesa Norte y Urbanor,  nos hemos convocado varias  organizaciones  ambientalistas y  personas que  amamos la naturaleza  como amamos al ser humano y  buscamos  su  bienestar.", 
+    "longitude": -79.9080292, 
+    "state": "Guayas", 
+    "country_code": "EC", 
+    "address": "Avenida 27 NO, Guayaquil 090510, Ecuador", 
+    "latitude": -2.1585704, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_430", 
+    "id": 4209
   }
 ]

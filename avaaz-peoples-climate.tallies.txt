@@ -1,4 +1,4 @@
-Number of events: 1702
+Number of events: 1703
 Number of countries: 131
 	Albania: 1
 	Algeria: 40
@@ -35,7 +35,7 @@ Number of countries: 131
 	Côte d'Ivoire: 1
 	Denmark: 5
 	Dominican Republic: 7
-	Ecuador: 10
+	Ecuador: 11
 	Egypt: 20
 	El Salvador: 2
 	Estonia: 1
