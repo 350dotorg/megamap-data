@@ -82,7 +82,7 @@
   {
     "city": "Berlin", 
     "name": "Mal schnell die Welt retten - BERLIN", 
-    "rsvp_count": 288, 
+    "rsvp_count": 289, 
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "Brandenburger Tor", 
@@ -98,7 +98,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 632, 
+    "rsvp_count": 635, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -1058,7 +1058,7 @@
   {
     "city": "Halifax", 
     "name": "People's Climate March Halifax", 
-    "rsvp_count": 80, 
+    "rsvp_count": 81, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Meet at Citadel Hill, 5425 Sackville Street, Halifax", 
@@ -3154,7 +3154,7 @@
   {
     "city": "The Hague", 
     "name": "People's Climate March", 
-    "rsvp_count": 77, 
+    "rsvp_count": 78, 
     "country": "Netherlands", 
     "start_time": "13:00:00", 
     "venue": "Plaats", 
@@ -3282,7 +3282,7 @@
   {
     "city": "Lausanne", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 102, 
+    "rsvp_count": 103, 
     "country": "Switzerland", 
     "start_time": "13:00:00", 
     "venue": "gare de lausanne", 
@@ -4274,7 +4274,7 @@
   {
     "city": "Amsterdam", 
     "name": "Amsterdam People's Climate March \u2764\ufe0e De mars van de Klimmuur naar het slotevent op de EYE kade", 
-    "rsvp_count": 85, 
+    "rsvp_count": 86, 
     "country": "Netherlands", 
     "start_time": "17:00:00", 
     "venue": "Plein bij de Klimmuur", 
@@ -7618,7 +7618,7 @@
   {
     "city": "\u0130stanbul", 
     "name": "\u0130klim Adaleti Y\u00fcr\u00fcy\u00fc\u015f\u00fc", 
-    "rsvp_count": 45, 
+    "rsvp_count": 46, 
     "country": "Turkey", 
     "start_time": "17:00:00", 
     "venue": "T\u00fcnel Meydan\u0131, Taksim", 
@@ -11122,7 +11122,7 @@
   {
     "city": "Madrid", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 417, 
+    "rsvp_count": 418, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Cada persona en la puerta de su casa: Inundemos las aceras de la ciudad.", 
@@ -25186,7 +25186,7 @@
   {
     "city": "Totnes", 
     "name": "People's Climate Rally", 
-    "rsvp_count": 23, 
+    "rsvp_count": 24, 
     "country": "United Kingdom", 
     "start_time": "12:00:00", 
     "venue": "", 
