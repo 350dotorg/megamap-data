@@ -2,7 +2,7 @@
   {
     "city": "Melbourne", 
     "name": "Melbourne Climate March", 
-    "rsvp_count": 615, 
+    "rsvp_count": 616, 
     "country": "Australia", 
     "start_time": "11:00:00", 
     "venue": "State Library", 
@@ -66,7 +66,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 103, 
+    "rsvp_count": 106, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -98,7 +98,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 717, 
+    "rsvp_count": 718, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -6114,7 +6114,7 @@
   {
     "city": "Hong Kong", 
     "name": "People's Climate March", 
-    "rsvp_count": 78, 
+    "rsvp_count": 79, 
     "country": "Hong Kong", 
     "start_time": "13:00:00", 
     "venue": "Exchange Square", 
@@ -27922,7 +27922,7 @@
   {
     "city": "\u0412\u0438\u043d\u043d\u0438\u0446\u0430", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Ukraine", 
     "start_time": "13:00:00", 
     "venue": "\u0443\u043b\u0438\u0446\u0430 \u0421\u043e\u0431\u043e\u0440\u043d\u0430\u044f", 
