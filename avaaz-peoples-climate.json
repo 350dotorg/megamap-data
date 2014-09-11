@@ -2,7 +2,7 @@
   {
     "city": "Melbourne", 
     "name": "Melbourne Climate March", 
-    "rsvp_count": 624, 
+    "rsvp_count": 625, 
     "country": "Australia", 
     "start_time": "11:00:00", 
     "venue": "State Library", 
@@ -18,7 +18,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1234, 
+    "rsvp_count": 1235, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -4434,7 +4434,7 @@
   {
     "city": "Bucharest", 
     "name": "Mar\u0219ul Cet\u0103\u021benilor pentru Ac\u021biune Climatic\u0103", 
-    "rsvp_count": 103, 
+    "rsvp_count": 104, 
     "country": "Romania", 
     "start_time": "17:00:00", 
     "venue": "Piata Universitatii", 
@@ -6114,7 +6114,7 @@
   {
     "city": "Hong Kong", 
     "name": "People's Climate March", 
-    "rsvp_count": 79, 
+    "rsvp_count": 80, 
     "country": "Hong Kong", 
     "start_time": "13:00:00", 
     "venue": "Exchange Square", 
@@ -7634,7 +7634,7 @@
   {
     "city": "K\u00f6ln", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 191, 
+    "rsvp_count": 192, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "K\u00f6lner Dom", 
@@ -16098,7 +16098,7 @@
   {
     "city": "Torino", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 90, 
+    "rsvp_count": 91, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "PIAZZA CASTELLO", 
@@ -28002,7 +28002,7 @@
   {
     "city": "\u041a\u0438\u0435\u0432", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 7, 
+    "rsvp_count": 8, 
     "country": "Ukraine", 
     "start_time": "13:00:00", 
     "venue": "\u043c\u0430\u0439\u0434\u0430\u043d \u043d\u0435\u0437\u0430\u043b\u0435\u0436\u043d\u043e\u0441\u0442\u0438", 
@@ -28086,11 +28086,11 @@
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "D\u00e9part Port de la Seyne \u00e0 13h, devant l'hotel Kyriad Prestige", 
-    "longitude": 5.8782189999999, 
+    "longitude": 5.8837586, 
     "state": "PACA", 
     "country_code": "FR", 
-    "address": "La Seyne-sur-Mer, France", 
-    "latitude": 43.102976, 
+    "address": "Quai du 19 Mars 1962, 83500 La Seyne-sur-Mer, France", 
+    "latitude": 43.1015353, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_227", 
     "id": 4270
@@ -28334,5 +28334,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_437", 
     "id": 4292
+  }, 
+  {
+    "city": "C\u00f3rdoba", 
+    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
+    "rsvp_count": 1, 
+    "country": "Argentina", 
+    "start_time": "13:00:00", 
+    "venue": "Patio Olmos Shopping - Av. V\u00e9lez Sarsfield 361", 
+    "longitude": -64.1887971, 
+    "state": "CB", 
+    "country_code": "AR", 
+    "address": "Avenida V\u00e9lez Sarsfield 361, C\u00f3rdoba, C\u00f3rdoba, Argentina", 
+    "latitude": -31.4194683, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_438", 
+    "id": 4293
   }
 ]
