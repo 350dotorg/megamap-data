@@ -66,7 +66,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 494, 
+    "rsvp_count": 495, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -4578,7 +4578,7 @@
   {
     "city": "Wien", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 278, 
+    "rsvp_count": 279, 
     "country": "Austria", 
     "start_time": "16:00:00", 
     "venue": "Gleich neben dem Stephansdom", 
@@ -11106,7 +11106,7 @@
   {
     "city": "Madrid", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 470, 
+    "rsvp_count": 471, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Cada persona en la puerta de su casa: Inundemos las aceras de la ciudad.", 
@@ -17154,7 +17154,7 @@
   {
     "city": "Our\u00e9m", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 19, 
+    "rsvp_count": 20, 
     "country": "Portugal", 
     "start_time": "13:00:00", 
     "venue": "Igreja do Castelo de Our\u00e9m -> Santu\u00e1rio de F\u00e1tima -> Igreja do Castelo de Our\u00e9m", 
@@ -17490,7 +17490,7 @@
   {
     "city": "Volta Redonda", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 7, 
+    "rsvp_count": 9, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a S\u00e1vio Gama,em frente a prefeitura .", 
@@ -28290,7 +28290,7 @@
   {
     "city": "Santo Andr\u00e9", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 34, 
+    "rsvp_count": 35, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Av Dom Pedro II", 
@@ -29310,5 +29310,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1509", 
     "id": 4409
+  }, 
+  {
+    "city": "Guarant\u00e3 do Norte", 
+    "name": "Caminhada pelo Clima", 
+    "rsvp_count": 1, 
+    "country": "Brazil", 
+    "start_time": "13:00:00", 
+    "venue": "", 
+    "longitude": -54.9177812, 
+    "state": "MT", 
+    "country_code": "BR", 
+    "address": "Rua 1, 754-940, Mato Grosso, 78520-000, Rep\u00fablica Federativa do Brasil", 
+    "latitude": -9.9849348, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_141", 
+    "id": 4410
   }
 ]
