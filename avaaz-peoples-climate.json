@@ -7954,7 +7954,7 @@
   {
     "city": "Taos", 
     "name": "People's Climate March", 
-    "rsvp_count": 18, 
+    "rsvp_count": 19, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "Taos Plaza", 
@@ -22034,7 +22034,7 @@
   {
     "city": "Santa Fe", 
     "name": "People's Climate March - Santa Fe, New Mexico, USA", 
-    "rsvp_count": 13, 
+    "rsvp_count": 14, 
     "country": "United States of America", 
     "start_time": "12:00:00", 
     "venue": "Start at the Plaza, end at the Rail Yard Park", 
@@ -24290,7 +24290,7 @@
   {
     "city": "Rosario", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Argentina", 
     "start_time": "13:00:00", 
     "venue": "monumento", 
@@ -27006,5 +27006,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_117", 
     "id": 4194
+  }, 
+  {
+    "city": "\u0411\u0430\u043a\u0443", 
+    "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
+    "rsvp_count": 1, 
+    "country": "Azerbaijan", 
+    "start_time": "13:00:00", 
+    "venue": "\u0414\u043e\u043c \u041f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430", 
+    "longitude": 49.8530067, 
+    "state": "", 
+    "country_code": "AZ", 
+    "address": "\u0414\u043e\u043c \u041f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430, Uzeyir Hajibeyov, \u0411\u0430\u043a\u0443 AZ 1000, \u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d", 
+    "latitude": 40.3737647, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/ru/event/climate/Narodnyy_klimaticheskiy_marsh_115", 
+    "id": 4195
   }
 ]
