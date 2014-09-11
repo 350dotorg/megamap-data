@@ -66,7 +66,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 407, 
+    "rsvp_count": 408, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -866,7 +866,7 @@
   {
     "city": "Monterrey", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 184, 
+    "rsvp_count": 186, 
     "country": "Mexico", 
     "start_time": "10:00:00", 
     "venue": "Explanada de lod heroes", 
@@ -3954,7 +3954,7 @@
   {
     "city": "Alcala de Henares", 
     "name": "Concentraci\u00f3n Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 74, 
+    "rsvp_count": 75, 
     "country": "Spain", 
     "start_time": "12:00:00", 
     "venue": "Plaza de la Capilla del Oidor", 
@@ -5106,7 +5106,7 @@
   {
     "city": "Oakland", 
     "name": "NorCal People's Climate Rally", 
-    "rsvp_count": 76, 
+    "rsvp_count": 77, 
     "country": "United States of America", 
     "start_time": "14:00:00", 
     "venue": "Lake Merritt Amphitheater", 
@@ -8914,7 +8914,7 @@
   {
     "city": "St. Petersburg", 
     "name": "People's Climate March", 
-    "rsvp_count": 19, 
+    "rsvp_count": 20, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "5th Ave NE & Beach Dr NE", 
@@ -9858,7 +9858,7 @@
   {
     "city": "Lima", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 99, 
+    "rsvp_count": 100, 
     "country": "Peru", 
     "start_time": "10:00:00", 
     "venue": "Frente al Pentagonito", 
@@ -10178,7 +10178,7 @@
   {
     "city": "Montevideo", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 110, 
+    "rsvp_count": 111, 
     "country": "Uruguay", 
     "start_time": "13:00:00", 
     "venue": "Plaza de la bandera", 
@@ -16610,7 +16610,7 @@
   {
     "city": "Fortaleza", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 28, 
+    "rsvp_count": 29, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a do Ferreira", 
@@ -17154,7 +17154,7 @@
   {
     "city": "Campo Grande", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 9, 
+    "rsvp_count": 10, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Via Parque cruzamento com a  Av. Mato Grosso", 
