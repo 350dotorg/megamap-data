@@ -226,7 +226,7 @@
   {
     "city": "San Borja", 
     "name": "Evento Contra el Cambio Clim\u00e1tico (People's Climate Event)", 
-    "rsvp_count": 112, 
+    "rsvp_count": 113, 
     "country": "Peru", 
     "start_time": "11:00:00", 
     "venue": "Anfiteatro del Pentagonito - Parque de la Felicidad", 
@@ -2034,7 +2034,7 @@
   {
     "city": "Caracas", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 87, 
+    "rsvp_count": 88, 
     "country": "Venezuela", 
     "start_time": "10:00:00", 
     "venue": "Parque General\u00edsimo Francisco de Miranda", 
@@ -17569,7 +17569,7 @@
   }, 
   {
     "city": "Armenia", 
-    "name": "Caminhada pelo Clima", 
+    "name": "Marcha Mundial Por el Clima", 
     "rsvp_count": 4, 
     "country": "Colombia", 
     "start_time": "13:00:00", 
@@ -19778,7 +19778,7 @@
   {
     "city": "Tarapoto", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Peru", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -23570,7 +23570,7 @@
   {
     "city": "Quito", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 16, 
+    "rsvp_count": 17, 
     "country": "Ecuador", 
     "start_time": "13:00:00", 
     "venue": "Parque \"El Arbolito\"", 
