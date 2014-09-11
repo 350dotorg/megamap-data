@@ -50,7 +50,7 @@
   {
     "city": "New Delhi", 
     "name": "People's Climate March in Delhi", 
-    "rsvp_count": 31, 
+    "rsvp_count": 32, 
     "country": "India", 
     "start_time": "10:00:00", 
     "venue": "Mandi House", 
@@ -66,7 +66,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 313, 
+    "rsvp_count": 314, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -98,7 +98,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 785, 
+    "rsvp_count": 786, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -12514,7 +12514,7 @@
   {
     "city": "\u041e\u0440\u0434\u044b\u043d\u0441\u043a\u043e\u0435", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Russia", 
     "start_time": "13:00:00", 
     "venue": "\u041f\u043b\u043e\u0449\u0430\u0434\u044c \u041b\u0435\u043d\u0438\u043d\u0430", 
@@ -16594,7 +16594,7 @@
   {
     "city": "Goi\u00e2nia", 
     "name": "Recomposi\u00e7\u00e3o Total das Matas Ciliares", 
-    "rsvp_count": 209, 
+    "rsvp_count": 210, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a C\u00edvica", 
@@ -18354,7 +18354,7 @@
   {
     "city": "Sete Lagoas", 
     "name": "Caminhada pelo Clima para reflorestar Brasil", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Brazil", 
     "start_time": "19:00:00", 
     "venue": "Feira Lagoa Paulinho", 
@@ -21842,7 +21842,7 @@
   {
     "city": "Sonderborg", 
     "name": "Bike Rally", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Denmark", 
     "start_time": "11:00:00", 
     "venue": "", 
@@ -24498,7 +24498,7 @@
   {
     "city": "Lake Worth", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "palm coast plaza : between military trail with 10 ave", 
