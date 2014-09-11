@@ -1762,7 +1762,7 @@
   {
     "city": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433", 
     "name": "People's Climate March", 
-    "rsvp_count": 35, 
+    "rsvp_count": 36, 
     "country": "Russia", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -7282,7 +7282,7 @@
   {
     "city": "\u0423\u0444\u0430", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 9, 
+    "rsvp_count": 10, 
     "country": "Russia", 
     "start_time": "13:00:00", 
     "venue": "\u041f\u0430\u0440\u043a \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u044b \u0438 \u043e\u0442\u0434\u044b\u0445\u0430 \u0438\u043c \u041c. \u0413\u0430\u0444\u0443\u0440\u0438 (\u0432\u043e\u0437\u043b\u0435 \u041b\u0435\u043d\u0438\u043d\u0430)", 
@@ -9826,7 +9826,7 @@
   {
     "city": "San Luis Potos\u00ed", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 46, 
+    "rsvp_count": 47, 
     "country": "Mexico", 
     "start_time": "10:00:00", 
     "venue": "Plaza de Armas", 
@@ -27010,7 +27010,7 @@
   {
     "city": "\u0411\u0430\u043a\u0443", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Azerbaijan", 
     "start_time": "13:00:00", 
     "venue": "\u0414\u043e\u043c \u041f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430", 
@@ -27134,5 +27134,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_Vote_for_Climate", 
     "id": 4202
+  }, 
+  {
+    "city": "Ensenada", 
+    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
+    "rsvp_count": 1, 
+    "country": "Mexico", 
+    "start_time": "13:00:00", 
+    "venue": "Monumento a C\u00e1rdenas", 
+    "longitude": -116.6059162, 
+    "state": "BC", 
+    "country_code": "MX", 
+    "address": "Monumento L\u00e1zaro C\u00e1rdenas del R\u00edo, Nueva Ensenada, 22880 Ensenada, BC, M\u00e9xico", 
+    "latitude": 31.8553784, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_428", 
+    "id": 4203
   }
 ]
