@@ -98,7 +98,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 402, 
+    "rsvp_count": 403, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -1634,7 +1634,7 @@
   {
     "city": "Marseille", 
     "name": "Marche Pour le Climat - Marseille", 
-    "rsvp_count": 199, 
+    "rsvp_count": 200, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Palais Longchamp, Marseille", 
@@ -7842,7 +7842,7 @@
   {
     "city": "Aguascalientes", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 68, 
+    "rsvp_count": 69, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Plaza de Armas", 
@@ -9874,7 +9874,7 @@
   {
     "city": "Miraflores", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 96, 
+    "rsvp_count": 97, 
     "country": "Peru", 
     "start_time": "13:00:00", 
     "venue": "28 de julio", 
@@ -23362,7 +23362,7 @@
   {
     "city": "Vienna", 
     "name": "People's Climate March", 
-    "rsvp_count": 35, 
+    "rsvp_count": 36, 
     "country": "Austria", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -24981,12 +24981,12 @@
     "rsvp_count": 2, 
     "country": "France", 
     "start_time": "13:00:00", 
-    "venue": "", 
-    "longitude": 7.4501528000001, 
+    "venue": "devant la mairie", 
+    "longitude": 7.4527889999999, 
     "state": "Alsace", 
     "country_code": "FR", 
-    "address": "6 Rue d'Ensisheim, 68740 Munchhouse, France", 
-    "latitude": 47.8657991, 
+    "address": "Munchhouse, France", 
+    "latitude": 47.869178, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_204", 
     "id": 4068
