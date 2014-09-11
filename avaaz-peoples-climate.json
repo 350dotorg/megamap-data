@@ -2,7 +2,7 @@
   {
     "city": "Melbourne", 
     "name": "Melbourne Climate March", 
-    "rsvp_count": 696, 
+    "rsvp_count": 698, 
     "country": "Australia", 
     "start_time": "11:00:00", 
     "venue": "State Library", 
@@ -66,7 +66,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 415, 
+    "rsvp_count": 417, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -2578,7 +2578,7 @@
   {
     "city": "Cape Town", 
     "name": "People's Climate March", 
-    "rsvp_count": 374, 
+    "rsvp_count": 375, 
     "country": "South Africa", 
     "start_time": "13:00:00", 
     "venue": "Green Point Stadium", 
@@ -4786,7 +4786,7 @@
   {
     "city": "Sofia", 
     "name": "People's Climate March", 
-    "rsvp_count": 61, 
+    "rsvp_count": 62, 
     "country": "Bulgaria", 
     "start_time": "13:00:00", 
     "venue": "\u041f\u043b\u043e\u0449\u0430\u0434 \"\u041d\u0430\u0440\u043e\u0434\u043d\u043e \u0441\u044a\u0431\u0440\u0430\u043d\u0438\u0435\"", 
@@ -5778,7 +5778,7 @@
   {
     "city": "Bangkok", 
     "name": "Bangkok People's Climate March", 
-    "rsvp_count": 26, 
+    "rsvp_count": 27, 
     "country": "Thailand", 
     "start_time": "12:00:00", 
     "venue": "Siam Square: outside main entrance to Siam Paragon", 
@@ -14130,7 +14130,7 @@
   {
     "city": "Hobart", 
     "name": "People's Climate March", 
-    "rsvp_count": 72, 
+    "rsvp_count": 73, 
     "country": "Australia", 
     "start_time": "13:00:00", 
     "venue": "Parliament House Gardens Hobart", 
@@ -16578,7 +16578,7 @@
   {
     "city": "Goi\u00e2nia", 
     "name": "Recomposi\u00e7\u00e3o Total das Matas Ciliares", 
-    "rsvp_count": 241, 
+    "rsvp_count": 242, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a C\u00edvica", 
@@ -18210,7 +18210,7 @@
   {
     "city": "An\u00e1polis", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 24, 
+    "rsvp_count": 25, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Parque Ipiranga", 
@@ -18338,7 +18338,7 @@
   {
     "city": "Sete Lagoas", 
     "name": "Caminhada pelo Clima para reflorestar Brasil", 
-    "rsvp_count": 6, 
+    "rsvp_count": 7, 
     "country": "Brazil", 
     "start_time": "19:00:00", 
     "venue": "Feira Lagoa Paulinho", 
