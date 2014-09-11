@@ -722,7 +722,7 @@
   {
     "city": "Valence", 
     "name": "Marche Pour le Climat (Officiel Avaaz)", 
-    "rsvp_count": 36, 
+    "rsvp_count": 37, 
     "country": "France", 
     "start_time": "11:00:00", 
     "venue": "Place de la Mairie", 
@@ -3778,7 +3778,7 @@
   {
     "city": "Porto Alegre", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 185, 
+    "rsvp_count": 186, 
     "country": "Brazil", 
     "start_time": "11:00:00", 
     "venue": "Parque Farroupilha - Reden\u00e7\u00e3o", 
@@ -9010,7 +9010,7 @@
   {
     "city": "Valencia", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 164, 
+    "rsvp_count": 165, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -16736,22 +16736,6 @@
     "id": 3330
   }, 
   {
-    "city": "S\u00e3o Jos\u00e9 do Rio Preto", 
-    "name": "Caminhada para um mundo melhor", 
-    "rsvp_count": 25, 
-    "country": "Brazil", 
-    "start_time": "14:00:00", 
-    "venue": "Av Bady Bassit - Em frente a Prefeitura Municipal", 
-    "longitude": -49.3762272, 
-    "state": "SP", 
-    "country_code": "BR", 
-    "address": "S\u00e3o Jos\u00e9 do Rio Preto - SP, Rep\u00fablica Federativa do Brasil", 
-    "latitude": -20.811761, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_para_um_mundo_melhor", 
-    "id": 3332
-  }, 
-  {
     "city": "Caruaru", 
     "name": "Batucada pelo Clima -", 
     "rsvp_count": 9, 
@@ -17986,7 +17970,7 @@
   {
     "city": "Santos", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 19, 
+    "rsvp_count": 20, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a das Bandeiras - Gonzaga - Santos", 
@@ -20866,7 +20850,7 @@
   {
     "city": "Granada", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico XVII MARCHA  EN BICI- V\u00cdA LIBRE AL TRANV\u00cdA - GRANADA AL PEDAL", 
-    "rsvp_count": 26, 
+    "rsvp_count": 27, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Puerta Real- Fuente de las Batallas- calle reyes cat\u00f3licos- Gran v\u00eda de Col\u00f3n", 
@@ -28370,7 +28354,7 @@
   {
     "city": "Nijmegen", 
     "name": "People's Climate March", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Netherlands", 
     "start_time": "14:20:00", 
     "venue": "", 
