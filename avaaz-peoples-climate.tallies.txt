@@ -1,5 +1,5 @@
-Number of events: 1695
-Number of countries: 130
+Number of events: 1696
+Number of countries: 131
 	Albania: 1
 	Algeria: 40
 	Argentina: 57
@@ -114,6 +114,7 @@ Number of countries: 130
 	Sweden: 14
 	Switzerland: 18
 	Syria: 2
+	Taiwan: 1
 	Thailand: 2
 	Togo: 1
 	Trinidad and Tobago: 1
