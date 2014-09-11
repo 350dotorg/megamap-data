@@ -2,7 +2,7 @@
   {
     "city": "Melbourne", 
     "name": "Melbourne Climate March", 
-    "rsvp_count": 522, 
+    "rsvp_count": 525, 
     "country": "Australia", 
     "start_time": "11:00:00", 
     "venue": "State Library", 
@@ -1170,7 +1170,7 @@
   {
     "city": "Oslo", 
     "name": "People's Climate March", 
-    "rsvp_count": 124, 
+    "rsvp_count": 125, 
     "country": "Norway", 
     "start_time": "14:00:00", 
     "venue": "Eidsvolls plass - in front of Stortinget (the Parlament)", 
@@ -2130,7 +2130,7 @@
   {
     "city": "Hamburg", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 239, 
+    "rsvp_count": 240, 
     "country": "Germany", 
     "start_time": "16:00:00", 
     "venue": "vor dem Rathaus", 
@@ -2722,7 +2722,7 @@
   {
     "city": "Annecy-le-Vieux", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 74, 
+    "rsvp_count": 75, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Petit Port Albigny", 
@@ -6018,7 +6018,7 @@
   {
     "city": "Manchester", 
     "name": "People's Climate March", 
-    "rsvp_count": 106, 
+    "rsvp_count": 107, 
     "country": "United Kingdom", 
     "start_time": "11:00:00", 
     "venue": "Piccadilly gardens", 
@@ -21522,7 +21522,7 @@
   {
     "city": "Lyon", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 58, 
+    "rsvp_count": 59, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Hotel de ville Louis Pradel 69001 Lyon", 
