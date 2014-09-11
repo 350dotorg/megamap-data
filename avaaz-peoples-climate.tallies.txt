@@ -1,5 +1,5 @@
-Number of events: 1910
-Number of countries: 136
+Number of events: 1911
+Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
 	Algeria: 42
@@ -123,6 +123,7 @@ Number of countries: 136
 	Trinidad and Tobago: 1
 	Tunisia: 8
 	Turkey: 20
+	Turkmenistan: 1
 	Uganda: 2
 	Ukraine: 43
 	United Arab Emirates: 2
