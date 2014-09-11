@@ -2,7 +2,7 @@
   {
     "city": "Melbourne", 
     "name": "Melbourne Climate March", 
-    "rsvp_count": 619, 
+    "rsvp_count": 621, 
     "country": "Australia", 
     "start_time": "11:00:00", 
     "venue": "State Library", 
@@ -18,7 +18,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1224, 
+    "rsvp_count": 1227, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -946,7 +946,7 @@
   {
     "city": "Copenhagen", 
     "name": "People's Climate March", 
-    "rsvp_count": 308, 
+    "rsvp_count": 309, 
     "country": "Denmark", 
     "start_time": "14:00:00", 
     "venue": "Nytorv, Domhuset", 
@@ -4274,7 +4274,7 @@
   {
     "city": "Amsterdam", 
     "name": "Amsterdam People's Climate March \u2764\ufe0e De mars van de Klimmuur naar het slotevent op de EYE kade", 
-    "rsvp_count": 87, 
+    "rsvp_count": 88, 
     "country": "Netherlands", 
     "start_time": "17:00:00", 
     "venue": "Plein bij de Klimmuur", 
@@ -4770,7 +4770,7 @@
   {
     "city": "S\u00e9n\u00e9", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 48, 
+    "rsvp_count": 49, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Devant Grain de Sel", 
@@ -17810,7 +17810,7 @@
   {
     "city": "Sidmouth", 
     "name": "Sidmouth Climate Change Conversation", 
-    "rsvp_count": 15, 
+    "rsvp_count": 16, 
     "country": "United Kingdom", 
     "start_time": "11:00:00", 
     "venue": "Esplanade, by Lifeboat Station", 
