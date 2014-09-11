@@ -1,5 +1,6 @@
-Number of events: 1768
-Number of countries: 134
+Number of events: 1769
+Number of countries: 135
+	Afghanistan: 1
 	Albania: 1
 	Algeria: 40
 	Argentina: 58
