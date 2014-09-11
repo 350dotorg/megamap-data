@@ -2,7 +2,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1524, 
+    "rsvp_count": 1525, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -34,7 +34,7 @@
   {
     "city": "Berlin", 
     "name": "Mal schnell die Welt retten - BERLIN", 
-    "rsvp_count": 400, 
+    "rsvp_count": 403, 
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "Brandenburger Tor", 
@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 1409, 
+    "rsvp_count": 1410, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -3026,7 +3026,7 @@
   {
     "city": "Roma", 
     "name": "Marcia Globale per il Clima a Roma: LA BICICLETTATA, IL CUORE VERDE", 
-    "rsvp_count": 246, 
+    "rsvp_count": 247, 
     "country": "Italy", 
     "start_time": "15:00:00", 
     "venue": "COLOSSEO, ROMA", 
@@ -3410,7 +3410,7 @@
   {
     "city": "Cayenne", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 11, 
+    "rsvp_count": 12, 
     "country": "French Guiana", 
     "start_time": "13:00:00", 
     "venue": "Jardin Botanique", 
@@ -6850,7 +6850,7 @@
   {
     "city": "Palermo", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 74, 
+    "rsvp_count": 75, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -9618,7 +9618,7 @@
   {
     "city": "San Luis Potos\u00ed", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 59, 
+    "rsvp_count": 60, 
     "country": "Mexico", 
     "start_time": "10:00:00", 
     "venue": "Plaza de Armas", 
@@ -15602,7 +15602,7 @@
   {
     "city": "Phoenix", 
     "name": "People's Climate March", 
-    "rsvp_count": 39, 
+    "rsvp_count": 40, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "central park", 
@@ -15842,7 +15842,7 @@
   {
     "city": "Torino", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 118, 
+    "rsvp_count": 119, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "PIAZZA CASTELLO", 
