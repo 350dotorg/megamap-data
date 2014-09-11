@@ -66,7 +66,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 506, 
+    "rsvp_count": 507, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -962,7 +962,7 @@
   {
     "city": "Brussels", 
     "name": "People's Climate March", 
-    "rsvp_count": 464, 
+    "rsvp_count": 465, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "Place Polaert", 
@@ -2130,7 +2130,7 @@
   {
     "city": "Hamburg", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 256, 
+    "rsvp_count": 257, 
     "country": "Germany", 
     "start_time": "16:00:00", 
     "venue": "vor dem Rathaus", 
@@ -3618,7 +3618,7 @@
   {
     "city": "Hannover", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 106, 
+    "rsvp_count": 107, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Trammplatz 2, 30159 Hannover", 
@@ -4578,7 +4578,7 @@
   {
     "city": "Wien", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 291, 
+    "rsvp_count": 292, 
     "country": "Austria", 
     "start_time": "16:00:00", 
     "venue": "Gleich neben dem Stephansdom", 
@@ -5106,7 +5106,7 @@
   {
     "city": "Oakland", 
     "name": "NorCal People's Climate Rally", 
-    "rsvp_count": 78, 
+    "rsvp_count": 79, 
     "country": "United States of America", 
     "start_time": "14:00:00", 
     "venue": "Lake Merritt Amphitheater", 
@@ -5666,7 +5666,7 @@
   {
     "city": "Paulista", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 19, 
+    "rsvp_count": 20, 
     "country": "Brazil", 
     "start_time": "09:00:00", 
     "venue": "beira mar", 
@@ -9138,7 +9138,7 @@
   {
     "city": "Montevideo", 
     "name": "Contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 64, 
+    "rsvp_count": 65, 
     "country": "Uruguay", 
     "start_time": "13:00:00", 
     "venue": "Parque Rod\u00f3", 
@@ -10082,7 +10082,7 @@
   {
     "city": "Ljubljana", 
     "name": "People's Climate March Ljubljana", 
-    "rsvp_count": 117, 
+    "rsvp_count": 118, 
     "country": "Slovenia", 
     "start_time": "16:00:00", 
     "venue": "Pre\u0161ernov trg", 
@@ -10386,7 +10386,7 @@
   {
     "city": "Munich", 
     "name": "People's Climate March", 
-    "rsvp_count": 305, 
+    "rsvp_count": 306, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Karlsplatz", 
@@ -29346,7 +29346,7 @@
   {
     "city": "Frankfurt Am Main", 
     "name": "Greet Barrier Reef in Queensland Australia", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "", 
