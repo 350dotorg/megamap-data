@@ -1,4 +1,4 @@
-Number of events: 1771
+Number of events: 1773
 Number of countries: 135
 	Afghanistan: 1
 	Albania: 1
@@ -60,7 +60,7 @@ Number of countries: 135
 	Ireland: 7
 	Israel: 8
 	Italy: 90
-	Japan: 7
+	Japan: 8
 	Jordan: 1
 	Kenya: 2
 	Kuwait: 2
@@ -106,7 +106,7 @@ Number of countries: 135
 	Serbia: 3
 	Seychelles: 2
 	Singapore: 1
-	Slovakia: 5
+	Slovakia: 6
 	Slovenia: 4
 	South Africa: 12
 	South Korea: 1
