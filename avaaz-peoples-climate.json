@@ -2,7 +2,7 @@
   {
     "city": "Melbourne", 
     "name": "Melbourne Climate March", 
-    "rsvp_count": 560, 
+    "rsvp_count": 563, 
     "country": "Australia", 
     "start_time": "11:00:00", 
     "venue": "State Library", 
@@ -98,7 +98,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 639, 
+    "rsvp_count": 641, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -546,7 +546,7 @@
   {
     "city": "Glasgow", 
     "name": "People's Climate March", 
-    "rsvp_count": 124, 
+    "rsvp_count": 125, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "George Square", 
@@ -4290,7 +4290,7 @@
   {
     "city": "Moscow", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 133, 
+    "rsvp_count": 135, 
     "country": "Russia", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -11122,7 +11122,7 @@
   {
     "city": "Madrid", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 420, 
+    "rsvp_count": 421, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Cada persona en la puerta de su casa: Inundemos las aceras de la ciudad.", 
@@ -14306,7 +14306,7 @@
   {
     "city": "Brisbane", 
     "name": "Australian Climate Action Summit 2014", 
-    "rsvp_count": 15, 
+    "rsvp_count": 16, 
     "country": "Australia", 
     "start_time": "09:00:00", 
     "venue": "QUT", 
@@ -20498,7 +20498,7 @@
   {
     "city": "Los Cristianos", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 12, 
+    "rsvp_count": 13, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Centro Cultural de Los Cristianos", 
@@ -27618,7 +27618,7 @@
   {
     "city": "Simferopol", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Ukraine", 
     "start_time": "13:00:00", 
     "venue": "\u041f\u043b\u043e\u0449\u0430\u0434\u044c \u041b\u0435\u043d\u0438\u043d\u0430", 
