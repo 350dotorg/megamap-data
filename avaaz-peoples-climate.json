@@ -18,7 +18,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1235, 
+    "rsvp_count": 1236, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -66,7 +66,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 138, 
+    "rsvp_count": 139, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -546,7 +546,7 @@
   {
     "city": "Glasgow", 
     "name": "People's Climate March", 
-    "rsvp_count": 125, 
+    "rsvp_count": 126, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "George Square", 
@@ -2834,7 +2834,7 @@
   {
     "city": "Klagenfurt am W\u00f6rthersee", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 63, 
+    "rsvp_count": 64, 
     "country": "Austria", 
     "start_time": "13:00:00", 
     "venue": "Rathaus", 
@@ -3090,7 +3090,7 @@
   {
     "city": "Roma", 
     "name": "Marcia Globale per il Clima a Roma: LA BICICLETTATA, IL CUORE VERDE", 
-    "rsvp_count": 203, 
+    "rsvp_count": 204, 
     "country": "Italy", 
     "start_time": "15:00:00", 
     "venue": "COLOSSEO, ROMA", 
@@ -11394,7 +11394,7 @@
   {
     "city": "Bah\u00eda Blanca", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 7, 
+    "rsvp_count": 8, 
     "country": "Argentina", 
     "start_time": "13:00:00", 
     "venue": "Municipalidad de Bah\u00eca Blanca", 
@@ -25154,7 +25154,7 @@
   {
     "city": "D\u00fcsseldorf", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 23, 
+    "rsvp_count": 24, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Dachdeckerbetrieb Rainer Tietz", 
