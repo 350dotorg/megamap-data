@@ -1122,7 +1122,7 @@
   {
     "city": "Toronto", 
     "name": "People's Climate March", 
-    "rsvp_count": 79, 
+    "rsvp_count": 80, 
     "country": "Canada", 
     "start_time": "15:30:00", 
     "venue": "Queen's Park", 
@@ -1858,7 +1858,7 @@
   {
     "city": "San Luis", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 14, 
+    "rsvp_count": 15, 
     "country": "Argentina", 
     "start_time": "13:00:00", 
     "venue": "Monumento al Pueblo Puntano", 
@@ -4066,7 +4066,7 @@
   {
     "city": "Sevilla", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 162, 
+    "rsvp_count": 163, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Plaza Nueva", 
@@ -5298,7 +5298,7 @@
   {
     "city": "\u0397\u03c1\u03ac\u03ba\u03bb\u03b5\u03b9\u03bf", 
     "name": "\u03a0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u039b\u03b1\u03ce\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
-    "rsvp_count": 22, 
+    "rsvp_count": 23, 
     "country": "Greece", 
     "start_time": "13:00:00", 
     "venue": "\u03a0\u039b\u0391\u03a4\u0395\u0399\u0391 \u0395\u039b\u0395\u03a5\u0398\u0395\u03a1\u0399\u0391\u03a3", 
@@ -29150,5 +29150,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_452", 
     "id": 4388
+  }, 
+  {
+    "city": "Acapulco de Ju\u00e1rez", 
+    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
+    "rsvp_count": 1, 
+    "country": "Mexico", 
+    "start_time": "13:00:00", 
+    "venue": "", 
+    "longitude": -99.8864825, 
+    "state": "GRO", 
+    "country_code": "MX", 
+    "address": "Avenida Costera Miguel Alem\u00e1n, Acapulco, GRO, M\u00e9xico", 
+    "latitude": 16.8592879, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_453", 
+    "id": 4392
   }
 ]
