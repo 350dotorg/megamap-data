@@ -13507,7 +13507,7 @@ initData({},
   {
     "city": "Grenoble", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 37, 
+    "rsvp_count": 38, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Place de Verdun", 
