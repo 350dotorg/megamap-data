@@ -2,7 +2,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1520, 
+    "rsvp_count": 1522, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 1398, 
+    "rsvp_count": 1401, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -434,7 +434,7 @@
   {
     "city": "Lecce", 
     "name": "Marcia per il Clima Lecce", 
-    "rsvp_count": 24, 
+    "rsvp_count": 25, 
     "country": "Italy", 
     "start_time": "17:00:00", 
     "venue": "Piazza Sant'Oronzo", 
@@ -3698,7 +3698,7 @@
   {
     "city": "N\u00eemes", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 32, 
+    "rsvp_count": 33, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Esplanade Avenue Feuch\u00e8res,devant coll\u00e8ge", 
@@ -3746,7 +3746,7 @@
   {
     "city": "Frankfurt am Main", 
     "name": "KLIMA-AKTIONSTAG FRANKFURT AM MAIN", 
-    "rsvp_count": 170, 
+    "rsvp_count": 171, 
     "country": "Germany", 
     "start_time": "10:00:00", 
     "venue": "Zwischen R\u00f6mer und Zeil", 
@@ -6370,7 +6370,7 @@
   {
     "city": "Bologna", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 200, 
+    "rsvp_count": 201, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "Piazza Maggiore", 
@@ -10930,7 +10930,7 @@
   {
     "city": "Antwerp", 
     "name": "Actiedag voor het Klimaat", 
-    "rsvp_count": 106, 
+    "rsvp_count": 107, 
     "country": "Belgium", 
     "start_time": "13:00:00", 
     "venue": "park spoor noord", 
@@ -12146,7 +12146,7 @@
   {
     "city": "Leipzig", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 78, 
+    "rsvp_count": 79, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Marktplatz", 
@@ -15842,7 +15842,7 @@
   {
     "city": "Torino", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 117, 
+    "rsvp_count": 118, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "PIAZZA CASTELLO", 
@@ -24002,7 +24002,7 @@
   {
     "city": "Rosario", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 9, 
+    "rsvp_count": 10, 
     "country": "Argentina", 
     "start_time": "13:00:00", 
     "venue": "monumento", 
