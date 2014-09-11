@@ -26927,6 +26927,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1472", 
     "id": 4189
+  }, 
+  {
+    "city": "Tauranga", 
+    "name": "Climate Change Day of Action", 
+    "rsvp_count": 1, 
+    "country": "New Zealand", 
+    "start_time": "13:00:00", 
+    "venue": "", 
+    "longitude": 176.1482589, 
+    "state": "Bay Of Plenty", 
+    "country_code": "NZ", 
+    "address": "159 17th Avenue, Tauranga South, Tauranga 3112, New Zealand", 
+    "latitude": -37.7043113, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Climate_Change_Day_of_Action", 
+    "id": 4190
   }
 ]
 );

@@ -1,4 +1,4 @@
-Number of events: 1683
+Number of events: 1684
 Number of countries: 129
 	Albania: 1
 	Algeria: 40
@@ -81,7 +81,7 @@ Number of countries: 129
 	Nepal: 1
 	Netherlands: 17
 	New Caledonia: 2
-	New Zealand: 19
+	New Zealand: 20
 	Nicaragua: 1
 	Nigeria: 5
 	Norway: 6
