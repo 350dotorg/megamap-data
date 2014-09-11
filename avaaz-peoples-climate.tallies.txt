@@ -1,9 +1,9 @@
-Number of events: 1824
+Number of events: 1829
 Number of countries: 135
 	Afghanistan: 1
 	Albania: 1
-	Algeria: 41
-	Argentina: 61
+	Algeria: 42
+	Argentina: 58
 	Armenia: 3
 	Australia: 47
 	Austria: 22
@@ -41,7 +41,7 @@ Number of countries: 135
 	El Salvador: 2
 	Estonia: 1
 	Finland: 5
-	France: 127
+	France: 128
 	French Guiana: 2
 	French Polynesia: 3
 	Georgia: 1
@@ -59,7 +59,7 @@ Number of countries: 135
 	Iraq: 12
 	Ireland: 7
 	Israel: 8
-	Italy: 91
+	Italy: 92
 	Japan: 8
 	Jordan: 1
 	Kenya: 2
@@ -76,7 +76,7 @@ Number of countries: 135
 	Martinique: 2
 	Mauritania: 2
 	Mauritius: 1
-	Mexico: 96
+	Mexico: 97
 	Moldova: 2
 	Morocco: 27
 	Myanmar: 1
@@ -123,9 +123,9 @@ Number of countries: 135
 	Tunisia: 7
 	Turkey: 20
 	Uganda: 2
-	Ukraine: 40
+	Ukraine: 41
 	United Arab Emirates: 2
-	United Kingdom: 55
+	United Kingdom: 58
 	United States of America: 67
 	Uruguay: 11
 	Uzbekistan: 1
