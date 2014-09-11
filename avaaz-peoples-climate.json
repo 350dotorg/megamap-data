@@ -2,7 +2,7 @@
   {
     "city": "Melbourne", 
     "name": "Melbourne Climate March", 
-    "rsvp_count": 683, 
+    "rsvp_count": 684, 
     "country": "Australia", 
     "start_time": "11:00:00", 
     "venue": "State Library", 
@@ -18,7 +18,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1284, 
+    "rsvp_count": 1285, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -50,7 +50,7 @@
   {
     "city": "New Delhi", 
     "name": "People's Climate March in Delhi", 
-    "rsvp_count": 35, 
+    "rsvp_count": 36, 
     "country": "India", 
     "start_time": "10:00:00", 
     "venue": "Mandi House", 
@@ -66,7 +66,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 328, 
+    "rsvp_count": 329, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -98,7 +98,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 792, 
+    "rsvp_count": 794, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -114,7 +114,7 @@
   {
     "city": "Edmonton", 
     "name": "People's Climate March", 
-    "rsvp_count": 62, 
+    "rsvp_count": 63, 
     "country": "Canada", 
     "start_time": "14:30:00", 
     "venue": "Sir Winston Churchill Square to the Legislative Grounds", 
@@ -1890,7 +1890,7 @@
   {
     "city": "Medell\u00edn", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 322, 
+    "rsvp_count": 323, 
     "country": "Colombia", 
     "start_time": "09:00:00", 
     "venue": "Alcald\u00eda de Medell\u00edn", 
@@ -4754,7 +4754,7 @@
   {
     "city": "Granville", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 12, 
+    "rsvp_count": 13, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Granville devant la Mairie", 
@@ -6114,7 +6114,7 @@
   {
     "city": "Hong Kong", 
     "name": "People's Climate March", 
-    "rsvp_count": 82, 
+    "rsvp_count": 83, 
     "country": "Hong Kong", 
     "start_time": "13:00:00", 
     "venue": "Exchange Square", 
@@ -21602,7 +21602,7 @@
   {
     "city": "Bras\u00edlia", 
     "name": "People's Climate March", 
-    "rsvp_count": 9, 
+    "rsvp_count": 10, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Esplanada dos Minist\u00e9rios", 
@@ -26226,7 +26226,7 @@
   {
     "city": "Po\u00e7os de Caldas", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Brazil", 
     "start_time": "09:00:00", 
     "venue": "AV JOAO PINHEIRO", 
@@ -28718,5 +28718,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_445", 
     "id": 4351
+  }, 
+  {
+    "city": "Joinville", 
+    "name": "Caminhada pelo Clima", 
+    "rsvp_count": 1, 
+    "country": "Brazil", 
+    "start_time": "13:00:00", 
+    "venue": "Pra\u00e7a Nereu Ramos", 
+    "longitude": -48.8463832, 
+    "state": "SC", 
+    "country_code": "BR", 
+    "address": "Joinville - SC, Rep\u00fablica Federativa do Brasil", 
+    "latitude": -26.3044084, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_133", 
+    "id": 4353
   }
 ]
