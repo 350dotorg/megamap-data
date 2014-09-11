@@ -50,7 +50,7 @@
   {
     "city": "New Delhi", 
     "name": "People's Climate March in Delhi", 
-    "rsvp_count": 49, 
+    "rsvp_count": 50, 
     "country": "India", 
     "start_time": "10:00:00", 
     "venue": "Mandi House", 
@@ -82,7 +82,7 @@
   {
     "city": "Berlin", 
     "name": "Mal schnell die Welt retten - BERLIN", 
-    "rsvp_count": 335, 
+    "rsvp_count": 336, 
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "Brandenburger Tor", 
@@ -2578,7 +2578,7 @@
   {
     "city": "Cape Town", 
     "name": "People's Climate March", 
-    "rsvp_count": 373, 
+    "rsvp_count": 374, 
     "country": "South Africa", 
     "start_time": "13:00:00", 
     "venue": "Green Point Stadium", 
@@ -5394,7 +5394,7 @@
   {
     "city": "Belo Horizonte", 
     "name": "Caminhada pelo Clima BH - Pra\u00e7a da Liberdade", 
-    "rsvp_count": 138, 
+    "rsvp_count": 139, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a da Liberdade", 
@@ -10178,7 +10178,7 @@
   {
     "city": "Montevideo", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 108, 
+    "rsvp_count": 109, 
     "country": "Uruguay", 
     "start_time": "13:00:00", 
     "venue": "Plaza de la bandera", 
@@ -16514,7 +16514,7 @@
   {
     "city": "Jundia\u00ed", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 14, 
+    "rsvp_count": 15, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Parque da Cidade", 
@@ -17506,7 +17506,7 @@
   {
     "city": "Volta Redonda", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 6, 
+    "rsvp_count": 7, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a S\u00e1vio Gama,em frente a prefeitura .", 
@@ -21122,7 +21122,7 @@
   {
     "city": "", 
     "name": "People's Climate March", 
-    "rsvp_count": 11, 
+    "rsvp_count": 12, 
     "country": "Russia", 
     "start_time": "13:00:00", 
     "venue": "sea coast", 
@@ -29070,5 +29070,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1502", 
     "id": 4379
+  }, 
+  {
+    "city": "Monteria", 
+    "name": "Planton Ambiental  contra el Cambio Clim\u00e1tico", 
+    "rsvp_count": 1, 
+    "country": "Colombia", 
+    "start_time": "13:00:00", 
+    "venue": "", 
+    "longitude": -75.883333, 
+    "state": "C\u00f3rdoba", 
+    "country_code": "CO", 
+    "address": "Monteria, C\u00f3rdoba, Colombia", 
+    "latitude": 8.75, 
+    "event_date": "2014-09-20", 
+    "rsvp_url": "https://secure.avaaz.org/es/event/climate/Planton_Ambiental_contra_el_Cambio_Climatico", 
+    "id": 4380
   }
 ]

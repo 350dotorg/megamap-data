@@ -1,4 +1,4 @@
-Number of events: 1817
+Number of events: 1818
 Number of countries: 135
 	Afghanistan: 1
 	Albania: 1
@@ -26,7 +26,7 @@ Number of countries: 135
 	Canada: 82
 	Cayman Islands: 1
 	Chile: 25
-	Colombia: 76
+	Colombia: 77
 	Congo, DPR: 2
 	Congo, PR: 1
 	Costa Rica: 5
