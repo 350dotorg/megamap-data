@@ -1,4 +1,4 @@
-Number of events: 1875
+Number of events: 1876
 Number of countries: 136
 	Afghanistan: 1
 	Albania: 1
@@ -36,7 +36,7 @@ Number of countries: 136
 	Cyprus: 1
 	Czech Republic: 1
 	Côte d'Ivoire: 1
-	Denmark: 5
+	Denmark: 6
 	Dominican Republic: 7
 	Ecuador: 11
 	Egypt: 22
