@@ -34,7 +34,7 @@
   {
     "city": "Berlin", 
     "name": "Mal schnell die Welt retten - BERLIN", 
-    "rsvp_count": 396, 
+    "rsvp_count": 397, 
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "Brandenburger Tor", 
@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 1373, 
+    "rsvp_count": 1376, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -898,7 +898,7 @@
   {
     "city": "Brussels", 
     "name": "People's Climate March", 
-    "rsvp_count": 469, 
+    "rsvp_count": 470, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "Place Polaert", 
@@ -4114,7 +4114,7 @@
   {
     "city": "\u041a\u0438\u0435\u0432", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 132, 
+    "rsvp_count": 133, 
     "country": "Ukraine", 
     "start_time": "13:00:00", 
     "venue": "\u041c\u0435\u0442\u0440\u043e \"\u0417\u043e\u043b\u043e\u0442\u044b\u0435 \u0432\u043e\u0440\u043e\u0442\u0430\"", 
@@ -6402,7 +6402,7 @@
   {
     "city": "Graz", 
     "name": "Graz, Hauptplatz", 
-    "rsvp_count": 157, 
+    "rsvp_count": 158, 
     "country": "Austria", 
     "start_time": "13:00:00", 
     "venue": "Hauptplatz vor dem Rathaus", 
@@ -12498,7 +12498,7 @@
   {
     "city": "Balne\u00e1rio Cambori\u00fa", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 27, 
+    "rsvp_count": 28, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -14578,7 +14578,7 @@
   {
     "city": "\u0627\u0644\u0634\u0627\u0631\u0642\u0629", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 17, 
+    "rsvp_count": 18, 
     "country": "United Arab Emirates", 
     "start_time": "13:00:00", 
     "venue": "\u0627\u0644\u0642\u0635\u0628\u0627\u0621", 
@@ -19314,7 +19314,7 @@
   {
     "city": "Gen\u00e8ve", 
     "name": "People's Climate March", 
-    "rsvp_count": 73, 
+    "rsvp_count": 74, 
     "country": "Switzerland", 
     "start_time": "14:00:00", 
     "venue": "Gen\u00e8ve, Plaine de Plainpalais", 
@@ -20194,7 +20194,7 @@
   {
     "city": "G\u00eeza", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Egypt", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -23858,7 +23858,7 @@
   {
     "city": "Ancona", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 15, 
+    "rsvp_count": 16, 
     "country": "Italy", 
     "start_time": "15:00:00", 
     "venue": "piazza Cavour", 
