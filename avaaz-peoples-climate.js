@@ -25251,7 +25251,7 @@ initData({},
   {
     "city": "Atlanta", 
     "name": "People's Climate March", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "", 
