@@ -2,7 +2,7 @@
   {
     "city": "Melbourne", 
     "name": "Melbourne Climate March", 
-    "rsvp_count": 621, 
+    "rsvp_count": 622, 
     "country": "Australia", 
     "start_time": "11:00:00", 
     "venue": "State Library", 
@@ -66,7 +66,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 119, 
+    "rsvp_count": 120, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -274,7 +274,7 @@
   {
     "city": "Auckland", 
     "name": "People's Climate March - Auckland", 
-    "rsvp_count": 170, 
+    "rsvp_count": 171, 
     "country": "New Zealand", 
     "start_time": "13:00:00", 
     "venue": "From Britomart to Aotea Square", 
@@ -1938,7 +1938,7 @@
   {
     "city": "Udine", 
     "name": "Flash Mob Udine per il Clima", 
-    "rsvp_count": 24, 
+    "rsvp_count": 25, 
     "country": "Italy", 
     "start_time": "19:00:00", 
     "venue": "Piazza Libert\u00e0", 
@@ -5250,7 +5250,7 @@
   {
     "city": "Kut", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 15, 
+    "rsvp_count": 16, 
     "country": "Iraq", 
     "start_time": "09:00:00", 
     "venue": "\u0645\u062f\u064a\u0631\u064a\u0629 \u0634\u0628\u0643\u0627\u062a \u0648\u0627\u0633\u0637", 
@@ -11122,7 +11122,7 @@
   {
     "city": "Madrid", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 439, 
+    "rsvp_count": 440, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Cada persona en la puerta de su casa: Inundemos las aceras de la ciudad.", 
@@ -16146,7 +16146,7 @@
   {
     "city": "Karlsruhe", 
     "name": "Klima-Aktionstag Karlsruhe", 
-    "rsvp_count": 25, 
+    "rsvp_count": 26, 
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "Stephansplatz", 
@@ -16578,7 +16578,7 @@
   {
     "city": "Groningen", 
     "name": "Actiedag voor het Klimaat", 
-    "rsvp_count": 39, 
+    "rsvp_count": 40, 
     "country": "Netherlands", 
     "start_time": "13:00:00", 
     "venue": "Grote Markt", 
@@ -18834,7 +18834,7 @@
   {
     "city": "P\u00e9rigueux", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 17, 
+    "rsvp_count": 18, 
     "country": "France", 
     "start_time": "15:00:00", 
     "venue": "", 
