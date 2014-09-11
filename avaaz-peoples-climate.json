@@ -18,7 +18,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1231, 
+    "rsvp_count": 1232, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -66,7 +66,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 132, 
+    "rsvp_count": 133, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -578,7 +578,7 @@
   {
     "city": "Helsinki", 
     "name": "People's Climate March - Helsinki", 
-    "rsvp_count": 104, 
+    "rsvp_count": 105, 
     "country": "Finland", 
     "start_time": "16:00:00", 
     "venue": "Kamppi", 
@@ -2146,7 +2146,7 @@
   {
     "city": "Newcastle upon Tyne", 
     "name": "People's Climate Petition", 
-    "rsvp_count": 31, 
+    "rsvp_count": 32, 
     "country": "United Kingdom", 
     "start_time": "10:00:00", 
     "venue": "Grey's Monument and Northumberland Street", 
@@ -3010,7 +3010,7 @@
   {
     "city": "Toulouse", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 247, 
+    "rsvp_count": 248, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "place du capitole", 
@@ -12402,7 +12402,7 @@
   {
     "city": "San Juan de Los Morros", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Venezuela", 
     "start_time": "13:00:00", 
     "venue": "Plaza Bolivar", 
@@ -27618,7 +27618,7 @@
   {
     "city": "Simferopol", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 6, 
+    "rsvp_count": 7, 
     "country": "Ukraine", 
     "start_time": "13:00:00", 
     "venue": "\u041f\u043b\u043e\u0449\u0430\u0434\u044c \u041b\u0435\u043d\u0438\u043d\u0430", 
@@ -28241,11 +28241,11 @@
   }, 
   {
     "city": "G\u00f6ttingen", 
-    "name": "Klima-Aktionstag", 
+    "name": "Die Klima-Aktionstag-Fahrradtour am 21. September 2014", 
     "rsvp_count": 1, 
     "country": "Germany", 
     "start_time": "10:00:00", 
-    "venue": "Fahrradtour vom Kiessee G\u00f6ttingen durch den Kaufunger Wald nach Kassel HBF (mit dem Zug zur\u00fcck) - 700 H\u00f6henmeter!", 
+    "venue": "", 
     "longitude": 9.9158035, 
     "state": "NDS", 
     "country_code": "DE", 
