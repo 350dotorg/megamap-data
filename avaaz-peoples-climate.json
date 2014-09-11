@@ -4354,7 +4354,7 @@
   {
     "city": "Auckland", 
     "name": "People's Climate March", 
-    "rsvp_count": 152, 
+    "rsvp_count": 153, 
     "country": "New Zealand", 
     "start_time": "13:00:00", 
     "venue": "Christchurch", 
@@ -5090,7 +5090,7 @@
   {
     "city": "Glebe", 
     "name": "People's Climate March Sydney", 
-    "rsvp_count": 325, 
+    "rsvp_count": 326, 
     "country": "Australia", 
     "start_time": "11:00:00", 
     "venue": "", 
@@ -9106,7 +9106,7 @@
   {
     "city": "Quito", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 114, 
+    "rsvp_count": 115, 
     "country": "Ecuador", 
     "start_time": "15:00:00", 
     "venue": "Plaza de las Am\u00e9ricas", 
@@ -17682,7 +17682,7 @@
   {
     "city": "Port Elizabeth", 
     "name": "People's Climate March", 
-    "rsvp_count": 18, 
+    "rsvp_count": 19, 
     "country": "South Africa", 
     "start_time": "13:00:00", 
     "venue": "Victoria Park Grounds", 
