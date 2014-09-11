@@ -1,4 +1,4 @@
-Number of events: 1901
+Number of events: 1902
 Number of countries: 135
 	Afghanistan: 1
 	Albania: 1
@@ -83,7 +83,7 @@ Number of countries: 135
 	Nepal: 1
 	Netherlands: 25
 	New Caledonia: 2
-	New Zealand: 24
+	New Zealand: 25
 	Nicaragua: 1
 	Nigeria: 4
 	Norway: 8
