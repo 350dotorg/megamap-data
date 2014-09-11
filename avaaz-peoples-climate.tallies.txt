@@ -1,4 +1,4 @@
-Number of events: 1678
+Number of events: 1679
 Number of countries: 129
 	Albania: 1
 	Algeria: 40
@@ -54,7 +54,7 @@ Number of countries: 129
 	India: 24
 	Indonesia: 1
 	Iran: 5
-	Iraq: 11
+	Iraq: 12
 	Ireland: 7
 	Israel: 6
 	Italy: 89
