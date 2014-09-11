@@ -18,7 +18,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1222, 
+    "rsvp_count": 1223, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -66,7 +66,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 115, 
+    "rsvp_count": 117, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -98,7 +98,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 722, 
+    "rsvp_count": 723, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -2418,7 +2418,7 @@
   {
     "city": "Montpellier", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 62, 
+    "rsvp_count": 63, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -6402,7 +6402,7 @@
   {
     "city": "Strasbourg", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 130, 
+    "rsvp_count": 132, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Place Kl\u00e9ber", 
@@ -10226,7 +10226,7 @@
   {
     "city": "San Sebasti\u00e1n", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 53, 
+    "rsvp_count": 54, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -10402,7 +10402,7 @@
   {
     "city": "Munich", 
     "name": "People's Climate March", 
-    "rsvp_count": 279, 
+    "rsvp_count": 280, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Karlsplatz", 
@@ -18114,7 +18114,7 @@
   {
     "city": "Yal\u0131kavak", 
     "name": "\u0130klim \u0130\u00e7in Halk Y\u00fcr\u00fcy\u00fc\u015f\u00fc", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Turkey", 
     "start_time": "13:00:00", 
     "venue": "Yal\u0131kavak Belediye Meydan\u0131", 
@@ -23026,7 +23026,7 @@
   {
     "city": "Perth", 
     "name": "People's Climate March", 
-    "rsvp_count": 14, 
+    "rsvp_count": 15, 
     "country": "Australia", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -26834,7 +26834,7 @@
   {
     "city": "Oviedo", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "la escandalera", 
