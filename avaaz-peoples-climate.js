@@ -11539,7 +11539,7 @@ initData({},
   {
     "city": "Xalapa Enr\u00edquez", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 32, 
+    "rsvp_count": 33, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "plaza lerdo", 
