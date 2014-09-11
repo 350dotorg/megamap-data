@@ -1,4 +1,4 @@
-Number of events: 1879
+Number of events: 1881
 Number of countries: 136
 	Afghanistan: 1
 	Albania: 1
@@ -11,7 +11,7 @@ Number of countries: 136
 	Bahrain: 3
 	Bangladesh: 3
 	Belarus: 3
-	Belgium: 24
+	Belgium: 25
 	Benin: 1
 	Bermuda: 1
 	Bolivia: 6
@@ -102,7 +102,7 @@ Number of countries: 136
 	Reunion: 1
 	Romania: 13
 	Russia: 40
-	Saudi Arabia: 8
+	Saudi Arabia: 9
 	Senegal: 2
 	Serbia: 4
 	Seychelles: 2
