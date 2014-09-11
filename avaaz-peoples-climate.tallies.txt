@@ -1,4 +1,4 @@
-Number of events: 1751
+Number of events: 1752
 Number of countries: 131
 	Albania: 1
 	Algeria: 40
@@ -40,7 +40,7 @@ Number of countries: 131
 	El Salvador: 2
 	Estonia: 1
 	Finland: 5
-	France: 122
+	France: 123
 	French Guiana: 2
 	French Polynesia: 3
 	Georgia: 1
