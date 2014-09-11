@@ -2,7 +2,7 @@
   {
     "city": "Melbourne", 
     "name": "Melbourne Climate March", 
-    "rsvp_count": 544, 
+    "rsvp_count": 545, 
     "country": "Australia", 
     "start_time": "11:00:00", 
     "venue": "State Library", 
@@ -18,7 +18,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1168, 
+    "rsvp_count": 1169, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -994,7 +994,7 @@
   {
     "city": "Bunbury", 
     "name": "People's Climate March Bunbury", 
-    "rsvp_count": 19, 
+    "rsvp_count": 20, 
     "country": "Australia", 
     "start_time": "09:30:00", 
     "venue": "koombana Bay North (near Mantra/silos Bunbury)", 
@@ -2882,7 +2882,7 @@
   {
     "city": "Dakar", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 10, 
+    "rsvp_count": 11, 
     "country": "Senegal", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -4194,7 +4194,7 @@
   {
     "city": "Cluj-Napoca", 
     "name": "Mar\u0219ul Cet\u0103\u021benilor pentru Ac\u021biune Climatic\u0103", 
-    "rsvp_count": 41, 
+    "rsvp_count": 42, 
     "country": "Romania", 
     "start_time": "13:00:00", 
     "venue": "Piata Unirii", 
@@ -11122,7 +11122,7 @@
   {
     "city": "Madrid", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 413, 
+    "rsvp_count": 415, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Cada persona en la puerta de su casa: Inundemos las aceras de la ciudad.", 
@@ -19298,7 +19298,7 @@
   {
     "city": "Coquimbo", 
     "name": "\u00a1Regi\u00f3n de Coquimbo sin agua!, el clima ya cambio", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Chile", 
     "start_time": "11:00:00", 
     "venue": "LIMITE ENTRE COQUIMBO Y LA SERENA", 
@@ -23362,7 +23362,7 @@
   {
     "city": "Vienna", 
     "name": "People's Climate March", 
-    "rsvp_count": 43, 
+    "rsvp_count": 44, 
     "country": "Austria", 
     "start_time": "13:00:00", 
     "venue": "", 
