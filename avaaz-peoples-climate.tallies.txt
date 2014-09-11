@@ -1,4 +1,4 @@
-Number of events: 1829
+Number of events: 1830
 Number of countries: 135
 	Afghanistan: 1
 	Albania: 1
@@ -90,7 +90,7 @@ Number of countries: 135
 	Oman: 1
 	Pakistan: 3
 	Palestine: 8
-	Panama: 2
+	Panama: 3
 	Paraguay: 1
 	Peru: 30
 	Philippines: 3
