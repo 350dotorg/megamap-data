@@ -34,7 +34,7 @@
   {
     "city": "Berlin", 
     "name": "Mal schnell die Welt retten - BERLIN", 
-    "rsvp_count": 394, 
+    "rsvp_count": 395, 
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "Brandenburger Tor", 
@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 1360, 
+    "rsvp_count": 1363, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -2946,7 +2946,7 @@
   {
     "city": "Toulouse", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 261, 
+    "rsvp_count": 262, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "place du capitole", 
@@ -3202,7 +3202,7 @@
   {
     "city": "Vancouver", 
     "name": "People's Climate March", 
-    "rsvp_count": 499, 
+    "rsvp_count": 501, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Main street", 
@@ -6434,7 +6434,7 @@
   {
     "city": "Sankt Wendel", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 35, 
+    "rsvp_count": 36, 
     "country": "Germany", 
     "start_time": "12:00:00", 
     "venue": "Schlossplatz", 
@@ -11314,7 +11314,7 @@
   {
     "city": "Xalapa Enr\u00edquez", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 40, 
+    "rsvp_count": 41, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "plaza lerdo", 
@@ -27554,7 +27554,7 @@
   {
     "city": "Aberdeen", 
     "name": "People's Climate March", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "United Kingdom", 
     "start_time": "13:00:00", 
     "venue": "Castlegate", 
