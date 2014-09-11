@@ -1,4 +1,4 @@
-Number of events: 1686
+Number of events: 1688
 Number of countries: 129
 	Albania: 1
 	Algeria: 40
@@ -24,7 +24,7 @@ Number of countries: 129
 	Canada: 77
 	Cayman Islands: 1
 	Chile: 23
-	Colombia: 72
+	Colombia: 73
 	Congo, DPR: 2
 	Congo, PR: 1
 	Costa Rica: 5
@@ -93,7 +93,7 @@ Number of countries: 129
 	Peru: 30
 	Philippines: 3
 	Poland: 9
-	Portugal: 9
+	Portugal: 10
 	Puerto Rico: 2
 	Qatar: 2
 	Reunion: 1

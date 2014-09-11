@@ -2,7 +2,7 @@
   {
     "city": "Melbourne", 
     "name": "Melbourne Climate March", 
-    "rsvp_count": 501, 
+    "rsvp_count": 502, 
     "country": "Australia", 
     "start_time": "11:00:00", 
     "venue": "State Library", 
@@ -19186,7 +19186,7 @@
   {
     "city": "C\u00facuta", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 14, 
+    "rsvp_count": 15, 
     "country": "Colombia", 
     "start_time": "08:00:00", 
     "venue": "av. Libertadores con av. 0", 
@@ -22754,7 +22754,7 @@
   {
     "city": "San Pedro De Macor\u00eds", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Dominican Republic", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -25810,7 +25810,7 @@
   {
     "city": "Chapel Hill", 
     "name": "People's Climate Vigil (One Hour)", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "United States of America", 
     "start_time": "14:00:00", 
     "venue": "Old Post Office", 
@@ -26974,5 +26974,37 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/ru/event/climate/Narodnyy_klimaticheskiy_marsh_114", 
     "id": 4192
+  }, 
+  {
+    "city": "Bogot\u00e1", 
+    "name": "Reencuentro con el \u00daNICO", 
+    "rsvp_count": 1, 
+    "country": "Colombia", 
+    "start_time": "10:00:00", 
+    "venue": "Parque de los novios calle 63 No.45-10", 
+    "longitude": -74.07603, 
+    "state": "Cundinamarca", 
+    "country_code": "CO", 
+    "address": "Bogot\u00e1, Bogot\u00e1, Cundinamarca, Colombia", 
+    "latitude": 4.5981, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/es/event/climate/Reencuentro_con_el_UNICO", 
+    "id": 4193
+  }, 
+  {
+    "city": "Aveiro", 
+    "name": "Caminhada pelo Clima", 
+    "rsvp_count": 1, 
+    "country": "Portugal", 
+    "start_time": "13:00:00", 
+    "venue": "Avenida Dr. Louren\u00e7o Peixinho", 
+    "longitude": -8.6471838, 
+    "state": "Aveiro", 
+    "country_code": "PT", 
+    "address": "Avenida Doutor Louren\u00e7o Peixinho, 3800 Aveiro, Portugal", 
+    "latitude": 40.6430321, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_117", 
+    "id": 4194
   }
 ]
