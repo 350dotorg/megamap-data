@@ -1,4 +1,4 @@
-Number of events: 1723
+Number of events: 1724
 Number of countries: 131
 	Albania: 1
 	Algeria: 40
@@ -42,7 +42,7 @@ Number of countries: 131
 	Finland: 5
 	France: 117
 	French Guiana: 2
-	French Polynesia: 2
+	French Polynesia: 3
 	Georgia: 1
 	Germany: 50
 	Greece: 28
