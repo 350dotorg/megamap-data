@@ -2,7 +2,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1501, 
+    "rsvp_count": 1503, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 1301, 
+    "rsvp_count": 1302, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -578,7 +578,7 @@
   {
     "city": "Genova", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 78, 
+    "rsvp_count": 79, 
     "country": "Italy", 
     "start_time": "11:00:00", 
     "venue": "Piazza De Ferrari", 
@@ -3202,7 +3202,7 @@
   {
     "city": "Vancouver", 
     "name": "People's Climate March", 
-    "rsvp_count": 488, 
+    "rsvp_count": 490, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Main street", 
@@ -23858,7 +23858,7 @@
   {
     "city": "Ancona", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 12, 
+    "rsvp_count": 13, 
     "country": "Italy", 
     "start_time": "15:00:00", 
     "venue": "piazza Cavour", 
@@ -24018,7 +24018,7 @@
   {
     "city": "Sevilla", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 10, 
+    "rsvp_count": 11, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Plaza de la Encarnacion (las Setas)", 
