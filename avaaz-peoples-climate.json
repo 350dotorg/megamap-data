@@ -82,7 +82,7 @@
   {
     "city": "Berlin", 
     "name": "Mal schnell die Welt retten - BERLIN", 
-    "rsvp_count": 250, 
+    "rsvp_count": 251, 
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "Brandenburger Tor", 
@@ -578,7 +578,7 @@
   {
     "city": "Helsinki", 
     "name": "People's Climate March - Helsinki", 
-    "rsvp_count": 98, 
+    "rsvp_count": 99, 
     "country": "Finland", 
     "start_time": "16:00:00", 
     "venue": "Kamppi", 
@@ -3794,7 +3794,7 @@
   {
     "city": "Belgrade", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 13, 
+    "rsvp_count": 14, 
     "country": "Serbia", 
     "start_time": "13:00:00", 
     "venue": "belgrade", 
@@ -4290,7 +4290,7 @@
   {
     "city": "Moscow", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 123, 
+    "rsvp_count": 124, 
     "country": "Russia", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -5186,7 +5186,7 @@
   {
     "city": "Randburg", 
     "name": "People's Climate Picnic and Heart Formation", 
-    "rsvp_count": 140, 
+    "rsvp_count": 141, 
     "country": "South Africa", 
     "start_time": "13:00:00", 
     "venue": "Emmarentia Dam", 
@@ -10034,7 +10034,7 @@
   {
     "city": "\u0421\u0430\u043c\u0430\u0440\u0430", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448 \u0432 \u0421\u0430\u043c\u0430\u0440\u0435", 
-    "rsvp_count": 7, 
+    "rsvp_count": 8, 
     "country": "Russia", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -10354,7 +10354,7 @@
   {
     "city": "Bilbao", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 26, 
+    "rsvp_count": 27, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "PLAZA DEL ARRIAGA", 
@@ -12018,7 +12018,7 @@
   {
     "city": "Maribor", 
     "name": "Zeleno drevo, moje zdravje", 
-    "rsvp_count": 23, 
+    "rsvp_count": 24, 
     "country": "Slovenia", 
     "start_time": "19:00:00", 
     "venue": "Zeleno drevo, moje zdravje", 
@@ -13122,7 +13122,7 @@
   {
     "city": "Santiago de Quer\u00e9taro", 
     "name": "Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 52, 
+    "rsvp_count": 53, 
     "country": "Mexico", 
     "start_time": "11:00:00", 
     "venue": "Plaza de Armas (Por favor, estar atentos del lugar del evento, porque todav\u00eda no da el permiso el Municipio)", 
@@ -22130,7 +22130,7 @@
   {
     "city": "Segovia", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico -Segovia", 
-    "rsvp_count": 22, 
+    "rsvp_count": 23, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Acueducto", 
@@ -22322,7 +22322,7 @@
   {
     "city": "San Jos\u00e9", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 107, 
+    "rsvp_count": 108, 
     "country": "Costa Rica", 
     "start_time": "13:00:00", 
     "venue": "Parque Metropolitano La Sabana", 
@@ -23906,7 +23906,7 @@
   {
     "city": "Barcelona", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 40, 
+    "rsvp_count": 41, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "CALLE LA ERA N\u00ba 5, FRENTE AL AYUNTAMIENTO", 
