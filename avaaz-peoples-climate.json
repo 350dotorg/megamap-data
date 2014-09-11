@@ -18,7 +18,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1270, 
+    "rsvp_count": 1271, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -66,7 +66,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 258, 
+    "rsvp_count": 262, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -642,7 +642,7 @@
   {
     "city": "Genova", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 73, 
+    "rsvp_count": 74, 
     "country": "Italy", 
     "start_time": "11:00:00", 
     "venue": "Piazza De Ferrari", 
@@ -3154,7 +3154,7 @@
   {
     "city": "The Hague", 
     "name": "People's Climate March", 
-    "rsvp_count": 80, 
+    "rsvp_count": 81, 
     "country": "Netherlands", 
     "start_time": "13:00:00", 
     "venue": "Plaats", 
@@ -15362,7 +15362,7 @@
   {
     "city": "Palma de Mallorca", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 31, 
+    "rsvp_count": 32, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "excorxador", 
@@ -16594,7 +16594,7 @@
   {
     "city": "Goi\u00e2nia", 
     "name": "Recomposi\u00e7\u00e3o Total das Matas Ciliares", 
-    "rsvp_count": 200, 
+    "rsvp_count": 201, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a C\u00edvica", 
@@ -17314,7 +17314,7 @@
   {
     "city": "Cascavel", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 7, 
+    "rsvp_count": 8, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a do cal\u00e7ad\u00e3o - Catedra N SR\u00aa Aparecida", 
@@ -18226,7 +18226,7 @@
   {
     "city": "An\u00e1polis", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 17, 
+    "rsvp_count": 18, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Parque Ipiranga", 
@@ -21330,7 +21330,7 @@
   {
     "city": "Zagreb", 
     "name": "People's Climate March", 
-    "rsvp_count": 67, 
+    "rsvp_count": 68, 
     "country": "Croatia", 
     "start_time": "13:00:00", 
     "venue": "Trg Kralja Tomislava", 
@@ -21554,7 +21554,7 @@
   {
     "city": "Amsterdam", 
     "name": "People's Climate March", 
-    "rsvp_count": 11, 
+    "rsvp_count": 12, 
     "country": "Netherlands", 
     "start_time": "13:00:00", 
     "venue": "Vondelpark, statue Joost van Vondel", 
@@ -23890,7 +23890,7 @@
   {
     "city": "Barcelona", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 53, 
+    "rsvp_count": 54, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "CALLE LA ERA N\u00ba 5, FRENTE AL AYUNTAMIENTO", 
@@ -27458,7 +27458,7 @@
   {
     "city": "\u041c\u0443\u043a\u0430\u0447\u0435\u0432\u043e", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Ukraine", 
     "start_time": "13:00:00", 
     "venue": "\u0420\u0430\u0442\u0443\u0448\u0430", 
@@ -28146,7 +28146,7 @@
   {
     "city": "Legau", 
     "name": "Klima-Aktionstag auf dem Stand \"Nachhaltiges Allg\u00e4u\" beim RAPUNZEL-Festival in Legau", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "RAPUNZEL-Festival", 
@@ -28306,7 +28306,7 @@
   {
     "city": "C\u00f3rdoba", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Argentina", 
     "start_time": "13:00:00", 
     "venue": "Patio Olmos Shopping - Av. V\u00e9lez Sarsfield 361", 
@@ -28494,5 +28494,53 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_123", 
     "id": 4321
+  }, 
+  {
+    "city": "Bebedouro", 
+    "name": "Caminhada pelo Clima", 
+    "rsvp_count": 1, 
+    "country": "Brazil", 
+    "start_time": "13:00:00", 
+    "venue": "pr\u00f3ximo escola Oswaldo Shiavon", 
+    "longitude": -48.4795365, 
+    "state": "SP", 
+    "country_code": "BR", 
+    "address": "Bebedouro - SP, Rep\u00fablica Federativa do Brasil", 
+    "latitude": -20.949552, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_124", 
+    "id": 4325
+  }, 
+  {
+    "city": "Santa Rita do Sapuca\u00ed", 
+    "name": "Caminhada pelo Clima", 
+    "rsvp_count": 1, 
+    "country": "Brazil", 
+    "start_time": "09:00:00", 
+    "venue": "Avenida Sinha Moreira", 
+    "longitude": -45.7043358, 
+    "state": "MG", 
+    "country_code": "BR", 
+    "address": "Avenida Sinh\u00e1 Moreira, Santa Rita do Sapuca\u00ed - MG, 37540-000, Rep\u00fablica Federativa do Brasil", 
+    "latitude": -22.2549913, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_125", 
+    "id": 4326
+  }, 
+  {
+    "city": "Santa Rita do Sapuca\u00ed", 
+    "name": "Caminhada pelo Clima", 
+    "rsvp_count": 1, 
+    "country": "Brazil", 
+    "start_time": "09:00:00", 
+    "venue": "Avenida Sinha Moreira", 
+    "longitude": -45.7043358, 
+    "state": "MG", 
+    "country_code": "BR", 
+    "address": "Avenida Sinh\u00e1 Moreira, Santa Rita do Sapuca\u00ed - MG, 37540-000, Rep\u00fablica Federativa do Brasil", 
+    "latitude": -22.2549913, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_126", 
+    "id": 4327
   }
 ]
