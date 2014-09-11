@@ -4178,7 +4178,7 @@
   {
     "city": "\u041a\u0438\u0435\u0432", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 94, 
+    "rsvp_count": 95, 
     "country": "Ukraine", 
     "start_time": "13:00:00", 
     "venue": "\u041c\u0435\u0442\u0440\u043e \"\u0417\u043e\u043b\u043e\u0442\u044b\u0435 \u0432\u043e\u0440\u043e\u0442\u0430\"", 
@@ -7938,7 +7938,7 @@
   {
     "city": "\u0427\u0435\u0440\u043a\u0430\u0441\u0438", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 11, 
+    "rsvp_count": 12, 
     "country": "Ukraine", 
     "start_time": "13:00:00", 
     "venue": "14 \u0433\u0440\u0443\u0434\u043d\u044f 1943-\u0433\u043e \u0440\u043e\u043a\u0443 (\u0413\u0430\u0440\u043c\u0430\u0442\u0430) \u0432\u0443\u043b\u0438\u0446\u044f \u0412\u0435\u0440\u043d\u0438\u0433\u043e\u0440\u0438, 12/ \u0421\u043c\u0456\u043b\u044f\u043d\u0441\u044c\u043a\u0430, \u0427\u0435\u0440\u043a\u0430\u0441\u0438, \u0427\u0435\u0440\u043a\u0430\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0423\u043a\u0440\u0430\u0457\u043d\u0430", 
@@ -11122,7 +11122,7 @@
   {
     "city": "Madrid", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 388, 
+    "rsvp_count": 389, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Cada persona en la puerta de su casa: Inundemos las aceras de la ciudad.", 
@@ -11154,7 +11154,7 @@
   {
     "city": "Madrid", 
     "name": "La Marcha Ciudadana por la Naturaleza, la Vida y Evoluci\u00f3n Humana", 
-    "rsvp_count": 169, 
+    "rsvp_count": 170, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "La Puerta de La Tabacalera", 
@@ -25154,7 +25154,7 @@
   {
     "city": "D\u00fcsseldorf", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 17, 
+    "rsvp_count": 18, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Dachdeckerbetrieb Rainer Tietz", 
