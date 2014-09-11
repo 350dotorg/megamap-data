@@ -27,7 +27,7 @@ Number of countries: 136
 	Canada: 91
 	Cayman Islands: 1
 	Chile: 25
-	Colombia: 78
+	Colombia: 79
 	Congo, DPR: 2
 	Congo, PR: 1
 	Costa Rica: 6
@@ -127,7 +127,7 @@ Number of countries: 136
 	Ukraine: 43
 	United Arab Emirates: 2
 	United Kingdom: 59
-	United States of America: 69
+	United States of America: 68
 	Uruguay: 11
 	Uzbekistan: 1
 	Venezuela: 23
