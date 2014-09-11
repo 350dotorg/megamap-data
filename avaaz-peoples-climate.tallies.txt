@@ -1,4 +1,4 @@
-Number of events: 1833
+Number of events: 1834
 Number of countries: 136
 	Afghanistan: 1
 	Albania: 1
@@ -47,7 +47,7 @@ Number of countries: 136
 	French Polynesia: 3
 	Georgia: 1
 	Germany: 54
-	Greece: 32
+	Greece: 33
 	Guadeloupe: 3
 	Guatemala: 10
 	Guinea: 1

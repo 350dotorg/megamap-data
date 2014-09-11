@@ -1554,7 +1554,7 @@
   {
     "city": "Bogota", 
     "name": "Bogot\u00e1 Marcha X el Clima", 
-    "rsvp_count": 228, 
+    "rsvp_count": 229, 
     "country": "Colombia", 
     "start_time": "10:00:00", 
     "venue": "Parque Nacional hasta Plaza de los Periodistas", 
@@ -5170,7 +5170,7 @@
   {
     "city": "Randburg", 
     "name": "People's Climate Picnic and Heart Formation", 
-    "rsvp_count": 152, 
+    "rsvp_count": 153, 
     "country": "South Africa", 
     "start_time": "13:00:00", 
     "venue": "Emmarentia Dam", 
@@ -6002,7 +6002,7 @@
   {
     "city": "Manchester", 
     "name": "People's Climate March", 
-    "rsvp_count": 115, 
+    "rsvp_count": 117, 
     "country": "United Kingdom", 
     "start_time": "11:00:00", 
     "venue": "Piccadilly gardens", 
@@ -6578,7 +6578,7 @@
   {
     "city": "Graz", 
     "name": "Graz, Hauptplatz", 
-    "rsvp_count": 142, 
+    "rsvp_count": 143, 
     "country": "Austria", 
     "start_time": "13:00:00", 
     "venue": "Hauptplatz vor dem Rathaus", 
@@ -8994,7 +8994,7 @@
   {
     "city": "Valencia", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 170, 
+    "rsvp_count": 171, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -9778,7 +9778,7 @@
   {
     "city": "Nueva San Salvador", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 70, 
+    "rsvp_count": 71, 
     "country": "El Salvador", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -16242,7 +16242,7 @@
   {
     "city": "Darmstadt", 
     "name": "Trommelkreis f\u00fcr unser Klima", 
-    "rsvp_count": 22, 
+    "rsvp_count": 23, 
     "country": "Germany", 
     "start_time": "14:30:00", 
     "venue": "Luisenplatz, 64283", 
@@ -16434,7 +16434,7 @@
   {
     "city": "S\u00e3o Paulo", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 92, 
+    "rsvp_count": 93, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a Campo de Bagatelle - Bairro de Santana - em frente ao Campo de Marte", 
@@ -16690,7 +16690,7 @@
   {
     "city": "Cuiab\u00e1", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 48, 
+    "rsvp_count": 49, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "pra\u00e7a oito de abril", 
@@ -17378,7 +17378,7 @@
   {
     "city": "Vit\u00f3ria da Conquista", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 7, 
+    "rsvp_count": 8, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Av olivia flores todos unidos para salvar o planeta -", 
@@ -28594,7 +28594,7 @@
   {
     "city": "Santiago Province", 
     "name": "Marcha Ciudadana contra el Cambio Clim\u00e1tico, MAC Santiago de Chile", 
-    "rsvp_count": 16, 
+    "rsvp_count": 17, 
     "country": "Chile", 
     "start_time": "12:00:00", 
     "venue": "Jos\u00e9 Victorino Lastarria 307, Plaza Mulato Gil de Castro (Metro U. Cat\u00f3lica y/o Bellas Artes)", 
@@ -29326,5 +29326,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_141", 
     "id": 4410
+  }, 
+  {
+    "city": "", 
+    "name": "Klima-Aktionstag", 
+    "rsvp_count": 1, 
+    "country": "Greece", 
+    "start_time": "13:00:00", 
+    "venue": "", 
+    "longitude": 19.6558333, 
+    "state": "", 
+    "country_code": "GR", 
+    "address": "Akra Arilla, Agios Georgios 490 81, Griechenland", 
+    "latitude": 39.7133333, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaAktionstag_127", 
+    "id": 4416
   }
 ]
