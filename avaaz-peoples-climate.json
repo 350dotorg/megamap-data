@@ -322,7 +322,7 @@
   {
     "city": "G\u00f6teborg", 
     "name": "Climate Call G\u00f6teborg", 
-    "rsvp_count": 63, 
+    "rsvp_count": 64, 
     "country": "Sweden", 
     "start_time": "14:00:00", 
     "venue": "Gustav Adolfs torg", 
@@ -2210,7 +2210,7 @@
   {
     "city": "Brasilia", 
     "name": "Uni\u00e3o Avaaz em Brasilia contra as Mudan\u00e7as Climaticas", 
-    "rsvp_count": 361, 
+    "rsvp_count": 362, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Esplanada dos Ministerios", 
@@ -3954,7 +3954,7 @@
   {
     "city": "Alcala de Henares", 
     "name": "Concentraci\u00f3n Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 73, 
+    "rsvp_count": 74, 
     "country": "Spain", 
     "start_time": "12:00:00", 
     "venue": "Plaza de la Capilla del Oidor", 
@@ -7554,7 +7554,7 @@
   {
     "city": "Montr\u00e9al", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 77, 
+    "rsvp_count": 78, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Place d'Youville", 
@@ -10914,7 +10914,7 @@
   {
     "city": "Cuernavaca", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 44, 
+    "rsvp_count": 45, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "zocalo de cuernavaca", 
@@ -16450,7 +16450,7 @@
   {
     "city": "S\u00e3o Paulo", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 86, 
+    "rsvp_count": 87, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a Campo de Bagatelle - Bairro de Santana - em frente ao Campo de Marte", 
@@ -16674,7 +16674,7 @@
   {
     "city": "Salvador", 
     "name": "EDUCA\u00c7\u00c3O PELA PAZ CLIM\u00c1TICA", 
-    "rsvp_count": 60, 
+    "rsvp_count": 61, 
     "country": "Brazil", 
     "start_time": "09:00:00", 
     "venue": "BAIRRO DO RIO VERMELHO, REGI\u00c3O DAS DUAS IGREJAS DOS PESCADORES", 
@@ -16800,17 +16800,17 @@
     "id": 3343
   }, 
   {
-    "city": "Bruz", 
+    "city": "Laill\u00e9", 
     "name": "Mobilisation des Scouts pour le Climat", 
     "rsvp_count": 3, 
     "country": "France", 
     "start_time": "10:00:00", 
-    "venue": "ferme", 
-    "longitude": -1.7366526000001, 
+    "venue": "Laill\u00e9", 
+    "longitude": -1.7272854, 
     "state": "Brittany", 
     "country_code": "FR", 
-    "address": "17 Square du Petit Prince, 35170 Bruz, France", 
-    "latitude": 48.0270648, 
+    "address": "Le Cleux, 35890 Laill\u00e9, France", 
+    "latitude": 47.9682414, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Scouts_Pour_le_Climat", 
     "id": 3344
@@ -18770,7 +18770,7 @@
   {
     "city": "\u6771\u4eac", 
     "name": "\u5e02\u6c11\u306e\u6c17\u5019\u30de\u30fc\u30c1", 
-    "rsvp_count": 19, 
+    "rsvp_count": 20, 
     "country": "Japan", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -21250,7 +21250,7 @@
   {
     "city": "Sevilla", 
     "name": "\"REVELACIONES\" Exposici\u00f3n colectiva de artistas mujeres como acci\u00f3n contra el cambio clim\u00e1tico", 
-    "rsvp_count": 13, 
+    "rsvp_count": 14, 
     "country": "Spain", 
     "start_time": "20:00:00", 
     "venue": "CONTAINER-ART - ESPACIO EXPOSITIVO - MUELLE DE LAS DELICIAS", 
@@ -21314,7 +21314,7 @@
   {
     "city": "Zagreb", 
     "name": "People's Climate March", 
-    "rsvp_count": 72, 
+    "rsvp_count": 73, 
     "country": "Croatia", 
     "start_time": "13:00:00", 
     "venue": "Trg Kralja Tomislava", 
@@ -22978,7 +22978,7 @@
   {
     "city": "Bogot\u00e1", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 14, 
+    "rsvp_count": 15, 
     "country": "Colombia", 
     "start_time": "13:00:00", 
     "venue": "Centro de Investigaciones Cu\u00e1nticas Virtual, Proyecto Kryon", 
@@ -25746,7 +25746,7 @@
   {
     "city": "Campo Belo", 
     "name": "Caminhada pelo Clima ou \"Respeito \u00e0 Vida\"", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Casa da Cultura Pra\u00e7a , Rui Barbos S/N    (  Encontro 16.09.2014 \u00e0s 19:00hs.) pr\u00f3ximo 21.09.2014 \u00e1s 13:00", 
@@ -28370,7 +28370,7 @@
   {
     "city": "Santa B\u00e1rbara D'Oeste", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Av Monte Castelo, em frente a prefeitura.", 
@@ -28706,7 +28706,7 @@
   {
     "city": "Joinville", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a Nereu Ramos", 
