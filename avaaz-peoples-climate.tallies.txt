@@ -1,4 +1,4 @@
-Number of events: 1769
+Number of events: 1770
 Number of countries: 135
 	Afghanistan: 1
 	Albania: 1
@@ -86,7 +86,7 @@ Number of countries: 135
 	New Zealand: 23
 	Nicaragua: 1
 	Nigeria: 5
-	Norway: 7
+	Norway: 8
 	Oman: 1
 	Pakistan: 3
 	Palestine: 8
