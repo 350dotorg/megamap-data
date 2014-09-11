@@ -18,7 +18,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1300, 
+    "rsvp_count": 1302, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -1154,7 +1154,7 @@
   {
     "city": "Ottawa", 
     "name": "People's Climate March - Ottawa Event", 
-    "rsvp_count": 225, 
+    "rsvp_count": 226, 
     "country": "Canada", 
     "start_time": "12:00:00", 
     "venue": "Parliament Hill", 
@@ -2210,7 +2210,7 @@
   {
     "city": "Brasilia", 
     "name": "Uni\u00e3o Avaaz em Brasilia contra as Mudan\u00e7as Climaticas", 
-    "rsvp_count": 362, 
+    "rsvp_count": 363, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Esplanada dos Ministerios", 
@@ -8354,7 +8354,7 @@
   {
     "city": "Tijuana", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "av. paseo de los heroes, zona urbana rio tijuana, 22010", 
@@ -8434,7 +8434,7 @@
   {
     "city": "Perpignan", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Place de Catalogne, 66000 Perpignan", 
@@ -16578,7 +16578,7 @@
   {
     "city": "Goi\u00e2nia", 
     "name": "Recomposi\u00e7\u00e3o Total das Matas Ciliares", 
-    "rsvp_count": 246, 
+    "rsvp_count": 247, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a C\u00edvica", 
@@ -16754,7 +16754,7 @@
   {
     "city": "Governador Valadares", 
     "name": "Caminhada pelo Clima e em defesa do Rio Doce", 
-    "rsvp_count": 7, 
+    "rsvp_count": 8, 
     "country": "Brazil", 
     "start_time": "10:00:00", 
     "venue": "Pra\u00e7a da Ilha dos Ara\u00fajos", 
@@ -17458,7 +17458,7 @@
   {
     "city": "Teodoro Sampaio", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Na Pra\u00e7a Da Prefeitura", 
@@ -22082,7 +22082,7 @@
   {
     "city": "Adrogu\u00e9", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 8, 
+    "rsvp_count": 9, 
     "country": "Argentina", 
     "start_time": "13:00:00", 
     "venue": "Adrogu\u00e9", 
@@ -23810,7 +23810,7 @@
   {
     "city": "Santiago", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Panama", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -25410,7 +25410,7 @@
   {
     "city": "Chihuahua", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "", 
