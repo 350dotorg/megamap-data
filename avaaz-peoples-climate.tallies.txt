@@ -1,4 +1,4 @@
-Number of events: 1830
+Number of events: 1831
 Number of countries: 135
 	Afghanistan: 1
 	Albania: 1
@@ -53,7 +53,7 @@ Number of countries: 135
 	Honduras: 3
 	Hong Kong: 1
 	Hungary: 2
-	India: 24
+	India: 25
 	Indonesia: 1
 	Iran: 5
 	Iraq: 12
