@@ -1218,7 +1218,7 @@
   {
     "city": "Doha", 
     "name": "Doha Climate Rally", 
-    "rsvp_count": 24, 
+    "rsvp_count": 25, 
     "country": "Qatar", 
     "start_time": "17:00:00", 
     "venue": "Corniche/MIA (location to be confirmed)", 
@@ -3554,7 +3554,7 @@
   {
     "city": "Culiac\u00e1n Rosales", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 10, 
+    "rsvp_count": 11, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "avenida alvaro obregon, frente a plazuela obregon", 
@@ -4290,7 +4290,7 @@
   {
     "city": "Moscow", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 103, 
+    "rsvp_count": 104, 
     "country": "Russia", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -7634,7 +7634,7 @@
   {
     "city": "K\u00f6ln", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 174, 
+    "rsvp_count": 175, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "K\u00f6lner Dom", 
@@ -10850,7 +10850,7 @@
   {
     "city": "Victoria", 
     "name": "One Wave Festival", 
-    "rsvp_count": 124, 
+    "rsvp_count": 125, 
     "country": "Canada", 
     "start_time": "12:00:00", 
     "venue": "Centennial Square", 
@@ -15906,7 +15906,7 @@
   {
     "city": "Pereira", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 28, 
+    "rsvp_count": 29, 
     "country": "Colombia", 
     "start_time": "13:00:00", 
     "venue": "Plaza de bolivar", 
@@ -27214,5 +27214,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/ar/event/climate/lmsyr_lmnkhy_lshby_177", 
     "id": 4207
+  }, 
+  {
+    "city": "\u0415\u0440\u0435\u0432\u0430\u043d", 
+    "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
+    "rsvp_count": 1, 
+    "country": "Armenia", 
+    "start_time": "13:00:00", 
+    "venue": "", 
+    "longitude": 44.516667, 
+    "state": "\u0415\u0440\u0435\u0432\u0430\u043d", 
+    "country_code": "AM", 
+    "address": "\u0415\u0440\u0435\u0432\u0430\u043d, \u0410\u0440\u043c\u0435\u043d\u0438\u044f", 
+    "latitude": 40.183333, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/ru/event/climate/Narodnyy_klimaticheskiy_marsh_118", 
+    "id": 4208
   }
 ]
