@@ -18,7 +18,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1374, 
+    "rsvp_count": 1376, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -66,7 +66,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 563, 
+    "rsvp_count": 564, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -98,7 +98,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 993, 
+    "rsvp_count": 995, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -2642,7 +2642,7 @@
   {
     "city": "Nyon", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 39, 
+    "rsvp_count": 40, 
     "country": "Switzerland", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -6546,7 +6546,7 @@
   {
     "city": "Bologna", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 188, 
+    "rsvp_count": 190, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "Piazza Maggiore", 
@@ -7234,7 +7234,7 @@
   {
     "city": "Santo Domingo", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 89, 
+    "rsvp_count": 90, 
     "country": "Dominican Republic", 
     "start_time": "13:00:00", 
     "venue": "Plaza la bandera", 
@@ -15490,7 +15490,7 @@
   {
     "city": "Malm\u00f6", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 9, 
+    "rsvp_count": 10, 
     "country": "Sweden", 
     "start_time": "13:00:00", 
     "venue": "folk", 
@@ -19970,7 +19970,7 @@
   {
     "city": "Tanta", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629 - \u0637\u0646\u0637\u0627", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Egypt", 
     "start_time": "13:00:00", 
     "venue": "\u0646\u0627\u0649 \u0637\u0646\u0637\u0627 \u0627\u0644\u0631\u064a\u0627\u0636\u064a", 
@@ -25522,7 +25522,7 @@
   {
     "city": "Rudolstadt", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Marktplatz", 
@@ -28930,7 +28930,7 @@
   {
     "city": "Olinda", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -29218,7 +29218,7 @@
   {
     "city": "Ivybridge", 
     "name": "People's Climate March", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "United Kingdom", 
     "start_time": "10:00:00", 
     "venue": "Glanvilles Mill Ivybridge", 
@@ -29682,7 +29682,7 @@
   {
     "city": "\u041a\u0440\u0438\u0432\u043e\u0439 \u0420\u043e\u0433", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Ukraine", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -29902,5 +29902,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_460", 
     "id": 4465
+  }, 
+  {
+    "city": "Cama\u00e7ari", 
+    "name": "Caminhada pelo Clima", 
+    "rsvp_count": 1, 
+    "country": "Brazil", 
+    "start_time": "13:00:00", 
+    "venue": "PEm frente a prefeitura", 
+    "longitude": -38.3331983, 
+    "state": "BA", 
+    "country_code": "BR", 
+    "address": "Cama\u00e7ari - BA, Rep\u00fablica Federativa do Brasil", 
+    "latitude": -12.6971776, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_144", 
+    "id": 4466
   }
 ]
