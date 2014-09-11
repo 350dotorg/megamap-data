@@ -2,7 +2,7 @@
   {
     "city": "Melbourne", 
     "name": "Melbourne Climate March", 
-    "rsvp_count": 702, 
+    "rsvp_count": 703, 
     "country": "Australia", 
     "start_time": "11:00:00", 
     "venue": "State Library", 
@@ -98,7 +98,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 989, 
+    "rsvp_count": 992, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -722,7 +722,7 @@
   {
     "city": "Valence", 
     "name": "Marche Pour le Climat (Officiel Avaaz)", 
-    "rsvp_count": 39, 
+    "rsvp_count": 40, 
     "country": "France", 
     "start_time": "11:00:00", 
     "venue": "Place de la Mairie", 
@@ -2130,7 +2130,7 @@
   {
     "city": "Hamburg", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 275, 
+    "rsvp_count": 276, 
     "country": "Germany", 
     "start_time": "16:00:00", 
     "venue": "vor dem Rathaus", 
@@ -2914,7 +2914,7 @@
   {
     "city": "Milano", 
     "name": "Climate March", 
-    "rsvp_count": 227, 
+    "rsvp_count": 228, 
     "country": "Italy", 
     "start_time": "10:00:00", 
     "venue": "", 
@@ -3970,7 +3970,7 @@
   {
     "city": "Neiva", 
     "name": "CAMINATA ECOL\u00d3GICA DE RECONOCIMIENTO AL NACIMIENTO DEL R\u00cdO DEL ORO", 
-    "rsvp_count": 12, 
+    "rsvp_count": 13, 
     "country": "Colombia", 
     "start_time": "06:00:00", 
     "venue": "", 
@@ -4882,7 +4882,7 @@
   {
     "city": "Zaragoza", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 130, 
+    "rsvp_count": 131, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Plaza de Espa\u00f1a", 
@@ -5026,7 +5026,7 @@
   {
     "city": "Steyr", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 38, 
+    "rsvp_count": 39, 
     "country": "Austria", 
     "start_time": "13:00:00", 
     "venue": "Stadtplatz", 
@@ -5858,7 +5858,7 @@
   {
     "city": "Calgary", 
     "name": "People's Climate March", 
-    "rsvp_count": 75, 
+    "rsvp_count": 76, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Olympic Plaza", 
@@ -9858,7 +9858,7 @@
   {
     "city": "Lima", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 103, 
+    "rsvp_count": 104, 
     "country": "Peru", 
     "start_time": "10:00:00", 
     "venue": "Frente al Pentagonito", 
@@ -18930,7 +18930,7 @@
   {
     "city": "Bogot\u00e1", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 57, 
+    "rsvp_count": 58, 
     "country": "Colombia", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -19890,7 +19890,7 @@
   {
     "city": "Angers", 
     "name": "Marche mondiale des citoyens pour le climat", 
-    "rsvp_count": 41, 
+    "rsvp_count": 42, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Parc Balzac", 
@@ -24322,7 +24322,7 @@
   {
     "city": "Villavicencio", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Colombia", 
     "start_time": "13:00:00", 
     "venue": "calle 26 # 37-45", 
@@ -25410,7 +25410,7 @@
   {
     "city": "Blotzheim", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Mairie de Blotzheim", 
