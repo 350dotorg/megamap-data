@@ -2,7 +2,7 @@
   {
     "city": "Melbourne", 
     "name": "Melbourne Climate March", 
-    "rsvp_count": 666, 
+    "rsvp_count": 667, 
     "country": "Australia", 
     "start_time": "11:00:00", 
     "venue": "State Library", 
@@ -66,7 +66,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 262, 
+    "rsvp_count": 263, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -82,7 +82,7 @@
   {
     "city": "Berlin", 
     "name": "Mal schnell die Welt retten - BERLIN", 
-    "rsvp_count": 323, 
+    "rsvp_count": 324, 
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "Brandenburger Tor", 
@@ -98,7 +98,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 773, 
+    "rsvp_count": 774, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -530,7 +530,7 @@
   {
     "city": "Bournemouth", 
     "name": "People's Climate March Bournemouth", 
-    "rsvp_count": 84, 
+    "rsvp_count": 86, 
     "country": "United Kingdom", 
     "start_time": "13:00:00", 
     "venue": "Kino Lounge (in between town square and town hall.)", 
@@ -802,7 +802,7 @@
   {
     "city": "Montevideo", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 93, 
+    "rsvp_count": 94, 
     "country": "Uruguay", 
     "start_time": "15:00:00", 
     "venue": "Canteras del Parque Rod\u00f3 (Rambla Presidente Wilson y Avenida Dr Juan Cachon)", 
@@ -1618,7 +1618,7 @@
   {
     "city": "Toronto", 
     "name": "People's Climate March - Toronto", 
-    "rsvp_count": 330, 
+    "rsvp_count": 331, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Nathan Phillips Square", 
@@ -2578,7 +2578,7 @@
   {
     "city": "Cape Town", 
     "name": "People's Climate March", 
-    "rsvp_count": 369, 
+    "rsvp_count": 370, 
     "country": "South Africa", 
     "start_time": "13:00:00", 
     "venue": "Green Point Stadium", 
@@ -4594,7 +4594,7 @@
   {
     "city": "Wien", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 257, 
+    "rsvp_count": 258, 
     "country": "Austria", 
     "start_time": "16:00:00", 
     "venue": "Gleich neben dem Stephansdom", 
@@ -5106,7 +5106,7 @@
   {
     "city": "Adelaide", 
     "name": "People's Climate March Adelaide", 
-    "rsvp_count": 175, 
+    "rsvp_count": 176, 
     "country": "Australia", 
     "start_time": "11:00:00", 
     "venue": "Exact location TBD", 
@@ -5602,7 +5602,7 @@
   {
     "city": "Florian\u00f3polis", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 10, 
+    "rsvp_count": 11, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Av Beira Mar Norte", 
@@ -6402,7 +6402,7 @@
   {
     "city": "Strasbourg", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 134, 
+    "rsvp_count": 135, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Place Kl\u00e9ber", 
@@ -7954,7 +7954,7 @@
   {
     "city": "Taos", 
     "name": "People's Climate March", 
-    "rsvp_count": 19, 
+    "rsvp_count": 20, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "Taos Plaza", 
@@ -8162,7 +8162,7 @@
   {
     "city": "Cartagena", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 8, 
+    "rsvp_count": 9, 
     "country": "Colombia", 
     "start_time": "13:00:00", 
     "venue": "Reloj publico", 
@@ -17394,7 +17394,7 @@
   {
     "city": "Campinas", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 27, 
+    "rsvp_count": 28, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Teatro Centro Convivencia Cultural", 
@@ -18226,7 +18226,7 @@
   {
     "city": "An\u00e1polis", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 18, 
+    "rsvp_count": 19, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Parque Ipiranga", 
@@ -25138,7 +25138,7 @@
   {
     "city": "D\u00fcsseldorf", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 24, 
+    "rsvp_count": 25, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Dachdeckerbetrieb Rainer Tietz", 
@@ -26226,7 +26226,7 @@
   {
     "city": "Po\u00e7os de Caldas", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Brazil", 
     "start_time": "09:00:00", 
     "venue": "AV JOAO PINHEIRO", 
@@ -28542,5 +28542,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_126", 
     "id": 4327
+  }, 
+  {
+    "city": "Roma", 
+    "name": "Meditazione Globale per il Clima", 
+    "rsvp_count": 1, 
+    "country": "Italy", 
+    "start_time": "18:30:00", 
+    "venue": "", 
+    "longitude": 12.4462482, 
+    "state": "Lazio", 
+    "country_code": "IT", 
+    "address": "Villa Doria Pamphilj, 00164 Roma, Italia", 
+    "latitude": 41.8890952, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/it/event/climate/Meditazione_Globale_per_il_Clima", 
+    "id": 4328
   }
 ]

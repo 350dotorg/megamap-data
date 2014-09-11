@@ -1,4 +1,4 @@
-Number of events: 1784
+Number of events: 1785
 Number of countries: 135
 	Afghanistan: 1
 	Albania: 1
@@ -59,7 +59,7 @@ Number of countries: 135
 	Iraq: 12
 	Ireland: 7
 	Israel: 8
-	Italy: 90
+	Italy: 91
 	Japan: 8
 	Jordan: 1
 	Kenya: 2
