@@ -179,7 +179,7 @@ initData({},
   {
     "city": "Montreal", 
     "name": "Peoples' Climate March @ Montreal // Marche mondiale pour le climat @ Montr\u00e9al", 
-    "rsvp_count": 161, 
+    "rsvp_count": 162, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "TBD", 
