@@ -2,7 +2,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1493, 
+    "rsvp_count": 1495, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 1278, 
+    "rsvp_count": 1281, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -1346,7 +1346,7 @@
   {
     "city": "Treviso", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 84, 
+    "rsvp_count": 85, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "Piazza dei Signori", 
@@ -2850,7 +2850,7 @@
   {
     "city": "Milano", 
     "name": "Climate March", 
-    "rsvp_count": 235, 
+    "rsvp_count": 236, 
     "country": "Italy", 
     "start_time": "10:00:00", 
     "venue": "", 
@@ -3026,7 +3026,7 @@
   {
     "city": "Roma", 
     "name": "Marcia Globale per il Clima a Roma: LA BICICLETTATA, IL CUORE VERDE", 
-    "rsvp_count": 243, 
+    "rsvp_count": 244, 
     "country": "Italy", 
     "start_time": "15:00:00", 
     "venue": "COLOSSEO, ROMA", 
@@ -3282,7 +3282,7 @@
   {
     "city": "Arezzo", 
     "name": "Settimana Shiatsu e Raccolta firme per il Clima", 
-    "rsvp_count": 20, 
+    "rsvp_count": 21, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "Viale Dovizi 77", 
@@ -4354,7 +4354,7 @@
   {
     "city": "Bergamo", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 73, 
+    "rsvp_count": 74, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "Angolo via Camozzi - via Borgo Palazzo", 
@@ -12498,7 +12498,7 @@
   {
     "city": "Balne\u00e1rio Cambori\u00fa", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 26, 
+    "rsvp_count": 27, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -15154,7 +15154,7 @@
   {
     "city": "Palma de Mallorca", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 42, 
+    "rsvp_count": 43, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "excorxador", 
@@ -15890,7 +15890,7 @@
   {
     "city": "Karlsruhe", 
     "name": "Klima-Aktionstag Karlsruhe", 
-    "rsvp_count": 33, 
+    "rsvp_count": 34, 
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "Stephansplatz", 
@@ -16370,7 +16370,7 @@
   {
     "city": "Fortaleza", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 36, 
+    "rsvp_count": 37, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a do Ferreira", 
@@ -16418,7 +16418,7 @@
   {
     "city": "Recife", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 49, 
+    "rsvp_count": 50, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Sindicatos, igrejas e ONGs da regi\u00e3o Metropolitana e Interiores do estado.", 
@@ -17522,7 +17522,7 @@
   {
     "city": "Ickenham", 
     "name": "People's Climate March", 
-    "rsvp_count": 6, 
+    "rsvp_count": 7, 
     "country": "United Kingdom", 
     "start_time": "13:00:00", 
     "venue": "The Great Barn, Ruislip", 
@@ -18130,7 +18130,7 @@
   {
     "city": "Bolzano", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 34, 
+    "rsvp_count": 35, 
     "country": "Italy", 
     "start_time": "16:00:00", 
     "venue": "Piazza Walter", 
@@ -21986,7 +21986,7 @@
   {
     "city": "Buenos Aires", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 87, 
+    "rsvp_count": 88, 
     "country": "Argentina", 
     "start_time": "13:00:00", 
     "venue": "parque centenario", 
@@ -29890,7 +29890,7 @@
   {
     "city": "Martellago", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "piazza bertati", 
@@ -29934,5 +29934,37 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_149", 
     "id": 4482
+  }, 
+  {
+    "city": "Varese", 
+    "name": "Seminario \"Clima e Politica\" presso museoCASANOVA", 
+    "rsvp_count": 1, 
+    "country": "Italy", 
+    "start_time": "18:00:00", 
+    "venue": "Casanova, via Leggiuno 32", 
+    "longitude": 8.8250576, 
+    "state": "Lombardy", 
+    "country_code": "IT", 
+    "address": "Varese Varese, Italy", 
+    "latitude": 45.8205989, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/it/event/climate/Seminario_Clima_e_Politica_presso_museoCASANOVA", 
+    "id": 4483
+  }, 
+  {
+    "city": "", 
+    "name": "People's Climate March", 
+    "rsvp_count": 1, 
+    "country": "Mauritius", 
+    "start_time": "13:00:00", 
+    "venue": "", 
+    "longitude": 57.4730477, 
+    "state": "", 
+    "country_code": "MU", 
+    "address": "", 
+    "latitude": -20.2130533, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1515", 
+    "id": 4484
   }
 ]

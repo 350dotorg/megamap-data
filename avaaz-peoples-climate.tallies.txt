@@ -1,4 +1,4 @@
-Number of events: 1871
+Number of events: 1873
 Number of countries: 136
 	Afghanistan: 1
 	Albania: 1
@@ -61,7 +61,7 @@ Number of countries: 136
 	Iraq: 12
 	Ireland: 7
 	Israel: 8
-	Italy: 94
+	Italy: 95
 	Japan: 8
 	Jordan: 1
 	Kenya: 2
@@ -76,7 +76,7 @@ Number of countries: 136
 	Mali: 2
 	Martinique: 2
 	Mauritania: 2
-	Mauritius: 1
+	Mauritius: 2
 	Mexico: 99
 	Moldova: 2
 	Morocco: 28
