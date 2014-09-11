@@ -1,4 +1,4 @@
-Number of events: 1873
+Number of events: 1875
 Number of countries: 136
 	Afghanistan: 1
 	Albania: 1
@@ -48,7 +48,7 @@ Number of countries: 136
 	French Polynesia: 3
 	Georgia: 1
 	Germany: 60
-	Greece: 35
+	Greece: 36
 	Guadeloupe: 3
 	Guatemala: 13
 	Guinea: 1
@@ -61,7 +61,7 @@ Number of countries: 136
 	Iraq: 12
 	Ireland: 7
 	Israel: 8
-	Italy: 95
+	Italy: 96
 	Japan: 8
 	Jordan: 1
 	Kenya: 2
