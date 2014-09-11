@@ -66,7 +66,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 156, 
+    "rsvp_count": 157, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -98,7 +98,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 736, 
+    "rsvp_count": 738, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -562,7 +562,7 @@
   {
     "city": "Lisbon", 
     "name": "Marcha Contra as Altera\u00e7\u00f5es Clim\u00e1ticas - Salvem o Planeta!", 
-    "rsvp_count": 275, 
+    "rsvp_count": 276, 
     "country": "Portugal", 
     "start_time": "16:00:00", 
     "venue": "Rossio", 
@@ -2210,7 +2210,7 @@
   {
     "city": "Brasilia", 
     "name": "Uni\u00e3o Avaaz em Brasilia contra as Mudan\u00e7as Climaticas", 
-    "rsvp_count": 332, 
+    "rsvp_count": 333, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Esplanada dos Ministerios", 
@@ -3778,7 +3778,7 @@
   {
     "city": "Porto Alegre", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 170, 
+    "rsvp_count": 171, 
     "country": "Brazil", 
     "start_time": "11:00:00", 
     "venue": "Parque Farroupilha - Reden\u00e7\u00e3o", 
@@ -11122,7 +11122,7 @@
   {
     "city": "Madrid", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 444, 
+    "rsvp_count": 445, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Cada persona en la puerta de su casa: Inundemos las aceras de la ciudad.", 
@@ -16594,7 +16594,7 @@
   {
     "city": "Goi\u00e2nia", 
     "name": "Recomposi\u00e7\u00e3o Total das Matas Ciliares", 
-    "rsvp_count": 168, 
+    "rsvp_count": 169, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a C\u00edvica", 
@@ -18706,7 +18706,7 @@
   {
     "city": "Honolulu", 
     "name": "People's Climate March", 
-    "rsvp_count": 20, 
+    "rsvp_count": 21, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -23826,7 +23826,7 @@
   {
     "city": "Chamb\u00e9ry", 
     "name": "Chamb\u00e9ry : \"Marche pour le climat", 
-    "rsvp_count": 22, 
+    "rsvp_count": 23, 
     "country": "France", 
     "start_time": "15:00:00", 
     "venue": "Parc du Verney", 
@@ -24530,7 +24530,7 @@
   {
     "city": "Bremen", 
     "name": "Autofreier StadTraum", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Germany", 
     "start_time": "11:00:00", 
     "venue": "Utbremer Kreisel / Utbremer Ring", 
@@ -28366,5 +28366,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1496", 
     "id": 4295
+  }, 
+  {
+    "city": "Nijmegen", 
+    "name": "People's Climate March", 
+    "rsvp_count": 1, 
+    "country": "Netherlands", 
+    "start_time": "14:20:00", 
+    "venue": "Nijmegen Station, Perron 1, bij de Starbucks", 
+    "longitude": 5.8667, 
+    "state": "", 
+    "country_code": "NL", 
+    "address": "", 
+    "latitude": 51.8333, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1497", 
+    "id": 4296
   }
 ]

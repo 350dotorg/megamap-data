@@ -1,4 +1,4 @@
-Number of events: 1773
+Number of events: 1774
 Number of countries: 135
 	Afghanistan: 1
 	Albania: 1
@@ -81,7 +81,7 @@ Number of countries: 135
 	Morocco: 27
 	Myanmar: 1
 	Nepal: 1
-	Netherlands: 18
+	Netherlands: 19
 	New Caledonia: 2
 	New Zealand: 23
 	Nicaragua: 1
