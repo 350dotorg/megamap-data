@@ -66,7 +66,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 271, 
+    "rsvp_count": 272, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -98,7 +98,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 776, 
+    "rsvp_count": 778, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -2530,7 +2530,7 @@
   {
     "city": "\u039b\u03ac\u03c1\u03b9\u03c3\u03b1", 
     "name": "\u03a0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u039b\u03b1\u03ce\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
-    "rsvp_count": 18, 
+    "rsvp_count": 19, 
     "country": "Greece", 
     "start_time": "13:00:00", 
     "venue": "\u03ba\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae \u03c0\u03bb\u03b1\u03c4\u03b5\u03af\u03b1", 
@@ -5410,7 +5410,7 @@
   {
     "city": "Belo Horizonte", 
     "name": "Caminhada pelo Clima BH - Pra\u00e7a da Liberdade", 
-    "rsvp_count": 124, 
+    "rsvp_count": 125, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a da Liberdade", 
@@ -5426,7 +5426,7 @@
   {
     "city": "Curitiba", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 35, 
+    "rsvp_count": 36, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Parque S\u00e3o Louren\u00e7o", 
@@ -10114,7 +10114,7 @@
   {
     "city": "Bauru", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 16, 
+    "rsvp_count": 17, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a Vit\u00f3ria R\u00e9gia", 
@@ -16642,7 +16642,7 @@
   {
     "city": "Natal", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 19, 
+    "rsvp_count": 20, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Engenheiro Roberto Freire com Avenida Airton Senna", 
@@ -17394,7 +17394,7 @@
   {
     "city": "Campinas", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 28, 
+    "rsvp_count": 29, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Teatro Centro Convivencia Cultural", 
@@ -17970,7 +17970,7 @@
   {
     "city": "Santos", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 20, 
+    "rsvp_count": 21, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a das Bandeiras - Gonzaga - Santos", 
@@ -18578,7 +18578,7 @@
   {
     "city": "Botucatu", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -26482,7 +26482,7 @@
   {
     "city": "Barrie", 
     "name": "People's Climate March", 
-    "rsvp_count": 6, 
+    "rsvp_count": 7, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Sunnidale Park Dorian Parker building parking lot", 
