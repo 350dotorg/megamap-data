@@ -1,4 +1,4 @@
-Number of events: 1731
+Number of events: 1732
 Number of countries: 131
 	Albania: 1
 	Algeria: 40
@@ -123,7 +123,7 @@ Number of countries: 131
 	Uganda: 2
 	Ukraine: 38
 	United Arab Emirates: 2
-	United Kingdom: 52
+	United Kingdom: 53
 	United States of America: 64
 	Uruguay: 11
 	Venezuela: 23

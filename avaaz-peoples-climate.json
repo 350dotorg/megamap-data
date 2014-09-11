@@ -18,7 +18,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1119, 
+    "rsvp_count": 1120, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -82,7 +82,7 @@
   {
     "city": "Berlin", 
     "name": "Mal schnell die Welt retten - BERLIN", 
-    "rsvp_count": 254, 
+    "rsvp_count": 255, 
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "Brandenburger Tor", 
@@ -98,7 +98,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 431, 
+    "rsvp_count": 437, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -2130,7 +2130,7 @@
   {
     "city": "Hamburg", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 232, 
+    "rsvp_count": 233, 
     "country": "Germany", 
     "start_time": "16:00:00", 
     "venue": "vor dem Rathaus", 
@@ -4178,7 +4178,7 @@
   {
     "city": "\u041a\u0438\u0435\u0432", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 101, 
+    "rsvp_count": 102, 
     "country": "Ukraine", 
     "start_time": "13:00:00", 
     "venue": "\u041c\u0435\u0442\u0440\u043e \"\u0417\u043e\u043b\u043e\u0442\u044b\u0435 \u0432\u043e\u0440\u043e\u0442\u0430\"", 
@@ -8386,7 +8386,7 @@
   {
     "city": "Tijuana", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 14, 
+    "rsvp_count": 15, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "av. paseo de los heroes, zona urbana rio tijuana, 22010", 
@@ -16578,7 +16578,7 @@
   {
     "city": "Groningen", 
     "name": "Actiedag voor het Klimaat", 
-    "rsvp_count": 36, 
+    "rsvp_count": 37, 
     "country": "Netherlands", 
     "start_time": "13:00:00", 
     "venue": "Grote Markt", 
@@ -17810,7 +17810,7 @@
   {
     "city": "Sidmouth", 
     "name": "Sidmouth Climate Change Conversation", 
-    "rsvp_count": 14, 
+    "rsvp_count": 15, 
     "country": "United Kingdom", 
     "start_time": "11:00:00", 
     "venue": "Esplanade, by Lifeboat Station", 
@@ -21266,7 +21266,7 @@
   {
     "city": "\u041d\u0438\u0436\u043d\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434", 
     "name": "\u043f\u0438\u043a\u0435\u0442 \u0432 \u0437\u0430\u0449\u0438\u0442\u0443 \u043a\u043b\u0438\u043c\u0430\u0442\u0430", 
-    "rsvp_count": 6, 
+    "rsvp_count": 7, 
     "country": "Russia", 
     "start_time": "13:00:00", 
     "venue": "\u0442\u0435\u0430\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u044c", 
@@ -23362,7 +23362,7 @@
   {
     "city": "Vienna", 
     "name": "People's Climate March", 
-    "rsvp_count": 37, 
+    "rsvp_count": 38, 
     "country": "Austria", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -27694,5 +27694,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1484", 
     "id": 4237
+  }, 
+  {
+    "city": "newport pembs", 
+    "name": "People's Climate March", 
+    "rsvp_count": 1, 
+    "country": "United Kingdom", 
+    "start_time": "11:00:00", 
+    "venue": "high street pembrokeshire by the bank", 
+    "longitude": -0.13, 
+    "state": "pembrokeshire", 
+    "country_code": "GB", 
+    "address": "high street pembrokeshire by the bank", 
+    "latitude": 51.5, 
+    "event_date": "2014-09-22", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1485", 
+    "id": 4238
   }
 ]
