@@ -1,4 +1,4 @@
-Number of events: 1978
+Number of events: 1979
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
@@ -81,7 +81,7 @@ Number of countries: 137
 	Morocco: 30
 	Myanmar: 1
 	Nepal: 2
-	Netherlands: 25
+	Netherlands: 26
 	New Caledonia: 2
 	New Zealand: 25
 	Nicaragua: 1
