@@ -1,4 +1,4 @@
-Number of events: 2039
+Number of events: 2040
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 2
@@ -92,7 +92,7 @@ Number of countries: 137
 	Palestine: 9
 	Panama: 3
 	Paraguay: 1
-	Peru: 32
+	Peru: 33
 	Philippines: 3
 	Poland: 9
 	Portugal: 19
