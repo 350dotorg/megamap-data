@@ -18,7 +18,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 743, 
+    "rsvp_count": 744, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -1844,13 +1844,13 @@
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
     "rsvp_count": 33, 
     "country": "Colombia", 
-    "start_time": "13:00:00", 
-    "venue": "malecon", 
-    "longitude": -72.4991307, 
+    "start_time": "08:00:00", 
+    "venue": "", 
+    "longitude": -72.503889, 
     "state": "Norte De Santander", 
     "country_code": "CO", 
-    "address": "Malec\u00f3n, C\u00facuta, Norte De Santander, Colombia", 
-    "latitude": 7.8655326, 
+    "address": "C\u00facuta, Norte De Santander, Colombia", 
+    "latitude": 7.894167, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_40", 
     "id": 2032
@@ -2050,7 +2050,7 @@
   {
     "city": "Hamburg", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 286, 
+    "rsvp_count": 287, 
     "country": "Germany", 
     "start_time": "16:00:00", 
     "venue": "vor dem Rathaus", 
@@ -20290,7 +20290,7 @@
   {
     "city": "Goi\u00e2nia", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 68, 
+    "rsvp_count": 69, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a C\u00edvica, setor Sul", 
@@ -20434,7 +20434,7 @@
   {
     "city": "Montreal", 
     "name": "Equilibrium: The People's Climate Event", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Canada", 
     "start_time": "11:30:00", 
     "venue": "ST Philip's Church (Sherbrooke West)", 
@@ -28722,7 +28722,7 @@
   {
     "city": "Porto Alegre", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 67, 
+    "rsvp_count": 68, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "", 
