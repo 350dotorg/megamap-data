@@ -8547,7 +8547,7 @@ initData({},
   {
     "city": "Manizales", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 13, 
+    "rsvp_count": 14, 
     "country": "Colombia", 
     "start_time": "13:00:00", 
     "venue": "Parque Caldas", 
