@@ -31155,7 +31155,7 @@ initData({},
   {
     "city": "Amsterdam", 
     "name": "Actiedag voor het Klimaat", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Netherlands", 
     "start_time": "13:00:00", 
     "venue": "Bibliotheek amsterdam, centrale bibliotheek", 
