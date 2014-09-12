@@ -1056,22 +1056,6 @@
     "id": 1911
   }, 
   {
-    "city": "Toronto", 
-    "name": "People's Climate March", 
-    "rsvp_count": 92, 
-    "country": "Canada", 
-    "start_time": "13:00:00", 
-    "venue": "", 
-    "longitude": -79.3823884, 
-    "state": "ON", 
-    "country_code": "CA", 
-    "address": "100 Queen Street West, Toronto, ON M5H 2N2, Canada", 
-    "latitude": 43.6519632, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_926", 
-    "id": 1912
-  }, 
-  {
     "city": "Howick", 
     "name": "People's Climate March", 
     "rsvp_count": 22, 
@@ -4210,7 +4194,7 @@
   {
     "city": "Moscow", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 167, 
+    "rsvp_count": 168, 
     "country": "Russia", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -17282,7 +17266,7 @@
   {
     "city": "Manaus", 
     "name": "Grito Amaz\u00f4nico sobre Mudan\u00e7as Clim\u00e1ticas", 
-    "rsvp_count": 36, 
+    "rsvp_count": 37, 
     "country": "Brazil", 
     "start_time": "22:00:00", 
     "venue": "Pra\u00e7a Heliodoro Balbi (Antiga Pra\u00e7a da Pol\u00edcia) - Centro", 
@@ -17698,7 +17682,7 @@
   {
     "city": "Brusque", 
     "name": "Dia da \u00e1rvore - aten\u00e7\u00e3o a mata ciliar", 
-    "rsvp_count": 9, 
+    "rsvp_count": 10, 
     "country": "Brazil", 
     "start_time": "09:00:00", 
     "venue": "margem do rio Itaja\u00ed-Mirim, em frente ao SESC", 
@@ -26242,7 +26226,7 @@
   {
     "city": "Whangarei", 
     "name": "People's Climate March", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "New Zealand", 
     "start_time": "13:00:00", 
     "venue": "Cameron St Mall", 
