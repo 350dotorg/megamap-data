@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2099, 
+    "rsvp_count": 2101, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -3810,7 +3810,7 @@
   {
     "city": "Pisa", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 86, 
+    "rsvp_count": 87, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "Corso Italia, centro di Pisa", 
@@ -6498,7 +6498,7 @@
   {
     "city": "Athens", 
     "name": "\u0395\u03c0\u03af\u03c3\u03b7\u03bc\u03b7 \u0394\u03c1\u03ac\u03c3\u03b7 \u0391\u03b8\u03ae\u03bd\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
-    "rsvp_count": 244, 
+    "rsvp_count": 245, 
     "country": "Greece", 
     "start_time": "16:00:00", 
     "venue": "\u0394\u03b9\u03bf\u03bd\u03c5\u03c3\u03af\u03bf\u03c5 \u0391\u03c1\u03b5\u03bf\u03c0\u03b1\u03b3\u03af\u03c4\u03bf\u03c5, \u0391\u03b8\u03ae\u03bd\u03b1", 
@@ -8306,7 +8306,7 @@
   {
     "city": "Perpignan", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 17, 
+    "rsvp_count": 18, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Place de Catalogne, 66000 Perpignan", 
@@ -9474,7 +9474,7 @@
   {
     "city": "San Luis Potos\u00ed", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 71, 
+    "rsvp_count": 72, 
     "country": "Mexico", 
     "start_time": "10:00:00", 
     "venue": "Plaza de Armas", 
@@ -12354,7 +12354,7 @@
   {
     "city": "Balne\u00e1rio Cambori\u00fa", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 31, 
+    "rsvp_count": 32, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -22242,7 +22242,7 @@
   {
     "city": "San Pedro De Macor\u00eds", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 6, 
+    "rsvp_count": 7, 
     "country": "Dominican Republic", 
     "start_time": "13:00:00", 
     "venue": "", 
