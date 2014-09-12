@@ -1,4 +1,4 @@
-Number of events: 2024
+Number of events: 2025
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 2
@@ -131,7 +131,7 @@ Number of countries: 137
 	United States of America: 73
 	Uruguay: 13
 	Uzbekistan: 1
-	Venezuela: 24
+	Venezuela: 25
 	Vietnam: 1
 	Western Sahara: 1
 	Yemen: 14
