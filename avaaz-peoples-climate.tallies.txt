@@ -1,4 +1,4 @@
-Number of events: 1989
+Number of events: 1990
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
@@ -115,7 +115,7 @@ Number of countries: 137
 	Sri Lanka: 2
 	Sudan: 5
 	Sweden: 16
-	Switzerland: 18
+	Switzerland: 19
 	Syria: 3
 	Taiwan: 1
 	Thailand: 3
