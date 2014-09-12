@@ -34,7 +34,7 @@
   {
     "city": "Berlin", 
     "name": "Mal schnell die Welt retten - BERLIN", 
-    "rsvp_count": 505, 
+    "rsvp_count": 506, 
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "Brandenburger Tor", 
@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2341, 
+    "rsvp_count": 2343, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -1762,7 +1762,7 @@
   {
     "city": "Udine", 
     "name": "Flash Mob Udine per il Clima", 
-    "rsvp_count": 41, 
+    "rsvp_count": 42, 
     "country": "Italy", 
     "start_time": "19:00:00", 
     "venue": "Piazza Libert\u00e0", 
@@ -6162,7 +6162,7 @@
   {
     "city": "Tel Aviv-Yafo", 
     "name": "\u05e0\u05d7\u05e0\u05e7\u05d9\u05dd \u05de\u05d4\u05d6\u05d9\u05d4\u05d5\u05dd - \u05d3\u05d5\u05e8\u05e9\u05d9\u05dd 100% \u05d0\u05e0\u05e8\u05d2\u05d9\u05d4 \u05e0\u05e7\u05d9\u05d9\u05d4!", 
-    "rsvp_count": 135, 
+    "rsvp_count": 136, 
     "country": "Israel", 
     "start_time": "18:00:00", 
     "venue": "\u05db\u05d9\u05db\u05e8 \u05d4\u05d1\u05d9\u05de\u05d4", 
@@ -29426,7 +29426,7 @@
   {
     "city": "Aarhus", 
     "name": "People's Climate March", 
-    "rsvp_count": 14, 
+    "rsvp_count": 15, 
     "country": "Denmark", 
     "start_time": "13:00:00", 
     "venue": "Musikhuset", 
