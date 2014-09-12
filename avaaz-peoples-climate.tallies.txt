@@ -1,10 +1,10 @@
-Number of events: 2002
+Number of events: 2003
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
 	Algeria: 43
 	Argentina: 66
-	Armenia: 3
+	Armenia: 4
 	Australia: 36
 	Austria: 24
 	Azerbaijan: 1
