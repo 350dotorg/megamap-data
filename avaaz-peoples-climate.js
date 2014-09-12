@@ -16307,7 +16307,7 @@ initData({},
   {
     "city": "Balne\u00e1rio Cambori\u00fa", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 16, 
+    "rsvp_count": 17, 
     "country": "Brazil", 
     "start_time": "15:00:00", 
     "venue": "Pra\u00e7a Almirante Tamandar\u00e9", 
