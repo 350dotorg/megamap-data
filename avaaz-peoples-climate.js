@@ -30274,7 +30274,7 @@ initData({},
   }, 
   {
     "city": "Wakefield", 
-    "name": "People's Climate March", 
+    "name": "People's Climate Change Demonstration in Wakefield", 
     "rsvp_count": 2, 
     "country": "Canada", 
     "start_time": "12:00:00", 
