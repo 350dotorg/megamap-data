@@ -34,7 +34,7 @@
   {
     "city": "Berlin", 
     "name": "Mal schnell die Welt retten - BERLIN", 
-    "rsvp_count": 429, 
+    "rsvp_count": 430, 
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "Brandenburger Tor", 
@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 1630, 
+    "rsvp_count": 1631, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -16578,7 +16578,7 @@
   {
     "city": "Skhirat-T\u00e9mara", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Morocco", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -21298,7 +21298,7 @@
   {
     "city": "Bras\u00edlia", 
     "name": "People's Climate March", 
-    "rsvp_count": 39, 
+    "rsvp_count": 40, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Esplanada dos Minist\u00e9rios", 
@@ -24178,7 +24178,7 @@
   {
     "city": "Curitiba", 
     "name": "Caminhada pelo Clima - Parque Barigui", 
-    "rsvp_count": 19, 
+    "rsvp_count": 20, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Parque Barigui", 
@@ -30734,5 +30734,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_160", 
     "id": 4544
+  }, 
+  {
+    "city": "Saint-Hyacinthe", 
+    "name": "Marche Pour le Climat", 
+    "rsvp_count": 1, 
+    "country": "Canada", 
+    "start_time": "13:00:00", 
+    "venue": "Parc casirmir dessaules", 
+    "longitude": -72.9473779, 
+    "state": "QC", 
+    "country_code": "CA", 
+    "address": "Parc Casimir-Dessaulles, Avenue de l'Hotel de Ville, Saint-Hyacinthe, QC J2S, Canada", 
+    "latitude": 45.6260586, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_237", 
+    "id": 4545
   }
 ]
