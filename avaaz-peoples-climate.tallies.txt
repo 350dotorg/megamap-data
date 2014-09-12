@@ -1,4 +1,4 @@
-Number of events: 2000
+Number of events: 2001
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
@@ -95,7 +95,7 @@ Number of countries: 137
 	Peru: 31
 	Philippines: 3
 	Poland: 9
-	Portugal: 16
+	Portugal: 17
 	Puerto Rico: 2
 	Qatar: 3
 	Reunion: 1
