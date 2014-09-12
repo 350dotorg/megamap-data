@@ -338,7 +338,7 @@
   {
     "city": "\u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7", 
     "name": "People's Climate March", 
-    "rsvp_count": 18, 
+    "rsvp_count": 19, 
     "country": "Greece", 
     "start_time": "13:00:00", 
     "venue": "Kivelis 2", 
@@ -514,7 +514,7 @@
   {
     "city": "Lisbon", 
     "name": "Marcha Contra as Altera\u00e7\u00f5es Clim\u00e1ticas - Salvem o Planeta!", 
-    "rsvp_count": 307, 
+    "rsvp_count": 308, 
     "country": "Portugal", 
     "start_time": "16:00:00", 
     "venue": "Rossio", 
@@ -2434,7 +2434,7 @@
   {
     "city": "Quimper", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 55, 
+    "rsvp_count": 56, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "quimper", 
@@ -4466,7 +4466,7 @@
   {
     "city": "Wien", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 360, 
+    "rsvp_count": 361, 
     "country": "Austria", 
     "start_time": "16:00:00", 
     "venue": "Gleich neben dem Stephansdom", 
@@ -5826,7 +5826,7 @@
   {
     "city": "Stockholm", 
     "name": "People's Climate March - Stockholm", 
-    "rsvp_count": 207, 
+    "rsvp_count": 208, 
     "country": "Sweden", 
     "start_time": "15:00:00", 
     "venue": "Vasaparken", 
@@ -6418,7 +6418,7 @@
   {
     "city": "Tel Aviv-Yafo", 
     "name": "\u05e0\u05d7\u05e0\u05e7\u05d9\u05dd \u05de\u05d4\u05d6\u05d9\u05d4\u05d5\u05dd - \u05d3\u05d5\u05e8\u05e9\u05d9\u05dd 100% \u05d0\u05e0\u05e8\u05d2\u05d9\u05d4 \u05e0\u05e7\u05d9\u05d9\u05d4!", 
-    "rsvp_count": 109, 
+    "rsvp_count": 110, 
     "country": "Israel", 
     "start_time": "18:00:00", 
     "venue": "\u05db\u05d9\u05db\u05e8 \u05d4\u05d1\u05d9\u05de\u05d4", 
@@ -13122,7 +13122,7 @@
   {
     "city": "Mexicali", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 9, 
+    "rsvp_count": 10, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -21170,7 +21170,7 @@
   {
     "city": "Lyon", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 70, 
+    "rsvp_count": 71, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Hotel de ville Louis Pradel 69001 Lyon", 
@@ -21522,7 +21522,7 @@
   {
     "city": "Budapest", 
     "name": "People's Climate March - Hungary", 
-    "rsvp_count": 80, 
+    "rsvp_count": 81, 
     "country": "Hungary", 
     "start_time": "13:00:00", 
     "venue": "Budapest, Kossuth Lajos t\u00e9r, 1055 Magyarorsz\u00e1g", 
@@ -29698,7 +29698,7 @@
   {
     "city": "\u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7", 
     "name": "\u03a0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u039b\u03b1\u03ce\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Greece", 
     "start_time": "16:00:00", 
     "venue": "\u03a0\u03bb\u03b1\u03c4\u03b5\u03af\u03b1 \u03a7\u0391\u039d\u0398", 
@@ -31406,5 +31406,37 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_479", 
     "id": 4591
+  }, 
+  {
+    "city": "Libramont-Chevigny", 
+    "name": "Marche Pour le Climat", 
+    "rsvp_count": 1, 
+    "country": "Belgium", 
+    "start_time": "13:00:00", 
+    "venue": "Gare SNCB", 
+    "longitude": 5.3745927, 
+    "state": "R\u00e9gion wallonne", 
+    "country_code": "BE", 
+    "address": "Libramont-Chevigny, Belgique", 
+    "latitude": 49.9183927, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_238", 
+    "id": 4592
+  }, 
+  {
+    "city": "Libramont-Chevigny", 
+    "name": "Marche Pour le Climat", 
+    "rsvp_count": 1, 
+    "country": "Belgium", 
+    "start_time": "13:00:00", 
+    "venue": "Gare SNCB", 
+    "longitude": 5.3745927, 
+    "state": "R\u00e9gion wallonne", 
+    "country_code": "BE", 
+    "address": "Libramont-Chevigny, Belgique", 
+    "latitude": 49.9183927, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_239", 
+    "id": 4593
   }
 ]
