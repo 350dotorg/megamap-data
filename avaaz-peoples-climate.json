@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2247, 
+    "rsvp_count": 2248, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -4226,7 +4226,7 @@
   {
     "city": "Vitoria-Gasteiz", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 59, 
+    "rsvp_count": 60, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Plaza de la Virgen Blanca", 
@@ -20466,7 +20466,7 @@
   {
     "city": "London", 
     "name": "People's Climate March", 
-    "rsvp_count": 71, 
+    "rsvp_count": 72, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Victoria Park Richmond Rd. (Row) at Central Ave", 
@@ -27106,7 +27106,7 @@
   {
     "city": "\u041a\u0438\u0435\u0432", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 20, 
+    "rsvp_count": 21, 
     "country": "Ukraine", 
     "start_time": "13:00:00", 
     "venue": "\u043c\u0430\u0439\u0434\u0430\u043d \u043d\u0435\u0437\u0430\u043b\u0435\u0436\u043d\u043e\u0441\u0442\u0438", 
@@ -32885,12 +32885,12 @@
     "rsvp_count": 1, 
     "country": "Netherlands", 
     "start_time": "16:00:00", 
-    "venue": "caf\u00e9 Kobalt,  nabij het kruispunt Prins Hendrikkade en Singel", 
-    "longitude": 4.8924308000001, 
+    "venue": "", 
+    "longitude": 4.8943525, 
     "state": "NH", 
     "country_code": "NL", 
-    "address": "Singel, Amsterdam, Nederland", 
-    "latitude": 52.3769747, 
+    "address": "Singel 2A, 1013 GA Amsterdam, Nederland", 
+    "latitude": 52.3795776, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/nl/event/climate/Peoples_Climate_March_verzamelpunt_D66_cafe_Kobalt", 
     "id": 4749
@@ -32910,5 +32910,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_252", 
     "id": 4750
+  }, 
+  {
+    "city": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433", 
+    "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
+    "rsvp_count": 1, 
+    "country": "Russia", 
+    "start_time": "13:00:00", 
+    "venue": "\u0418\u0441\u0430\u0430\u043a\u0438\u0435\u0432\u0441\u043a\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u044c", 
+    "longitude": 30.306569, 
+    "state": "\u0433. \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433", 
+    "country_code": "RU", 
+    "address": "\u0418\u0441\u0430\u0430\u043a\u0438\u0435\u0432\u0441\u043a\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u044c, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433, \u0420\u043e\u0441\u0441\u0438\u044f, 190000", 
+    "latitude": 59.932522, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/ru/event/climate/Narodnyy_klimaticheskiy_marsh_178", 
+    "id": 4751
   }
 ]
