@@ -1,9 +1,9 @@
-Number of events: 1961
+Number of events: 1963
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
 	Algeria: 42
-	Argentina: 65
+	Argentina: 66
 	Armenia: 3
 	Australia: 36
 	Austria: 23
@@ -111,7 +111,7 @@ Number of countries: 137
 	South Africa: 13
 	South Korea: 1
 	South Sudan: 1
-	Spain: 118
+	Spain: 119
 	Sri Lanka: 2
 	Sudan: 5
 	Sweden: 16
