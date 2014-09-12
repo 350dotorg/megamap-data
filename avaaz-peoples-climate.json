@@ -18,7 +18,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 882, 
+    "rsvp_count": 883, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -9746,7 +9746,7 @@
   {
     "city": "Ljubljana", 
     "name": "People's Climate March Ljubljana", 
-    "rsvp_count": 134, 
+    "rsvp_count": 135, 
     "country": "Slovenia", 
     "start_time": "16:00:00", 
     "venue": "Pre\u0161ernov trg", 
@@ -10802,7 +10802,7 @@
   {
     "city": "Madrid", 
     "name": "La Marcha Ciudadana por la Naturaleza, la Vida y Evoluci\u00f3n Humana", 
-    "rsvp_count": 328, 
+    "rsvp_count": 329, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "La Puerta de La Tabacalera", 
@@ -23778,7 +23778,7 @@
   {
     "city": "Sevilla", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 15, 
+    "rsvp_count": 16, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Plaza de la Encarnacion (las Setas)", 
@@ -32270,5 +32270,37 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/ru/event/climate/Narodnyy_klimaticheskiy_marsh_173", 
     "id": 4673
+  }, 
+  {
+    "city": "Odivelas", 
+    "name": "Caminhada pelo Clima Global", 
+    "rsvp_count": 1, 
+    "country": "Portugal", 
+    "start_time": "10:00:00", 
+    "venue": "", 
+    "longitude": -9.1825936, 
+    "state": "Lisboa", 
+    "country_code": "PT", 
+    "address": "Parque Urbano do Silvado, Rua Humberto Ata\u00edde, 2675-272 Odivelas, Portugal", 
+    "latitude": 38.7843488, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_Global", 
+    "id": 4677
+  }, 
+  {
+    "city": "Parintins", 
+    "name": "Caminhada pelo Clima", 
+    "rsvp_count": 1, 
+    "country": "Brazil", 
+    "start_time": "13:00:00", 
+    "venue": "Catedral Nossa Senhora do Carmo", 
+    "longitude": -56.7295262, 
+    "state": "AM", 
+    "country_code": "BR", 
+    "address": "Parintins - AM, Rep\u00fablica Federativa do Brasil", 
+    "latitude": -2.6377762, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_170", 
+    "id": 4678
   }
 ]
