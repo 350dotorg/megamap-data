@@ -2,7 +2,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1748, 
+    "rsvp_count": 1749, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -18,7 +18,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 833, 
+    "rsvp_count": 836, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -946,7 +946,7 @@
   {
     "city": "Barcelona", 
     "name": "Marcha Ciudadana Global por el Clima. Barcelona #BCN21S", 
-    "rsvp_count": 856, 
+    "rsvp_count": 858, 
     "country": "Spain", 
     "start_time": "11:00:00", 
     "venue": "Moll de la Marina, Barcelona", 
@@ -4946,7 +4946,7 @@
   {
     "city": "Randburg", 
     "name": "People's Climate Picnic and Heart Formation", 
-    "rsvp_count": 168, 
+    "rsvp_count": 169, 
     "country": "South Africa", 
     "start_time": "13:00:00", 
     "venue": "Emmarentia Dam", 
@@ -6658,7 +6658,7 @@
   {
     "city": "Pescara", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 50, 
+    "rsvp_count": 51, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "p.zza della rinascita", 
@@ -8674,7 +8674,7 @@
   {
     "city": "Valencia", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 189, 
+    "rsvp_count": 190, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -10546,7 +10546,7 @@
   {
     "city": "Guimar\u00e3es", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 24, 
+    "rsvp_count": 25, 
     "country": "Portugal", 
     "start_time": "13:00:00", 
     "venue": "LARGO DO TOURAL", 
@@ -15970,7 +15970,7 @@
   {
     "city": "xxxx", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 69, 
+    "rsvp_count": 70, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -30706,7 +30706,7 @@
   {
     "city": "\u041f\u0440\u0430\u0433\u0430", 
     "name": "People's Climate March", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Czech Republic", 
     "start_time": "13:00:00", 
     "venue": "vaclavske namesti", 
@@ -31570,7 +31570,7 @@
   {
     "city": "Cape Town", 
     "name": "Cape Town's Climate Activation", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "South Africa", 
     "start_time": "13:00:00", 
     "venue": "Grand Parade", 
@@ -31918,5 +31918,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Palestine4Earth", 
     "id": 4645
+  }, 
+  {
+    "city": "Bethlehem", 
+    "name": "#Palestine4Earth", 
+    "rsvp_count": 1, 
+    "country": "Palestine", 
+    "start_time": "17:30:00", 
+    "venue": "", 
+    "longitude": 35.20266, 
+    "state": "", 
+    "country_code": "PS", 
+    "address": "Bethlehem", 
+    "latitude": 31.705752, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Palestine4Earth_1", 
+    "id": 4646
   }
 ]

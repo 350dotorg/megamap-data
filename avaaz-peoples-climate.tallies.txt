@@ -1,4 +1,4 @@
-Number of events: 1995
+Number of events: 1996
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
@@ -89,7 +89,7 @@ Number of countries: 137
 	Norway: 8
 	Oman: 2
 	Pakistan: 3
-	Palestine: 9
+	Palestine: 10
 	Panama: 3
 	Paraguay: 1
 	Peru: 31
