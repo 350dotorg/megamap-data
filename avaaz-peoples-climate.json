@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2075, 
+    "rsvp_count": 2076, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -946,7 +946,7 @@
   {
     "city": "Barcelona", 
     "name": "Marcha Ciudadana Global por el Clima. Barcelona #BCN21S", 
-    "rsvp_count": 899, 
+    "rsvp_count": 900, 
     "country": "Spain", 
     "start_time": "11:00:00", 
     "venue": "Moll de la Marina, Barcelona", 
@@ -3490,7 +3490,7 @@
   {
     "city": "Hannover", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 126, 
+    "rsvp_count": 127, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Trammplatz 2, 30159 Hannover", 
@@ -4562,7 +4562,7 @@
   {
     "city": "\u00c1guas de Lind\u00f3ia", 
     "name": "Caminhada pelo Clima Circuito das \u00e1guas paulista", 
-    "rsvp_count": 10, 
+    "rsvp_count": 11, 
     "country": "Brazil", 
     "start_time": "15:00:00", 
     "venue": "Pra\u00e7a Adhemar de Barros", 
@@ -16178,7 +16178,7 @@
   {
     "city": "Goi\u00e2nia", 
     "name": "Recomposi\u00e7\u00e3o Total das Matas Ciliares", 
-    "rsvp_count": 368, 
+    "rsvp_count": 369, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a C\u00edvica", 
@@ -18162,7 +18162,7 @@
   {
     "city": "Botucatu", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "", 
