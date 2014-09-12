@@ -19,7 +19,7 @@ initData({},
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 790, 
+    "rsvp_count": 791, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -31119,6 +31119,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_469", 
     "id": 4571
+  }, 
+  {
+    "city": "Rafaela", 
+    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
+    "rsvp_count": 1, 
+    "country": "Argentina", 
+    "start_time": "15:00:00", 
+    "venue": "Colectora, frente al AeroClub", 
+    "longitude": -61.5129156, 
+    "state": "SF", 
+    "country_code": "AR", 
+    "address": "Ruta Nacional 34, Rafaela, Santa Fe, Argentina", 
+    "latitude": -31.2827354, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_470", 
+    "id": 4573
   }
 ]
 );
