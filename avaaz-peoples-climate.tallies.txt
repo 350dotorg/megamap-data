@@ -1,4 +1,4 @@
-Number of events: 2109
+Number of events: 2110
 Number of countries: 138
 	Afghanistan: 1
 	Albania: 2
@@ -130,7 +130,7 @@ Number of countries: 138
 	United Arab Emirates: 3
 	United Kingdom: 55
 	United States of America: 76
-	Uruguay: 13
+	Uruguay: 14
 	Uzbekistan: 1
 	Venezuela: 25
 	Vietnam: 1
