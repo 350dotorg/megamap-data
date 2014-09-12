@@ -1810,7 +1810,7 @@
   {
     "city": "Medell\u00edn", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 349, 
+    "rsvp_count": 350, 
     "country": "Colombia", 
     "start_time": "09:00:00", 
     "venue": "Alcald\u00eda de Medell\u00edn", 
@@ -4162,7 +4162,7 @@
   {
     "city": "Grenoble", 
     "name": "La marche pour le climat", 
-    "rsvp_count": 132, 
+    "rsvp_count": 133, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Hotel de ville", 
@@ -22658,7 +22658,7 @@
   {
     "city": "Bogot\u00e1", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 15, 
+    "rsvp_count": 16, 
     "country": "Colombia", 
     "start_time": "13:00:00", 
     "venue": "Centro de Investigaciones Cu\u00e1nticas Virtual, Proyecto Kryon", 
@@ -24322,7 +24322,7 @@
   {
     "city": "M\u00e9rida", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 13, 
+    "rsvp_count": 14, 
     "country": "Mexico", 
     "start_time": "10:00:00", 
     "venue": "monumento a la bandera. Paseo de Montejo.", 
@@ -30882,7 +30882,7 @@
   {
     "city": "San Antonio de Los Altos", 
     "name": "People's Climate March", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Venezuela", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -31122,7 +31122,7 @@
   {
     "city": "Guasave", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Plazuela Miguel Hidalgo (fte. a la iglesia del Rosario)", 
@@ -31182,5 +31182,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_474", 
     "id": 4577
+  }, 
+  {
+    "city": "Paso de los Toros", 
+    "name": "La Marcha Ciudadana de emergencia contra el Cambio Clim\u00e1tico", 
+    "rsvp_count": 1, 
+    "country": "Uruguay", 
+    "start_time": "13:00:00", 
+    "venue": "", 
+    "longitude": -56.506389, 
+    "state": "Departamento de Durazno", 
+    "country_code": "UY", 
+    "address": "Paso de los Toros, Uruguay", 
+    "latitude": -32.818056, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_de_emergencia_contra_el_Cambio_Climatico", 
+    "id": 4578
   }
 ]

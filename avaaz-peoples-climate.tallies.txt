@@ -1,4 +1,4 @@
-Number of events: 1949
+Number of events: 1950
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
@@ -129,7 +129,7 @@ Number of countries: 137
 	United Arab Emirates: 2
 	United Kingdom: 59
 	United States of America: 70
-	Uruguay: 11
+	Uruguay: 12
 	Uzbekistan: 1
 	Venezuela: 24
 	Vietnam: 1
