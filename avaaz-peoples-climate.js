@@ -20147,7 +20147,7 @@ initData({},
   {
     "city": "Poitiers", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 19, 
+    "rsvp_count": 20, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Place d'arme", 
