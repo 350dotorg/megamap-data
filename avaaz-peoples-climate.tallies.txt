@@ -1,4 +1,4 @@
-Number of events: 2033
+Number of events: 2034
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 2
@@ -38,7 +38,7 @@ Number of countries: 137
 	Côte d'Ivoire: 1
 	Denmark: 6
 	Dominican Republic: 7
-	Ecuador: 13
+	Ecuador: 14
 	Egypt: 25
 	El Salvador: 2
 	Estonia: 2
