@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2321, 
+    "rsvp_count": 2324, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -15986,7 +15986,7 @@
   {
     "city": "Natal", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 30, 
+    "rsvp_count": 31, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Engenheiro Roberto Freire com Avenida Airton Senna", 
@@ -27696,17 +27696,17 @@
     "id": 4332
   }, 
   {
-    "city": "", 
+    "city": "Curitiba", 
     "name": "Caminhada pelo Clima", 
     "rsvp_count": 26, 
     "country": "Brazil", 
     "start_time": "15:00:00", 
     "venue": "", 
-    "longitude": -49.2449701, 
-    "state": "", 
+    "longitude": -49.2650973, 
+    "state": "PR", 
     "country_code": "BR", 
-    "address": "Jardim Botanico, Pa\u00e7o das Cerejeiras, Curitiba - PR, Rep\u00fablica Federativa do Brasil", 
-    "latitude": -25.4431219, 
+    "address": "Curitiba - Parana, Brazil", 
+    "latitude": -25.4200388, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_128", 
     "id": 4334
