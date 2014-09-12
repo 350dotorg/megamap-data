@@ -1,4 +1,4 @@
-Number of events: 2037
+Number of events: 2039
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 2
@@ -6,7 +6,7 @@ Number of countries: 137
 	Argentina: 68
 	Armenia: 4
 	Australia: 36
-	Austria: 25
+	Austria: 26
 	Azerbaijan: 1
 	Bahrain: 3
 	Bangladesh: 3
@@ -17,7 +17,7 @@ Number of countries: 137
 	Bolivia: 6
 	Bosnia and Herzegovina: 1
 	Botswana: 1
-	Brazil: 188
+	Brazil: 189
 	Brunei: 1
 	Bulgaria: 6
 	Burkina Faso: 1
