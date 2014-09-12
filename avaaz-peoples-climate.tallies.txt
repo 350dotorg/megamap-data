@@ -1,8 +1,8 @@
-Number of events: 2023
+Number of events: 2021
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 2
-	Algeria: 43
+	Algeria: 44
 	Argentina: 66
 	Armenia: 4
 	Australia: 36
@@ -17,17 +17,17 @@ Number of countries: 137
 	Bolivia: 6
 	Bosnia and Herzegovina: 1
 	Botswana: 1
-	Brazil: 185
+	Brazil: 186
 	Brunei: 1
 	Bulgaria: 6
 	Burkina Faso: 1
 	Burundi: 1
 	Cambodia: 1
 	Cameroon: 1
-	Canada: 94
+	Canada: 84
 	Cayman Islands: 1
 	Chile: 26
-	Colombia: 80
+	Colombia: 81
 	Congo, DPR: 2
 	Congo, PR: 2
 	Costa Rica: 6
@@ -43,7 +43,7 @@ Number of countries: 137
 	El Salvador: 2
 	Estonia: 2
 	Finland: 5
-	France: 145
+	France: 147
 	French Guiana: 2
 	French Polynesia: 3
 	Germany: 61
@@ -54,7 +54,7 @@ Number of countries: 137
 	Honduras: 4
 	Hong Kong: 1
 	Hungary: 3
-	India: 26
+	India: 28
 	Indonesia: 2
 	Iran: 5
 	Iraq: 14
@@ -76,7 +76,7 @@ Number of countries: 137
 	Martinique: 2
 	Mauritania: 2
 	Mauritius: 2
-	Mexico: 110
+	Mexico: 111
 	Moldova: 2
 	Morocco: 32
 	Myanmar: 1
@@ -92,7 +92,7 @@ Number of countries: 137
 	Palestine: 9
 	Panama: 3
 	Paraguay: 1
-	Peru: 31
+	Peru: 32
 	Philippines: 3
 	Poland: 9
 	Portugal: 19
@@ -127,8 +127,8 @@ Number of countries: 137
 	Uganda: 2
 	Ukraine: 43
 	United Arab Emirates: 3
-	United Kingdom: 56
-	United States of America: 71
+	United Kingdom: 54
+	United States of America: 72
 	Uruguay: 13
 	Uzbekistan: 1
 	Venezuela: 24
