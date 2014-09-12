@@ -1,4 +1,4 @@
-Number of events: 1930
+Number of events: 1931
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
@@ -101,7 +101,7 @@ Number of countries: 137
 	Reunion: 1
 	Romania: 13
 	Russia: 40
-	Saudi Arabia: 9
+	Saudi Arabia: 10
 	Senegal: 2
 	Serbia: 4
 	Seychelles: 2
