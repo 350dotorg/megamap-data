@@ -1,4 +1,4 @@
-Number of events: 2086
+Number of events: 2087
 Number of countries: 138
 	Afghanistan: 1
 	Albania: 2
@@ -27,7 +27,7 @@ Number of countries: 138
 	Canada: 80
 	Cayman Islands: 1
 	Chile: 26
-	Colombia: 83
+	Colombia: 84
 	Congo, DPR: 2
 	Congo, PR: 2
 	Costa Rica: 6
