@@ -18,7 +18,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 963, 
+    "rsvp_count": 964, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2139, 
+    "rsvp_count": 2140, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -850,7 +850,7 @@
   {
     "city": "Bruxelles", 
     "name": "Marche des Citoyens pour le Climat", 
-    "rsvp_count": 510, 
+    "rsvp_count": 513, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "", 
@@ -2578,7 +2578,7 @@
   {
     "city": "Annecy-le-Vieux", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 85, 
+    "rsvp_count": 86, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Petit Port Albigny", 
@@ -3570,7 +3570,7 @@
   {
     "city": "Porto Alegre", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 302, 
+    "rsvp_count": 303, 
     "country": "Brazil", 
     "start_time": "11:00:00", 
     "venue": "Parque Farroupilha - Reden\u00e7\u00e3o", 
@@ -13666,7 +13666,7 @@
   {
     "city": "Nairobi", 
     "name": "People's Climate March", 
-    "rsvp_count": 20, 
+    "rsvp_count": 21, 
     "country": "Kenya", 
     "start_time": "13:00:00", 
     "venue": "jeevanjee garden", 
@@ -26210,7 +26210,7 @@
   {
     "city": "Bogot\u00e1", 
     "name": "Reencuentro con el \u00daNICO", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Colombia", 
     "start_time": "10:00:00", 
     "venue": "Parque de los novios calle 63 No.45-10", 
@@ -29753,7 +29753,7 @@
     "longitude": -1.2415559999999, 
     "state": "Pays de la Loire", 
     "country_code": "FR", 
-    "address": "", 
+    "address": "Saint-Julien-de-Vouvantes, France", 
     "latitude": 47.642309, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_234", 
@@ -30002,7 +30002,7 @@
   {
     "city": "San Jos\u00e9", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Costa Rica", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -31634,7 +31634,7 @@
   {
     "city": "\u0399\u03b1\u03bb\u03c5\u03c3\u03cc\u03c2", 
     "name": "\u03a0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u039b\u03b1\u03ce\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Greece", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -32462,5 +32462,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_251", 
     "id": 4710
+  }, 
+  {
+    "city": "Boa Vista", 
+    "name": "Caminhada pelo Clima", 
+    "rsvp_count": 1, 
+    "country": "Brazil", 
+    "start_time": "13:00:00", 
+    "venue": "Insituto Insikiran de Forma\u00e7\u00e3o Superior Ind\u00edgena", 
+    "longitude": -60.6758331, 
+    "state": "RR", 
+    "country_code": "BR", 
+    "address": "Boa Vista - RR, Rep\u00fablica Federativa do Brasil", 
+    "latitude": 2.8235098, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_175", 
+    "id": 4711
   }
 ]
