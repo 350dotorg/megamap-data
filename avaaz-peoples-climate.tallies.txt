@@ -1,4 +1,4 @@
-Number of events: 2023
+Number of events: 2024
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 2
@@ -128,7 +128,7 @@ Number of countries: 137
 	Ukraine: 43
 	United Arab Emirates: 3
 	United Kingdom: 54
-	United States of America: 72
+	United States of America: 73
 	Uruguay: 13
 	Uzbekistan: 1
 	Venezuela: 24
