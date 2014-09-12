@@ -2,7 +2,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1747, 
+    "rsvp_count": 1748, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2015, 
+    "rsvp_count": 2017, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -882,7 +882,7 @@
   {
     "city": "Brussels", 
     "name": "People's Climate March", 
-    "rsvp_count": 495, 
+    "rsvp_count": 496, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "Place Polaert", 
@@ -6658,7 +6658,7 @@
   {
     "city": "Pescara", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 49, 
+    "rsvp_count": 50, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "p.zza della rinascita", 
@@ -16562,7 +16562,7 @@
   {
     "city": "Belo Horizonte", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 19, 
+    "rsvp_count": 20, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -25490,7 +25490,7 @@
   {
     "city": "Las Palmas de Gran Canaria", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 12, 
+    "rsvp_count": 13, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Parque de San Telmo, pr\u00f3ximo a calle comercial Triana", 
