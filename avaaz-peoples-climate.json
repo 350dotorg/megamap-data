@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2246, 
+    "rsvp_count": 2247, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -4034,7 +4034,7 @@
   {
     "city": "Amsterdam", 
     "name": "Amsterdam People's Climate March \u2764\ufe0e De mars van de Klimmuur naar het slotevent op de EYE kade", 
-    "rsvp_count": 95, 
+    "rsvp_count": 96, 
     "country": "Netherlands", 
     "start_time": "17:00:00", 
     "venue": "Plein bij de Klimmuur", 
@@ -9858,7 +9858,7 @@
   {
     "city": "Munich", 
     "name": "People's Climate March", 
-    "rsvp_count": 416, 
+    "rsvp_count": 417, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Karlsplatz", 
@@ -32894,5 +32894,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/nl/event/climate/Peoples_Climate_March_verzamelpunt_D66_cafe_Kobalt", 
     "id": 4749
+  }, 
+  {
+    "city": "Amiens", 
+    "name": "Marche Pour le Climat", 
+    "rsvp_count": 1, 
+    "country": "France", 
+    "start_time": "14:00:00", 
+    "venue": "D\u00e9part devant le cirque", 
+    "longitude": 2.295753, 
+    "state": "Picardie", 
+    "country_code": "FR", 
+    "address": "Amiens, France", 
+    "latitude": 49.894067, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_252", 
+    "id": 4750
   }
 ]
