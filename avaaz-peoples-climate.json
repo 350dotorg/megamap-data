@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2024, 
+    "rsvp_count": 2025, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -802,7 +802,7 @@
   {
     "city": "Montr\u00e9al", 
     "name": "Mobilisation populaire pour le climat / People's Climat March - Montr\u00e9al", 
-    "rsvp_count": 231, 
+    "rsvp_count": 232, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -2962,7 +2962,7 @@
   {
     "city": "Rennes", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 73, 
+    "rsvp_count": 74, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "M\u00e9tro R\u00e9publique", 
@@ -2994,7 +2994,7 @@
   {
     "city": "Basel", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 103, 
+    "rsvp_count": 104, 
     "country": "Switzerland", 
     "start_time": "13:00:00", 
     "venue": "Wettsteinbr\u00fccke - Rhein", 
@@ -28706,7 +28706,7 @@
   {
     "city": "Aix-en-Provence", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 13, 
+    "rsvp_count": 14, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "La Rotonde - Tour de Ville", 
@@ -30786,7 +30786,7 @@
   {
     "city": "Larnaca", 
     "name": "People's Climate March", 
-    "rsvp_count": 10, 
+    "rsvp_count": 11, 
     "country": "Cyprus", 
     "start_time": "13:00:00", 
     "venue": "church of st lazarus", 
