@@ -1,8 +1,8 @@
-Number of events: 2113
+Number of events: 2114
 Number of countries: 138
 	Afghanistan: 1
 	Albania: 2
-	Algeria: 49
+	Algeria: 50
 	Argentina: 69
 	Armenia: 4
 	Australia: 36
