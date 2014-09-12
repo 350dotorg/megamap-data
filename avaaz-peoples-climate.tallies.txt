@@ -1,9 +1,9 @@
-Number of events: 1946
+Number of events: 1947
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
 	Algeria: 42
-	Argentina: 61
+	Argentina: 62
 	Armenia: 3
 	Australia: 36
 	Austria: 23
