@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 1751, 
+    "rsvp_count": 1755, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -850,7 +850,7 @@
   {
     "city": "Dresden", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 106, 
+    "rsvp_count": 107, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "S\u00e4chsischer Landtag", 
@@ -3250,7 +3250,7 @@
   {
     "city": "Taranto", 
     "name": "People's Climate March", 
-    "rsvp_count": 24, 
+    "rsvp_count": 25, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "ilva", 
@@ -4258,7 +4258,7 @@
   {
     "city": "Auckland", 
     "name": "People's Climate March", 
-    "rsvp_count": 172, 
+    "rsvp_count": 173, 
     "country": "New Zealand", 
     "start_time": "13:00:00", 
     "venue": "Christchurch", 
@@ -5026,7 +5026,7 @@
   {
     "city": "Pretoria", 
     "name": "People's Climate March", 
-    "rsvp_count": 70, 
+    "rsvp_count": 71, 
     "country": "South Africa", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -8322,7 +8322,7 @@
   {
     "city": "Pesaro", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 46, 
+    "rsvp_count": 47, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "Piazza del Popolo", 
@@ -10098,7 +10098,7 @@
   {
     "city": "Bilbao", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 31, 
+    "rsvp_count": 32, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "PLAZA DEL ARRIAGA", 
@@ -10898,7 +10898,7 @@
   {
     "city": "Madrid", 
     "name": "La Marcha Ciudadana por la Naturaleza, la Vida y Evoluci\u00f3n Humana", 
-    "rsvp_count": 288, 
+    "rsvp_count": 289, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "La Puerta de La Tabacalera", 
@@ -18210,7 +18210,7 @@
   {
     "city": "C\u00e9ret", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "place des Arcades", 
@@ -23234,7 +23234,7 @@
   {
     "city": "Gen\u00e8ve", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 22, 
+    "rsvp_count": 23, 
     "country": "Switzerland", 
     "start_time": "13:00:00", 
     "venue": "Place de Plainpalais", 
