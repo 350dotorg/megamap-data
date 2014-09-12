@@ -1,4 +1,4 @@
-Number of events: 2034
+Number of events: 2032
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 2
@@ -17,17 +17,17 @@ Number of countries: 137
 	Bolivia: 6
 	Bosnia and Herzegovina: 1
 	Botswana: 1
-	Brazil: 187
+	Brazil: 188
 	Brunei: 1
 	Bulgaria: 6
 	Burkina Faso: 1
 	Burundi: 1
 	Cambodia: 1
 	Cameroon: 1
-	Canada: 85
+	Canada: 80
 	Cayman Islands: 1
 	Chile: 26
-	Colombia: 81
+	Colombia: 82
 	Congo, DPR: 2
 	Congo, PR: 2
 	Costa Rica: 6
@@ -39,7 +39,7 @@ Number of countries: 137
 	Denmark: 6
 	Dominican Republic: 7
 	Ecuador: 14
-	Egypt: 25
+	Egypt: 26
 	El Salvador: 2
 	Estonia: 2
 	Finland: 5
