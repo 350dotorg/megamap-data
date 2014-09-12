@@ -18,7 +18,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 850, 
+    "rsvp_count": 851, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -34,7 +34,7 @@
   {
     "city": "Berlin", 
     "name": "Mal schnell die Welt retten - BERLIN", 
-    "rsvp_count": 479, 
+    "rsvp_count": 480, 
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "Brandenburger Tor", 
@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2036, 
+    "rsvp_count": 2038, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -1458,7 +1458,7 @@
   {
     "city": "Bogota", 
     "name": "Bogot\u00e1 Marcha X el Clima", 
-    "rsvp_count": 243, 
+    "rsvp_count": 244, 
     "country": "Colombia", 
     "start_time": "10:00:00", 
     "venue": "Parque Nacional hasta Plaza de los Periodistas", 
@@ -6722,7 +6722,7 @@
   {
     "city": "Cochabamba", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 69, 
+    "rsvp_count": 70, 
     "country": "Bolivia", 
     "start_time": "14:00:00", 
     "venue": "plazuela colon frente a la alcald\u00eda", 
@@ -10802,7 +10802,7 @@
   {
     "city": "Madrid", 
     "name": "La Marcha Ciudadana por la Naturaleza, la Vida y Evoluci\u00f3n Humana", 
-    "rsvp_count": 320, 
+    "rsvp_count": 321, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "La Puerta de La Tabacalera", 
@@ -22882,7 +22882,7 @@
   {
     "city": "Roermond", 
     "name": "Actiedag voor het Klimaat", 
-    "rsvp_count": 6, 
+    "rsvp_count": 7, 
     "country": "Netherlands", 
     "start_time": "13:00:00", 
     "venue": "Jagerstraat 6", 
@@ -25490,7 +25490,7 @@
   {
     "city": "Las Palmas de Gran Canaria", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 13, 
+    "rsvp_count": 14, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Parque de San Telmo, pr\u00f3ximo a calle comercial Triana", 
@@ -29426,7 +29426,7 @@
   {
     "city": "Cama\u00e7ari", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Come\u00e7a em frente a prefeitura, seguindo pela radial c...", 
