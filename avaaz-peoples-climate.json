@@ -34,7 +34,7 @@
   {
     "city": "Berlin", 
     "name": "Mal schnell die Welt retten - BERLIN", 
-    "rsvp_count": 461, 
+    "rsvp_count": 462, 
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "Brandenburger Tor", 
@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 1900, 
+    "rsvp_count": 1902, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -962,7 +962,7 @@
   {
     "city": "Barcelona", 
     "name": "Marcha Ciudadana Global por el Clima. Barcelona #BCN21S", 
-    "rsvp_count": 794, 
+    "rsvp_count": 796, 
     "country": "Spain", 
     "start_time": "11:00:00", 
     "venue": "Moll de la Marina, Barcelona", 
@@ -1858,7 +1858,7 @@
   {
     "city": "Udine", 
     "name": "Flash Mob Udine per il Clima", 
-    "rsvp_count": 36, 
+    "rsvp_count": 37, 
     "country": "Italy", 
     "start_time": "19:00:00", 
     "venue": "Piazza Libert\u00e0", 
@@ -5826,7 +5826,7 @@
   {
     "city": "Stockholm", 
     "name": "People's Climate March - Stockholm", 
-    "rsvp_count": 208, 
+    "rsvp_count": 209, 
     "country": "Sweden", 
     "start_time": "15:00:00", 
     "venue": "Vasaparken", 
@@ -10866,7 +10866,7 @@
   {
     "city": "Madrid", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 521, 
+    "rsvp_count": 522, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Cada persona en la puerta de su casa: Inundemos las aceras de la ciudad.", 
@@ -25810,7 +25810,7 @@
   {
     "city": "", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Me gustar\u00eda que los que no podemos andar tambi\u00e9n poder participar en el evento", 
@@ -31681,15 +31681,15 @@
   }, 
   {
     "city": "Baie-Comeau", 
-    "name": "Marche Pour le Climat", 
+    "name": "Marche Pour le Climat - Parc Des Pionniers", 
     "rsvp_count": 1, 
     "country": "Canada", 
     "start_time": "13:00:00", 
-    "venue": "", 
+    "venue": "Parc Des Pionniers", 
     "longitude": -68.1503944, 
     "state": "QC", 
     "country_code": "CA", 
-    "address": "Baie-Comeau, QC, Canada", 
+    "address": "", 
     "latitude": 49.2212971, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_243", 
