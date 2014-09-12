@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2129, 
+    "rsvp_count": 2130, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -466,7 +466,7 @@
   {
     "city": "Lisbon", 
     "name": "Mobiliza\u00e7\u00e3o Contra as Altera\u00e7\u00f5es Clim\u00e1ticas - Salvem o Planeta!", 
-    "rsvp_count": 327, 
+    "rsvp_count": 328, 
     "country": "Portugal", 
     "start_time": "16:00:00", 
     "venue": "Rossio", 
@@ -1282,7 +1282,7 @@
   {
     "city": "Treviso", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 97, 
+    "rsvp_count": 98, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "Piazza dei Signori", 
@@ -2130,7 +2130,7 @@
   {
     "city": "Murcia", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 129, 
+    "rsvp_count": 130, 
     "country": "Spain", 
     "start_time": "12:00:00", 
     "venue": "plaza circular", 
@@ -12642,7 +12642,7 @@
   {
     "city": "Santiago de Quer\u00e9taro", 
     "name": "Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 72, 
+    "rsvp_count": 73, 
     "country": "Mexico", 
     "start_time": "10:30:00", 
     "venue": "ALAMEDA HIDALGO", 
@@ -16098,7 +16098,7 @@
   {
     "city": "Natal", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 28, 
+    "rsvp_count": 29, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Engenheiro Roberto Freire com Avenida Airton Senna", 
@@ -23794,7 +23794,7 @@
   {
     "city": "Curitiba", 
     "name": "Caminhada pelo Clima - Parque Barigui", 
-    "rsvp_count": 24, 
+    "rsvp_count": 25, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Parque Barigui", 
