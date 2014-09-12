@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2250, 
+    "rsvp_count": 2252, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -1202,7 +1202,7 @@
   {
     "city": "Amsterdam", 
     "name": "People's Climate March", 
-    "rsvp_count": 224, 
+    "rsvp_count": 225, 
     "country": "Netherlands", 
     "start_time": "13:00:00", 
     "venue": "Damsquare", 
@@ -2274,7 +2274,7 @@
   {
     "city": "Trouville-sur-Mer", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 29, 
+    "rsvp_count": 30, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "PONT DES BELGES", 
@@ -2544,22 +2544,6 @@
     "id": 2096
   }, 
   {
-    "city": "Annecy-le-Vieux", 
-    "name": "Marche Pour le Climat", 
-    "rsvp_count": 87, 
-    "country": "France", 
-    "start_time": "13:00:00", 
-    "venue": "Petit Port Albigny", 
-    "longitude": 6.1589057, 
-    "state": "RA", 
-    "country_code": "FR", 
-    "address": "3 Avenue de Chavoires, 74940 Annecy-le-Vieux, France", 
-    "latitude": 45.9053582, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_32", 
-    "id": 2097
-  }, 
-  {
     "city": "Ferri\u00e8res-les-Bois", 
     "name": "Marche Pour le Climat", 
     "rsvp_count": 2, 
@@ -2658,7 +2642,7 @@
   {
     "city": "Klagenfurt am W\u00f6rthersee", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 85, 
+    "rsvp_count": 86, 
     "country": "Austria", 
     "start_time": "13:00:00", 
     "venue": "Rathaus", 
@@ -9858,7 +9842,7 @@
   {
     "city": "Munich", 
     "name": "People's Climate March", 
-    "rsvp_count": 418, 
+    "rsvp_count": 419, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Karlsplatz", 
@@ -10578,7 +10562,7 @@
   {
     "city": "Madrid", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 586, 
+    "rsvp_count": 587, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Cada persona en la puerta de su casa: Inundemos las aceras de la ciudad.", 
@@ -24226,7 +24210,7 @@
   {
     "city": "La Chaux-de-Fonds", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Switzerland", 
     "start_time": "13:00:00", 
     "venue": "La Grande Fontaine", 
@@ -24482,7 +24466,7 @@
   {
     "city": "Port Louis", 
     "name": "People's Climate March", 
-    "rsvp_count": 11, 
+    "rsvp_count": 12, 
     "country": "Mauritius", 
     "start_time": "13:00:00", 
     "venue": "Jardin de la compagnie", 
@@ -26482,7 +26466,7 @@
   {
     "city": "\u0427\u0435\u0440\u043d\u043e\u0432\u0446\u044b", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 7, 
+    "rsvp_count": 8, 
     "country": "Ukraine", 
     "start_time": "15:00:00", 
     "venue": "\u0427\u0435\u0440\u043d\u043e\u0432\u0446\u044b \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u044c- \u043f\u0430\u043c\u044f\u0442\u043d\u0438\u043a \u0422 \u0413  \u0428\u0435\u0432\u0447\u0435\u043d\u043a\u043e", 
@@ -27350,11 +27334,11 @@
     "country": "Germany", 
     "start_time": "10:00:00", 
     "venue": "", 
-    "longitude": 9.9158035, 
+    "longitude": 9.9287057, 
     "state": "", 
     "country_code": "DE", 
-    "address": "Geiststra\u00dfe 2, 37073 G\u00f6ttingen, Deutschland", 
-    "latitude": 51.5412804, 
+    "address": "GUNZ, Geiststra\u00dfe 2, 37073 G\u00f6ttingen, Deutschland", 
+    "latitude": 51.5345377, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaAktionstag_126", 
     "id": 4283
@@ -32770,7 +32754,7 @@
   {
     "city": "Bras\u00edlia", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "SQS. 403 bLOCO H APARTAMENTO 108 - BRAS\u00cdLIA-DF.", 
