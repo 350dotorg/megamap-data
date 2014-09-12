@@ -1,4 +1,4 @@
-Number of events: 1969
+Number of events: 1970
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
@@ -51,7 +51,7 @@ Number of countries: 137
 	Guadeloupe: 3
 	Guatemala: 13
 	Guinea: 1
-	Honduras: 3
+	Honduras: 4
 	Hong Kong: 1
 	Hungary: 2
 	India: 24
