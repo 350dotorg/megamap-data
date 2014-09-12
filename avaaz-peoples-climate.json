@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2103, 
+    "rsvp_count": 2105, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -722,7 +722,7 @@
   {
     "city": "Montevideo", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 97, 
+    "rsvp_count": 98, 
     "country": "Uruguay", 
     "start_time": "15:00:00", 
     "venue": "Canteras del Parque Rod\u00f3 (Rambla Presidente Wilson y Avenida Dr Juan Cachon)", 
@@ -1986,7 +1986,7 @@
   {
     "city": "\u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7", 
     "name": "\u03a0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u039b\u03b1\u03ce\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
-    "rsvp_count": 110, 
+    "rsvp_count": 111, 
     "country": "Greece", 
     "start_time": "13:00:00", 
     "venue": "\u03a0\u03bb\u03b1\u03c4\u03b5\u03b9\u03b1  \u0391\u03c1\u03b9\u03c3\u03c4\u03bf\u03c4\u03b5\u03bb\u03bf\u03c5\u03c2 - \u039b\u03b5\u03c5\u03ba\u03bf\u03c2 \u03a0\u03c5\u03c1\u03b3\u03bf\u03c2", 
@@ -3650,7 +3650,7 @@
   {
     "city": "Porto Alegre", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 295, 
+    "rsvp_count": 296, 
     "country": "Brazil", 
     "start_time": "11:00:00", 
     "venue": "Parque Farroupilha - Reden\u00e7\u00e3o", 
@@ -4130,7 +4130,7 @@
   {
     "city": "Grenoble", 
     "name": "La marche pour le climat", 
-    "rsvp_count": 140, 
+    "rsvp_count": 141, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Hotel de ville", 
@@ -16514,7 +16514,7 @@
   {
     "city": "Fortaleza", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 52, 
+    "rsvp_count": 53, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Memorial Castelo Branco, Palacio da Aboli\u00e7\u00e3o - sede do governo do Cear\u00e1", 
@@ -30098,7 +30098,7 @@
   {
     "city": "Belleville", 
     "name": "People's Climate March", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Meyer's Pier parking to walk along the Waterfront Trail", 
