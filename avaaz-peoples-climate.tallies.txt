@@ -1,4 +1,4 @@
-Number of events: 1943
+Number of events: 1944
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
@@ -27,7 +27,7 @@ Number of countries: 137
 	Canada: 92
 	Cayman Islands: 1
 	Chile: 26
-	Colombia: 79
+	Colombia: 80
 	Congo, DPR: 2
 	Congo, PR: 1
 	Costa Rica: 6

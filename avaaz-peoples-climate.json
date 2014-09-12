@@ -18,7 +18,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 788, 
+    "rsvp_count": 789, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -802,7 +802,7 @@
   {
     "city": "Monterrey", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 205, 
+    "rsvp_count": 206, 
     "country": "Mexico", 
     "start_time": "10:00:00", 
     "venue": "Explanada de lod heroes", 
@@ -5378,7 +5378,7 @@
   {
     "city": "Ciudad de M\u00e9xico", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 101, 
+    "rsvp_count": 102, 
     "country": "Mexico", 
     "start_time": "10:00:00", 
     "venue": "Parque Ecol\u00f3gico Juana de Asbaje", 
@@ -7378,7 +7378,7 @@
   {
     "city": "Vi\u00f1a del Mar", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 35, 
+    "rsvp_count": 36, 
     "country": "Chile", 
     "start_time": "13:00:00", 
     "venue": "Las Dunas de Concon", 
@@ -9234,7 +9234,7 @@
   {
     "city": "Mazatl\u00e1n", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 13, 
+    "rsvp_count": 14, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "PLAZUELA REPUBLICA , FRENTE AL PALACIO MUNICIPAL, BENITO JUAREZ  Y ANGEL FLORES", 
@@ -13618,7 +13618,7 @@
   {
     "city": "San Juan de Miraflores", 
     "name": "LA MARCHA POR LA VIDA Y LA FAMILIA", 
-    "rsvp_count": 24, 
+    "rsvp_count": 25, 
     "country": "Peru", 
     "start_time": "13:00:00", 
     "venue": "San Juan de Miraflores, en la estacion puente atocongo", 
@@ -13970,7 +13970,7 @@
   {
     "city": "Pachuca", 
     "name": "Tertulia Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 8, 
+    "rsvp_count": 10, 
     "country": "Mexico", 
     "start_time": "12:00:00", 
     "venue": "Kiosko frente al reloj monumental de Pachuca. Plaza Independencia.", 
@@ -15602,7 +15602,7 @@
   {
     "city": "Pereira", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 40, 
+    "rsvp_count": 41, 
     "country": "Colombia", 
     "start_time": "13:00:00", 
     "venue": "Plaza de bolivar", 
@@ -22370,7 +22370,7 @@
   {
     "city": "Valpara\u00edso", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 12, 
+    "rsvp_count": 13, 
     "country": "Chile", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -22722,7 +22722,7 @@
   {
     "city": "Santiago de Surco", 
     "name": "Pasacalle \u201cPon de tu parte: Segrega tus Residuos \u00a1Ya!\u201d.", 
-    "rsvp_count": 15, 
+    "rsvp_count": 16, 
     "country": "Peru", 
     "start_time": "08:00:00", 
     "venue": "", 
@@ -31086,5 +31086,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/ar/event/climate/lmsyr_lmnkhy_lshby_195", 
     "id": 4567
+  }, 
+  {
+    "city": "Rionegro", 
+    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico y los da\u00f1os ambientales del  T\u00fanel de Oriente  Oriente", 
+    "rsvp_count": 1, 
+    "country": "Colombia", 
+    "start_time": "13:00:00", 
+    "venue": "Parque principal", 
+    "longitude": -75.3741004, 
+    "state": "Antioquia", 
+    "country_code": "CO", 
+    "address": "Parque de la Libertad, Rionegro, Antioquia, Colombia", 
+    "latitude": 6.1536649, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_y_los_danos_ambientales_del_Tunel_de_Oriente_Oriente", 
+    "id": 4570
   }
 ]
