@@ -1,4 +1,4 @@
-Number of events: 2062
+Number of events: 2064
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 2
@@ -10,7 +10,7 @@ Number of countries: 137
 	Azerbaijan: 1
 	Bahrain: 3
 	Bangladesh: 3
-	Belarus: 3
+	Belarus: 4
 	Belgium: 32
 	Benin: 1
 	Bermuda: 1
@@ -57,7 +57,7 @@ Number of countries: 137
 	India: 29
 	Indonesia: 2
 	Iran: 6
-	Iraq: 16
+	Iraq: 17
 	Ireland: 7
 	Israel: 11
 	Italy: 104
