@@ -2,7 +2,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1865, 
+    "rsvp_count": 1866, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2352, 
+    "rsvp_count": 2355, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -818,7 +818,7 @@
   {
     "city": "Bruxelles", 
     "name": "Marche des Citoyens pour le Climat", 
-    "rsvp_count": 637, 
+    "rsvp_count": 638, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "", 
@@ -1714,7 +1714,7 @@
   {
     "city": "Medell\u00edn", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 379, 
+    "rsvp_count": 380, 
     "country": "Colombia", 
     "start_time": "09:00:00", 
     "venue": "Alcald\u00eda de Medell\u00edn", 
@@ -3986,7 +3986,7 @@
   {
     "city": "Grenoble", 
     "name": "La marche pour le climat", 
-    "rsvp_count": 144, 
+    "rsvp_count": 145, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Hotel de ville", 
@@ -4498,7 +4498,7 @@
   {
     "city": "Auxerre", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 23, 
+    "rsvp_count": 24, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -16834,7 +16834,7 @@
   {
     "city": "Ciudad de M\u00e9xico", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 84, 
+    "rsvp_count": 85, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Zocalo de la Ciudad de M\u00e9xico", 
@@ -21522,7 +21522,7 @@
   {
     "city": "San Jos\u00e9", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 136, 
+    "rsvp_count": 137, 
     "country": "Costa Rica", 
     "start_time": "13:00:00", 
     "venue": "Parque Metropolitano La Sabana", 
@@ -22034,7 +22034,7 @@
   {
     "city": "Boca del R\u00edo", 
     "name": "FUNDACI\u00d3N CHALCHI  Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 7, 
+    "rsvp_count": 8, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Caf\u00e9 La Parroquia 200 a\u00f1os. Boca del Rio.", 
@@ -32626,7 +32626,7 @@
   {
     "city": "Altenstadt", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Landtag", 
