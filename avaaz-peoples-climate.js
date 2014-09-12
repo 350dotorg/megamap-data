@@ -10563,7 +10563,7 @@ initData({},
   {
     "city": "Antwerp", 
     "name": "Actiedag voor het Klimaat", 
-    "rsvp_count": 120, 
+    "rsvp_count": 121, 
     "country": "Belgium", 
     "start_time": "13:00:00", 
     "venue": "park spoor noord", 
