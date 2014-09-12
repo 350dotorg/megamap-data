@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 1942, 
+    "rsvp_count": 1943, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -882,7 +882,7 @@
   {
     "city": "Copenhagen", 
     "name": "People's Climate March", 
-    "rsvp_count": 335, 
+    "rsvp_count": 336, 
     "country": "Denmark", 
     "start_time": "14:00:00", 
     "venue": "Nytorv, Domhuset", 
@@ -9922,7 +9922,7 @@
   {
     "city": "Salamanca", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 19, 
+    "rsvp_count": 20, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Plaza Mayor", 
@@ -10146,7 +10146,7 @@
   {
     "city": "Munich", 
     "name": "People's Climate March", 
-    "rsvp_count": 383, 
+    "rsvp_count": 384, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Karlsplatz", 
@@ -13570,7 +13570,7 @@
   {
     "city": "Buchen (Odenwald)", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Rathaus in Buchen im NOK", 
@@ -16162,7 +16162,7 @@
   {
     "city": "S\u00e3o Paulo", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 114, 
+    "rsvp_count": 115, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a Campo de Bagatelle - Bairro de Santana - em frente ao Campo de Marte", 
@@ -31854,5 +31854,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/it/event/climate/Biciclettata_Globale_per_il_Clima_a_Napoli", 
     "id": 4631
+  }, 
+  {
+    "city": "Soissons", 
+    "name": "Marche Pour le Climat", 
+    "rsvp_count": 1, 
+    "country": "France", 
+    "start_time": "11:00:00", 
+    "venue": "", 
+    "longitude": 3.328472, 
+    "state": "Picardie", 
+    "country_code": "FR", 
+    "address": "Rue Saint-Martin, 02200 Soissons, France", 
+    "latitude": 49.3787499, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_247", 
+    "id": 4632
   }
 ]
