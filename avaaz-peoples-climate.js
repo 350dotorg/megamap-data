@@ -2899,7 +2899,7 @@ initData({},
   {
     "city": "Toulouse", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 283, 
+    "rsvp_count": 284, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "place du capitole", 
@@ -31903,6 +31903,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/Bicicletada_contra_el_Cambio_Climatico", 
     "id": 4644
+  }, 
+  {
+    "city": "Bethlehem", 
+    "name": "#Palestine4Earth", 
+    "rsvp_count": 1, 
+    "country": "Palestine", 
+    "start_time": "17:30:00", 
+    "venue": "", 
+    "longitude": 35.20266, 
+    "state": "", 
+    "country_code": "PS", 
+    "address": "Bethlehem", 
+    "latitude": 31.705752, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Palestine4Earth", 
+    "id": 4645
   }
 ]
 );
