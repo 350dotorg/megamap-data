@@ -15698,7 +15698,7 @@
   {
     "city": "Torino", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 152, 
+    "rsvp_count": 153, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "PIAZZA CASTELLO", 
@@ -23106,7 +23106,7 @@
   {
     "city": "Gent", 
     "name": "Actiedag voor het Klimaat", 
-    "rsvp_count": 79, 
+    "rsvp_count": 80, 
     "country": "Belgium", 
     "start_time": "13:00:00", 
     "venue": "Stadhuis, Botermarkt 1, 9000 Gent", 
@@ -27522,7 +27522,7 @@
   {
     "city": "Lille", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 14, 
+    "rsvp_count": 15, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "devant le palais des beaux arts de lille -m\u00e9tro r\u00e9publique.", 
@@ -31940,7 +31940,7 @@
     "name": "Bolonia C\u00e1diz", 
     "rsvp_count": 1, 
     "country": "Spain", 
-    "start_time": "20:00:00", 
+    "start_time": "08:00:00", 
     "venue": "", 
     "longitude": -5.7745904, 
     "state": "AL", 
