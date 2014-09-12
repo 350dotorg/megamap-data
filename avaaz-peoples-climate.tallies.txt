@@ -1,4 +1,4 @@
-Number of events: 1990
+Number of events: 1991
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
@@ -60,7 +60,7 @@ Number of countries: 137
 	Iraq: 14
 	Ireland: 7
 	Israel: 9
-	Italy: 99
+	Italy: 100
 	Japan: 7
 	Jordan: 1
 	Kenya: 2
