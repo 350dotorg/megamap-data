@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 1718, 
+    "rsvp_count": 1719, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -514,7 +514,7 @@
   {
     "city": "Lisbon", 
     "name": "Marcha Contra as Altera\u00e7\u00f5es Clim\u00e1ticas - Salvem o Planeta!", 
-    "rsvp_count": 308, 
+    "rsvp_count": 309, 
     "country": "Portugal", 
     "start_time": "16:00:00", 
     "venue": "Rossio", 
@@ -962,7 +962,7 @@
   {
     "city": "Barcelona", 
     "name": "Marcha Ciudadana Global por el Clima. Barcelona #BCN21S", 
-    "rsvp_count": 710, 
+    "rsvp_count": 711, 
     "country": "Spain", 
     "start_time": "11:00:00", 
     "venue": "Moll de la Marina, Barcelona", 
@@ -4770,7 +4770,7 @@
   {
     "city": "Zaragoza", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 140, 
+    "rsvp_count": 141, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Plaza de Espa\u00f1a", 
@@ -6562,7 +6562,7 @@
   {
     "city": "Athens", 
     "name": "\u0395\u03c0\u03af\u03c3\u03b7\u03bc\u03b7 \u0394\u03c1\u03ac\u03c3\u03b7 \u0391\u03b8\u03ae\u03bd\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
-    "rsvp_count": 163, 
+    "rsvp_count": 164, 
     "country": "Greece", 
     "start_time": "16:00:00", 
     "venue": "\u0394\u03b9\u03bf\u03bd\u03c5\u03c3\u03af\u03bf\u03c5 \u0391\u03c1\u03b5\u03bf\u03c0\u03b1\u03b3\u03af\u03c4\u03bf\u03c5, \u0391\u03b8\u03ae\u03bd\u03b1", 
@@ -10098,7 +10098,7 @@
   {
     "city": "Bilbao", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 30, 
+    "rsvp_count": 31, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "PLAZA DEL ARRIAGA", 
@@ -23666,7 +23666,7 @@
   {
     "city": "Manzanares el Real", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 15, 
+    "rsvp_count": 16, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Plaza del pueblo", 
@@ -25938,7 +25938,7 @@
   {
     "city": "Sarrebourg", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "place du march\u00e9", 
@@ -27522,7 +27522,7 @@
   {
     "city": "Perugia", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -31454,5 +31454,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaAktionstag_142", 
     "id": 4594
+  }, 
+  {
+    "city": "Troyes", 
+    "name": "Marche Pour le Climat", 
+    "rsvp_count": 1, 
+    "country": "France", 
+    "start_time": "13:00:00", 
+    "venue": "", 
+    "longitude": 4.0744009, 
+    "state": "Champagne-Ardenne", 
+    "country_code": "FR", 
+    "address": "Troyes, France", 
+    "latitude": 48.2973451, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_240", 
+    "id": 4595
   }
 ]

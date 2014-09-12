@@ -1,4 +1,4 @@
-Number of events: 1966
+Number of events: 1967
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
@@ -43,7 +43,7 @@ Number of countries: 137
 	El Salvador: 2
 	Estonia: 1
 	Finland: 5
-	France: 140
+	France: 141
 	French Guiana: 2
 	French Polynesia: 3
 	Germany: 61
