@@ -13859,7 +13859,7 @@ initData({},
   {
     "city": "Hobart", 
     "name": "People's Climate March", 
-    "rsvp_count": 75, 
+    "rsvp_count": 76, 
     "country": "Australia", 
     "start_time": "13:00:00", 
     "venue": "Parliament House Gardens Hobart", 
