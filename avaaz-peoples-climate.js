@@ -3731,7 +3731,7 @@ initData({},
   {
     "city": "Dublin", 
     "name": "People's Climate March", 
-    "rsvp_count": 200, 
+    "rsvp_count": 201, 
     "country": "Ireland", 
     "start_time": "13:00:00", 
     "venue": "D\u00e1il \u00c9ireann, Dublin city centre", 
