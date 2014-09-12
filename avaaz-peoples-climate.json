@@ -498,7 +498,7 @@
   {
     "city": "Lisbon", 
     "name": "Marcha Contra as Altera\u00e7\u00f5es Clim\u00e1ticas - Salvem o Planeta!", 
-    "rsvp_count": 320, 
+    "rsvp_count": 321, 
     "country": "Portugal", 
     "start_time": "16:00:00", 
     "venue": "Rossio", 
@@ -10770,7 +10770,7 @@
   {
     "city": "Madrid", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 545, 
+    "rsvp_count": 546, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Cada persona en la puerta de su casa: Inundemos las aceras de la ciudad.", 
@@ -16162,7 +16162,7 @@
   {
     "city": "Groningen", 
     "name": "Actiedag voor het Klimaat", 
-    "rsvp_count": 48, 
+    "rsvp_count": 49, 
     "country": "Netherlands", 
     "start_time": "13:00:00", 
     "venue": "Grote Markt", 
@@ -16338,7 +16338,7 @@
   {
     "city": "S\u00e3o Paulo", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 69, 
+    "rsvp_count": 70, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a Nova Am\u00e9rica", 
@@ -17954,7 +17954,7 @@
   {
     "city": "\u03a4\u03c1\u03af\u03ba\u03b1\u03bb\u03b1", 
     "name": "\u03a0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u039b\u03b1\u03ce\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
-    "rsvp_count": 14, 
+    "rsvp_count": 15, 
     "country": "Greece", 
     "start_time": "13:00:00", 
     "venue": "\u03ba\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03b7 \u03c0\u03bb\u03b1\u03c4\u03b9\u03b1", 
@@ -17986,7 +17986,7 @@
   {
     "city": "S\u00e3o Paulo", 
     "name": "Mudas de \u00e1rvores brasileiras", 
-    "rsvp_count": 34, 
+    "rsvp_count": 35, 
     "country": "Brazil", 
     "start_time": "10:00:00", 
     "venue": "Dog Caf\u00e9", 
@@ -32014,5 +32014,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_169", 
     "id": 4652
+  }, 
+  {
+    "city": "Al Hoce\u00efma", 
+    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
+    "rsvp_count": 1, 
+    "country": "Morocco", 
+    "start_time": "13:00:00", 
+    "venue": "\u0633\u0627\u062d\u0629 \u0645\u062d\u0645\u062f \u0627\u0644\u0633\u0627\u062f\u0633", 
+    "longitude": -3.9299948, 
+    "state": "Taza-Al Hoce\u00efma-Taounate", 
+    "country_code": "MA", 
+    "address": "Place Mohamed VI, Al Hoce\u00efma, Maroc", 
+    "latitude": 35.2454726, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/ar/event/climate/lmsyr_lmnkhy_lshby_202", 
+    "id": 4656
   }
 ]

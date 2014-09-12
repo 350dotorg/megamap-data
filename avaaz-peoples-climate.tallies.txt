@@ -1,4 +1,4 @@
-Number of events: 2001
+Number of events: 2002
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
@@ -78,7 +78,7 @@ Number of countries: 137
 	Mauritius: 2
 	Mexico: 109
 	Moldova: 2
-	Morocco: 31
+	Morocco: 32
 	Myanmar: 1
 	Nepal: 2
 	Netherlands: 25
