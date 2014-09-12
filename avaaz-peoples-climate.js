@@ -22803,7 +22803,7 @@ initData({},
   {
     "city": "Gent", 
     "name": "Actiedag voor het Klimaat", 
-    "rsvp_count": 89, 
+    "rsvp_count": 90, 
     "country": "Belgium", 
     "start_time": "13:00:00", 
     "venue": "Stadhuis, Botermarkt 1, 9000 Gent", 
