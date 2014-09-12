@@ -2674,7 +2674,7 @@
   {
     "city": "Li\u00e8ge", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 64, 
+    "rsvp_count": 65, 
     "country": "Belgium", 
     "start_time": "13:00:00", 
     "venue": "Universit\u00e9 de Li\u00e8ge, Place du XX Ao\u00fbt", 
@@ -17302,11 +17302,11 @@
     "country": "Australia", 
     "start_time": "13:00:00", 
     "venue": "March starts at the Yellow Submarine, we will walk along the Foreshore path to Edith Cowan Square, opposite the Law Courts.", 
-    "longitude": 114.6040278, 
+    "longitude": 114.6096326, 
     "state": "WA", 
     "country_code": "AU", 
-    "address": "", 
-    "latitude": -28.7766025, 
+    "address": "Geraldton WA 6530, Australia", 
+    "latitude": -28.7732192, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1288", 
     "id": 3411
