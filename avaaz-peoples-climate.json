@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 1893, 
+    "rsvp_count": 1895, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -450,7 +450,7 @@
   {
     "city": "Castell\u00f3n de la Plana", 
     "name": "Marcha contra el cambio clim\u00e1tico", 
-    "rsvp_count": 20, 
+    "rsvp_count": 21, 
     "country": "Spain", 
     "start_time": "19:00:00", 
     "venue": "Plaza Santa Clara", 
@@ -962,7 +962,7 @@
   {
     "city": "Barcelona", 
     "name": "Marcha Ciudadana Global por el Clima. Barcelona #BCN21S", 
-    "rsvp_count": 789, 
+    "rsvp_count": 790, 
     "country": "Spain", 
     "start_time": "11:00:00", 
     "venue": "Moll de la Marina, Barcelona", 
@@ -6850,7 +6850,7 @@
   {
     "city": "Noum\u00e9a", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 89, 
+    "rsvp_count": 90, 
     "country": "New Caledonia", 
     "start_time": "13:00:00", 
     "venue": "Baie des citrons", 
@@ -7586,7 +7586,7 @@
   {
     "city": "Lausanne", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 53, 
+    "rsvp_count": 54, 
     "country": "Switzerland", 
     "start_time": "13:00:00", 
     "venue": "Les ruines romaines de Vidy pour remonter \u00e0 la place du ch\u00e2teau.", 
@@ -10898,7 +10898,7 @@
   {
     "city": "Madrid", 
     "name": "La Marcha Ciudadana por la Naturaleza, la Vida y Evoluci\u00f3n Humana", 
-    "rsvp_count": 303, 
+    "rsvp_count": 304, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "La Puerta de La Tabacalera", 
@@ -17794,7 +17794,7 @@
   {
     "city": "Yal\u0131kavak", 
     "name": "\u0130klim \u0130\u00e7in Halk Y\u00fcr\u00fcy\u00fc\u015f\u00fc", 
-    "rsvp_count": 9, 
+    "rsvp_count": 10, 
     "country": "Turkey", 
     "start_time": "13:00:00", 
     "venue": "Yal\u0131kavak Belediye Meydan\u0131", 
@@ -19250,7 +19250,7 @@
   {
     "city": "Gen\u00e8ve", 
     "name": "People's Climate March", 
-    "rsvp_count": 85, 
+    "rsvp_count": 86, 
     "country": "Switzerland", 
     "start_time": "14:00:00", 
     "venue": "Gen\u00e8ve, Plaine de Plainpalais", 
@@ -31710,5 +31710,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/it/event/climate/Marcia_Globale_per_il_Clima_126", 
     "id": 4614
+  }, 
+  {
+    "city": "Cape Town", 
+    "name": "Cape Town's Climate Activation", 
+    "rsvp_count": 1, 
+    "country": "South Africa", 
+    "start_time": "13:00:00", 
+    "venue": "Grand Parade", 
+    "longitude": 18.7246483, 
+    "state": "WC", 
+    "country_code": "ZA", 
+    "address": "Grand Street, Cape Town 7570, South Africa", 
+    "latitude": -33.8743017, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Cape_Towns_Climate_Activation", 
+    "id": 4615
   }
 ]

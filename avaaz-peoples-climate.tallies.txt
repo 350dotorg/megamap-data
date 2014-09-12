@@ -1,4 +1,4 @@
-Number of events: 1982
+Number of events: 1983
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
@@ -108,7 +108,7 @@ Number of countries: 137
 	Singapore: 1
 	Slovakia: 6
 	Slovenia: 4
-	South Africa: 13
+	South Africa: 14
 	South Korea: 1
 	South Sudan: 2
 	Spain: 120
