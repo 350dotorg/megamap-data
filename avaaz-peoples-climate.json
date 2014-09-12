@@ -2,7 +2,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1727, 
+    "rsvp_count": 1730, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 1918, 
+    "rsvp_count": 1921, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -962,7 +962,7 @@
   {
     "city": "Barcelona", 
     "name": "Marcha Ciudadana Global por el Clima. Barcelona #BCN21S", 
-    "rsvp_count": 806, 
+    "rsvp_count": 808, 
     "country": "Spain", 
     "start_time": "11:00:00", 
     "venue": "Moll de la Marina, Barcelona", 
@@ -1602,7 +1602,7 @@
   {
     "city": "Bra\u0219ov", 
     "name": "Mar\u0219ul Cet\u0103\u021benilor pentru Ac\u021biune Climatic\u0103", 
-    "rsvp_count": 37, 
+    "rsvp_count": 38, 
     "country": "Romania", 
     "start_time": "13:00:00", 
     "venue": "Piata Sfatului", 
@@ -10866,7 +10866,7 @@
   {
     "city": "Madrid", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 526, 
+    "rsvp_count": 527, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Cada persona en la puerta de su casa: Inundemos las aceras de la ciudad.", 
@@ -18082,7 +18082,7 @@
   {
     "city": "Bolzano", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 46, 
+    "rsvp_count": 47, 
     "country": "Italy", 
     "start_time": "16:00:00", 
     "venue": "Piazza Walter", 
@@ -20066,7 +20066,7 @@
   {
     "city": "Seymour", 
     "name": "BEAM Bags", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Australia", 
     "start_time": "13:00:00", 
     "venue": "Coles supermarket", 
@@ -21650,7 +21650,7 @@
   {
     "city": "Cheshire West and Chester", 
     "name": "People's Climate March", 
-    "rsvp_count": 19, 
+    "rsvp_count": 20, 
     "country": "United Kingdom", 
     "start_time": "13:00:00", 
     "venue": "Town Hall", 
@@ -22610,7 +22610,7 @@
   {
     "city": "Petaling Jaya", 
     "name": "People's Climate March", 
-    "rsvp_count": 34, 
+    "rsvp_count": 35, 
     "country": "Malaysia", 
     "start_time": "13:00:00", 
     "venue": "Stadium MPPJ", 
@@ -23218,7 +23218,7 @@
   {
     "city": "Gen\u00e8ve", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 24, 
+    "rsvp_count": 25, 
     "country": "Switzerland", 
     "start_time": "13:00:00", 
     "venue": "Place de Plainpalais", 
@@ -25362,7 +25362,7 @@
   {
     "city": "Navalagamella", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Fresnedillasde la Oliva-Navalagamella", 
@@ -31758,5 +31758,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_482", 
     "id": 4617
+  }, 
+  {
+    "city": "Ehrwald", 
+    "name": "Mutter Erde Meditation zum weltweiten Klima-Aktionstag", 
+    "rsvp_count": 1, 
+    "country": "Austria", 
+    "start_time": "13:00:00", 
+    "venue": "", 
+    "longitude": 10.9043092, 
+    "state": "Tir.", 
+    "country_code": "AT", 
+    "address": "", 
+    "latitude": 47.4065526, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/de/event/climate/Mutter_Erde_Meditation_zum_weltweiten_KlimaAktionstag", 
+    "id": 4621
   }
 ]
