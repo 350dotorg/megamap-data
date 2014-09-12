@@ -1,4 +1,4 @@
-Number of events: 1972
+Number of events: 1978
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
@@ -43,7 +43,7 @@ Number of countries: 137
 	El Salvador: 2
 	Estonia: 1
 	Finland: 5
-	France: 143
+	France: 142
 	French Guiana: 2
 	French Polynesia: 3
 	Germany: 61
@@ -53,14 +53,14 @@ Number of countries: 137
 	Guinea: 1
 	Honduras: 4
 	Hong Kong: 1
-	Hungary: 2
+	Hungary: 3
 	India: 24
 	Indonesia: 1
 	Iran: 5
-	Iraq: 13
+	Iraq: 14
 	Ireland: 7
 	Israel: 9
-	Italy: 97
+	Italy: 98
 	Japan: 7
 	Jordan: 1
 	Kenya: 2
@@ -76,9 +76,9 @@ Number of countries: 137
 	Martinique: 2
 	Mauritania: 2
 	Mauritius: 2
-	Mexico: 108
+	Mexico: 109
 	Moldova: 2
-	Morocco: 29
+	Morocco: 30
 	Myanmar: 1
 	Nepal: 2
 	Netherlands: 25
@@ -99,7 +99,7 @@ Number of countries: 137
 	Puerto Rico: 2
 	Qatar: 3
 	Reunion: 1
-	Romania: 13
+	Romania: 14
 	Russia: 40
 	Saudi Arabia: 10
 	Senegal: 2
@@ -110,7 +110,7 @@ Number of countries: 137
 	Slovenia: 4
 	South Africa: 13
 	South Korea: 1
-	South Sudan: 1
+	South Sudan: 2
 	Spain: 120
 	Sri Lanka: 2
 	Sudan: 5
