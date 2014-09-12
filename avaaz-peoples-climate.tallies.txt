@@ -1,4 +1,4 @@
-Number of events: 2003
+Number of events: 2006
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
@@ -43,7 +43,7 @@ Number of countries: 137
 	El Salvador: 2
 	Estonia: 1
 	Finland: 5
-	France: 143
+	France: 144
 	French Guiana: 2
 	French Polynesia: 3
 	Germany: 60
@@ -54,7 +54,7 @@ Number of countries: 137
 	Honduras: 4
 	Hong Kong: 1
 	Hungary: 3
-	India: 24
+	India: 25
 	Indonesia: 2
 	Iran: 5
 	Iraq: 14
@@ -126,7 +126,7 @@ Number of countries: 137
 	US Virgin Islands: 1
 	Uganda: 2
 	Ukraine: 43
-	United Arab Emirates: 2
+	United Arab Emirates: 3
 	United Kingdom: 57
 	United States of America: 71
 	Uruguay: 13
