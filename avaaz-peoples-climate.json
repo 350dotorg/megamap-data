@@ -18,7 +18,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 745, 
+    "rsvp_count": 746, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -130,7 +130,7 @@
   {
     "city": "Montreal", 
     "name": "Peoples' Climate March @ Montreal // Marche mondiale pour le climat @ Montr\u00e9al", 
-    "rsvp_count": 189, 
+    "rsvp_count": 191, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Parc Lafontaine", 
@@ -3554,7 +3554,7 @@
   {
     "city": "Winnipeg", 
     "name": "People's Climate March", 
-    "rsvp_count": 134, 
+    "rsvp_count": 135, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Manitoba Legislative Building", 
@@ -26530,7 +26530,7 @@
   {
     "city": "Tauranga", 
     "name": "Climate Change Day of Action", 
-    "rsvp_count": 7, 
+    "rsvp_count": 8, 
     "country": "New Zealand", 
     "start_time": "13:00:00", 
     "venue": "", 
