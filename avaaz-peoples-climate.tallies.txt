@@ -1,4 +1,4 @@
-Number of events: 1965
+Number of events: 1966
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
@@ -103,7 +103,7 @@ Number of countries: 137
 	Russia: 40
 	Saudi Arabia: 10
 	Senegal: 2
-	Serbia: 4
+	Serbia: 5
 	Seychelles: 2
 	Singapore: 1
 	Slovakia: 6
