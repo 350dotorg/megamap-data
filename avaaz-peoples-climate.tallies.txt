@@ -1,4 +1,4 @@
-Number of events: 1931
+Number of events: 1932
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
@@ -34,7 +34,7 @@ Number of countries: 137
 	Croatia: 3
 	Cuba: 2
 	Cyprus: 1
-	Czech Republic: 1
+	Czech Republic: 2
 	Côte d'Ivoire: 1
 	Denmark: 6
 	Dominican Republic: 7
