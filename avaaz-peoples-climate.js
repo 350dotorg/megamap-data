@@ -20867,7 +20867,7 @@ initData({},
   {
     "city": "London", 
     "name": "People's Climate March", 
-    "rsvp_count": 64, 
+    "rsvp_count": 65, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Victoria Park Richmond Rd. (Row) at Central Ave", 
