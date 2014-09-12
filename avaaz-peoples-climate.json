@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2242, 
+    "rsvp_count": 2244, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -818,7 +818,7 @@
   {
     "city": "Bruxelles", 
     "name": "Marche des Citoyens pour le Climat", 
-    "rsvp_count": 617, 
+    "rsvp_count": 618, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "", 
@@ -914,7 +914,7 @@
   {
     "city": "Halifax", 
     "name": "People's Climate March Halifax", 
-    "rsvp_count": 105, 
+    "rsvp_count": 106, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Meet at Citadel Hill, 5425 Sackville Street, Halifax", 
@@ -1714,7 +1714,7 @@
   {
     "city": "Medell\u00edn", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 372, 
+    "rsvp_count": 373, 
     "country": "Colombia", 
     "start_time": "09:00:00", 
     "venue": "Alcald\u00eda de Medell\u00edn", 
@@ -2578,7 +2578,7 @@
   {
     "city": "Li\u00e8ge", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 70, 
+    "rsvp_count": 71, 
     "country": "Belgium", 
     "start_time": "13:00:00", 
     "venue": "Universit\u00e9 de Li\u00e8ge, Place du XX Ao\u00fbt", 
@@ -3538,7 +3538,7 @@
   {
     "city": "Porto Alegre", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 320, 
+    "rsvp_count": 321, 
     "country": "Brazil", 
     "start_time": "11:00:00", 
     "venue": "Parque Farroupilha - Reden\u00e7\u00e3o", 
@@ -8914,7 +8914,7 @@
   {
     "city": "Chihuahua", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 30, 
+    "rsvp_count": 31, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "En el palomar", 
@@ -25314,7 +25314,7 @@
   {
     "city": "Paderborn", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 15, 
+    "rsvp_count": 16, 
     "country": "Germany", 
     "start_time": "15:00:00", 
     "venue": "Rathausplatz", 
@@ -31042,7 +31042,7 @@
   {
     "city": "San Pedro Sula", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Honduras", 
     "start_time": "13:00:00", 
     "venue": "", 
