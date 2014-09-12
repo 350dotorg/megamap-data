@@ -850,7 +850,7 @@
   {
     "city": "Bruxelles", 
     "name": "Marche des Citoyens pour le Climat", 
-    "rsvp_count": 535, 
+    "rsvp_count": 536, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "", 
@@ -19170,7 +19170,7 @@
   {
     "city": "Santiago", 
     "name": "FEN for the world", 
-    "rsvp_count": 49, 
+    "rsvp_count": 50, 
     "country": "Chile", 
     "start_time": "14:00:00", 
     "venue": "Facultad de Econom\u00eda y Negocios Universidad de Chile", 
@@ -25218,7 +25218,7 @@
   {
     "city": "Tavira", 
     "name": "People's Climate March", 
-    "rsvp_count": 8, 
+    "rsvp_count": 9, 
     "country": "Portugal", 
     "start_time": "13:00:00", 
     "venue": "Praca da Republica", 
@@ -32510,5 +32510,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/he/event/climate/tsrt_lb_yrvq_btykvn_hmvshbh_bzkrvn_yqb", 
     "id": 4713
+  }, 
+  {
+    "city": "Zapala", 
+    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
+    "rsvp_count": 1, 
+    "country": "Argentina", 
+    "start_time": "13:00:00", 
+    "venue": "AVENIDA SAN MARTIN", 
+    "longitude": -70.063476, 
+    "state": "", 
+    "country_code": "AR", 
+    "address": "Avenida San Mart\u00edn, Zapala, Neuqu\u00e9n, Argentina", 
+    "latitude": -38.9051843, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_490", 
+    "id": 4714
   }
 ]

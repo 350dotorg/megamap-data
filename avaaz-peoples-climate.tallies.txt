@@ -1,9 +1,9 @@
-Number of events: 2032
+Number of events: 2033
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 2
 	Algeria: 44
-	Argentina: 66
+	Argentina: 67
 	Armenia: 4
 	Australia: 36
 	Austria: 25
