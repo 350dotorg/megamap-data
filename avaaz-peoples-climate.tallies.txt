@@ -1,4 +1,4 @@
-Number of events: 2006
+Number of events: 2007
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
@@ -41,7 +41,7 @@ Number of countries: 137
 	Ecuador: 11
 	Egypt: 25
 	El Salvador: 2
-	Estonia: 1
+	Estonia: 2
 	Finland: 5
 	France: 144
 	French Guiana: 2
