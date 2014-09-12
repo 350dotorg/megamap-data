@@ -1,5 +1,5 @@
-Number of events: 1912
-Number of countries: 136
+Number of events: 1918
+Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
 	Algeria: 42
@@ -17,7 +17,7 @@ Number of countries: 136
 	Bolivia: 6
 	Bosnia and Herzegovina: 1
 	Botswana: 1
-	Brazil: 174
+	Brazil: 175
 	Brunei: 1
 	Bulgaria: 6
 	Burkina Faso: 1
@@ -76,7 +76,7 @@ Number of countries: 136
 	Martinique: 2
 	Mauritania: 2
 	Mauritius: 2
-	Mexico: 100
+	Mexico: 101
 	Moldova: 2
 	Morocco: 28
 	Myanmar: 1
@@ -95,9 +95,9 @@ Number of countries: 136
 	Peru: 31
 	Philippines: 3
 	Poland: 9
-	Portugal: 14
+	Portugal: 15
 	Puerto Rico: 2
-	Qatar: 2
+	Qatar: 3
 	Reunion: 1
 	Romania: 13
 	Russia: 40
@@ -123,11 +123,12 @@ Number of countries: 136
 	Trinidad and Tobago: 1
 	Tunisia: 8
 	Turkey: 20
+	US Virgin Islands: 1
 	Uganda: 2
 	Ukraine: 43
 	United Arab Emirates: 2
 	United Kingdom: 59
-	United States of America: 68
+	United States of America: 69
 	Uruguay: 11
 	Uzbekistan: 1
 	Venezuela: 23
