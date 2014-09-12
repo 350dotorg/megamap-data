@@ -1,8 +1,8 @@
-Number of events: 1992
+Number of events: 1993
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
-	Algeria: 42
+	Algeria: 43
 	Argentina: 66
 	Armenia: 3
 	Australia: 36
@@ -11,7 +11,7 @@ Number of countries: 137
 	Bahrain: 3
 	Bangladesh: 3
 	Belarus: 3
-	Belgium: 29
+	Belgium: 30
 	Benin: 1
 	Bermuda: 1
 	Bolivia: 6
@@ -29,7 +29,7 @@ Number of countries: 137
 	Chile: 26
 	Colombia: 80
 	Congo, DPR: 2
-	Congo, PR: 1
+	Congo, PR: 2
 	Costa Rica: 6
 	Croatia: 3
 	Cuba: 2
@@ -46,8 +46,8 @@ Number of countries: 137
 	France: 143
 	French Guiana: 2
 	French Polynesia: 3
-	Germany: 61
-	Greece: 37
+	Germany: 60
+	Greece: 38
 	Guadeloupe: 3
 	Guatemala: 13
 	Guinea: 1
@@ -60,7 +60,7 @@ Number of countries: 137
 	Iraq: 14
 	Ireland: 7
 	Israel: 9
-	Italy: 100
+	Italy: 101
 	Japan: 7
 	Jordan: 1
 	Kenya: 2
@@ -81,7 +81,7 @@ Number of countries: 137
 	Morocco: 30
 	Myanmar: 1
 	Nepal: 2
-	Netherlands: 26
+	Netherlands: 25
 	New Caledonia: 2
 	New Zealand: 25
 	Nicaragua: 1
@@ -100,7 +100,7 @@ Number of countries: 137
 	Qatar: 3
 	Reunion: 1
 	Romania: 14
-	Russia: 40
+	Russia: 41
 	Saudi Arabia: 10
 	Senegal: 2
 	Serbia: 5
@@ -111,23 +111,23 @@ Number of countries: 137
 	South Africa: 14
 	South Korea: 1
 	South Sudan: 2
-	Spain: 120
+	Spain: 121
 	Sri Lanka: 2
 	Sudan: 5
-	Sweden: 16
+	Sweden: 14
 	Switzerland: 19
 	Syria: 3
 	Taiwan: 1
 	Thailand: 3
 	Togo: 1
 	Trinidad and Tobago: 1
-	Tunisia: 11
-	Turkey: 20
+	Tunisia: 12
+	Turkey: 19
 	US Virgin Islands: 1
 	Uganda: 2
 	Ukraine: 43
 	United Arab Emirates: 2
-	United Kingdom: 59
+	United Kingdom: 57
 	United States of America: 71
 	Uruguay: 13
 	Uzbekistan: 1
