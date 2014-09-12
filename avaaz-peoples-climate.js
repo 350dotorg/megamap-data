@@ -12467,7 +12467,7 @@ initData({},
   {
     "city": "Balne\u00e1rio Cambori\u00fa", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 30, 
+    "rsvp_count": 31, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -16307,7 +16307,7 @@ initData({},
   {
     "city": "Goi\u00e2nia", 
     "name": "Recomposi\u00e7\u00e3o Total das Matas Ciliares", 
-    "rsvp_count": 320, 
+    "rsvp_count": 321, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a C\u00edvica", 
@@ -30751,6 +30751,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_237", 
     "id": 4545
+  }, 
+  {
+    "city": "Presidente Prudente", 
+    "name": "Caminhada pelo Clima", 
+    "rsvp_count": 1, 
+    "country": "Brazil", 
+    "start_time": "13:00:00", 
+    "venue": "Parque do povo", 
+    "longitude": -51.3990034, 
+    "state": "SP", 
+    "country_code": "BR", 
+    "address": "Parque do Povo, Presidente Prudente - SP, 19050-050, Rep\u00fablica Federativa do Brasil", 
+    "latitude": -22.1296574, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_161", 
+    "id": 4546
   }
 ]
 );
