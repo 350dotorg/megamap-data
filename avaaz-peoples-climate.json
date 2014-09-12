@@ -2,7 +2,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1856, 
+    "rsvp_count": 1857, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2266, 
+    "rsvp_count": 2267, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -642,7 +642,7 @@
   {
     "city": "Mar del Plata", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 16, 
+    "rsvp_count": 17, 
     "country": "Argentina", 
     "start_time": "17:00:00", 
     "venue": "Parque San Mart\u00edn (Monumento)", 
@@ -882,7 +882,7 @@
   {
     "city": "Barcelona", 
     "name": "Marcha Ciudadana Global por el Clima. Barcelona #BCN21S", 
-    "rsvp_count": 972, 
+    "rsvp_count": 973, 
     "country": "Spain", 
     "start_time": "11:00:00", 
     "venue": "Moll de la Marina, Barcelona", 
@@ -6178,7 +6178,7 @@
   {
     "city": "Tel Aviv-Yafo", 
     "name": "\u05e0\u05d7\u05e0\u05e7\u05d9\u05dd \u05de\u05d4\u05d6\u05d9\u05d4\u05d5\u05dd - \u05d3\u05d5\u05e8\u05e9\u05d9\u05dd 100% \u05d0\u05e0\u05e8\u05d2\u05d9\u05d4 \u05e0\u05e7\u05d9\u05d9\u05d4!", 
-    "rsvp_count": 132, 
+    "rsvp_count": 133, 
     "country": "Israel", 
     "start_time": "18:00:00", 
     "venue": "\u05db\u05d9\u05db\u05e8 \u05d4\u05d1\u05d9\u05de\u05d4", 
@@ -9266,7 +9266,7 @@
   {
     "city": "San Luis Potos\u00ed", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 77, 
+    "rsvp_count": 78, 
     "country": "Mexico", 
     "start_time": "10:00:00", 
     "venue": "Plaza de Armas", 
@@ -20578,7 +20578,7 @@
   {
     "city": "Zagreb", 
     "name": "People's Climate March", 
-    "rsvp_count": 106, 
+    "rsvp_count": 107, 
     "country": "Croatia", 
     "start_time": "13:00:00", 
     "venue": "Trg Kralja Tomislava", 
@@ -24386,7 +24386,7 @@
   {
     "city": "Bald Ruz", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Iraq", 
     "start_time": "13:00:00", 
     "venue": "\u0645\u0635\u0627\u0646\u0639 \u0627\u0644\u0637\u0627\u0628\u0648\u0642", 
@@ -26866,7 +26866,7 @@
   {
     "city": "Heraklion", 
     "name": "People's Climate March", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Greece", 
     "start_time": "13:00:00", 
     "venue": "Liberty Square", 
