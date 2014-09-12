@@ -18,7 +18,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 992, 
+    "rsvp_count": 993, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2162, 
+    "rsvp_count": 2163, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -514,7 +514,7 @@
   {
     "city": "Genova", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 90, 
+    "rsvp_count": 91, 
     "country": "Italy", 
     "start_time": "11:00:00", 
     "venue": "Piazza De Ferrari", 
@@ -8962,7 +8962,7 @@
   {
     "city": "Mazatl\u00e1n", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 17, 
+    "rsvp_count": 18, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "PLAZUELA REPUBLICA , FRENTE AL PALACIO MUNICIPAL, BENITO JUAREZ  Y ANGEL FLORES", 
@@ -29554,7 +29554,7 @@
   {
     "city": "Harlingen", 
     "name": "Actiedag voor het Klimaat", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Netherlands", 
     "start_time": "12:00:00", 
     "venue": "Stadhuis", 
