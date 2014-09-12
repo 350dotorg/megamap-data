@@ -1,4 +1,4 @@
-Number of events: 1979
+Number of events: 1980
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
@@ -55,7 +55,7 @@ Number of countries: 137
 	Hong Kong: 1
 	Hungary: 3
 	India: 24
-	Indonesia: 1
+	Indonesia: 2
 	Iran: 5
 	Iraq: 14
 	Ireland: 7
