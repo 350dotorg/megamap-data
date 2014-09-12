@@ -1,4 +1,4 @@
-Number of events: 1946
+Number of events: 1945
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
@@ -61,7 +61,7 @@ Number of countries: 137
 	Ireland: 7
 	Israel: 9
 	Italy: 97
-	Japan: 8
+	Japan: 7
 	Jordan: 1
 	Kenya: 2
 	Kuwait: 2
