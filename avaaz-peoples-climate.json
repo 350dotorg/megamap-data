@@ -2818,7 +2818,7 @@
   {
     "city": "Saint-Leu", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 70, 
+    "rsvp_count": 71, 
     "country": "Reunion", 
     "start_time": "13:00:00", 
     "venue": "Parvis de la Mairie de St Leu", 
@@ -9570,7 +9570,7 @@
   {
     "city": "San Luis Potos\u00ed", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 66, 
+    "rsvp_count": 67, 
     "country": "Mexico", 
     "start_time": "10:00:00", 
     "venue": "Plaza de Armas", 
@@ -16162,7 +16162,7 @@
   {
     "city": "S\u00e3o Paulo", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 112, 
+    "rsvp_count": 113, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a Campo de Bagatelle - Bairro de Santana - em frente ao Campo de Marte", 
@@ -31166,5 +31166,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_473", 
     "id": 4576
+  }, 
+  {
+    "city": "San Rafael", 
+    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
+    "rsvp_count": 1, 
+    "country": "Argentina", 
+    "start_time": "13:00:00", 
+    "venue": "catedral san rafael arcangel", 
+    "longitude": -68.341011, 
+    "state": "MZ", 
+    "country_code": "AR", 
+    "address": "San Rafael, Mendoza, Argentina", 
+    "latitude": -34.6131516, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_474", 
+    "id": 4577
   }
 ]

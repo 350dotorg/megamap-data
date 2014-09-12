@@ -1,9 +1,9 @@
-Number of events: 1948
+Number of events: 1949
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
 	Algeria: 42
-	Argentina: 63
+	Argentina: 64
 	Armenia: 3
 	Australia: 36
 	Austria: 23
