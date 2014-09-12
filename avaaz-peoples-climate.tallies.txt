@@ -1,4 +1,4 @@
-Number of events: 1935
+Number of events: 1943
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
@@ -17,7 +17,7 @@ Number of countries: 137
 	Bolivia: 6
 	Bosnia and Herzegovina: 1
 	Botswana: 1
-	Brazil: 180
+	Brazil: 181
 	Brunei: 1
 	Bulgaria: 6
 	Burkina Faso: 1
@@ -33,13 +33,13 @@ Number of countries: 137
 	Costa Rica: 6
 	Croatia: 3
 	Cuba: 2
-	Cyprus: 1
+	Cyprus: 2
 	Czech Republic: 2
 	Côte d'Ivoire: 1
 	Denmark: 6
 	Dominican Republic: 7
 	Ecuador: 11
-	Egypt: 24
+	Egypt: 25
 	El Salvador: 2
 	Estonia: 1
 	Finland: 5
@@ -80,12 +80,12 @@ Number of countries: 137
 	Moldova: 2
 	Morocco: 29
 	Myanmar: 1
-	Nepal: 1
+	Nepal: 2
 	Netherlands: 25
 	New Caledonia: 2
 	New Zealand: 25
 	Nicaragua: 1
-	Nigeria: 4
+	Nigeria: 6
 	Norway: 8
 	Oman: 2
 	Pakistan: 3
@@ -95,7 +95,7 @@ Number of countries: 137
 	Peru: 31
 	Philippines: 3
 	Poland: 9
-	Portugal: 15
+	Portugal: 16
 	Puerto Rico: 2
 	Qatar: 3
 	Reunion: 1
@@ -128,7 +128,7 @@ Number of countries: 137
 	Ukraine: 43
 	United Arab Emirates: 2
 	United Kingdom: 59
-	United States of America: 69
+	United States of America: 70
 	Uruguay: 11
 	Uzbekistan: 1
 	Venezuela: 24
