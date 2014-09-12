@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2097, 
+    "rsvp_count": 2098, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -866,7 +866,7 @@
   {
     "city": "Copenhagen", 
     "name": "People's Climate March", 
-    "rsvp_count": 341, 
+    "rsvp_count": 342, 
     "country": "Denmark", 
     "start_time": "14:00:00", 
     "venue": "Nytorv, Domhuset", 
@@ -16178,7 +16178,7 @@
   {
     "city": "Goi\u00e2nia", 
     "name": "Recomposi\u00e7\u00e3o Total das Matas Ciliares", 
-    "rsvp_count": 373, 
+    "rsvp_count": 374, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a C\u00edvica", 
@@ -16562,7 +16562,7 @@
   {
     "city": "Belo Horizonte", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 20, 
+    "rsvp_count": 21, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -16882,7 +16882,7 @@
   {
     "city": "Barueri", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 22, 
+    "rsvp_count": 23, 
     "country": "Brazil", 
     "start_time": "10:00:00", 
     "venue": "Parque Ecol\u00f3gico Tambor\u00e9", 
@@ -30772,7 +30772,7 @@
     "name": "People's Climate March", 
     "rsvp_count": 12, 
     "country": "Cyprus", 
-    "start_time": "13:00:00", 
+    "start_time": "18:00:00", 
     "venue": "church of st lazarus", 
     "longitude": 33.6349997, 
     "state": "Larnaca", 
@@ -31202,7 +31202,7 @@
   {
     "city": "Buenos Aires", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 7, 
+    "rsvp_count": 8, 
     "country": "Argentina", 
     "start_time": "13:00:00", 
     "venue": "Parque General Paz, Cris\u00f3logo Larralde entre Av. de los Constituyentes y Aizpur\u00faa", 
