@@ -18,7 +18,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 945, 
+    "rsvp_count": 947, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -6114,7 +6114,7 @@
   {
     "city": "Abidjan", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 13, 
+    "rsvp_count": 14, 
     "country": "C\u00f4te d'Ivoire", 
     "start_time": "13:00:00", 
     "venue": "Yopougon- toits rouge", 
@@ -6402,7 +6402,7 @@
   {
     "city": "Athens", 
     "name": "\u0395\u03c0\u03af\u03c3\u03b7\u03bc\u03b7 \u0394\u03c1\u03ac\u03c3\u03b7 \u0391\u03b8\u03ae\u03bd\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
-    "rsvp_count": 252, 
+    "rsvp_count": 254, 
     "country": "Greece", 
     "start_time": "16:00:00", 
     "venue": "\u0394\u03b9\u03bf\u03bd\u03c5\u03c3\u03af\u03bf\u03c5 \u0391\u03c1\u03b5\u03bf\u03c0\u03b1\u03b3\u03af\u03c4\u03bf\u03c5, \u0391\u03b8\u03ae\u03bd\u03b1", 
@@ -8610,7 +8610,7 @@
   {
     "city": "Tarija", 
     "name": "La Fiesta Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 9, 
+    "rsvp_count": 10, 
     "country": "Bolivia", 
     "start_time": "13:00:00", 
     "venue": "Plaza Luis de Fuentes", 
@@ -20946,7 +20946,7 @@
   {
     "city": "Bras\u00edlia", 
     "name": "People's Climate March", 
-    "rsvp_count": 68, 
+    "rsvp_count": 69, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Esplanada dos Minist\u00e9rios", 
@@ -32308,13 +32308,13 @@
     "name": "People's Climate March", 
     "rsvp_count": 1, 
     "country": "India", 
-    "start_time": "13:00:00", 
-    "venue": "Opposite Nuts and Spices", 
-    "longitude": 76.9558321, 
+    "start_time": "11:00:00", 
+    "venue": "", 
+    "longitude": 76.9782338, 
     "state": "TN", 
     "country_code": "IN", 
-    "address": "Kovai, Tamil Nadu, India", 
-    "latitude": 11.0168445, 
+    "address": "Race Course Road, Race Course, Gopalapuram, Kovai, Tamil Nadu 641018, India", 
+    "latitude": 10.9989497, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1563", 
     "id": 4699
