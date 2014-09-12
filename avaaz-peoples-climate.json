@@ -850,7 +850,7 @@
   {
     "city": "Bruxelles", 
     "name": "Marche des Citoyens pour le Climat", 
-    "rsvp_count": 518, 
+    "rsvp_count": 519, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "", 
@@ -914,7 +914,7 @@
   {
     "city": "Barcelona", 
     "name": "Marcha Ciudadana Global por el Clima. Barcelona #BCN21S", 
-    "rsvp_count": 928, 
+    "rsvp_count": 929, 
     "country": "Spain", 
     "start_time": "11:00:00", 
     "venue": "Moll de la Marina, Barcelona", 
@@ -1746,7 +1746,7 @@
   {
     "city": "Medell\u00edn", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 366, 
+    "rsvp_count": 367, 
     "country": "Colombia", 
     "start_time": "09:00:00", 
     "venue": "Alcald\u00eda de Medell\u00edn", 
@@ -4274,7 +4274,7 @@
   {
     "city": "Villeneuve-sur-Lot", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 13, 
+    "rsvp_count": 14, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -7218,7 +7218,7 @@
   {
     "city": "K\u00f6ln", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 240, 
+    "rsvp_count": 241, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "K\u00f6lner Dom", 
@@ -8002,7 +8002,7 @@
   {
     "city": "Lota", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Chile", 
     "start_time": "13:00:00", 
     "venue": "Desde Plaza de Armas, en el Ode\u00f3n, por las calles de la ciudad, Pedro Aguirre Cerda, Cousi\u00f1o", 
@@ -10178,7 +10178,7 @@
   {
     "city": "Voeren", 
     "name": "ACTIEDAG VOOR ONS KLIMAAT! wie niet meedoet is gebrandmerkt!", 
-    "rsvp_count": 15, 
+    "rsvp_count": 16, 
     "country": "Belgium", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -11298,7 +11298,7 @@
   {
     "city": "Vi\u00e7osa", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 18, 
+    "rsvp_count": 19, 
     "country": "Brazil", 
     "start_time": "09:00:00", 
     "venue": "4 Pilastras", 
@@ -13410,7 +13410,7 @@
   {
     "city": "Popay\u00e1n", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 16, 
+    "rsvp_count": 17, 
     "country": "Colombia", 
     "start_time": "13:00:00", 
     "venue": "Campanario Centro Comercial", 
@@ -15570,7 +15570,7 @@
   {
     "city": "Torino", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 159, 
+    "rsvp_count": 160, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "PIAZZA CASTELLO", 
@@ -32478,5 +32478,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_175", 
     "id": 4711
+  }, 
+  {
+    "city": "Guaranda", 
+    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
+    "rsvp_count": 1, 
+    "country": "Ecuador", 
+    "start_time": "13:00:00", 
+    "venue": "", 
+    "longitude": -79.0016663, 
+    "state": "Bol\u00edvar", 
+    "country_code": "EC", 
+    "address": "Parque \"El Libertador\", V\u00eda Flores, Guaranda, Ecuador", 
+    "latitude": -1.5922761, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_489", 
+    "id": 4712
   }
 ]
