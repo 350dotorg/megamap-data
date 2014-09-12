@@ -277,12 +277,12 @@
     "rsvp_count": 65, 
     "country": "Sweden", 
     "start_time": "14:00:00", 
-    "venue": "Gustav Adolfs torg", 
-    "longitude": 11.97456, 
+    "venue": "Gustaf Adolfs torg", 
+    "longitude": 11.9659166, 
     "state": "V\u00e4stra G\u00f6talands l\u00e4n", 
     "country_code": "SE", 
-    "address": "", 
-    "latitude": 57.70887, 
+    "address": "Gustaf Adolfs torg, 411 10 G\u00f6teborg, Sverige", 
+    "latitude": 57.7072838, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Climate_happening", 
     "id": 1710
@@ -898,7 +898,7 @@
   {
     "city": "Brussels", 
     "name": "People's Climate March", 
-    "rsvp_count": 481, 
+    "rsvp_count": 482, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "Place Polaert", 
@@ -2450,7 +2450,7 @@
   {
     "city": "\u039b\u03ac\u03c1\u03b9\u03c3\u03b1", 
     "name": "\u03a0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u039b\u03b1\u03ce\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
-    "rsvp_count": 23, 
+    "rsvp_count": 24, 
     "country": "Greece", 
     "start_time": "13:00:00", 
     "venue": "\u03ba\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae \u03c0\u03bb\u03b1\u03c4\u03b5\u03af\u03b1", 
@@ -3186,7 +3186,7 @@
   {
     "city": "Vancouver", 
     "name": "People's Climate March", 
-    "rsvp_count": 548, 
+    "rsvp_count": 549, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -4994,7 +4994,7 @@
   {
     "city": "Randburg", 
     "name": "People's Climate Picnic and Heart Formation", 
-    "rsvp_count": 160, 
+    "rsvp_count": 161, 
     "country": "South Africa", 
     "start_time": "13:00:00", 
     "venue": "Emmarentia Dam", 
@@ -6418,7 +6418,7 @@
   {
     "city": "Tel Aviv-Yafo", 
     "name": "\u05e0\u05d7\u05e0\u05e7\u05d9\u05dd \u05de\u05d4\u05d6\u05d9\u05d4\u05d5\u05dd - \u05d3\u05d5\u05e8\u05e9\u05d9\u05dd 100% \u05d0\u05e0\u05e8\u05d2\u05d9\u05d4 \u05e0\u05e7\u05d9\u05d9\u05d4!", 
-    "rsvp_count": 110, 
+    "rsvp_count": 111, 
     "country": "Israel", 
     "start_time": "18:00:00", 
     "venue": "\u05db\u05d9\u05db\u05e8 \u05d4\u05d1\u05d9\u05de\u05d4", 
@@ -6786,7 +6786,7 @@
   {
     "city": "Cochabamba", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 67, 
+    "rsvp_count": 68, 
     "country": "Bolivia", 
     "start_time": "14:00:00", 
     "venue": "plazuela colon frente a la alcald\u00eda", 
@@ -11554,7 +11554,7 @@
   {
     "city": "Bad Berleburg", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 13, 
+    "rsvp_count": 14, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Bad Berleburg / Wanderung der VHS  um 14 Uhr in Bad Berleburg /Start : Rathaus", 
@@ -23554,7 +23554,7 @@
   {
     "city": "Barcelona", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 75, 
+    "rsvp_count": 76, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "CALLE LA ERA N\u00ba 5, FRENTE AL AYUNTAMIENTO", 
@@ -27570,7 +27570,7 @@
   {
     "city": "\u041a\u0438\u0435\u0432", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 15, 
+    "rsvp_count": 16, 
     "country": "Ukraine", 
     "start_time": "13:00:00", 
     "venue": "\u043c\u0430\u0439\u0434\u0430\u043d \u043d\u0435\u0437\u0430\u043b\u0435\u0436\u043d\u043e\u0441\u0442\u0438", 
