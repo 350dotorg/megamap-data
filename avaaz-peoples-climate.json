@@ -18,7 +18,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 973, 
+    "rsvp_count": 974, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -850,7 +850,7 @@
   {
     "city": "Bruxelles", 
     "name": "Marche des Citoyens pour le Climat", 
-    "rsvp_count": 544, 
+    "rsvp_count": 545, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "", 
@@ -1634,7 +1634,7 @@
   {
     "city": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433", 
     "name": "People's Climate March", 
-    "rsvp_count": 61, 
+    "rsvp_count": 62, 
     "country": "Russia", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -2786,7 +2786,7 @@
   {
     "city": "Rimouski", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 46, 
+    "rsvp_count": 47, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Promenade de la mer", 
@@ -3986,7 +3986,7 @@
   {
     "city": "Cluj-Napoca", 
     "name": "Mar\u0219ul Cet\u0103\u021benilor pentru Ac\u021biune Climatic\u0103", 
-    "rsvp_count": 61, 
+    "rsvp_count": 62, 
     "country": "Romania", 
     "start_time": "13:00:00", 
     "venue": "Piata Unirii", 
@@ -31794,7 +31794,7 @@
   {
     "city": "Al Hoce\u00efma", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Morocco", 
     "start_time": "13:00:00", 
     "venue": "\u0633\u0627\u062d\u0629 \u0645\u062d\u0645\u062f \u0627\u0644\u0633\u0627\u062f\u0633", 
