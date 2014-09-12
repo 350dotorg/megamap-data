@@ -1,4 +1,4 @@
-Number of events: 1945
+Number of events: 1946
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
@@ -76,7 +76,7 @@ Number of countries: 137
 	Martinique: 2
 	Mauritania: 2
 	Mauritius: 2
-	Mexico: 104
+	Mexico: 105
 	Moldova: 2
 	Morocco: 29
 	Myanmar: 1
