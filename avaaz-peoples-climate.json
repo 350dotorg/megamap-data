@@ -18,7 +18,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 746, 
+    "rsvp_count": 747, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 1648, 
+    "rsvp_count": 1649, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -7042,7 +7042,7 @@
   {
     "city": "Somerset Village", 
     "name": "People's Climate March", 
-    "rsvp_count": 6, 
+    "rsvp_count": 7, 
     "country": "Bermuda", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -7842,7 +7842,7 @@
   {
     "city": "Maraval", 
     "name": "People's Climate March", 
-    "rsvp_count": 25, 
+    "rsvp_count": 26, 
     "country": "Trinidad and Tobago", 
     "start_time": "13:00:00", 
     "venue": "King George the 5th Park", 
@@ -9618,7 +9618,7 @@
   {
     "city": "Lima", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 106, 
+    "rsvp_count": 107, 
     "country": "Peru", 
     "start_time": "10:00:00", 
     "venue": "Frente al Pentagonito", 
@@ -15506,7 +15506,7 @@
   {
     "city": "Seoul", 
     "name": "\uc2dc\ubbfc\uc758 \uae30\ud6c4 \ud589\uc9c4", 
-    "rsvp_count": 37, 
+    "rsvp_count": 38, 
     "country": "South Korea", 
     "start_time": "13:00:00", 
     "venue": "\uc2dc\uccad \uc55e \uad11\uc7a5", 
@@ -30910,5 +30910,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1531", 
     "id": 4556
+  }, 
+  {
+    "city": "Ciudad de M\u00e9xico", 
+    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
+    "rsvp_count": 1, 
+    "country": "Mexico", 
+    "start_time": "13:00:00", 
+    "venue": "", 
+    "longitude": -99.1495107, 
+    "state": "D.F.", 
+    "country_code": "MX", 
+    "address": "Cuauht\u00e9moc, Ciudad de M\u00e9xico, D.F., M\u00e9xico", 
+    "latitude": 19.4356338, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_467", 
+    "id": 4557
   }
 ]

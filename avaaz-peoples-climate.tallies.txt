@@ -1,4 +1,4 @@
-Number of events: 1932
+Number of events: 1933
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
@@ -76,7 +76,7 @@ Number of countries: 137
 	Martinique: 2
 	Mauritania: 2
 	Mauritius: 2
-	Mexico: 102
+	Mexico: 103
 	Moldova: 2
 	Morocco: 29
 	Myanmar: 1
