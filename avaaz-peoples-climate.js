@@ -28739,7 +28739,7 @@ initData({},
   {
     "city": "Porto Alegre", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 65, 
+    "rsvp_count": 66, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "", 
