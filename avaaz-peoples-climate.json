@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2347, 
+    "rsvp_count": 2349, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -460,7 +460,7 @@
     "address": "Rossio, 1100-201 Lisbon, Portugal", 
     "latitude": 38.713841, 
     "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_886", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Peoples_Climate_March_886", 
     "id": 1814
   }, 
   {
@@ -6066,7 +6066,7 @@
   {
     "city": "Fregene", 
     "name": "Marcia Globale per il Clima in spiaggia", 
-    "rsvp_count": 9, 
+    "rsvp_count": 10, 
     "country": "Italy", 
     "start_time": "11:00:00", 
     "venue": "Fregene, piazzale del Lido", 
@@ -10946,7 +10946,7 @@
   {
     "city": "Xalapa Enr\u00edquez", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 45, 
+    "rsvp_count": 46, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "plaza lerdo", 
@@ -17618,7 +17618,7 @@
   {
     "city": "\u0623\u0628\u0648 \u0638\u0628\u064a", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 6, 
+    "rsvp_count": 7, 
     "country": "United Arab Emirates", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -33486,5 +33486,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1574", 
     "id": 4792
+  }, 
+  {
+    "city": "Boudouaou", 
+    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
+    "rsvp_count": 1, 
+    "country": "Algeria", 
+    "start_time": "13:00:00", 
+    "venue": "ben adjal", 
+    "longitude": 3.41, 
+    "state": "Boumerd\u00e8s", 
+    "country_code": "DZ", 
+    "address": "Boudouaou, Alg\u00e9rie", 
+    "latitude": 36.73, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/ar/event/climate/lmsyr_lmnkhy_lshby_221", 
+    "id": 4793
   }
 ]
