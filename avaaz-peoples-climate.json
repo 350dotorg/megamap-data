@@ -18,7 +18,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 960, 
+    "rsvp_count": 961, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2137, 
+    "rsvp_count": 2139, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -850,7 +850,7 @@
   {
     "city": "Bruxelles", 
     "name": "Marche des Citoyens pour le Climat", 
-    "rsvp_count": 504, 
+    "rsvp_count": 506, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "", 
@@ -914,7 +914,7 @@
   {
     "city": "Barcelona", 
     "name": "Marcha Ciudadana Global por el Clima. Barcelona #BCN21S", 
-    "rsvp_count": 926, 
+    "rsvp_count": 927, 
     "country": "Spain", 
     "start_time": "11:00:00", 
     "venue": "Moll de la Marina, Barcelona", 
@@ -2242,7 +2242,7 @@
   {
     "city": "Montpellier", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 156, 
+    "rsvp_count": 157, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "montpellier", 
@@ -10850,7 +10850,7 @@
   {
     "city": "Porto", 
     "name": "Porto pelo Ambiente - People's Climate March", 
-    "rsvp_count": 120, 
+    "rsvp_count": 121, 
     "country": "Portugal", 
     "start_time": "15:00:00", 
     "venue": "Parque da Cidade", 
@@ -17426,7 +17426,7 @@
   {
     "city": "Santos", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 53, 
+    "rsvp_count": 54, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a das Bandeiras - Gonzaga - Santos", 
@@ -21426,7 +21426,7 @@
   {
     "city": "Greenfield", 
     "name": "People's Climate March", 
-    "rsvp_count": 10, 
+    "rsvp_count": 11, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "S 108th St & Layton Ave, Greenfield, WI 53228, USA", 
@@ -21586,7 +21586,7 @@
   {
     "city": "M\u00e1laga", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 74, 
+    "rsvp_count": 75, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "entre BBVA y Banco Popular", 
@@ -32398,5 +32398,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_488", 
     "id": 4706
+  }, 
+  {
+    "city": "Richards Bay", 
+    "name": "People's Climate March", 
+    "rsvp_count": 1, 
+    "country": "South Africa", 
+    "start_time": "13:00:00", 
+    "venue": "", 
+    "longitude": 32.0382856, 
+    "state": "KZN", 
+    "country_code": "ZA", 
+    "address": "Richards Bay, South Africa", 
+    "latitude": -28.7807276, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1567", 
+    "id": 4707
   }
 ]
