@@ -18,7 +18,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 997, 
+    "rsvp_count": 998, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -4002,7 +4002,7 @@
   {
     "city": "\u041e\u0434\u0435\u0441\u0441\u0430", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 70, 
+    "rsvp_count": 71, 
     "country": "Ukraine", 
     "start_time": "13:00:00", 
     "venue": "\u0413\u043b\u0430\u0432\u043f\u043e\u0447\u0442\u0430\u043c\u043f", 
@@ -10706,7 +10706,7 @@
   {
     "city": "San Pedro Tlaquepaque", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 36, 
+    "rsvp_count": 37, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Plaza de la Bandera-Boulevard Marcelino Garcia Barragan-Jardin Hidalgo (Morelos y Progreso) Centro de Tlaquepaque.", 
@@ -15762,7 +15762,7 @@
   {
     "city": "Caracas", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 65, 
+    "rsvp_count": 66, 
     "country": "Venezuela", 
     "start_time": "08:00:00", 
     "venue": "Plaza Alfredo Sadel", 
@@ -16066,7 +16066,7 @@
   {
     "city": "Recife", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 67, 
+    "rsvp_count": 68, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Sindicatos, igrejas e ONGs da regi\u00e3o Metropolitana e Interiores do estado.", 
@@ -21554,7 +21554,7 @@
   {
     "city": "Almer\u00eda", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 24, 
+    "rsvp_count": 25, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Estadio de los juegos Mediterraneos, Camino de La Goleta", 
@@ -22274,7 +22274,7 @@
   {
     "city": "Bogot\u00e1", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 18, 
+    "rsvp_count": 19, 
     "country": "Colombia", 
     "start_time": "13:00:00", 
     "venue": "Centro de Investigaciones Cu\u00e1nticas Virtual, Proyecto Kryon", 
@@ -27778,7 +27778,7 @@
   {
     "city": "Curitiba", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 24, 
+    "rsvp_count": 25, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Jardim Bot\u00e2nico", 
@@ -32542,5 +32542,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/nl/event/climate/Actiedag_voor_het_Klimaat_32", 
     "id": 4724
+  }, 
+  {
+    "city": "Olivos", 
+    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
+    "rsvp_count": 1, 
+    "country": "Argentina", 
+    "start_time": "13:00:00", 
+    "venue": "Quinta Presidencial", 
+    "longitude": -58.4871467, 
+    "state": "BA", 
+    "country_code": "AR", 
+    "address": "Quinta Presidencial, Olivos, Buenos Aires, Argentina", 
+    "latitude": -34.5171516, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_493", 
+    "id": 4725
   }
 ]
