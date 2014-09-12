@@ -1202,7 +1202,7 @@
   {
     "city": "Amsterdam", 
     "name": "People's Climate March", 
-    "rsvp_count": 238, 
+    "rsvp_count": 239, 
     "country": "Netherlands", 
     "start_time": "13:00:00", 
     "venue": "Damsquare", 
@@ -2930,7 +2930,7 @@
   {
     "city": "Ottignies-Louvain-la-Neuve", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 162, 
+    "rsvp_count": 163, 
     "country": "Belgium", 
     "start_time": "13:00:00", 
     "venue": "Grand Place de Louvain-la-Neuve", 
@@ -17746,7 +17746,7 @@
   {
     "city": "S\u00e3o Paulo", 
     "name": "Mudas de \u00e1rvores brasileiras", 
-    "rsvp_count": 39, 
+    "rsvp_count": 40, 
     "country": "Brazil", 
     "start_time": "10:00:00", 
     "venue": "Dog Caf\u00e9", 
@@ -20354,7 +20354,7 @@
   {
     "city": "Dunkerque", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 7, 
+    "rsvp_count": 8, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "place Jean Bart", 
