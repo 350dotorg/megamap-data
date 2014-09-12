@@ -2,7 +2,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1662, 
+    "rsvp_count": 1663, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -30926,5 +30926,37 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_467", 
     "id": 4557
+  }, 
+  {
+    "city": "Bah\u00eda Blanca", 
+    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
+    "rsvp_count": 1, 
+    "country": "Argentina", 
+    "start_time": "13:00:00", 
+    "venue": "TEATRO MUNICIPAL, AV. ALEM Y ALSINA", 
+    "longitude": -62.2568626, 
+    "state": "BA", 
+    "country_code": "AR", 
+    "address": "Alsina, Bah\u00eda Blanca, Buenos Aires, Argentina", 
+    "latitude": -38.7120171, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_468", 
+    "id": 4558
+  }, 
+  {
+    "city": "Macei\u00f3", 
+    "name": "Caminhada pelo Clima", 
+    "rsvp_count": 1, 
+    "country": "Brazil", 
+    "start_time": "13:00:00", 
+    "venue": "Edificio Patmos. avda.alvaro otacilio esquina amelia rosa", 
+    "longitude": -35.7089492, 
+    "state": "AL", 
+    "country_code": "BR", 
+    "address": "Macei\u00f3 - AL, Rep\u00fablica Federativa do Brasil", 
+    "latitude": -9.6498487, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_164", 
+    "id": 4559
   }
 ]
