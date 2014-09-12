@@ -18,7 +18,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 1054, 
+    "rsvp_count": 1055, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -886,13 +886,13 @@
     "country": "Spain", 
     "start_time": "11:00:00", 
     "venue": "Moll de la Marina, Barcelona", 
-    "longitude": 2.1982389, 
+    "longitude": 2.1980859, 
     "state": "CT", 
     "country_code": "ES", 
-    "address": "", 
-    "latitude": 41.3862721, 
+    "address": "Moll de la Marina, 08005 Barcelona, Barcelona, Spain", 
+    "latitude": 41.3867927, 
     "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Marcha_global_contra_el_Cambio_Climatico_Barcelona_21S", 
+    "rsvp_url": "https://secure.avaaz.org/es/event/climate/Marcha_global_contra_el_Cambio_Climatico_Barcelona_21S", 
     "id": 1906
   }, 
   {
@@ -994,7 +994,7 @@
   {
     "city": "Ottawa", 
     "name": "People's Climate March - Ottawa Event", 
-    "rsvp_count": 280, 
+    "rsvp_count": 281, 
     "country": "Canada", 
     "start_time": "12:00:00", 
     "venue": "Parliament Hill", 
@@ -2306,7 +2306,7 @@
   {
     "city": "F\u00e8s", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 15, 
+    "rsvp_count": 16, 
     "country": "Morocco", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -2946,7 +2946,7 @@
   {
     "city": "Lyon", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 270, 
+    "rsvp_count": 271, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Terreaux", 
@@ -4018,7 +4018,7 @@
   {
     "city": "Moscow", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 199, 
+    "rsvp_count": 200, 
     "country": "Russia", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -6722,7 +6722,7 @@
   {
     "city": "Cabo San Lucas", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 18, 
+    "rsvp_count": 19, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "La delegacion", 
@@ -11618,7 +11618,7 @@
   {
     "city": "Cardiff", 
     "name": "People's Climate March", 
-    "rsvp_count": 82, 
+    "rsvp_count": 83, 
     "country": "United Kingdom", 
     "start_time": "13:00:00", 
     "venue": "Millennium stadium", 
@@ -25440,17 +25440,17 @@
     "id": 4149
   }, 
   {
-    "city": "Windermere", 
+    "city": "Cumbria", 
     "name": "People's Climate March", 
     "rsvp_count": 2, 
     "country": "United Kingdom", 
     "start_time": "14:00:00", 
     "venue": "Queen Adelaide's Hill", 
-    "longitude": -2.9187942999999, 
-    "state": "", 
+    "longitude": -2.7974835, 
+    "state": "England", 
     "country_code": "GB", 
-    "address": "Rayrigg Road, Lake District National Park, Windermere, Cumbria LA23 1EY, UK", 
-    "latitude": 54.380782, 
+    "address": "Cumbria, UK", 
+    "latitude": 54.5772323, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1462", 
     "id": 4150
