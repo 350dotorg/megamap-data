@@ -9250,7 +9250,7 @@
   {
     "city": "San Luis Potos\u00ed", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 78, 
+    "rsvp_count": 79, 
     "country": "Mexico", 
     "start_time": "10:00:00", 
     "venue": "Plaza de Armas", 
@@ -9826,7 +9826,7 @@
   {
     "city": "Munich", 
     "name": "People's Climate March", 
-    "rsvp_count": 424, 
+    "rsvp_count": 425, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Karlsplatz", 
@@ -27696,16 +27696,16 @@
     "id": 4332
   }, 
   {
-    "city": "Curitiba", 
+    "city": "", 
     "name": "Caminhada pelo Clima", 
     "rsvp_count": 26, 
     "country": "Brazil", 
     "start_time": "15:00:00", 
-    "venue": "Jardim Bot\u00e2nico", 
+    "venue": "", 
     "longitude": -49.2449701, 
-    "state": "PR", 
+    "state": "", 
     "country_code": "BR", 
-    "address": "Jardim Botanico, Matriz, Curitiba - PR, Rep\u00fablica Federativa do Brasil", 
+    "address": "Jardim Botanico, Pa\u00e7o das Cerejeiras, Curitiba - PR, Rep\u00fablica Federativa do Brasil", 
     "latitude": -25.4431219, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_128", 
