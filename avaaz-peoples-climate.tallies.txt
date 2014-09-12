@@ -1,9 +1,9 @@
-Number of events: 1925
+Number of events: 1930
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
 	Algeria: 42
-	Argentina: 58
+	Argentina: 59
 	Armenia: 3
 	Australia: 36
 	Austria: 23
@@ -17,14 +17,14 @@ Number of countries: 137
 	Bolivia: 6
 	Bosnia and Herzegovina: 1
 	Botswana: 1
-	Brazil: 177
+	Brazil: 179
 	Brunei: 1
 	Bulgaria: 6
 	Burkina Faso: 1
 	Burundi: 1
 	Cambodia: 1
 	Cameroon: 1
-	Canada: 92
+	Canada: 93
 	Cayman Islands: 1
 	Chile: 26
 	Colombia: 79
@@ -76,7 +76,7 @@ Number of countries: 137
 	Martinique: 2
 	Mauritania: 2
 	Mauritius: 2
-	Mexico: 101
+	Mexico: 102
 	Moldova: 2
 	Morocco: 29
 	Myanmar: 1
