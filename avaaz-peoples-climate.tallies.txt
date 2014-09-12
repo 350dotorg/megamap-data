@@ -1,4 +1,4 @@
-Number of events: 1984
+Number of events: 1985
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
@@ -129,7 +129,7 @@ Number of countries: 137
 	United Arab Emirates: 2
 	United Kingdom: 59
 	United States of America: 71
-	Uruguay: 12
+	Uruguay: 13
 	Uzbekistan: 1
 	Venezuela: 24
 	Vietnam: 1
