@@ -1,4 +1,4 @@
-Number of events: 1993
+Number of events: 1994
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
@@ -111,7 +111,7 @@ Number of countries: 137
 	South Africa: 14
 	South Korea: 1
 	South Sudan: 2
-	Spain: 121
+	Spain: 122
 	Sri Lanka: 2
 	Sudan: 5
 	Sweden: 14
