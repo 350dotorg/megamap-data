@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 1626, 
+    "rsvp_count": 1627, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -3698,7 +3698,7 @@
   {
     "city": "Porto Alegre", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 271, 
+    "rsvp_count": 272, 
     "country": "Brazil", 
     "start_time": "11:00:00", 
     "venue": "Parque Farroupilha - Reden\u00e7\u00e3o", 
@@ -5234,7 +5234,7 @@
   {
     "city": "Belo Horizonte", 
     "name": "Caminhada pelo Clima BH - Pra\u00e7a da Liberdade", 
-    "rsvp_count": 173, 
+    "rsvp_count": 174, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a da Liberdade", 
@@ -9922,7 +9922,7 @@
   {
     "city": "Miraflores", 
     "name": "Salvemos Nuestra Nave Terraquea", 
-    "rsvp_count": 122, 
+    "rsvp_count": 123, 
     "country": "Peru", 
     "start_time": "10:00:00", 
     "venue": "Parque Kennedy. Miraflores", 
@@ -11730,7 +11730,7 @@
   {
     "city": "Santa Rosa", 
     "name": "People's Climate March", 
-    "rsvp_count": 37, 
+    "rsvp_count": 38, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "Luther Burbank gardens", 
@@ -15394,7 +15394,7 @@
   {
     "city": "Mansoura", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Egypt", 
     "start_time": "13:00:00", 
     "venue": "\u062d\u064a \u0627\u0644\u062c\u0627\u0645\u0639\u0647", 
@@ -18322,7 +18322,7 @@
   {
     "city": "Bogot\u00e1", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 37, 
+    "rsvp_count": 38, 
     "country": "Colombia", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -20306,7 +20306,7 @@
   {
     "city": "Goi\u00e2nia", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 57, 
+    "rsvp_count": 58, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a C\u00edvica, setor Sul", 
@@ -30718,5 +30718,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_236", 
     "id": 4543
+  }, 
+  {
+    "city": "Caxias do Sul", 
+    "name": "Caminhada pelo Clima", 
+    "rsvp_count": 1, 
+    "country": "Brazil", 
+    "start_time": "13:00:00", 
+    "venue": "Pavilhoes da Festa Nacional da Uva", 
+    "longitude": -51.1814582, 
+    "state": "RS", 
+    "country_code": "BR", 
+    "address": "Rua Visconde de Pelotas, 721-819 - S\u00e3o Pelegrino, Caxias do Sul - RS, 95010-070, Rep\u00fablica Federativa do Brasil", 
+    "latitude": -29.1681984, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_160", 
+    "id": 4544
   }
 ]
