@@ -1,4 +1,4 @@
-Number of events: 1983
+Number of events: 1984
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
@@ -11,7 +11,7 @@ Number of countries: 137
 	Bahrain: 3
 	Bangladesh: 3
 	Belarus: 3
-	Belgium: 28
+	Belgium: 29
 	Benin: 1
 	Bermuda: 1
 	Bolivia: 6
