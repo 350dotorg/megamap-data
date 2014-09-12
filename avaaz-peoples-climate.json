@@ -1266,7 +1266,7 @@
   {
     "city": "Nantes", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 222, 
+    "rsvp_count": 223, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Ile de Nantes - Grue Titan Jaune", 
@@ -5170,7 +5170,7 @@
   {
     "city": "Qu\u00e9bec", 
     "name": "Marche mondiale pour le climat - Rassemblement \u00e0 Qu\u00e9bec: Stop Ol\u00e9oduc et autres", 
-    "rsvp_count": 31, 
+    "rsvp_count": 32, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Devant l'Assembl\u00e9e nationale du Qu\u00e9bec", 
@@ -9938,7 +9938,7 @@
   {
     "city": "Montevideo", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 124, 
+    "rsvp_count": 125, 
     "country": "Uruguay", 
     "start_time": "13:00:00", 
     "venue": "Plaza de la bandera", 
@@ -22146,7 +22146,7 @@
   {
     "city": "Ciudad de M\u00e9xico", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 10, 
+    "rsvp_count": 11, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Guastavo A. Madero", 
@@ -30546,7 +30546,7 @@
   {
     "city": "Cali", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Colombia", 
     "start_time": "13:00:00", 
     "venue": "autopista sur oriental con calle 13 en la Luna a las 9 am", 
@@ -30894,5 +30894,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1530", 
     "id": 4555
+  }, 
+  {
+    "city": "San Antonio de Los Altos", 
+    "name": "People's Climate March", 
+    "rsvp_count": 1, 
+    "country": "Venezuela", 
+    "start_time": "13:00:00", 
+    "venue": "", 
+    "longitude": -66.9562286, 
+    "state": "Miranda", 
+    "country_code": "VE", 
+    "address": "Avenida Principal La Anunciaci\u00f3n, San Antonio de Los Altos, Venezuela", 
+    "latitude": 10.3734957, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1531", 
+    "id": 4556
   }
 ]

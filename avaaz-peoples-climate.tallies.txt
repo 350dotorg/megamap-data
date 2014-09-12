@@ -1,4 +1,4 @@
-Number of events: 1931
+Number of events: 1932
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
@@ -131,7 +131,7 @@ Number of countries: 137
 	United States of America: 69
 	Uruguay: 11
 	Uzbekistan: 1
-	Venezuela: 23
+	Venezuela: 24
 	Vietnam: 1
 	Western Sahara: 1
 	Yemen: 13
