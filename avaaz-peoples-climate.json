@@ -2,7 +2,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1793, 
+    "rsvp_count": 1795, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -18,7 +18,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 885, 
+    "rsvp_count": 889, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -354,7 +354,7 @@
   {
     "city": "Alicante", 
     "name": "People's Climate March - Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 130, 
+    "rsvp_count": 131, 
     "country": "Spain", 
     "start_time": "19:00:00", 
     "venue": "Escaleras del Instituto Jorge Juan", 
@@ -946,7 +946,7 @@
   {
     "city": "Barcelona", 
     "name": "Marcha Ciudadana Global por el Clima. Barcelona #BCN21S", 
-    "rsvp_count": 903, 
+    "rsvp_count": 904, 
     "country": "Spain", 
     "start_time": "11:00:00", 
     "venue": "Moll de la Marina, Barcelona", 
@@ -6178,7 +6178,7 @@
   {
     "city": "Rouen", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 74, 
+    "rsvp_count": 75, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "palais de justice", 
@@ -6610,7 +6610,7 @@
   {
     "city": "Barranquilla (Distrito Especial, Industrial Y Portuario)", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 36, 
+    "rsvp_count": 37, 
     "country": "Colombia", 
     "start_time": "13:00:00", 
     "venue": "plaza de la paz", 
@@ -7314,7 +7314,7 @@
   {
     "city": "K\u00f6ln", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 239, 
+    "rsvp_count": 240, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "K\u00f6lner Dom", 
@@ -10770,7 +10770,7 @@
   {
     "city": "Madrid", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 556, 
+    "rsvp_count": 557, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Cada persona en la puerta de su casa: Inundemos las aceras de la ciudad.", 
@@ -10994,7 +10994,7 @@
   {
     "city": "Guadalajara", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 110, 
+    "rsvp_count": 111, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Glorieta La Minerva", 
@@ -17170,7 +17170,7 @@
   {
     "city": "S\u00e3o Paulo", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 17, 
+    "rsvp_count": 18, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Parque do Ibirapuera", 
@@ -20418,7 +20418,7 @@
   {
     "city": "Ploemeur", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 14, 
+    "rsvp_count": 15, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Centre ville", 
@@ -21810,7 +21810,7 @@
   {
     "city": "San Jos\u00e9", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 126, 
+    "rsvp_count": 127, 
     "country": "Costa Rica", 
     "start_time": "13:00:00", 
     "venue": "Parque Metropolitano La Sabana", 
@@ -23394,7 +23394,7 @@
   {
     "city": "Barcelona", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 88, 
+    "rsvp_count": 89, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "CALLE LA ERA N\u00ba 5, FRENTE AL AYUNTAMIENTO", 
@@ -23858,7 +23858,7 @@
   {
     "city": "Hamburg", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 20, 
+    "rsvp_count": 21, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Hauptbahnhof Blumen Laden", 
@@ -31794,7 +31794,7 @@
   {
     "city": "Ampuero", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Spain", 
     "start_time": "12:00:00", 
     "venue": "Plaza de Ampuero", 
@@ -32302,5 +32302,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_170", 
     "id": 4678
+  }, 
+  {
+    "city": "Rio das Ostras", 
+    "name": "Caminhada pelo Clima", 
+    "rsvp_count": 1, 
+    "country": "Brazil", 
+    "start_time": "13:00:00", 
+    "venue": "pra\u00e7a da baleia - costazul", 
+    "longitude": -41.923481, 
+    "state": "RJ", 
+    "country_code": "BR", 
+    "address": "Pra\u00e7a da Baleia - Costazul, Rio das Ostras - RJ, Rep\u00fablica Federativa do Brasil", 
+    "latitude": -22.527279, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_171", 
+    "id": 4679
   }
 ]
