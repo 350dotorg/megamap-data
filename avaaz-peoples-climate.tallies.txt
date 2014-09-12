@@ -1,4 +1,4 @@
-Number of events: 1997
+Number of events: 1998
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
@@ -134,6 +134,6 @@ Number of countries: 137
 	Venezuela: 24
 	Vietnam: 1
 	Western Sahara: 1
-	Yemen: 13
+	Yemen: 14
 	Zambia: 3
 	Zimbabwe: 1
