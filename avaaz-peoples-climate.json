@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2340, 
+    "rsvp_count": 2341, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -4274,7 +4274,7 @@
   {
     "city": "Wien", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 456, 
+    "rsvp_count": 457, 
     "country": "Austria", 
     "start_time": "16:00:00", 
     "venue": "Gleich neben dem Stephansdom", 
@@ -29730,7 +29730,7 @@
   {
     "city": "\u0635\u0646\u0639\u0627\u0621\u200e", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Yemen", 
     "start_time": "13:00:00", 
     "venue": "\u0634\u0627\u0631\u0639 \u0627\u0644\u0632\u0628\u064a\u0631\u064a", 
@@ -33470,5 +33470,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/ar/event/climate/strasbourg", 
     "id": 4791
+  }, 
+  {
+    "city": "Chittagong", 
+    "name": "People's Climate March", 
+    "rsvp_count": 1, 
+    "country": "Bangladesh", 
+    "start_time": "13:00:00", 
+    "venue": "", 
+    "longitude": 91.8232861, 
+    "state": "Chittagong Division", 
+    "country_code": "BD", 
+    "address": "East Nasirabad Mosque, By Lane (CNB Colony to District Police Head Quarter, Chittagong 4000, Bangladesh", 
+    "latitude": 22.3660182, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1574", 
+    "id": 4792
   }
 ]
