@@ -1,4 +1,4 @@
-Number of events: 1952
+Number of events: 1961
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
@@ -17,14 +17,14 @@ Number of countries: 137
 	Bolivia: 6
 	Bosnia and Herzegovina: 1
 	Botswana: 1
-	Brazil: 181
+	Brazil: 182
 	Brunei: 1
 	Bulgaria: 6
 	Burkina Faso: 1
 	Burundi: 1
 	Cambodia: 1
 	Cameroon: 1
-	Canada: 92
+	Canada: 93
 	Cayman Islands: 1
 	Chile: 26
 	Colombia: 80
@@ -76,7 +76,7 @@ Number of countries: 137
 	Martinique: 2
 	Mauritania: 2
 	Mauritius: 2
-	Mexico: 105
+	Mexico: 108
 	Moldova: 2
 	Morocco: 29
 	Myanmar: 1
@@ -108,15 +108,15 @@ Number of countries: 137
 	Singapore: 1
 	Slovakia: 6
 	Slovenia: 4
-	South Africa: 12
+	South Africa: 13
 	South Korea: 1
 	South Sudan: 1
-	Spain: 117
+	Spain: 118
 	Sri Lanka: 2
 	Sudan: 5
 	Sweden: 16
 	Switzerland: 17
-	Syria: 2
+	Syria: 3
 	Taiwan: 1
 	Thailand: 3
 	Togo: 1
@@ -128,7 +128,7 @@ Number of countries: 137
 	Ukraine: 43
 	United Arab Emirates: 2
 	United Kingdom: 59
-	United States of America: 70
+	United States of America: 71
 	Uruguay: 12
 	Uzbekistan: 1
 	Venezuela: 24
