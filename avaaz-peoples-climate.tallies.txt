@@ -1,4 +1,4 @@
-Number of events: 2020
+Number of events: 2021
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 2
@@ -33,7 +33,7 @@ Number of countries: 137
 	Costa Rica: 6
 	Croatia: 3
 	Cuba: 2
-	Cyprus: 2
+	Cyprus: 3
 	Czech Republic: 2
 	Côte d'Ivoire: 1
 	Denmark: 6
