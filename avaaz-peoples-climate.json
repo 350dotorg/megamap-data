@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2245, 
+    "rsvp_count": 2246, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -5022,22 +5022,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1052", 
     "id": 2374
-  }, 
-  {
-    "city": "Rio Verde", 
-    "name": "Caminhada pelo Clima", 
-    "rsvp_count": 52, 
-    "country": "Brazil", 
-    "start_time": "13:00:00", 
-    "venue": "Em frente ao Vapt Vupt de Rio Verde", 
-    "longitude": -50.9196585, 
-    "state": "GO", 
-    "country_code": "BR", 
-    "address": "Rio Verde - GO, Rep\u00fablica Federativa do Brasil", 
-    "latitude": -17.79272, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_6", 
-    "id": 2381
   }, 
   {
     "city": "Belo Horizonte", 
@@ -14146,7 +14130,7 @@
   {
     "city": "\u062f\u064a\u0631\u0627\u0644\u063a\u0635\u0648\u0646", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Palestine", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -15266,7 +15250,7 @@
   {
     "city": "Phoenix", 
     "name": "People's Climate March", 
-    "rsvp_count": 46, 
+    "rsvp_count": 47, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "central park", 
@@ -19906,7 +19890,7 @@
   {
     "city": "", 
     "name": "Klima-Wanderung um den Altarm Greifenstein-Altenberg", 
-    "rsvp_count": 17, 
+    "rsvp_count": 18, 
     "country": "Austria", 
     "start_time": "13:00:00", 
     "venue": "", 
