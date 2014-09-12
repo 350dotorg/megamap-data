@@ -2,7 +2,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1746, 
+    "rsvp_count": 1747, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2011, 
+    "rsvp_count": 2012, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -946,7 +946,7 @@
   {
     "city": "Barcelona", 
     "name": "Marcha Ciudadana Global por el Clima. Barcelona #BCN21S", 
-    "rsvp_count": 853, 
+    "rsvp_count": 854, 
     "country": "Spain", 
     "start_time": "11:00:00", 
     "venue": "Moll de la Marina, Barcelona", 
@@ -2482,7 +2482,7 @@
   {
     "city": "Nancy", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 86, 
+    "rsvp_count": 87, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "place stanislas", 
@@ -5074,7 +5074,7 @@
   {
     "city": "\u0397\u03c1\u03ac\u03ba\u03bb\u03b5\u03b9\u03bf", 
     "name": "\u03a0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u039b\u03b1\u03ce\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
-    "rsvp_count": 23, 
+    "rsvp_count": 24, 
     "country": "Greece", 
     "start_time": "13:00:00", 
     "venue": "\u03a0\u039b\u0391\u03a4\u0395\u0399\u0391 \u0395\u039b\u0395\u03a5\u0398\u0395\u03a1\u0399\u0391\u03a3", 
@@ -6306,7 +6306,7 @@
   {
     "city": "Graz", 
     "name": "Graz, Hauptplatz", 
-    "rsvp_count": 171, 
+    "rsvp_count": 172, 
     "country": "Austria", 
     "start_time": "13:00:00", 
     "venue": "Hauptplatz vor dem Rathaus", 
@@ -6658,7 +6658,7 @@
   {
     "city": "Pescara", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 48, 
+    "rsvp_count": 49, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "p.zza della rinascita", 
@@ -9874,7 +9874,7 @@
   {
     "city": "San Sebasti\u00e1n", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 62, 
+    "rsvp_count": 63, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "", 
