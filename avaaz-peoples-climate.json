@@ -18,7 +18,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 1000, 
+    "rsvp_count": 1001, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -1202,7 +1202,7 @@
   {
     "city": "Amsterdam", 
     "name": "People's Climate March", 
-    "rsvp_count": 206, 
+    "rsvp_count": 207, 
     "country": "Netherlands", 
     "start_time": "13:00:00", 
     "venue": "Damsquare", 
@@ -4514,7 +4514,7 @@
   {
     "city": "Sofia", 
     "name": "People's Climate March", 
-    "rsvp_count": 72, 
+    "rsvp_count": 73, 
     "country": "Bulgaria", 
     "start_time": "13:00:00", 
     "venue": "\u041f\u043b\u043e\u0449\u0430\u0434 \"\u041d\u0430\u0440\u043e\u0434\u043d\u043e \u0441\u044a\u0431\u0440\u0430\u043d\u0438\u0435\"", 
@@ -7154,7 +7154,7 @@
   {
     "city": "K\u00f6ln", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 247, 
+    "rsvp_count": 248, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "K\u00f6lner Dom", 
@@ -11826,7 +11826,7 @@
   {
     "city": "Leipzig", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 89, 
+    "rsvp_count": 90, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Marktplatz", 
