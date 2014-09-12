@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2267, 
+    "rsvp_count": 2270, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -2898,7 +2898,7 @@
   {
     "city": "Roma", 
     "name": "Marcia Globale per il Clima a Roma: LA BICICLETTATA, IL CUORE VERDE", 
-    "rsvp_count": 328, 
+    "rsvp_count": 329, 
     "country": "Italy", 
     "start_time": "15:00:00", 
     "venue": "COLOSSEO, ROMA", 
@@ -3538,7 +3538,7 @@
   {
     "city": "Belgrade", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 18, 
+    "rsvp_count": 19, 
     "country": "Serbia", 
     "start_time": "13:00:00", 
     "venue": "belgrade", 
@@ -3570,7 +3570,7 @@
   {
     "city": "Jerez de la Frontera", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 36, 
+    "rsvp_count": 37, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Plaza del Arenal", 
@@ -16514,7 +16514,7 @@
   {
     "city": "Salvador", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 31, 
+    "rsvp_count": 32, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Campo Grande Centro Em frente ao Teatro Castro Alves", 
@@ -33086,5 +33086,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/ar/event/climate/lmsyr_lmnkhy_lshby_212", 
     "id": 4767
+  }, 
+  {
+    "city": "\u041c\u0430\u043b\u0433\u043e\u0431\u0435\u043a", 
+    "name": "\u041a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043f\u0438\u043a\u0435\u0442", 
+    "rsvp_count": 1, 
+    "country": "Russia", 
+    "start_time": "18:00:00", 
+    "venue": "\u041d\u0430\u043f\u0440\u043e\u0442\u0438\u0432 \u0441\u0442\u0430\u0434\u0438\u043e\u043d\u0430 \u0438\u043c. \u0421\u0435\u0440\u0433\u043e \u041e\u0440\u0434\u0436\u043e\u043d\u0438\u043a\u0438\u0434\u0437\u0435", 
+    "longitude": 44.5834908, 
+    "state": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0418\u043d\u0433\u0443\u0448\u0435\u0442\u0438\u044f", 
+    "country_code": "RU", 
+    "address": "\u041c\u0430\u043b\u0433\u043e\u0431\u0435\u043a, \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0418\u043d\u0433\u0443\u0448\u0435\u0442\u0438\u044f, \u0420\u043e\u0441\u0441\u0438\u044f", 
+    "latitude": 43.5053938, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/ru/event/climate/Klimaticheskiy_piket", 
+    "id": 4768
   }
 ]
