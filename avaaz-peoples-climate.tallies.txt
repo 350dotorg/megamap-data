@@ -1,4 +1,4 @@
-Number of events: 2021
+Number of events: 2022
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 2
@@ -47,7 +47,7 @@ Number of countries: 137
 	French Guiana: 2
 	French Polynesia: 3
 	Germany: 61
-	Greece: 38
+	Greece: 39
 	Guadeloupe: 3
 	Guatemala: 13
 	Guinea: 1
