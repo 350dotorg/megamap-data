@@ -131,7 +131,7 @@ initData({},
   {
     "city": "Montreal", 
     "name": "Peoples' Climate March @ Montreal // Marche mondiale pour le climat @ Montr\u00e9al", 
-    "rsvp_count": 191, 
+    "rsvp_count": 192, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Parc Lafontaine", 
