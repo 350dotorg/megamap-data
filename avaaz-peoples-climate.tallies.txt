@@ -1,4 +1,4 @@
-Number of events: 2021
+Number of events: 2022
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 2
@@ -54,7 +54,7 @@ Number of countries: 137
 	Honduras: 4
 	Hong Kong: 1
 	Hungary: 3
-	India: 28
+	India: 29
 	Indonesia: 2
 	Iran: 5
 	Iraq: 14
