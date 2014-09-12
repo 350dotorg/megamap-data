@@ -1202,7 +1202,7 @@
   {
     "city": "Amsterdam", 
     "name": "People's Climate March", 
-    "rsvp_count": 208, 
+    "rsvp_count": 209, 
     "country": "Netherlands", 
     "start_time": "13:00:00", 
     "venue": "Damsquare", 
@@ -3394,7 +3394,7 @@
   {
     "city": "Hannover", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 127, 
+    "rsvp_count": 128, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Trammplatz 2, 30159 Hannover", 
@@ -4306,7 +4306,7 @@
   {
     "city": "Wien", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 424, 
+    "rsvp_count": 425, 
     "country": "Austria", 
     "start_time": "16:00:00", 
     "venue": "Gleich neben dem Stephansdom", 
@@ -5458,7 +5458,7 @@
   {
     "city": "Calgary", 
     "name": "People's Climate March", 
-    "rsvp_count": 80, 
+    "rsvp_count": 81, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Olympic Plaza", 
@@ -7154,7 +7154,7 @@
   {
     "city": "K\u00f6ln", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 250, 
+    "rsvp_count": 251, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "K\u00f6lner Dom", 
@@ -10594,7 +10594,7 @@
   {
     "city": "Madrid", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 580, 
+    "rsvp_count": 581, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Cada persona en la puerta de su casa: Inundemos las aceras de la ciudad.", 
@@ -10626,7 +10626,7 @@
   {
     "city": "Madrid", 
     "name": "La Marcha Ciudadana por la Naturaleza, la Vida y Evoluci\u00f3n Humana", 
-    "rsvp_count": 345, 
+    "rsvp_count": 346, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "La Puerta de La Tabacalera", 
@@ -14050,7 +14050,7 @@
   {
     "city": "\u062c\u062f\u0629", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 8, 
+    "rsvp_count": 9, 
     "country": "Saudi Arabia", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -20338,7 +20338,7 @@
   {
     "city": "Lasseube", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "France", 
     "start_time": "11:00:00", 
     "venue": "Devant la Mairie", 
@@ -24194,7 +24194,7 @@
   {
     "city": "Munchhouse", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "devant la mairie", 
@@ -25168,18 +25168,18 @@
     "id": 4129
   }, 
   {
-    "city": "Haliburton County", 
+    "city": "Irondale", 
     "name": "People's Climate March", 
     "rsvp_count": 4, 
     "country": "Canada", 
     "start_time": "13:00:00", 
-    "venue": "", 
-    "longitude": -78.5084937, 
+    "venue": "Bark Lake Leadership Centre, at the annual conference of The Council of Outdoor Educators of Ontario (COEO)", 
+    "longitude": -78.516667, 
     "state": "ON", 
     "country_code": "CA", 
-    "address": "Haliburton County, ON, Canada", 
-    "latitude": 45.0467132, 
-    "event_date": "2014-09-21", 
+    "address": "Irondale, ON K0M, Canada", 
+    "latitude": 44.866667, 
+    "event_date": "2014-09-20", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1453", 
     "id": 4130
   }, 
@@ -28130,7 +28130,7 @@
   {
     "city": "Ciudad de M\u00e9xico", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 13, 
+    "rsvp_count": 14, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "universidad autonoma de la ciudad mde mexico", 
