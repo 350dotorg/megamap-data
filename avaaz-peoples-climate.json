@@ -18,7 +18,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 1070, 
+    "rsvp_count": 1071, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -10658,7 +10658,7 @@
   {
     "city": "San Pedro Tlaquepaque", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 39, 
+    "rsvp_count": 40, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Plaza de la Bandera-Boulevard Marcelino Garcia Barragan-Jardin Hidalgo (Morelos y Progreso) Centro de Tlaquepaque.", 
@@ -16066,7 +16066,7 @@
   {
     "city": "Cuiab\u00e1", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 64, 
+    "rsvp_count": 65, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "pra\u00e7a oito de abril", 
@@ -29746,7 +29746,7 @@
   {
     "city": "Fishguard", 
     "name": "People's Climate Change Lunch", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "United Kingdom", 
     "start_time": "12:00:00", 
     "venue": "Transition Cafe 32A High Street fishguard SA5 9AR", 
@@ -33726,5 +33726,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/ar/event/climate/lmsyr_lmnkhy_lshby_226", 
     "id": 4809
+  }, 
+  {
+    "city": "Guardamar del Segura", 
+    "name": "Actiedag voor het Klimaat", 
+    "rsvp_count": 1, 
+    "country": "Spain", 
+    "start_time": "13:00:00", 
+    "venue": "av del puerto mas y mas", 
+    "longitude": -0.65128230000005, 
+    "state": "Valencia", 
+    "country_code": "ES", 
+    "address": "03140 Guardamar del Segura, Alicante, Spanje", 
+    "latitude": 38.0851461, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/nl/event/climate/Actiedag_voor_het_Klimaat_35", 
+    "id": 4810
   }
 ]
