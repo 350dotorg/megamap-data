@@ -18,7 +18,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 889, 
+    "rsvp_count": 890, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -1842,7 +1842,7 @@
   {
     "city": "San Juan", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 123, 
+    "rsvp_count": 124, 
     "country": "Puerto Rico", 
     "start_time": "13:00:00", 
     "venue": "Capitolio", 
@@ -2210,7 +2210,7 @@
   {
     "city": "Limoges", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 49, 
+    "rsvp_count": 50, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la Motte", 
@@ -2594,7 +2594,7 @@
   {
     "city": "Marburg", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 38, 
+    "rsvp_count": 39, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Cineplex", 
@@ -7634,7 +7634,7 @@
   {
     "city": "Santa Marta", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 12, 
+    "rsvp_count": 13, 
     "country": "Colombia", 
     "start_time": "13:00:00", 
     "venue": "plaza de bolivar", 
@@ -16050,7 +16050,7 @@
   {
     "city": "S\u00e3o Paulo", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 117, 
+    "rsvp_count": 118, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a Campo de Bagatelle - Bairro de Santana - em frente ao Campo de Marte", 
@@ -16882,7 +16882,7 @@
   {
     "city": "Barueri", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 21, 
+    "rsvp_count": 22, 
     "country": "Brazil", 
     "start_time": "10:00:00", 
     "venue": "Parque Ecol\u00f3gico Tambor\u00e9", 
@@ -17730,7 +17730,7 @@
   {
     "city": "Lugano", 
     "name": "Marcia Globale per il Clima - Lugano", 
-    "rsvp_count": 37, 
+    "rsvp_count": 38, 
     "country": "Switzerland", 
     "start_time": "18:00:00", 
     "venue": "Nel Parco Ciani in zona foce", 
