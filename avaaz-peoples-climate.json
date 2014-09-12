@@ -2,7 +2,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1832, 
+    "rsvp_count": 1834, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -18,7 +18,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 994, 
+    "rsvp_count": 995, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -23906,7 +23906,7 @@
   {
     "city": "M\u00e9rida", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 19, 
+    "rsvp_count": 20, 
     "country": "Mexico", 
     "start_time": "10:00:00", 
     "venue": "monumento a la bandera. Paseo de Montejo.", 
@@ -27890,7 +27890,7 @@
   {
     "city": "Joinville", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 25, 
+    "rsvp_count": 26, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a Nereu Ramos", 
@@ -32526,5 +32526,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/nl/event/climate/Toast_op_de_Aarde", 
     "id": 4723
+  }, 
+  {
+    "city": "Mexico City", 
+    "name": "Actiedag voor het Klimaat", 
+    "rsvp_count": 1, 
+    "country": "Mexico", 
+    "start_time": "13:00:00", 
+    "venue": "monumento de la revolucion", 
+    "longitude": -99.1546298, 
+    "state": "D.F.", 
+    "country_code": "MX", 
+    "address": "Monument to the Revolution, Tabacalera, 06030 Mexico City, Federal District, Mexico", 
+    "latitude": 19.4362086, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/nl/event/climate/Actiedag_voor_het_Klimaat_32", 
+    "id": 4724
   }
 ]
