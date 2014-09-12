@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2180, 
+    "rsvp_count": 2183, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -2258,7 +2258,7 @@
   {
     "city": "Lannion", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 29, 
+    "rsvp_count": 30, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -7346,7 +7346,7 @@
   {
     "city": "Aguascalientes", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 85, 
+    "rsvp_count": 86, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Plaza de Armas", 
@@ -22082,7 +22082,7 @@
   {
     "city": "Boca del R\u00edo", 
     "name": "FUNDACI\u00d3N CHALCHI  Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 6, 
+    "rsvp_count": 7, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Caf\u00e9 La Parroquia 200 a\u00f1os. Boca del Rio.", 
@@ -26978,7 +26978,7 @@
   {
     "city": "Maarif", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Morocco", 
     "start_time": "13:00:00", 
     "venue": "maarif", 
@@ -32628,7 +32628,7 @@
     "name": "Marcia Globale per il Clima", 
     "rsvp_count": 1, 
     "country": "Italy", 
-    "start_time": "13:00:00", 
+    "start_time": "11:00:00", 
     "venue": "Terrazza Mascagni", 
     "longitude": 10.29981, 
     "state": "Toscana", 
