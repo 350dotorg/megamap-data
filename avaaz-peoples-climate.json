@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2384, 
+    "rsvp_count": 2385, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -1762,7 +1762,7 @@
   {
     "city": "Udine", 
     "name": "Flash Mob Udine per il Clima", 
-    "rsvp_count": 42, 
+    "rsvp_count": 43, 
     "country": "Italy", 
     "start_time": "19:00:00", 
     "venue": "Piazza Libert\u00e0", 
@@ -7538,7 +7538,7 @@
   {
     "city": "Maraval", 
     "name": "People's Climate March", 
-    "rsvp_count": 29, 
+    "rsvp_count": 30, 
     "country": "Trinidad and Tobago", 
     "start_time": "13:00:00", 
     "venue": "King George the 5th Park", 
@@ -15970,7 +15970,7 @@
   {
     "city": "Fortaleza", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 58, 
+    "rsvp_count": 59, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a do Ferreira", 
@@ -27394,7 +27394,7 @@
   {
     "city": "C\u00f3rdoba", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 9, 
+    "rsvp_count": 10, 
     "country": "Argentina", 
     "start_time": "13:00:00", 
     "venue": "Patio Olmos Shopping - Av. V\u00e9lez Sarsfield 361", 
@@ -32050,7 +32050,7 @@
   {
     "city": "S\u00e3o Carlos", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Avenida S\u00e3o Carlos, Pra\u00e7a Coronel Salles", 
@@ -33822,5 +33822,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/ar/event/climate/lmsyr_lmnkhy_lshby_228", 
     "id": 4815
+  }, 
+  {
+    "city": "Safwa", 
+    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
+    "rsvp_count": 1, 
+    "country": "Saudi Arabia", 
+    "start_time": "13:00:00", 
+    "venue": "", 
+    "longitude": 49.9708993, 
+    "state": "Eastern Province", 
+    "country_code": "SA", 
+    "address": "6953, Ash Shura, Safwa 32827\u00a03464, Saudi Arabia", 
+    "latitude": 26.6466475, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/ar/event/climate/lmsyr_lmnkhy_lshby_229", 
+    "id": 4816
   }
 ]
