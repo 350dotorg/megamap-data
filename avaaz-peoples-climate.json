@@ -2,7 +2,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1836, 
+    "rsvp_count": 1837, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2171, 
+    "rsvp_count": 2172, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -322,7 +322,7 @@
   {
     "city": "Alicante", 
     "name": "People's Climate March - Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 131, 
+    "rsvp_count": 132, 
     "country": "Spain", 
     "start_time": "19:00:00", 
     "venue": "Escaleras del Instituto Jorge Juan", 
@@ -818,7 +818,7 @@
   {
     "city": "Bruxelles", 
     "name": "Marche des Citoyens pour le Climat", 
-    "rsvp_count": 592, 
+    "rsvp_count": 593, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "", 
@@ -2818,7 +2818,7 @@
   {
     "city": "Managua", 
     "name": "Marcha contra el cambio clim\u00e1tico, por una Nicaragua 100% renovable.", 
-    "rsvp_count": 107, 
+    "rsvp_count": 108, 
     "country": "Nicaragua", 
     "start_time": "13:00:00", 
     "venue": "Avenida Bol\u00edvar.", 
@@ -7154,7 +7154,7 @@
   {
     "city": "K\u00f6ln", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 245, 
+    "rsvp_count": 246, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "K\u00f6lner Dom", 
@@ -7346,7 +7346,7 @@
   {
     "city": "Aguascalientes", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 84, 
+    "rsvp_count": 85, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Plaza de Armas", 
@@ -9298,7 +9298,7 @@
   {
     "city": "San Luis Potos\u00ed", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 74, 
+    "rsvp_count": 75, 
     "country": "Mexico", 
     "start_time": "10:00:00", 
     "venue": "Plaza de Armas", 
@@ -10066,7 +10066,7 @@
   {
     "city": "Pitalito", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Colombia", 
     "start_time": "13:00:00", 
     "venue": "pparque principal", 
