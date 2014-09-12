@@ -1,8 +1,8 @@
-Number of events: 2017
+Number of events: 2018
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 2
-	Algeria: 43
+	Algeria: 44
 	Argentina: 66
 	Armenia: 4
 	Australia: 36
