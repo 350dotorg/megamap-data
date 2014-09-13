@@ -851,7 +851,7 @@ initData({},
   {
     "city": "Brussels", 
     "name": "\u00c9venement des Citoyens pour le Climat", 
-    "rsvp_count": 782, 
+    "rsvp_count": 783, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "Place Poelaert", 
@@ -34339,7 +34339,7 @@ initData({},
   {
     "city": "Saint-Pierre-de-Bressieux", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Gymnase de st pierre de bressieux", 
@@ -35263,6 +35263,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/ru/event/climate/Narodnyy_klimaticheskiy_marsh_194", 
     "id": 4927
+  }, 
+  {
+    "city": "Offenburg", 
+    "name": "Klima-Aktionstag", 
+    "rsvp_count": 1, 
+    "country": "Germany", 
+    "start_time": "09:00:00", 
+    "venue": "Lindenplatz", 
+    "longitude": 7.9469811, 
+    "state": "BW", 
+    "country_code": "DE", 
+    "address": "Lindenplatz, Offenburg, Deutschland", 
+    "latitude": 48.4699545, 
+    "event_date": "2014-09-20", 
+    "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaAktionstag_159", 
+    "id": 4928
   }
 ]
 );
