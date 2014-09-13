@@ -3,7 +3,7 @@ initData({},
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1888, 
+    "rsvp_count": 1889, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -819,7 +819,7 @@ initData({},
   {
     "city": "Bruxelles", 
     "name": "Marche des Citoyens pour le Climat", 
-    "rsvp_count": 649, 
+    "rsvp_count": 650, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "", 
@@ -33983,6 +33983,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_256", 
     "id": 4827
+  }, 
+  {
+    "city": "Lincoln", 
+    "name": "Little Apple March for the Climate in Lincoln, NE", 
+    "rsvp_count": 1, 
+    "country": "United States of America", 
+    "start_time": "13:00:00", 
+    "venue": "Starting point: Antelope Park (bandshell) Rally: Union Plaza (21st and Q Streets)", 
+    "longitude": -96.675278, 
+    "state": "NE", 
+    "country_code": "US", 
+    "address": "Lincoln, NE, USA", 
+    "latitude": 40.809722, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Little_Apple_March_for_the_Climate_in_Lincoln_NE", 
+    "id": 4828
   }
 ]
 );
