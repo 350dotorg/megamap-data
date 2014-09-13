@@ -4962,7 +4962,7 @@
   {
     "city": "Qu\u00e9bec", 
     "name": "Marche mondiale pour le climat - Rassemblement \u00e0 Qu\u00e9bec: Stop Ol\u00e9oduc et autres", 
-    "rsvp_count": 34, 
+    "rsvp_count": 35, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Devant l'Assembl\u00e9e nationale du Qu\u00e9bec", 
@@ -24370,7 +24370,7 @@
   {
     "city": "Atlanta", 
     "name": "People's Climate March", 
-    "rsvp_count": 20, 
+    "rsvp_count": 21, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -33998,22 +33998,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_185", 
     "id": 4829
-  }, 
-  {
-    "city": "Steinbach", 
-    "name": "Klima-Aktionstag", 
-    "rsvp_count": 1, 
-    "country": "Germany", 
-    "start_time": "14:00:00", 
-    "venue": "Am Rathaus", 
-    "longitude": 8.5772075, 
-    "state": "HE", 
-    "country_code": "DE", 
-    "address": "Am Rathaus, 61449 Steinbach, Germany", 
-    "latitude": 50.1678781, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaAktionstag_154", 
-    "id": 4830
   }, 
   {
     "city": "Santa Fe", 
