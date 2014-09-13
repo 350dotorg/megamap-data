@@ -33331,7 +33331,7 @@ initData({},
   {
     "city": "Medell\u00edn", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Colombia", 
     "start_time": "13:00:00", 
     "venue": "marcha desde belen hasta la alcaldia de medellin", 
@@ -34223,6 +34223,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/ar/event/climate/lmsyr_lmnkhy_lshby_231", 
     "id": 4844
+  }, 
+  {
+    "city": "Baghdad", 
+    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
+    "rsvp_count": 1, 
+    "country": "Iraq", 
+    "start_time": "13:00:00", 
+    "venue": "\u0628\u063a\u062f\u0627\u062f", 
+    "longitude": 44.422, 
+    "state": "Baghd\u0101d", 
+    "country_code": "IQ", 
+    "address": "Baghdad, Iraq", 
+    "latitude": 33.325, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/ar/event/climate/lmsyr_lmnkhy_lshby_232", 
+    "id": 4845
   }
 ]
 );
