@@ -563,7 +563,7 @@ initData({},
   {
     "city": "Bucharest", 
     "name": "People's Climate March", 
-    "rsvp_count": 44, 
+    "rsvp_count": 45, 
     "country": "Romania", 
     "start_time": "13:00:00", 
     "venue": "TBC", 
