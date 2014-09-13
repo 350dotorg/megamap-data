@@ -34335,6 +34335,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/el/event/climate/Poreia_ton_Laon_gia_to_Klima_109", 
     "id": 4851
+  }, 
+  {
+    "city": "Mallacoota", 
+    "name": "People's Climate March", 
+    "rsvp_count": 1, 
+    "country": "Australia", 
+    "start_time": "11:00:00", 
+    "venue": "Meet at the gazebo near the shops in the main street ..", 
+    "longitude": 149.755609, 
+    "state": "VIC", 
+    "country_code": "AU", 
+    "address": "Mallacoota VIC 3892, Australia", 
+    "latitude": -37.5575809, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1582", 
+    "id": 4852
   }
 ]
 );
