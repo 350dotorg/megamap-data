@@ -17363,7 +17363,7 @@ initData({},
   {
     "city": "Kharkiv", 
     "name": "People's Climate March", 
-    "rsvp_count": 14, 
+    "rsvp_count": 15, 
     "country": "Ukraine", 
     "start_time": "13:00:00", 
     "venue": "", 
