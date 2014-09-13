@@ -2,7 +2,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1923, 
+    "rsvp_count": 1924, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2519, 
+    "rsvp_count": 2520, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -10562,7 +10562,7 @@
   {
     "city": "Madrid", 
     "name": "La Marcha Ciudadana por la Naturaleza, la Vida y Evoluci\u00f3n Humana", 
-    "rsvp_count": 362, 
+    "rsvp_count": 363, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "La Puerta de La Tabacalera", 
@@ -12434,7 +12434,7 @@
   {
     "city": "", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 33, 
+    "rsvp_count": 34, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -22450,7 +22450,7 @@
   {
     "city": "Besan\u00e7on", 
     "name": "\u00c7a commence \u00e0 Besac, \u00e7a finit \u00e0 l'ONU ! Tous ensemble pour le climat", 
-    "rsvp_count": 10, 
+    "rsvp_count": 11, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "", 
@@ -28066,7 +28066,7 @@
   {
     "city": "Waterloo", 
     "name": "People's Climate March", 
-    "rsvp_count": 23, 
+    "rsvp_count": 24, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Waterloo Towne Square", 
@@ -34798,5 +34798,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaAktionstag_self_gardening", 
     "id": 4888
+  }, 
+  {
+    "city": "Leiden", 
+    "name": "klinken voor de aarde met stemexpressie", 
+    "rsvp_count": 1, 
+    "country": "Netherlands", 
+    "start_time": "13:30:00", 
+    "venue": "Yoga centrum Leidse Hout", 
+    "longitude": 4.4970097, 
+    "state": "ZH", 
+    "country_code": "NL", 
+    "address": "Leiden, Nederland", 
+    "latitude": 52.1601144, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/klinken_voor_de_aarde_met_stemexpressie", 
+    "id": 4889
   }
 ]
