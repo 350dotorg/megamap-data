@@ -4403,7 +4403,7 @@ initData({},
   {
     "city": "Puebla", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 135, 
+    "rsvp_count": 136, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Z\u00f3calo de la Ciudad de Puebla", 
@@ -33951,6 +33951,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_254", 
     "id": 4825
+  }, 
+  {
+    "city": "Libreville", 
+    "name": "Marche Pour le Climat", 
+    "rsvp_count": 1, 
+    "country": "Gabon", 
+    "start_time": "13:00:00", 
+    "venue": "", 
+    "longitude": 9.4081808999999, 
+    "state": "Estuaire", 
+    "country_code": "GA", 
+    "address": "L101, Libreville, Gabon", 
+    "latitude": 0.4597761, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_255", 
+    "id": 4826
   }
 ]
 );
