@@ -35342,5 +35342,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1588", 
     "id": 4932
+  }, 
+  {
+    "city": "Kiel", 
+    "name": "Klima-Aktionstag", 
+    "rsvp_count": 1, 
+    "country": "Germany", 
+    "start_time": "13:00:00", 
+    "venue": "Rathaus", 
+    "longitude": 10.1321076, 
+    "state": "SH", 
+    "country_code": "DE", 
+    "address": "Rathausstra\u00dfe, 24103 Kiel, Deutschland", 
+    "latitude": 54.3231767, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaAktionstag_160", 
+    "id": 4933
   }
 ]
