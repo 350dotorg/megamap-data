@@ -1,4 +1,4 @@
-Number of events: 2146
+Number of events: 2147
 Number of countries: 140
 	Afghanistan: 1
 	Albania: 2
@@ -67,7 +67,7 @@ Number of countries: 140
 	Kenya: 2
 	Kosovo: 1
 	Kuwait: 2
-	Kyrgistan: 2
+	Kyrgistan: 3
 	Lebanon: 1
 	Liberia: 2
 	Libya: 3
