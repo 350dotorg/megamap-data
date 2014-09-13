@@ -4450,7 +4450,7 @@
   {
     "city": "S\u00e9n\u00e9", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 58, 
+    "rsvp_count": 59, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Devant Grain de Sel", 
@@ -20978,7 +20978,7 @@
   {
     "city": "Leuven", 
     "name": "People's Climate March", 
-    "rsvp_count": 74, 
+    "rsvp_count": 75, 
     "country": "Belgium", 
     "start_time": "13:00:00", 
     "venue": "Station Leuven", 
@@ -23042,7 +23042,7 @@
   {
     "city": "Barcelona", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 92, 
+    "rsvp_count": 93, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "CALLE LA ERA N\u00ba 5, FRENTE AL AYUNTAMIENTO", 
@@ -27970,7 +27970,7 @@
   {
     "city": "Rotterdam", 
     "name": "Actiedag voor het Klimaat", 
-    "rsvp_count": 7, 
+    "rsvp_count": 8, 
     "country": "Netherlands", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -28306,7 +28306,7 @@
   {
     "city": "Aix-en-Provence", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 28, 
+    "rsvp_count": 29, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "La Rotonde - Tour de Ville", 
@@ -34398,5 +34398,21 @@
     "event_date": "2014-09-27", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Route_de_lenergie", 
     "id": 4857
+  }, 
+  {
+    "city": "Saint-Pierre-de-Bressieux", 
+    "name": "Marche Pour le Climat", 
+    "rsvp_count": 1, 
+    "country": "France", 
+    "start_time": "13:00:00", 
+    "venue": "Gymnase de st pierre de bressieux", 
+    "longitude": 5.3022997, 
+    "state": "RA", 
+    "country_code": "FR", 
+    "address": "St Pierre de Bressieux, 38870 Saint-Pierre-de-Bressieux, France", 
+    "latitude": 45.3288777, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_258", 
+    "id": 4858
   }
 ]
