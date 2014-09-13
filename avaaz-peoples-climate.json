@@ -9538,7 +9538,7 @@
   {
     "city": "Bauru", 
     "name": "A\u00e7\u00e3o Global  pelo Clima", 
-    "rsvp_count": 23, 
+    "rsvp_count": 24, 
     "country": "Brazil", 
     "start_time": "09:00:00", 
     "venue": "Rua Batista de Carvalho", 
@@ -34014,5 +34014,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaAktionstag_154", 
     "id": 4830
+  }, 
+  {
+    "city": "Santa Fe", 
+    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
+    "rsvp_count": 1, 
+    "country": "Argentina", 
+    "start_time": "13:00:00", 
+    "venue": "costanera saliendo desde el puente colgante\u00a1\u00a1\u00a1", 
+    "longitude": -60.6994591, 
+    "state": "SF", 
+    "country_code": "AR", 
+    "address": "Santa Fe, Santa Fe, Argentina", 
+    "latitude": -31.6323891, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_506", 
+    "id": 4831
   }
 ]
