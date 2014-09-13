@@ -819,7 +819,7 @@ initData({},
   {
     "city": "Bruxelles", 
     "name": "Marche des Citoyens pour le Climat", 
-    "rsvp_count": 653, 
+    "rsvp_count": 654, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "", 
