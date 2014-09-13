@@ -802,7 +802,7 @@
   {
     "city": "Copenhagen", 
     "name": "People's Climate March", 
-    "rsvp_count": 350, 
+    "rsvp_count": 351, 
     "country": "Denmark", 
     "start_time": "14:00:00", 
     "venue": "Nytorv, Domhuset", 
@@ -5298,7 +5298,7 @@
   {
     "city": "Jaipur", 
     "name": "People's Climate March", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "India", 
     "start_time": "13:00:00", 
     "venue": "Amar Jawan Jyoti", 
@@ -7010,7 +7010,7 @@
   {
     "city": "Bucaramanga", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 85, 
+    "rsvp_count": 86, 
     "country": "Colombia", 
     "start_time": "13:00:00", 
     "venue": "FLORIDABLANCA", 
@@ -7458,7 +7458,7 @@
   {
     "city": "Hyderabad", 
     "name": "People's Climate March", 
-    "rsvp_count": 39, 
+    "rsvp_count": 40, 
     "country": "India", 
     "start_time": "13:00:00", 
     "venue": "HYDERABAD CITY", 
@@ -11810,7 +11810,7 @@
   {
     "city": "Saint-Jeannet", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 9, 
+    "rsvp_count": 10, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Place de la Mairie de Vence", 
