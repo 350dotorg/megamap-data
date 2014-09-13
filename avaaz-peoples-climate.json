@@ -1253,7 +1253,7 @@
     "rsvp_count": 98, 
     "country": "Italy", 
     "start_time": "13:00:00", 
-    "venue": "Piazza dei Signori", 
+    "venue": "", 
     "longitude": 12.2457379, 
     "state": "Veneto", 
     "country_code": "IT", 
@@ -4402,7 +4402,7 @@
   {
     "city": "Puebla", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 136, 
+    "rsvp_count": 137, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Z\u00f3calo de la Ciudad de Puebla", 
@@ -15794,7 +15794,7 @@
   {
     "city": "Barranquilla", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 35, 
+    "rsvp_count": 36, 
     "country": "Colombia", 
     "start_time": "13:00:00", 
     "venue": "", 
