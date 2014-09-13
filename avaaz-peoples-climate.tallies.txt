@@ -1,4 +1,4 @@
-Number of events: 2159
+Number of events: 2162
 Number of countries: 141
 	Afghanistan: 1
 	Albania: 2
@@ -11,7 +11,7 @@ Number of countries: 141
 	Bahrain: 3
 	Bangladesh: 4
 	Belarus: 4
-	Belgium: 33
+	Belgium: 34
 	Benin: 1
 	Bermuda: 1
 	Bolivia: 6
@@ -103,7 +103,7 @@ Number of countries: 141
 	Qatar: 3
 	Reunion: 2
 	Romania: 15
-	Russia: 47
+	Russia: 48
 	Saudi Arabia: 12
 	Senegal: 2
 	Serbia: 6
@@ -118,7 +118,7 @@ Number of countries: 141
 	Sri Lanka: 2
 	Sudan: 6
 	Sweden: 16
-	Switzerland: 21
+	Switzerland: 22
 	Syria: 3
 	Taiwan: 1
 	Tajikistan: 1
