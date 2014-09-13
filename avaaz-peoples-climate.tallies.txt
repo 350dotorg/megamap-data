@@ -1,5 +1,5 @@
-Number of events: 2181
-Number of countries: 141
+Number of events: 2199
+Number of countries: 142
 	Afghanistan: 1
 	Albania: 2
 	Algeria: 54
@@ -17,37 +17,37 @@ Number of countries: 141
 	Bolivia: 6
 	Bosnia and Herzegovina: 1
 	Botswana: 1
-	Brazil: 203
+	Brazil: 206
 	Brunei: 1
 	Bulgaria: 5
 	Burkina Faso: 1
 	Burundi: 1
 	Cambodia: 1
 	Cameroon: 1
-	Canada: 81
+	Canada: 83
 	Cayman Islands: 1
 	Chile: 26
-	Colombia: 84
+	Colombia: 85
 	Congo, DPR: 2
 	Congo, PR: 2
 	Costa Rica: 7
 	Croatia: 3
 	Cuba: 2
-	Cyprus: 4
+	Cyprus: 5
 	Czech Republic: 2
 	Côte d'Ivoire: 2
 	Denmark: 6
 	Dominican Republic: 7
 	Ecuador: 15
-	Egypt: 33
+	Egypt: 34
 	El Salvador: 2
 	Estonia: 3
 	Finland: 5
-	France: 155
+	France: 156
 	French Guiana: 2
 	French Polynesia: 3
 	Gabon: 2
-	Germany: 73
+	Germany: 76
 	Greece: 44
 	Guadeloupe: 2
 	Guatemala: 13
@@ -57,7 +57,7 @@ Number of countries: 141
 	Hungary: 4
 	India: 30
 	Indonesia: 2
-	Iran: 6
+	Iran: 7
 	Iraq: 22
 	Ireland: 7
 	Israel: 11
@@ -79,12 +79,12 @@ Number of countries: 141
 	Martinique: 2
 	Mauritania: 2
 	Mauritius: 2
-	Mexico: 115
+	Mexico: 114
 	Moldova: 2
 	Morocco: 33
 	Myanmar: 1
 	Nepal: 3
-	Netherlands: 29
+	Netherlands: 30
 	New Caledonia: 2
 	New Zealand: 25
 	Nicaragua: 1
@@ -95,7 +95,7 @@ Number of countries: 141
 	Palestine: 9
 	Panama: 3
 	Paraguay: 1
-	Peru: 34
+	Peru: 35
 	Philippines: 3
 	Poland: 8
 	Portugal: 19
@@ -103,7 +103,7 @@ Number of countries: 141
 	Qatar: 2
 	Reunion: 2
 	Romania: 15
-	Russia: 49
+	Russia: 50
 	Saudi Arabia: 12
 	Senegal: 2
 	Serbia: 6
@@ -129,7 +129,7 @@ Number of countries: 141
 	Turkey: 21
 	US Virgin Islands: 1
 	Uganda: 2
-	Ukraine: 45
+	Ukraine: 47
 	United Arab Emirates: 3
 	United Kingdom: 58
 	United States of America: 79
@@ -137,6 +137,7 @@ Number of countries: 141
 	Uzbekistan: 1
 	Venezuela: 25
 	Vietnam: 1
+	Wallis and Futuna: 1
 	Western Sahara: 1
 	Yemen: 15
 	Zambia: 3
