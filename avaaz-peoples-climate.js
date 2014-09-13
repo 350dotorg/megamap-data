@@ -2147,7 +2147,7 @@ initData({},
   {
     "city": "Limoges", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 58, 
+    "rsvp_count": 59, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la Motte", 
