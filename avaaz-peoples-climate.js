@@ -4227,7 +4227,7 @@ initData({},
   {
     "city": "Vitoria-Gasteiz", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 60, 
+    "rsvp_count": 61, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Plaza de la Virgen Blanca", 
