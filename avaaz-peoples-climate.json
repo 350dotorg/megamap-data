@@ -1202,7 +1202,7 @@
   {
     "city": "Amsterdam", 
     "name": "People's Climate March", 
-    "rsvp_count": 246, 
+    "rsvp_count": 247, 
     "country": "Netherlands", 
     "start_time": "13:00:00", 
     "venue": "Damsquare", 
@@ -1618,7 +1618,7 @@
   {
     "city": "Pergine Valsugana", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 22, 
+    "rsvp_count": 23, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "Parco Tre Castagni", 
@@ -2032,16 +2032,16 @@
     "id": 2050
   }, 
   {
-    "city": "Bras\u00edlia", 
+    "city": "Brasilia", 
     "name": "Uni\u00e3o Avaaz em Bras\u00edlia contra as Mudan\u00e7as Clim\u00e1ticas", 
     "rsvp_count": 416, 
     "country": "Brazil", 
-    "start_time": "13:00:00", 
-    "venue": "", 
+    "start_time": "10:00:00", 
+    "venue": "Esplanada dos Ministerios", 
     "longitude": -47.8711395, 
-    "state": "", 
+    "state": "DF", 
     "country_code": "BR", 
-    "address": "", 
+    "address": "Esplanada dos Minist\u00e9rios - Brasilia, Brasilia - Federal District, Brazil", 
     "latitude": -15.7970941, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Uniao_Avaaz_em_Brasilia_contra_as_Mudancas_Climaticas", 
@@ -10114,7 +10114,7 @@
   {
     "city": "Arequipa", 
     "name": "Marcha contra el Cambio Clim\u00e1tico. \u00a1Salvemos nuestro hogar!", 
-    "rsvp_count": 19, 
+    "rsvp_count": 20, 
     "country": "Peru", 
     "start_time": "13:00:00", 
     "venue": "", 
