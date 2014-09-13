@@ -2,7 +2,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1900, 
+    "rsvp_count": 1901, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2446, 
+    "rsvp_count": 2447, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -818,7 +818,7 @@
   {
     "city": "Brussels", 
     "name": "Marche des Citoyens pour le Climat", 
-    "rsvp_count": 677, 
+    "rsvp_count": 678, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "Place Poelaert", 
@@ -1954,7 +1954,7 @@
   {
     "city": "Hamburg", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 327, 
+    "rsvp_count": 328, 
     "country": "Germany", 
     "start_time": "16:00:00", 
     "venue": "vor dem Rathaus", 
@@ -2930,7 +2930,7 @@
   {
     "city": "Ottignies-Louvain-la-Neuve", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 168, 
+    "rsvp_count": 169, 
     "country": "Belgium", 
     "start_time": "13:00:00", 
     "venue": "Grand Place de Louvain-la-Neuve", 
@@ -4274,7 +4274,7 @@
   {
     "city": "Wien", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 484, 
+    "rsvp_count": 485, 
     "country": "Austria", 
     "start_time": "16:00:00", 
     "venue": "Gleich neben dem Stephansdom", 
@@ -4834,7 +4834,7 @@
   {
     "city": "La Roche-sur-Yon", 
     "name": "D\u00e9ambulation Pour le Climat entre les bassins de la Place Napol\u00e9on", 
-    "rsvp_count": 29, 
+    "rsvp_count": 30, 
     "country": "France", 
     "start_time": "15:00:00", 
     "venue": "", 
@@ -17698,7 +17698,7 @@
   {
     "city": "Bolzano", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 55, 
+    "rsvp_count": 56, 
     "country": "Italy", 
     "start_time": "16:00:00", 
     "venue": "Piazza Walter", 
@@ -18466,7 +18466,7 @@
   {
     "city": "Remagen", 
     "name": "Klima Aktionstag", 
-    "rsvp_count": 18, 
+    "rsvp_count": 19, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Marktplatz", 
