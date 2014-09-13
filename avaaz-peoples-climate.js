@@ -6595,7 +6595,7 @@ initData({},
   {
     "city": "Noum\u00e9a", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 99, 
+    "rsvp_count": 100, 
     "country": "New Caledonia", 
     "start_time": "13:00:00", 
     "venue": "Baie des citrons", 
@@ -18445,7 +18445,7 @@ initData({},
     "address": "Jardins de l'h\u00f4tel du parlement, Qu\u00e9bec, QC, Canada", 
     "latitude": 46.8100358, 
     "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Rassemblement_en_solidarite_avec_la_Marche_des_Peuples_pour_le_Climat_A_Quebec", 
+    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Rassemblement_en_solidarite_avec_la_Marche_des_Peuples_pour_le_Climat_A_Quebec", 
     "id": 3604
   }, 
   {
@@ -34175,6 +34175,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1579", 
     "id": 4841
+  }, 
+  {
+    "city": "Peterborough", 
+    "name": "International Picnic and People's Climate March", 
+    "rsvp_count": 1, 
+    "country": "United Kingdom", 
+    "start_time": "12:00:00", 
+    "venue": "The Green Backyard", 
+    "longitude": -0.24052989999996, 
+    "state": "England", 
+    "country_code": "GB", 
+    "address": "Peterborough, UK", 
+    "latitude": 52.5694985, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/International_Picnic_and_Peoples_Climate_March", 
+    "id": 4842
   }
 ]
 );
