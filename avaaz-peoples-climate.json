@@ -2242,7 +2242,7 @@
   {
     "city": "Montpellier", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 79, 
+    "rsvp_count": 80, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -16016,22 +16016,6 @@
     "id": 3320
   }, 
   {
-    "city": "Recife", 
-    "name": "Caminhada pelo Clima", 
-    "rsvp_count": 75, 
-    "country": "Brazil", 
-    "start_time": "13:00:00", 
-    "venue": "Sindicatos, igrejas e ONGs da regi\u00e3o Metropolitana e Interiores do estado.", 
-    "longitude": -34.8769621, 
-    "state": "PE", 
-    "country_code": "BR", 
-    "address": "CEB\u00ed-Recife, Rua do Hosp\u00edcio, Edif\u00edcio Ol\u00edmpia, 10\u00ba Andar, Sala 1002. CUT Recife, Sindsep-PE Rua Fernandes Vieira, etc...", 
-    "latitude": -8.0475458, 
-    "event_date": "2014-09-07", 
-    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_33", 
-    "id": 3321
-  }, 
-  {
     "city": "Salvador", 
     "name": "EDUCA\u00c7\u00c3O PELA PAZ CLIM\u00c1TICA", 
     "rsvp_count": 86, 
@@ -27426,7 +27410,7 @@
   {
     "city": "Santo Andr\u00e9", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 77, 
+    "rsvp_count": 78, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Av Dom Pedro II", 
