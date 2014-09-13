@@ -34707,7 +34707,7 @@ initData({},
   {
     "city": "Antwerpen", 
     "name": "Themadag : statiegeld voor Plastic en aluminium drankverpakking", 
-    "rsvp_count": 0, 
+    "rsvp_count": 1, 
     "country": "Belgium", 
     "start_time": "10:00:00", 
     "venue": "ECOHUIS", 
