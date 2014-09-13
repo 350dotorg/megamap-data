@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2614, 
+    "rsvp_count": 2615, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -850,7 +850,7 @@
   {
     "city": "Brussels", 
     "name": "\u00c9venement des Citoyens pour le Climat", 
-    "rsvp_count": 768, 
+    "rsvp_count": 769, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "Place Poelaert", 
@@ -4050,7 +4050,7 @@
   {
     "city": "Moscow", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 255, 
+    "rsvp_count": 257, 
     "country": "Russia", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -20866,7 +20866,7 @@
   {
     "city": "Padua", 
     "name": "People's Climate March", 
-    "rsvp_count": 52, 
+    "rsvp_count": 53, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "Prato Della Valle", 
@@ -22162,7 +22162,7 @@
   {
     "city": "Santiago de Surco", 
     "name": "Pasacalle \u201cPon de tu parte: Segrega tus Residuos \u00a1Ya!\u201d.", 
-    "rsvp_count": 22, 
+    "rsvp_count": 23, 
     "country": "Peru", 
     "start_time": "08:00:00", 
     "venue": "", 
@@ -35058,7 +35058,7 @@
   {
     "city": "Limassol", 
     "name": "Mediterranean sea", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Cyprus", 
     "start_time": "13:00:00", 
     "venue": "\u0395\u03bd\u03b1\u03b5\u03c1\u03b9\u03bf\u03c2", 
