@@ -2,7 +2,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1924, 
+    "rsvp_count": 1925, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -1202,7 +1202,7 @@
   {
     "city": "Amsterdam", 
     "name": "People's Climate March", 
-    "rsvp_count": 296, 
+    "rsvp_count": 297, 
     "country": "Netherlands", 
     "start_time": "13:00:00", 
     "venue": "Damsquare", 
@@ -2706,7 +2706,7 @@
   {
     "city": "Saint-Leu", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 82, 
+    "rsvp_count": 83, 
     "country": "Reunion", 
     "start_time": "13:00:00", 
     "venue": "Parvis de la Mairie de St Leu", 
@@ -11586,7 +11586,7 @@
   {
     "city": "Cardiff", 
     "name": "People's Climate March", 
-    "rsvp_count": 85, 
+    "rsvp_count": 86, 
     "country": "United Kingdom", 
     "start_time": "13:00:00", 
     "venue": "Millennium stadium", 
@@ -34814,5 +34814,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/klinken_voor_de_aarde_met_stemexpressie", 
     "id": 4889
+  }, 
+  {
+    "city": "Bouak\u00e9", 
+    "name": "Marche Pour le Climat", 
+    "rsvp_count": 1, 
+    "country": "C\u00f4te d'Ivoire", 
+    "start_time": "13:00:00", 
+    "venue": "", 
+    "longitude": -5.016667, 
+    "state": "Vall\u00e9e du Bandama", 
+    "country_code": "CI", 
+    "address": "Bouak\u00e9, C\u00f4te d'Ivoire", 
+    "latitude": 7.683333, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_265", 
+    "id": 4890
   }
 ]
