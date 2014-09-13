@@ -3,7 +3,7 @@ initData({},
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1981, 
+    "rsvp_count": 1982, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -35327,6 +35327,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1587", 
     "id": 4931
+  }, 
+  {
+    "city": "Barnstaple", 
+    "name": "People's Climate March", 
+    "rsvp_count": 1, 
+    "country": "United Kingdom", 
+    "start_time": "13:00:00", 
+    "venue": "The Square", 
+    "longitude": -4.0584670000001, 
+    "state": "England", 
+    "country_code": "GB", 
+    "address": "The Square, Barnstaple, Devon EX32 8LS, UK", 
+    "latitude": 51.0782346, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1588", 
+    "id": 4932
   }
 ]
 );
