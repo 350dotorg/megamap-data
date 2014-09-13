@@ -4995,7 +4995,7 @@ initData({},
   {
     "city": "Qu\u00e9bec", 
     "name": "Marche mondiale pour le climat - Rassemblement \u00e0 Qu\u00e9bec: Stop Ol\u00e9oduc et autres", 
-    "rsvp_count": 38, 
+    "rsvp_count": 39, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Devant l'Assembl\u00e9e nationale du Qu\u00e9bec", 
