@@ -1,4 +1,4 @@
-Number of events: 2168
+Number of events: 2169
 Number of countries: 141
 	Afghanistan: 1
 	Albania: 2
@@ -47,7 +47,7 @@ Number of countries: 141
 	French Guiana: 2
 	French Polynesia: 3
 	Gabon: 2
-	Germany: 71
+	Germany: 72
 	Greece: 42
 	Guadeloupe: 2
 	Guatemala: 13

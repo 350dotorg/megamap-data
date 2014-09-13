@@ -1202,7 +1202,7 @@
   {
     "city": "Amsterdam", 
     "name": "People's Climate March", 
-    "rsvp_count": 285, 
+    "rsvp_count": 286, 
     "country": "Netherlands", 
     "start_time": "13:00:00", 
     "venue": "Damsquare", 
@@ -4274,7 +4274,7 @@
   {
     "city": "Wien", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 498, 
+    "rsvp_count": 499, 
     "country": "Austria", 
     "start_time": "16:00:00", 
     "venue": "Gleich neben dem Stephansdom", 
@@ -27906,7 +27906,7 @@
   {
     "city": "Coimbra", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 33, 
+    "rsvp_count": 34, 
     "country": "Portugal", 
     "start_time": "13:00:00", 
     "venue": "pra\u00e7a da rep\u00fablica", 
@@ -34686,5 +34686,21 @@
     "event_date": "2014-09-20", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Raise_a_brolly_against_climate_folly", 
     "id": 4881
+  }, 
+  {
+    "city": "Heilbronn", 
+    "name": "Klima-Aktionstag", 
+    "rsvp_count": 1, 
+    "country": "Germany", 
+    "start_time": "13:00:00", 
+    "venue": "", 
+    "longitude": 9.210879, 
+    "state": "BW", 
+    "country_code": "DE", 
+    "address": "Heilbronn, Deutschland", 
+    "latitude": 49.1426929, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaAktionstag_156", 
+    "id": 4882
   }
 ]
