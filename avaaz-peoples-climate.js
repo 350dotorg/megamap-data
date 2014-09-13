@@ -27571,7 +27571,7 @@ initData({},
   {
     "city": "Santa Rita do Sapuca\u00ed", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Brazil", 
     "start_time": "09:00:00", 
     "venue": "Avenida Sinha Moreira", 
