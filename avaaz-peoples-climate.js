@@ -10659,7 +10659,7 @@ initData({},
   {
     "city": "San Pedro Tlaquepaque", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 40, 
+    "rsvp_count": 41, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Plaza de la Bandera-Boulevard Marcelino Garcia Barragan-Jardin Hidalgo (Morelos y Progreso) Centro de Tlaquepaque.", 
