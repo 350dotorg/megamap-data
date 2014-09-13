@@ -21411,7 +21411,7 @@ initData({},
   {
     "city": "Agadir", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Morocco", 
     "start_time": "13:00:00", 
     "venue": "CORNICHE PLAGE AGADIE", 
