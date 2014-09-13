@@ -33331,7 +33331,7 @@ initData({},
   {
     "city": "Medell\u00edn", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Colombia", 
     "start_time": "13:00:00", 
     "venue": "marcha desde belen hasta la alcaldia de medellin", 
