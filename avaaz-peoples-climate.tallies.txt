@@ -1,5 +1,5 @@
-Number of events: 2126
-Number of countries: 139
+Number of events: 2127
+Number of countries: 140
 	Afghanistan: 1
 	Albania: 2
 	Algeria: 51
@@ -65,6 +65,7 @@ Number of countries: 139
 	Japan: 7
 	Jordan: 2
 	Kenya: 2
+	Kosovo: 1
 	Kuwait: 2
 	Kyrgistan: 2
 	Lebanon: 1

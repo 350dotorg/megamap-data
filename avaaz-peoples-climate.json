@@ -3522,7 +3522,7 @@
   {
     "city": "Porto Alegre", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 335, 
+    "rsvp_count": 336, 
     "country": "Brazil", 
     "start_time": "11:00:00", 
     "venue": "Parque Farroupilha - Reden\u00e7\u00e3o", 
@@ -34014,5 +34014,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_506", 
     "id": 4831
+  }, 
+  {
+    "city": "", 
+    "name": "People's Climate March", 
+    "rsvp_count": 1, 
+    "country": "Kosovo", 
+    "start_time": "13:00:00", 
+    "venue": "", 
+    "longitude": 20.8893362, 
+    "state": "", 
+    "country_code": "KV", 
+    "address": "Kosova (Kosovo)", 
+    "latitude": 42.5813722, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1578", 
+    "id": 4832
   }
 ]
