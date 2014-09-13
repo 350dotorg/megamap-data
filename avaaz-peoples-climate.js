@@ -18531,7 +18531,7 @@ initData({},
   {
     "city": "Guatemala City", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 6, 
+    "rsvp_count": 7, 
     "country": "Guatemala", 
     "start_time": "09:00:00", 
     "venue": "", 
