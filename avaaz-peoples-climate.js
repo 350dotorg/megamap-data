@@ -5555,7 +5555,7 @@ initData({},
   {
     "city": "Manchester", 
     "name": "People's Climate March", 
-    "rsvp_count": 145, 
+    "rsvp_count": 146, 
     "country": "United Kingdom", 
     "start_time": "11:00:00", 
     "venue": "Piccadilly gardens", 
