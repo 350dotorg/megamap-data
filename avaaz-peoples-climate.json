@@ -1202,7 +1202,7 @@
   {
     "city": "Amsterdam", 
     "name": "People's Climate March", 
-    "rsvp_count": 252, 
+    "rsvp_count": 253, 
     "country": "Netherlands", 
     "start_time": "13:00:00", 
     "venue": "Damsquare", 
@@ -3058,7 +3058,7 @@
   {
     "city": "Lausanne", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 131, 
+    "rsvp_count": 132, 
     "country": "Switzerland", 
     "start_time": "13:00:00", 
     "venue": "gare de lausanne", 
@@ -6082,7 +6082,7 @@
   {
     "city": "Bologna", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 240, 
+    "rsvp_count": 241, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "Piazza Maggiore", 
