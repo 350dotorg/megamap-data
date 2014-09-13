@@ -18115,7 +18115,7 @@ initData({},
   {
     "city": "Teresina", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 18, 
+    "rsvp_count": 19, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Av. Raul Lopes", 
