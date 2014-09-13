@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2613, 
+    "rsvp_count": 2614, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -4306,7 +4306,7 @@
   {
     "city": "Wien", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 521, 
+    "rsvp_count": 522, 
     "country": "Austria", 
     "start_time": "16:00:00", 
     "venue": "Gleich neben dem Stephansdom", 
@@ -18006,11 +18006,11 @@
     "country": "United States of America", 
     "start_time": "14:00:00", 
     "venue": "Meeting on the beach in Waikiki in front of the Royal Hawaiian (the infamous pink hotel). We'll then march down Kalakaua and end up at Kapiolani Park.", 
-    "longitude": -157.837456, 
+    "longitude": -157.827281, 
     "state": "HI", 
     "country_code": "US", 
-    "address": "198 Paoa Place, Honolulu, HI 96815, USA", 
-    "latitude": 21.281643, 
+    "address": "2353 Kalakaua Avenue, Honolulu, HI 96815, USA", 
+    "latitude": 21.2767, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1335", 
     "id": 3558
