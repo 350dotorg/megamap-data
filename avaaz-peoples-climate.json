@@ -1458,7 +1458,7 @@
   {
     "city": "Toronto", 
     "name": "People's Climate March - Toronto", 
-    "rsvp_count": 399, 
+    "rsvp_count": 400, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -3378,7 +3378,7 @@
   {
     "city": "Hannover", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 141, 
+    "rsvp_count": 142, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Trammplatz 2, 30159 Hannover", 
@@ -4402,7 +4402,7 @@
   {
     "city": "Puebla", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 139, 
+    "rsvp_count": 140, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Z\u00f3calo de la Ciudad de Puebla", 
@@ -9634,7 +9634,7 @@
   {
     "city": "San Sebasti\u00e1n", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 71, 
+    "rsvp_count": 72, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "", 
