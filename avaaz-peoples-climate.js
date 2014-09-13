@@ -34319,6 +34319,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/el/event/climate/Poreia_ton_Laon_gia_to_Klima_108", 
     "id": 4850
+  }, 
+  {
+    "city": "\u0397\u03c1\u03ac\u03ba\u03bb\u03b5\u03b9\u03bf", 
+    "name": "\u03a0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u039b\u03b1\u03ce\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
+    "rsvp_count": 1, 
+    "country": "Greece", 
+    "start_time": "13:00:00", 
+    "venue": "\u03c0\u03bb\u03b1\u03c4\u03b5\u03b9\u03b1 \u03bb\u03b9\u03bf\u03bd\u03c4\u03b1\u03c1\u03b9\u03c9\u03bd", 
+    "longitude": 25.1331919, 
+    "state": "", 
+    "country_code": "GR", 
+    "address": "\u03a0\u03bb\u03b1\u03c4\u03b5\u03af\u03b1 \u039b\u03b9\u03bf\u03bd\u03c4\u03b1\u03c1\u03b9\u03ce\u03bd, \u0397\u03c1\u03ac\u03ba\u03bb\u03b5\u03b9\u03bf 712 02, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1", 
+    "latitude": 35.3391632, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/el/event/climate/Poreia_ton_Laon_gia_to_Klima_109", 
+    "id": 4851
   }
 ]
 );
