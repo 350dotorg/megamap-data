@@ -16691,7 +16691,7 @@ initData({},
   {
     "city": "Vit\u00f3ria da Conquista", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 13, 
+    "rsvp_count": 14, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Av olivia flores todos unidos para salvar o planeta -", 
