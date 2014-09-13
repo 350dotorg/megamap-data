@@ -1,5 +1,5 @@
-Number of events: 2151
-Number of countries: 140
+Number of events: 2152
+Number of countries: 141
 	Afghanistan: 1
 	Albania: 2
 	Algeria: 52
@@ -121,6 +121,7 @@ Number of countries: 140
 	Switzerland: 21
 	Syria: 3
 	Taiwan: 1
+	Tajikistan: 1
 	Thailand: 3
 	Togo: 1
 	Trinidad and Tobago: 1

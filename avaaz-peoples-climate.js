@@ -819,7 +819,7 @@ initData({},
   {
     "city": "Bruxelles", 
     "name": "Marche des Citoyens pour le Climat", 
-    "rsvp_count": 660, 
+    "rsvp_count": 662, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "", 
@@ -26403,7 +26403,7 @@ initData({},
   {
     "city": "Be'er Sheva", 
     "name": "People's Climate March", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Israel", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -34415,6 +34415,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_258", 
     "id": 4858
+  }, 
+  {
+    "city": "\u0414\u0443\u0448\u0430\u043d\u0431\u0435", 
+    "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
+    "rsvp_count": 1, 
+    "country": "Tajikistan", 
+    "start_time": "13:00:00", 
+    "venue": "\u041f\u0430\u0440\u043a \u0420\u0443\u0434\u0430\u043a\u0438", 
+    "longitude": 68.7795863, 
+    "state": "\u0420\u0430\u0439\u043e\u043d\u044b \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u043d\u0441\u043a\u043e\u0433\u043e \u043f\u043e\u0434\u0447\u0438\u043d\u0435\u043d\u0438\u044f", 
+    "country_code": "TJ", 
+    "address": "\u041f\u0430\u0440\u043a \u0420\u0443\u0434\u0430\u043a\u0438, \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u0420\u0443\u0434\u0430\u043a\u0438, \u0414\u0443\u0448\u0430\u043d\u0431\u0435, \u0422\u0430\u0434\u0436\u0438\u043a\u0438\u0441\u0442\u0430\u043d", 
+    "latitude": 38.577179, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/ru/event/climate/Narodnyy_klimaticheskiy_marsh_186", 
+    "id": 4859
   }
 ]
 );
