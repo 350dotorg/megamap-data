@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2610, 
+    "rsvp_count": 2611, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -1490,7 +1490,7 @@
   {
     "city": "Toronto", 
     "name": "People's Climate March - Toronto", 
-    "rsvp_count": 405, 
+    "rsvp_count": 406, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -4050,7 +4050,7 @@
   {
     "city": "Moscow", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 254, 
+    "rsvp_count": 255, 
     "country": "Russia", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -4082,7 +4082,7 @@
   {
     "city": "Lille", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 197, 
+    "rsvp_count": 198, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -17698,7 +17698,7 @@
   {
     "city": "Bolzano", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 57, 
+    "rsvp_count": 58, 
     "country": "Italy", 
     "start_time": "16:00:00", 
     "venue": "Piazza Walter", 
@@ -24322,7 +24322,7 @@
   {
     "city": "Atlanta", 
     "name": "People's Climate March", 
-    "rsvp_count": 22, 
+    "rsvp_count": 23, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -29330,7 +29330,7 @@
   {
     "city": "Aarhus", 
     "name": "People's Climate March", 
-    "rsvp_count": 16, 
+    "rsvp_count": 17, 
     "country": "Denmark", 
     "start_time": "13:00:00", 
     "venue": "Musikhuset", 
