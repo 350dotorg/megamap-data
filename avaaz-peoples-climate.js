@@ -10771,7 +10771,7 @@ initData({},
   {
     "city": "Guadalajara", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 124, 
+    "rsvp_count": 125, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Glorieta La Minerva", 
