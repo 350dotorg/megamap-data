@@ -9315,7 +9315,7 @@ initData({},
   {
     "city": "Santiago", 
     "name": "People's Climate March", 
-    "rsvp_count": 34, 
+    "rsvp_count": 35, 
     "country": "Chile", 
     "start_time": "13:00:00", 
     "venue": "", 
