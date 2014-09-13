@@ -15635,7 +15635,7 @@ initData({},
   {
     "city": "\u039a\u03b1\u03bb\u03b1\u03bc\u03ac\u03c4\u03b1", 
     "name": "\u03a0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u039b\u03b1\u03ce\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Greece", 
     "start_time": "20:00:00", 
     "venue": "", 
