@@ -1,8 +1,8 @@
-Number of events: 2152
+Number of events: 2157
 Number of countries: 141
 	Afghanistan: 1
 	Albania: 2
-	Algeria: 52
+	Algeria: 53
 	Argentina: 70
 	Armenia: 4
 	Australia: 37
@@ -43,7 +43,7 @@ Number of countries: 141
 	El Salvador: 2
 	Estonia: 3
 	Finland: 5
-	France: 151
+	France: 153
 	French Guiana: 2
 	French Polynesia: 3
 	Gabon: 2
@@ -58,7 +58,7 @@ Number of countries: 141
 	India: 30
 	Indonesia: 2
 	Iran: 6
-	Iraq: 21
+	Iraq: 22
 	Ireland: 7
 	Israel: 11
 	Italy: 107
@@ -101,7 +101,7 @@ Number of countries: 141
 	Portugal: 19
 	Puerto Rico: 2
 	Qatar: 3
-	Reunion: 1
+	Reunion: 2
 	Romania: 15
 	Russia: 47
 	Saudi Arabia: 12
