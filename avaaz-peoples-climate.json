@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2401, 
+    "rsvp_count": 2402, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -502,11 +502,11 @@
     "country": "Australia", 
     "start_time": "10:00:00", 
     "venue": "Surf viewing platform, Mathew Flinders Drive, bottom of Watonga St, Lighthouse Beach", 
-    "longitude": 152.9081313, 
+    "longitude": 152.9279252, 
     "state": "NSW", 
     "country_code": "AU", 
-    "address": "Port Macquarie NSW 2444, Australia", 
-    "latitude": -31.4312703, 
+    "address": "98-110 Matthew Flinders Drive, Port Macquarie NSW 2444, Australia", 
+    "latitude": -31.478722, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Beach_photo_shoot_for_climate_action", 
     "id": 1821
@@ -4162,7 +4162,7 @@
   {
     "city": "Coburg", 
     "name": "1. Coburger Klima-Markt", 
-    "rsvp_count": 27, 
+    "rsvp_count": 28, 
     "country": "Germany", 
     "start_time": "11:00:00", 
     "venue": "", 
@@ -5938,7 +5938,7 @@
   {
     "city": "Kamakura", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 22, 
+    "rsvp_count": 23, 
     "country": "Japan", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -26274,7 +26274,7 @@
   {
     "city": "Guayaquil", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 16, 
+    "rsvp_count": 17, 
     "country": "Ecuador", 
     "start_time": "13:00:00", 
     "venue": "En la Avenida 27NO, entre  Urdesa Norte y Urbanor,  nos hemos convocado varias  organizaciones  ambientalistas y  personas que  amamos la naturaleza  como amamos al ser humano y  buscamos  su  bienestar.", 
