@@ -13970,7 +13970,7 @@
   {
     "city": "\u062c\u062f\u0629", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 12, 
+    "rsvp_count": 13, 
     "country": "Saudi Arabia", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -27666,7 +27666,7 @@
   {
     "city": "Santiago Province", 
     "name": "Marcha Ciudadana contra el Cambio Clim\u00e1tico, MAC Santiago de Chile", 
-    "rsvp_count": 82, 
+    "rsvp_count": 83, 
     "country": "Chile", 
     "start_time": "12:00:00", 
     "venue": "Jos\u00e9 Victorino Lastarria 307, Plaza Mulato Gil de Castro (Metro U. Cat\u00f3lica y/o Bellas Artes)", 
@@ -34846,5 +34846,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/el/event/climate/Poreia_ton_Laon_gia_to_Klima_112", 
     "id": 4891
+  }, 
+  {
+    "city": "Gran Tarajal", 
+    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
+    "rsvp_count": 1, 
+    "country": "Spain", 
+    "start_time": "13:00:00", 
+    "venue": "gran tarajal", 
+    "longitude": -14.0202948, 
+    "state": "CN", 
+    "country_code": "ES", 
+    "address": "Gran Tarajal, Las Palmas, Espa\u00f1a", 
+    "latitude": 28.2148, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_509", 
+    "id": 4892
   }
 ]
