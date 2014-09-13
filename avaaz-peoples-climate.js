@@ -1779,7 +1779,7 @@ initData({},
   {
     "city": "San Juan", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 133, 
+    "rsvp_count": 134, 
     "country": "Puerto Rico", 
     "start_time": "13:00:00", 
     "venue": "Capitolio", 
