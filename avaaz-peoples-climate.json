@@ -12738,7 +12738,7 @@
   {
     "city": "Cruzeiro", 
     "name": "People's Climate March", 
-    "rsvp_count": 6, 
+    "rsvp_count": 7, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "BOSQUE DE CRUZEIRO", 
@@ -14242,7 +14242,7 @@
   {
     "city": "Belo Horizonte", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 22, 
+    "rsvp_count": 23, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -28130,7 +28130,7 @@
   {
     "city": "Monteria", 
     "name": "Planton Ambiental  contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Colombia", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -34158,5 +34158,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_189", 
     "id": 4840
+  }, 
+  {
+    "city": "Amritsar", 
+    "name": "People's Climate March", 
+    "rsvp_count": 1, 
+    "country": "India", 
+    "start_time": "13:00:00", 
+    "venue": "", 
+    "longitude": 74.8722642, 
+    "state": "PB", 
+    "country_code": "IN", 
+    "address": "Amritsar, Punjab, India", 
+    "latitude": 31.6339793, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1579", 
+    "id": 4841
   }
 ]
