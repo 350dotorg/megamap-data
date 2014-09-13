@@ -35294,5 +35294,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/ar/event/climate/lmsyr_lmnkhy_lshby_245", 
     "id": 4929
+  }, 
+  {
+    "city": "Goulmima", 
+    "name": "Marche Pour le Climat", 
+    "rsvp_count": 1, 
+    "country": "Morocco", 
+    "start_time": "13:00:00", 
+    "venue": "Goulmima", 
+    "longitude": -4.9553597, 
+    "state": "Mekn\u00e8s-Tafilalet", 
+    "country_code": "MA", 
+    "address": "Municipalit\u00e9 de Goulmima, N10, Goulmima, Maroc", 
+    "latitude": 31.689239, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_268", 
+    "id": 4930
   }
 ]
