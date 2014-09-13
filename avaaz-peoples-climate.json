@@ -4258,7 +4258,7 @@
   {
     "city": "\u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 45, 
+    "rsvp_count": 46, 
     "country": "Ukraine", 
     "start_time": "13:00:00", 
     "venue": "\u0424\u0435\u0441\u0442\u0438\u0432\u0430\u043b\u044c\u043d\u044b\u0439 \u043f\u0440\u0438\u0447\u0430\u043b", 
@@ -16802,7 +16802,7 @@
   {
     "city": "Ciudad de M\u00e9xico", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 87, 
+    "rsvp_count": 88, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Zocalo de la Ciudad de M\u00e9xico", 
@@ -17906,7 +17906,7 @@
   {
     "city": "Palm Springs", 
     "name": "People's Climate March", 
-    "rsvp_count": 11, 
+    "rsvp_count": 12, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "Alejo and Palm Canyon", 
@@ -24738,7 +24738,7 @@
   {
     "city": "Dijon", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 23, 
+    "rsvp_count": 24, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Place Darcy", 
@@ -25090,7 +25090,7 @@
   {
     "city": "Bursa", 
     "name": "People's Climate March", 
-    "rsvp_count": 6, 
+    "rsvp_count": 7, 
     "country": "Turkey", 
     "start_time": "13:00:00", 
     "venue": "", 
