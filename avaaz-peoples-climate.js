@@ -13331,7 +13331,7 @@ initData({},
   {
     "city": "Pirassununga", 
     "name": "Encontro  pelo Clima", 
-    "rsvp_count": 31, 
+    "rsvp_count": 32, 
     "country": "Brazil", 
     "start_time": "18:00:00", 
     "venue": "Escadaria da Igreja Matriz", 
