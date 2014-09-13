@@ -6163,7 +6163,7 @@ initData({},
   {
     "city": "Auch", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 23, 
+    "rsvp_count": 24, 
     "country": "France", 
     "start_time": "11:00:00", 
     "venue": "Boulevard Sadi Carnot, 32000 Auch, France", 
