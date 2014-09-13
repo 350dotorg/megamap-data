@@ -34030,5 +34030,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1578", 
     "id": 4832
+  }, 
+  {
+    "city": "Vicenza", 
+    "name": "Diventa anche tu un Guardiano della Terra", 
+    "rsvp_count": 1, 
+    "country": "Italy", 
+    "start_time": "01:00:00", 
+    "venue": "", 
+    "longitude": 11.5354214, 
+    "state": "Veneto", 
+    "country_code": "IT", 
+    "address": "Vicenza VI, Italia", 
+    "latitude": 45.5454787, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/it/event/climate/Diventa_anche_tu_un_Guardiano_della_Terra", 
+    "id": 4833
   }
 ]
