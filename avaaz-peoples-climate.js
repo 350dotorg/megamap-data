@@ -31715,7 +31715,7 @@ initData({},
   {
     "city": "Roth", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "", 
