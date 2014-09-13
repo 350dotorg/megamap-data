@@ -2387,7 +2387,7 @@ initData({},
   {
     "city": "Paea", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 30, 
+    "rsvp_count": 31, 
     "country": "French Polynesia", 
     "start_time": "13:00:00", 
     "venue": "", 
