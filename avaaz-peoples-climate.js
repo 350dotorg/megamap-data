@@ -115,7 +115,7 @@ initData({},
   {
     "city": "Montreal", 
     "name": "Peoples' Climate March @ Montreal // Marche mondiale pour le climat @ Montr\u00e9al", 
-    "rsvp_count": 221, 
+    "rsvp_count": 222, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Parc Lafontaine", 
@@ -34303,6 +34303,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/ar/event/climate/lmsyr_lmnkhy_lshby_233", 
     "id": 4849
+  }, 
+  {
+    "city": "\u03a0\u03ac\u03c4\u03c1\u03b1", 
+    "name": "\u03a0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u039b\u03b1\u03ce\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
+    "rsvp_count": 1, 
+    "country": "Greece", 
+    "start_time": "19:00:00", 
+    "venue": "", 
+    "longitude": 21.734574, 
+    "state": "\u03a0\u03b5\u03bb\u03bf\u03c0\u03cc\u03bd\u03bd\u03b7\u03c3\u03bf\u03c2 \u0394\u03c5\u03c4\u03b9\u03ba\u03ae \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03ba\u03b1\u03b9 \u0399\u03cc\u03bd\u03b9\u03bf", 
+    "country_code": "GR", 
+    "address": "\u03a0\u03ac\u03c4\u03c1\u03b1, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1", 
+    "latitude": 38.2466395, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/el/event/climate/Poreia_ton_Laon_gia_to_Klima_108", 
+    "id": 4850
   }
 ]
 );
