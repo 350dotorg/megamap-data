@@ -4050,7 +4050,7 @@
   {
     "city": "Moscow", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 252, 
+    "rsvp_count": 253, 
     "country": "Russia", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -10082,7 +10082,7 @@
   {
     "city": "Voeren", 
     "name": "ACTIEDAG VOOR ONS KLIMAAT! wie niet meedoet is gebrandmerkt!", 
-    "rsvp_count": 18, 
+    "rsvp_count": 19, 
     "country": "Belgium", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -35198,5 +35198,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Nordique_et_Ecogones_pour_la_connaissance_lentretien_physique_et_la_reduction_dutilisation_de_lautomobile", 
     "id": 4922
+  }, 
+  {
+    "city": "Rabat", 
+    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
+    "rsvp_count": 1, 
+    "country": "Morocco", 
+    "start_time": "13:00:00", 
+    "venue": "\u062a\u0645\u0627\u0631\u0629", 
+    "longitude": -6.8443, 
+    "state": "\u0627\u0644\u0631\u0628\u0627\u0637", 
+    "country_code": "MA", 
+    "address": "\u0634\u0648\u0627\u0637\u064a\u0621 \u0627\u0644\u0633\u0627\u062d\u0644\u064a\u0629 \u0628\u0627\u0644\u0645\u063a\u0631\u0628", 
+    "latitude": 34.0138, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/ar/event/climate/lmsyr_lmnkhy_lshby_244", 
+    "id": 4923
   }
 ]
