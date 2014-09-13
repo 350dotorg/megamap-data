@@ -19363,7 +19363,7 @@ initData({},
   {
     "city": "\u041a\u0430\u0437\u0430\u043d\u044c", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Russia", 
     "start_time": "13:00:00", 
     "venue": "\u043a\u043e\u043b\u044c\u0446\u043e, \u0447\u0430\u0441\u044b", 
@@ -26275,7 +26275,7 @@ initData({},
   {
     "city": "Guayaquil", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 17, 
+    "rsvp_count": 18, 
     "country": "Ecuador", 
     "start_time": "13:00:00", 
     "venue": "En la Avenida 27NO, entre  Urdesa Norte y Urbanor,  nos hemos convocado varias  organizaciones  ambientalistas y  personas que  amamos la naturaleza  como amamos al ser humano y  buscamos  su  bienestar.", 
@@ -34239,6 +34239,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/ar/event/climate/lmsyr_lmnkhy_lshby_232", 
     "id": 4845
+  }, 
+  {
+    "city": "\u0421\u0430\u0440\u0430\u0442\u043e\u0432", 
+    "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
+    "rsvp_count": 1, 
+    "country": "Russia", 
+    "start_time": "13:00:00", 
+    "venue": "\u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u043b\u0435\u043d\u0438\u043d\u0441\u043a\u043e\u0433\u043e \u0440-\u043d\u0430", 
+    "longitude": 45.970892, 
+    "state": "\u0421\u0430\u0440\u0430\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", 
+    "country_code": "RU", 
+    "address": "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 50 \u043b\u0435\u0442 \u041e\u043a\u0442\u044f\u0431\u0440\u044f, 118\u0410, \u0421\u0430\u0440\u0430\u0442\u043e\u0432, \u0421\u0430\u0440\u0430\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0420\u043e\u0441\u0441\u0438\u044f, 410052", 
+    "latitude": 51.581427, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/ru/event/climate/Narodnyy_klimaticheskiy_marsh_184", 
+    "id": 4846
   }
 ]
 );
