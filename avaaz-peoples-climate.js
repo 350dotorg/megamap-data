@@ -32243,7 +32243,7 @@ initData({},
   {
     "city": "Amos", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Parc de la Cath\u00e9drale", 
@@ -33999,6 +33999,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_185", 
     "id": 4829
+  }, 
+  {
+    "city": "Steinbach", 
+    "name": "Klima-Aktionstag", 
+    "rsvp_count": 1, 
+    "country": "Germany", 
+    "start_time": "14:00:00", 
+    "venue": "Am Rathaus", 
+    "longitude": 8.5772075, 
+    "state": "HE", 
+    "country_code": "DE", 
+    "address": "Am Rathaus, 61449 Steinbach, Germany", 
+    "latitude": 50.1678781, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaAktionstag_154", 
+    "id": 4830
   }
 ]
 );
