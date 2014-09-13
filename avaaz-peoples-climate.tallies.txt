@@ -1,8 +1,8 @@
-Number of events: 2116
+Number of events: 2122
 Number of countries: 138
 	Afghanistan: 1
 	Albania: 2
-	Algeria: 50
+	Algeria: 51
 	Argentina: 69
 	Armenia: 4
 	Australia: 36
@@ -17,7 +17,7 @@ Number of countries: 138
 	Bolivia: 6
 	Bosnia and Herzegovina: 1
 	Botswana: 1
-	Brazil: 195
+	Brazil: 199
 	Brunei: 1
 	Bulgaria: 5
 	Burkina Faso: 1
@@ -48,16 +48,16 @@ Number of countries: 138
 	French Polynesia: 3
 	Germany: 69
 	Greece: 39
-	Guadeloupe: 3
+	Guadeloupe: 2
 	Guatemala: 13
 	Guinea: 1
 	Honduras: 4
 	Hong Kong: 1
-	Hungary: 3
+	Hungary: 4
 	India: 29
 	Indonesia: 2
 	Iran: 6
-	Iraq: 17
+	Iraq: 18
 	Ireland: 7
 	Israel: 11
 	Italy: 107
@@ -93,7 +93,7 @@ Number of countries: 138
 	Palestine: 9
 	Panama: 3
 	Paraguay: 1
-	Peru: 33
+	Peru: 34
 	Philippines: 3
 	Poland: 9
 	Portugal: 19
@@ -112,7 +112,7 @@ Number of countries: 138
 	South Africa: 18
 	South Korea: 1
 	South Sudan: 2
-	Spain: 126
+	Spain: 125
 	Sri Lanka: 2
 	Sudan: 5
 	Sweden: 16
