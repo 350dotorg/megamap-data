@@ -290,7 +290,7 @@
   {
     "city": "\u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7", 
     "name": "People's Climate March", 
-    "rsvp_count": 25, 
+    "rsvp_count": 26, 
     "country": "Greece", 
     "start_time": "13:00:00", 
     "venue": "Kivelis 2", 
@@ -1970,7 +1970,7 @@
   {
     "city": "Newcastle upon Tyne", 
     "name": "People's Climate Petition", 
-    "rsvp_count": 35, 
+    "rsvp_count": 36, 
     "country": "United Kingdom", 
     "start_time": "10:00:00", 
     "venue": "Grey's Monument and Northumberland Street", 
@@ -2818,7 +2818,7 @@
   {
     "city": "Toulouse", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 300, 
+    "rsvp_count": 301, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "place du capitole", 
@@ -2898,7 +2898,7 @@
   {
     "city": "Roma", 
     "name": "Marcia Globale per il Clima a Roma: LA BICICLETTATA, IL CUORE VERDE", 
-    "rsvp_count": 375, 
+    "rsvp_count": 376, 
     "country": "Italy", 
     "start_time": "15:00:00", 
     "venue": "COLOSSEO, ROMA", 
@@ -4882,7 +4882,7 @@
   {
     "city": "Bordeaux", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 168, 
+    "rsvp_count": 169, 
     "country": "France", 
     "start_time": "14:30:00", 
     "venue": "", 
@@ -9458,7 +9458,7 @@
   {
     "city": "\u0421\u0430\u043c\u0430\u0440\u0430", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448 \u0432 \u0421\u0430\u043c\u0430\u0440\u0435", 
-    "rsvp_count": 13, 
+    "rsvp_count": 14, 
     "country": "Russia", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -32770,7 +32770,7 @@
   {
     "city": "Speyer", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Speyrer Dom", 
