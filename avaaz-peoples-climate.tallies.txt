@@ -1,11 +1,11 @@
-Number of events: 2170
+Number of events: 2174
 Number of countries: 141
 	Afghanistan: 1
 	Albania: 2
 	Algeria: 53
 	Argentina: 70
 	Armenia: 4
-	Australia: 37
+	Australia: 38
 	Austria: 26
 	Azerbaijan: 1
 	Bahrain: 3
@@ -39,7 +39,7 @@ Number of countries: 141
 	Denmark: 6
 	Dominican Republic: 7
 	Ecuador: 15
-	Egypt: 32
+	Egypt: 33
 	El Salvador: 2
 	Estonia: 3
 	Finland: 5
@@ -119,7 +119,7 @@ Number of countries: 141
 	Sudan: 6
 	Sweden: 16
 	Switzerland: 22
-	Syria: 3
+	Syria: 4
 	Taiwan: 1
 	Tajikistan: 1
 	Thailand: 2
@@ -138,6 +138,6 @@ Number of countries: 141
 	Venezuela: 25
 	Vietnam: 1
 	Western Sahara: 1
-	Yemen: 14
+	Yemen: 15
 	Zambia: 3
 	Zimbabwe: 1
