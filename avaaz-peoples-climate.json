@@ -2,7 +2,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 1972, 
+    "rsvp_count": 1973, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -850,7 +850,7 @@
   {
     "city": "Brussels", 
     "name": "\u00c9venement des Citoyens pour le Climat", 
-    "rsvp_count": 769, 
+    "rsvp_count": 770, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "Place Poelaert", 
@@ -32514,7 +32514,7 @@
   {
     "city": "Altenstadt", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Landtag", 
