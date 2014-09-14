@@ -5971,7 +5971,7 @@ initData({},
   {
     "city": "Abidjan", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 14, 
+    "rsvp_count": 15, 
     "country": "C\u00f4te d'Ivoire", 
     "start_time": "13:00:00", 
     "venue": "Yopougon- toits rouge", 
