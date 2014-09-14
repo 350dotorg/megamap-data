@@ -29235,7 +29235,7 @@ initData({},
   {
     "city": "Aarhus", 
     "name": "People's Climate March", 
-    "rsvp_count": 24, 
+    "rsvp_count": 25, 
     "country": "Denmark", 
     "start_time": "13:00:00", 
     "venue": "Musikhuset", 
