@@ -1,8 +1,8 @@
-Number of events: 2281
+Number of events: 2285
 Number of countries: 142
 	Afghanistan: 1
 	Albania: 2
-	Algeria: 55
+	Algeria: 56
 	Argentina: 75
 	Armenia: 4
 	Australia: 38
@@ -17,7 +17,7 @@ Number of countries: 142
 	Bolivia: 6
 	Bosnia and Herzegovina: 1
 	Botswana: 1
-	Brazil: 216
+	Brazil: 218
 	Brunei: 1
 	Bulgaria: 6
 	Burkina Faso: 1
@@ -132,7 +132,7 @@ Number of countries: 142
 	Ukraine: 49
 	United Arab Emirates: 3
 	United Kingdom: 61
-	United States of America: 79
+	United States of America: 80
 	Uruguay: 15
 	Uzbekistan: 1
 	Venezuela: 25
