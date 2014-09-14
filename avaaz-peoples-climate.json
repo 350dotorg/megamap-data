@@ -6450,7 +6450,7 @@
   {
     "city": "Buin", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 56, 
+    "rsvp_count": 57, 
     "country": "Chile", 
     "start_time": "13:00:00", 
     "venue": "Plaza de armas Buin", 
@@ -16482,7 +16482,7 @@
   {
     "city": "Our\u00e9m", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 26, 
+    "rsvp_count": 27, 
     "country": "Portugal", 
     "start_time": "13:00:00", 
     "venue": "Igreja do Castelo de Our\u00e9m -> Santu\u00e1rio de F\u00e1tima -> Igreja do Castelo de Our\u00e9m", 
@@ -35582,5 +35582,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_195", 
     "id": 4949
+  }, 
+  {
+    "city": "Curitiba", 
+    "name": "Caminhada pelo Clima", 
+    "rsvp_count": 1, 
+    "country": "Brazil", 
+    "start_time": "13:00:00", 
+    "venue": "pra\u00e7a ruy barbosa", 
+    "longitude": -49.2739707, 
+    "state": "PR", 
+    "country_code": "BR", 
+    "address": "Pra\u00e7a Rui Barbosa - Centro, Matriz, Curitiba - PR, Rep\u00fablica Federativa do Brasil", 
+    "latitude": -25.4362573, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_196", 
+    "id": 4950
   }
 ]
