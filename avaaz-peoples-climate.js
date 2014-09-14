@@ -17779,7 +17779,7 @@ initData({},
   {
     "city": "Oshawa", 
     "name": "Little Oshawa Mobilize", 
-    "rsvp_count": 18, 
+    "rsvp_count": 19, 
     "country": "Canada", 
     "start_time": "14:00:00", 
     "venue": "", 
