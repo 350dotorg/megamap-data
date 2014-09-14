@@ -35759,6 +35759,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_Vaasa", 
     "id": 4962
+  }, 
+  {
+    "city": "Clavier", 
+    "name": "Pedalez et visitez (moulins et hydro-electrcit\u00e9) pour le climat!", 
+    "rsvp_count": 1, 
+    "country": "Belgium", 
+    "start_time": "10:00:00", 
+    "venue": "Rue de la Source 10, 4560 Clavier", 
+    "longitude": 5.2987943000001, 
+    "state": "R\u00e9gion wallonne", 
+    "country_code": "BE", 
+    "address": "Rue de la Source 10, 4560 Clavier, Belgique", 
+    "latitude": 50.4157286, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Pedalez_et_visitez_moulins_et_hydroelectrcite_pour_le_climat", 
+    "id": 4963
   }
 ]
 );
