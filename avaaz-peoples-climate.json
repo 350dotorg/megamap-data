@@ -2,7 +2,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 2262, 
+    "rsvp_count": 2263, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2751, 
+    "rsvp_count": 2752, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -114,7 +114,7 @@
   {
     "city": "Montreal", 
     "name": "Peoples' Climate March @ Montreal // Marche mondiale pour le climat @ Montr\u00e9al", 
-    "rsvp_count": 251, 
+    "rsvp_count": 252, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Parc Lafontaine", 
@@ -754,7 +754,7 @@
   {
     "city": "Montr\u00e9al", 
     "name": "Marche mondiale pour le climat@ Montr\u00e9al / Peoples' Climat March @ Montr\u00e9al", 
-    "rsvp_count": 269, 
+    "rsvp_count": 270, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "D\u00e9part: Parc Lafontaine, le 21 septembre \u00e0 13:00 3933 Avenue du Parc la Fontaine, Montr\u00e9al, QC H2L 0C7", 
@@ -2818,7 +2818,7 @@
   {
     "city": "Toulouse", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 335, 
+    "rsvp_count": 336, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "place du capitole", 
@@ -9490,7 +9490,7 @@
   {
     "city": "Bauru", 
     "name": "A\u00e7\u00e3o Global  pelo Clima", 
-    "rsvp_count": 27, 
+    "rsvp_count": 28, 
     "country": "Brazil", 
     "start_time": "09:00:00", 
     "venue": "Rua Batista de Carvalho", 
@@ -12209,7 +12209,7 @@
   }, 
   {
     "city": "Santa Cruz", 
-    "name": "Meatless Monday Potluck (on Sunday) and People's Climate March", 
+    "name": "Meatless Monday Potluck (on Sunday) and People's Climate March, Santa Cruz, CA", 
     "rsvp_count": 5, 
     "country": "United States of America", 
     "start_time": "16:00:00", 
@@ -14594,7 +14594,7 @@
   {
     "city": "Chichester", 
     "name": "People's Climate March", 
-    "rsvp_count": 33, 
+    "rsvp_count": 34, 
     "country": "United Kingdom", 
     "start_time": "12:00:00", 
     "venue": "The Cross", 
@@ -17346,7 +17346,7 @@
   {
     "city": "Yal\u0131kavak", 
     "name": "\u0130klim \u0130\u00e7in Halk Y\u00fcr\u00fcy\u00fc\u015f\u00fc", 
-    "rsvp_count": 11, 
+    "rsvp_count": 12, 
     "country": "Turkey", 
     "start_time": "13:00:00", 
     "venue": "Yal\u0131kavak Belediye Meydan\u0131", 
@@ -21010,7 +21010,7 @@
   {
     "city": "Santa Fe", 
     "name": "People's Climate March", 
-    "rsvp_count": 13, 
+    "rsvp_count": 14, 
     "country": "Argentina", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -29826,7 +29826,7 @@
   {
     "city": "Cali", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 25, 
+    "rsvp_count": 26, 
     "country": "Colombia", 
     "start_time": "13:00:00", 
     "venue": "autopista sur oriental con calle 13 en la Luna a las 9 am", 
@@ -30306,7 +30306,7 @@
   {
     "city": "Figueira da Foz", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Portugal", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -36494,5 +36494,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_278", 
     "id": 5021
+  }, 
+  {
+    "city": "Campa\u00f1a", 
+    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
+    "rsvp_count": 1, 
+    "country": "Argentina", 
+    "start_time": "13:00:00", 
+    "venue": "", 
+    "longitude": -58.958459, 
+    "state": "BA", 
+    "country_code": "AR", 
+    "address": "Coleta 749, Campa\u00f1a, Buenos Aires, Argentina", 
+    "latitude": -34.1689555, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_521", 
+    "id": 5022
   }
 ]
