@@ -7491,7 +7491,7 @@ initData({},
   {
     "city": "Maraval", 
     "name": "People's Climate March", 
-    "rsvp_count": 33, 
+    "rsvp_count": 34, 
     "country": "Trinidad and Tobago", 
     "start_time": "13:00:00", 
     "venue": "King George the 5th Park", 
