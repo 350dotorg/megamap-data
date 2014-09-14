@@ -780,7 +780,7 @@
     "address": "Bradninch (nr Exeter), opp Guildhall, Bradninch, Exeter, Devon EX5, Reino Unido", 
     "latitude": 50.826981, 
     "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/Peoples_March_against_Climate_Change_Peoples_March_for_Clean_Energy", 
+    "rsvp_url": "https://secure.avaaz.org/EN/event/climate/Peoples_March_against_Climate_Change_Peoples_March_for_Clean_Energy", 
     "id": 1892
   }, 
   {
@@ -2722,7 +2722,7 @@
   {
     "city": "Milano", 
     "name": "Climate March", 
-    "rsvp_count": 308, 
+    "rsvp_count": 309, 
     "country": "Italy", 
     "start_time": "10:00:00", 
     "venue": "", 
@@ -3538,7 +3538,7 @@
   {
     "city": "Frankfurt am Main", 
     "name": "KLIMA-AKTIONSTAG FRANKFURT AM MAIN", 
-    "rsvp_count": 216, 
+    "rsvp_count": 217, 
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "Zwischen R\u00f6mer und Zeil", 
@@ -5060,7 +5060,7 @@
     "name": "People's Climate March", 
     "rsvp_count": 16, 
     "country": "United States of America", 
-    "start_time": "13:00:00", 
+    "start_time": "13:30:00", 
     "venue": "5th and Browne,  Spokane, Washington", 
     "longitude": -117.4132577, 
     "state": "WA", 
@@ -8066,7 +8066,7 @@
   {
     "city": "Stuttgart", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 172, 
+    "rsvp_count": 173, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Fu\u00dfg\u00e4ngerzone S-Untertr\u00fcrkheim", 
@@ -16304,22 +16304,6 @@
     "id": 3367
   }, 
   {
-    "city": "Verona", 
-    "name": "The Awakening Party", 
-    "rsvp_count": 14, 
-    "country": "Italy", 
-    "start_time": "18:00:00", 
-    "venue": "Canarin, via Nicol\u00f2 Giolfino 4, 37133 Verona", 
-    "longitude": 11.0116128, 
-    "state": "Veneto", 
-    "country_code": "IT", 
-    "address": "Via Nicol\u00f2 Giolfino, 4, 37133 Verona VR, Italia", 
-    "latitude": 45.4348415, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/it/event/climate/Rewake_fest", 
-    "id": 3370
-  }, 
-  {
     "city": "Guatemala", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
     "rsvp_count": 19, 
@@ -19266,7 +19250,7 @@
   {
     "city": "\u041a\u0430\u0437\u0430\u043d\u044c", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 7, 
+    "rsvp_count": 8, 
     "country": "Russia", 
     "start_time": "13:00:00", 
     "venue": "\u043a\u043e\u043b\u044c\u0446\u043e, \u0447\u0430\u0441\u044b", 
