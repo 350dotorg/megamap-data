@@ -1,4 +1,4 @@
-Number of events: 2216
+Number of events: 2219
 Number of countries: 142
 	Afghanistan: 1
 	Albania: 2
@@ -98,7 +98,7 @@ Number of countries: 142
 	Peru: 36
 	Philippines: 3
 	Poland: 8
-	Portugal: 19
+	Portugal: 20
 	Puerto Rico: 2
 	Qatar: 2
 	Reunion: 2
@@ -129,11 +129,11 @@ Number of countries: 142
 	Turkey: 22
 	US Virgin Islands: 1
 	Uganda: 2
-	Ukraine: 48
+	Ukraine: 49
 	United Arab Emirates: 3
 	United Kingdom: 59
 	United States of America: 79
-	Uruguay: 14
+	Uruguay: 15
 	Uzbekistan: 1
 	Venezuela: 25
 	Vietnam: 1
