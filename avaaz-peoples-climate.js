@@ -195,7 +195,7 @@ initData({},
   {
     "city": "Auckland", 
     "name": "People's Climate March - Auckland", 
-    "rsvp_count": 208, 
+    "rsvp_count": 209, 
     "country": "New Zealand", 
     "start_time": "13:00:00", 
     "venue": "Britomart", 
