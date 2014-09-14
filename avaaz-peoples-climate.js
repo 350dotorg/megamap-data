@@ -32339,7 +32339,7 @@ initData({},
   {
     "city": "Little Rock", 
     "name": "People's Climate March - Downtown Little Rock", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "Broadway & Capitol", 
