@@ -6067,7 +6067,7 @@ initData({},
   {
     "city": "Graz", 
     "name": "Klima-Aktion Graz - People's Climate March", 
-    "rsvp_count": 212, 
+    "rsvp_count": 213, 
     "country": "Austria", 
     "start_time": "13:00:00", 
     "venue": "", 
