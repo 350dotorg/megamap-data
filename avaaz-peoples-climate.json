@@ -194,15 +194,15 @@
   {
     "city": "", 
     "name": "People's Climate March - Auckland", 
-    "rsvp_count": 212, 
+    "rsvp_count": 213, 
     "country": "New Zealand", 
     "start_time": "13:00:00", 
-    "venue": "", 
-    "longitude": 174.766901, 
-    "state": "", 
+    "venue": "BRITOMART train station", 
+    "longitude": 174.76804, 
+    "state": "Auckland", 
     "country_code": "NZ", 
-    "address": "in front of Britomart", 
-    "latitude": -36.8440893, 
+    "address": "Train Station - Britomart, Auckland 1010, New Zealand", 
+    "latitude": -36.844263, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_Auckland", 
     "id": 1706
@@ -6146,7 +6146,7 @@
   {
     "city": "Philadelphia", 
     "name": "Freedom People's Climate March", 
-    "rsvp_count": 31, 
+    "rsvp_count": 32, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "Liberty Bell Center mall area of Independence National Historical Park mall North of Independence Hall.", 
@@ -6546,7 +6546,7 @@
   {
     "city": "Noum\u00e9a", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 126, 
+    "rsvp_count": 127, 
     "country": "New Caledonia", 
     "start_time": "13:00:00", 
     "venue": "Baie des citrons", 
@@ -8242,7 +8242,7 @@
   {
     "city": "Las Palmas de Gran Canaria", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 76, 
+    "rsvp_count": 77, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Fuente Luminosa", 
@@ -18594,7 +18594,7 @@
   {
     "city": "S\u00e3o Paulo", 
     "name": "Caminhada pelo Clima - Ch\u00e1cara Klabin", 
-    "rsvp_count": 6, 
+    "rsvp_count": 7, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "", 
