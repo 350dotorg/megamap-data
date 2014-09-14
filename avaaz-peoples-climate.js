@@ -25859,7 +25859,7 @@ initData({},
   {
     "city": "Cairns", 
     "name": "People's Climate March", 
-    "rsvp_count": 10, 
+    "rsvp_count": 11, 
     "country": "Australia", 
     "start_time": "09:00:00", 
     "venue": "Pullman Reef Casino", 
