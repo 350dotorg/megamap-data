@@ -738,7 +738,7 @@
   {
     "city": "Monterrey", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 225, 
+    "rsvp_count": 226, 
     "country": "Mexico", 
     "start_time": "10:00:00", 
     "venue": "Explanada de los heroes", 
@@ -8402,7 +8402,7 @@
   {
     "city": "Valencia", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 211, 
+    "rsvp_count": 212, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -13522,7 +13522,7 @@
   {
     "city": "San Miguel de Tucum\u00e1n", 
     "name": "Tucum\u00e1n marcha contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 10, 
+    "rsvp_count": 11, 
     "country": "Argentina", 
     "start_time": "15:00:00", 
     "venue": "Parque 9 de Julio", 
@@ -26930,7 +26930,7 @@
   {
     "city": "Braunschweig", 
     "name": "Klima-Aktionstag - Greenpeace Aktion", 
-    "rsvp_count": 11, 
+    "rsvp_count": 12, 
     "country": "Germany", 
     "start_time": "20:00:00", 
     "venue": "Treffpunkt ist das Universum Kino", 
@@ -29362,7 +29362,7 @@
   {
     "city": "Wellington", 
     "name": "Global Climate Action - Raise Your Voices on Mt Vic", 
-    "rsvp_count": 38, 
+    "rsvp_count": 39, 
     "country": "New Zealand", 
     "start_time": "13:00:00", 
     "venue": "Top of Mt Victoria", 
@@ -32661,11 +32661,11 @@
     "rsvp_count": 4, 
     "country": "Sweden", 
     "start_time": "13:00:00", 
-    "venue": "\u00c5CA, Gastronomen", 
+    "venue": "Gastronomen, \u00c5CA under sk\u00f6rdefesten!", 
     "longitude": 19.9486167, 
     "state": "\u00c5lands landsbygd", 
     "country_code": "SE", 
-    "address": "Jomala 22150, Aland Islands", 
+    "address": "Jomala 22150, \u00c5land", 
     "latitude": 60.1522174, 
     "event_date": "2014-09-20", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_Aland_1", 
