@@ -1,9 +1,9 @@
-Number of events: 2259
+Number of events: 2266
 Number of countries: 142
 	Afghanistan: 1
 	Albania: 2
 	Algeria: 55
-	Argentina: 72
+	Argentina: 73
 	Armenia: 4
 	Australia: 38
 	Austria: 26
@@ -24,7 +24,7 @@ Number of countries: 142
 	Burundi: 1
 	Cambodia: 1
 	Cameroon: 1
-	Canada: 85
+	Canada: 86
 	Cayman Islands: 1
 	Chile: 26
 	Colombia: 85
@@ -39,7 +39,7 @@ Number of countries: 142
 	Denmark: 6
 	Dominican Republic: 7
 	Ecuador: 15
-	Egypt: 34
+	Egypt: 35
 	El Salvador: 2
 	Estonia: 3
 	Finland: 5
@@ -60,8 +60,8 @@ Number of countries: 142
 	Iran: 7
 	Iraq: 23
 	Ireland: 7
-	Israel: 12
-	Italy: 111
+	Israel: 13
+	Italy: 112
 	Japan: 8
 	Jordan: 2
 	Kenya: 2
@@ -126,7 +126,7 @@ Number of countries: 142
 	Togo: 1
 	Trinidad and Tobago: 1
 	Tunisia: 15
-	Turkey: 24
+	Turkey: 26
 	US Virgin Islands: 1
 	Uganda: 2
 	Ukraine: 49
