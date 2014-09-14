@@ -25331,7 +25331,7 @@ initData({},
   {
     "city": "Cork", 
     "name": "People's Climate March", 
-    "rsvp_count": 16, 
+    "rsvp_count": 17, 
     "country": "Ireland", 
     "start_time": "19:00:00", 
     "venue": "Fitzgerald Park, Cork", 
