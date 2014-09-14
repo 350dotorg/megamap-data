@@ -2,7 +2,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 2272, 
+    "rsvp_count": 2273, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -1970,7 +1970,7 @@
   {
     "city": "Hamburg", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 348, 
+    "rsvp_count": 349, 
     "country": "Germany", 
     "start_time": "16:00:00", 
     "venue": "vor dem Rathaus", 
@@ -3986,7 +3986,7 @@
   {
     "city": "Amsterdam", 
     "name": "Amsterdam People's Climate March \u2764\ufe0e De mars van de Klimmuur naar het slotevent op de EYE kade", 
-    "rsvp_count": 111, 
+    "rsvp_count": 112, 
     "country": "Netherlands", 
     "start_time": "17:00:00", 
     "venue": "Plein bij de Klimmuur", 
@@ -5874,7 +5874,7 @@
   {
     "city": "Strasbourg", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 181, 
+    "rsvp_count": 182, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Place Kl\u00e9ber", 
@@ -7634,7 +7634,7 @@
   {
     "city": "Miraflores", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 57, 
+    "rsvp_count": 58, 
     "country": "Peru", 
     "start_time": "10:00:00", 
     "venue": "PARQUE KENNEDY. MIRAFLORES.LIMA", 
@@ -10066,7 +10066,7 @@
   {
     "city": "Arequipa", 
     "name": "Marcha contra el Cambio Clim\u00e1tico. \u00a1Salvemos nuestro hogar!", 
-    "rsvp_count": 24, 
+    "rsvp_count": 25, 
     "country": "Peru", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -13042,7 +13042,7 @@
   {
     "city": "Ingolstadt", 
     "name": "People's Climate March \"F\u00fcnf vor Zw\u00f6lf\"", 
-    "rsvp_count": 18, 
+    "rsvp_count": 19, 
     "country": "Germany", 
     "start_time": "11:55:00", 
     "venue": "Rathausplatz Ingolstadt", 
@@ -20914,7 +20914,7 @@
   {
     "city": "Budapest", 
     "name": "People's Climate March - Hungary", 
-    "rsvp_count": 110, 
+    "rsvp_count": 111, 
     "country": "Hungary", 
     "start_time": "13:00:00", 
     "venue": "Budapest, Kossuth Lajos t\u00e9r, 1055 Magyarorsz\u00e1g", 
@@ -21970,7 +21970,7 @@
   {
     "city": "Aarau", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 13, 
+    "rsvp_count": 14, 
     "country": "Switzerland", 
     "start_time": "13:00:00", 
     "venue": "Estaci\u00f3n del Ferrocarril (SBB)", 
@@ -36478,5 +36478,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_521", 
     "id": 5022
+  }, 
+  {
+    "city": "S\u00e3o Jo\u00e3o Nepomuceno", 
+    "name": "Caminhada pelo Clima", 
+    "rsvp_count": 1, 
+    "country": "Brazil", 
+    "start_time": "13:00:00", 
+    "venue": "Estrada ligando SJN a TARUA\u00c7U/MG", 
+    "longitude": -43.0072854, 
+    "state": "MG", 
+    "country_code": "BR", 
+    "address": "S\u00e3o Jo\u00e3o Nepomuceno - MG, Rep\u00fablica Federativa do Brasil", 
+    "latitude": -21.5386249, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_205", 
+    "id": 5023
   }
 ]
