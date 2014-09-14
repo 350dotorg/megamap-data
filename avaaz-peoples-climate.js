@@ -5139,7 +5139,7 @@ initData({},
   {
     "city": "Florian\u00f3polis", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 35, 
+    "rsvp_count": 36, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Av Beira Mar Norte", 
