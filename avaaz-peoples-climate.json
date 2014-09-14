@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2643, 
+    "rsvp_count": 2644, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -35502,5 +35502,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_269", 
     "id": 4944
+  }, 
+  {
+    "city": "Central Jakarta City", 
+    "name": "People's Climate March", 
+    "rsvp_count": 1, 
+    "country": "Indonesia", 
+    "start_time": "10:00:00", 
+    "venue": "Bundaran Hotel Indonesia", 
+    "longitude": 106.823016, 
+    "state": "Jakarta", 
+    "country_code": "ID", 
+    "address": "Bundaran Hotel Indones, Gondangdia, Menteng, Central Jakarta City 10350, Indonesia", 
+    "latitude": -6.193605, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1590", 
+    "id": 4945
   }
 ]
