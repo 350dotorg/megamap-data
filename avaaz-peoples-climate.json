@@ -9874,7 +9874,7 @@
   {
     "city": "Ciudad Evita", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 30, 
+    "rsvp_count": 31, 
     "country": "Argentina", 
     "start_time": "13:00:00", 
     "venue": "Plaza de Ciudad Evita", 
@@ -35382,11 +35382,11 @@
     "country": "Brazil", 
     "start_time": "09:00:00", 
     "venue": "Em frente ao Macei\u00f3 Atlantic Su\u00edtes (antigo Hotel Meli\u00e1)", 
-    "longitude": -35.7089492, 
+    "longitude": -35.7002827, 
     "state": "AL", 
     "country_code": "BR", 
-    "address": "Macei\u00f3 - AL, Rep\u00fablica Federativa do Brasil", 
-    "latitude": -9.6498487, 
+    "address": "Avenida \u00c1lvaro Otac\u00edlio, 42-446 - Ponta Verde, Macei\u00f3 - AL, Rep\u00fablica Federativa do Brasil", 
+    "latitude": -9.647842, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_193", 
     "id": 4935
