@@ -834,7 +834,7 @@
   {
     "city": "Copenhagen", 
     "name": "People's Climate March", 
-    "rsvp_count": 369, 
+    "rsvp_count": 370, 
     "country": "Denmark", 
     "start_time": "14:00:00", 
     "venue": "Nytorv, Domhuset", 
@@ -850,7 +850,7 @@
   {
     "city": "Brussels", 
     "name": "\u00c9venement des Citoyens pour le Climat", 
-    "rsvp_count": 827, 
+    "rsvp_count": 828, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "Place Poelaert", 
@@ -1762,7 +1762,7 @@
   {
     "city": "Freiburg im Breisgau", 
     "name": "Klimaevent", 
-    "rsvp_count": 131, 
+    "rsvp_count": 132, 
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "Ecke Bertoldstr./Niemenstr.", 
@@ -2962,7 +2962,7 @@
   {
     "city": "Ottignies-Louvain-la-Neuve", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 179, 
+    "rsvp_count": 180, 
     "country": "Belgium", 
     "start_time": "13:00:00", 
     "venue": "Grand Place de Louvain-la-Neuve", 
@@ -6306,7 +6306,7 @@
   {
     "city": "Athens", 
     "name": "\u0395\u03c0\u03af\u03c3\u03b7\u03bc\u03b7 \u0394\u03c1\u03ac\u03c3\u03b7 \u0391\u03b8\u03ae\u03bd\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
-    "rsvp_count": 660, 
+    "rsvp_count": 661, 
     "country": "Greece", 
     "start_time": "16:00:00", 
     "venue": "\u0394\u03b9\u03bf\u03bd\u03c5\u03c3\u03af\u03bf\u03c5 \u0391\u03c1\u03b5\u03bf\u03c0\u03b1\u03b3\u03af\u03c4\u03bf\u03c5, \u0391\u03b8\u03ae\u03bd\u03b1", 
@@ -6594,7 +6594,7 @@
   {
     "city": "Noum\u00e9a", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 118, 
+    "rsvp_count": 119, 
     "country": "New Caledonia", 
     "start_time": "13:00:00", 
     "venue": "Baie des citrons", 
@@ -17666,7 +17666,7 @@
   {
     "city": "\u03a4\u03c1\u03af\u03ba\u03b1\u03bb\u03b1", 
     "name": "\u03a0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u039b\u03b1\u03ce\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
-    "rsvp_count": 26, 
+    "rsvp_count": 27, 
     "country": "Greece", 
     "start_time": "13:00:00", 
     "venue": "\u03ba\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03b7 \u03c0\u03bb\u03b1\u03c4\u03b9\u03b1", 
@@ -20946,7 +20946,7 @@
   {
     "city": "Leuven", 
     "name": "People's Climate March", 
-    "rsvp_count": 82, 
+    "rsvp_count": 83, 
     "country": "Belgium", 
     "start_time": "13:00:00", 
     "venue": "Station Leuven", 
@@ -35058,7 +35058,7 @@
   {
     "city": "Essen", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 7, 
+    "rsvp_count": 8, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Willy-Brandt-Platz", 
@@ -35854,5 +35854,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1594", 
     "id": 4970
+  }, 
+  {
+    "city": "M\u00fcnsingen", 
+    "name": "Greenpeace Gruppenaktionstag in M\u00fcnsingen", 
+    "rsvp_count": 1, 
+    "country": "Germany", 
+    "start_time": "10:00:00", 
+    "venue": "Platz vor dem neuen Rathaus", 
+    "longitude": 9.4980356999999, 
+    "state": "BW", 
+    "country_code": "DE", 
+    "address": "M\u00fcnsingen, Deutschland", 
+    "latitude": 48.4114459, 
+    "event_date": "2014-09-20", 
+    "rsvp_url": "https://secure.avaaz.org/de/event/climate/Greenpeace_Gruppenaktionstag_in_Muensingen", 
+    "id": 4971
   }
 ]
