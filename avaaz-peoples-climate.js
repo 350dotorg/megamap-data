@@ -22051,7 +22051,7 @@ initData({},
   {
     "city": "Petaling Jaya", 
     "name": "People's Climate March", 
-    "rsvp_count": 39, 
+    "rsvp_count": 40, 
     "country": "Malaysia", 
     "start_time": "13:00:00", 
     "venue": "Stadium MPPJ", 
