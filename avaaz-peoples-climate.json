@@ -1810,7 +1810,7 @@
   {
     "city": "San Juan", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 142, 
+    "rsvp_count": 143, 
     "country": "Puerto Rico", 
     "start_time": "13:00:00", 
     "venue": "Capitolio", 
@@ -2850,7 +2850,7 @@
   {
     "city": "Toulouse", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 326, 
+    "rsvp_count": 327, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "place du capitole", 
@@ -4482,7 +4482,7 @@
   {
     "city": "S\u00e9n\u00e9", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 64, 
+    "rsvp_count": 65, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Devant Grain de Sel", 
@@ -6162,7 +6162,7 @@
   {
     "city": "Tel Aviv-Yafo", 
     "name": "\u05e0\u05d7\u05e0\u05e7\u05d9\u05dd \u05de\u05d4\u05d6\u05d9\u05d4\u05d5\u05dd - \u05d3\u05d5\u05e8\u05e9\u05d9\u05dd 100% \u05d0\u05e0\u05e8\u05d2\u05d9\u05d4 \u05e0\u05e7\u05d9\u05d9\u05d4!", 
-    "rsvp_count": 191, 
+    "rsvp_count": 192, 
     "country": "Israel", 
     "start_time": "18:00:00", 
     "venue": "\u05db\u05d9\u05db\u05e8 \u05d4\u05d1\u05d9\u05de\u05d4", 
@@ -10754,7 +10754,7 @@
   {
     "city": "Dronten", 
     "name": "Actiedag voor het Klimaat", 
-    "rsvp_count": 7, 
+    "rsvp_count": 8, 
     "country": "Netherlands", 
     "start_time": "13:00:00", 
     "venue": "", 
