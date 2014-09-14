@@ -6418,7 +6418,7 @@
   {
     "city": "Pescara", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 57, 
+    "rsvp_count": 58, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "p.zza della rinascita", 
@@ -8710,11 +8710,11 @@
     "country": "Germany", 
     "start_time": "18:00:00", 
     "venue": "Kleiner Deutschhof, Foyer der Volkshochschule und Deutschhofkeller", 
-    "longitude": 9.210879, 
+    "longitude": 9.218, 
     "state": "BW", 
     "country_code": "DE", 
-    "address": "Heilbronn, Deutschland", 
-    "latitude": 49.1426929, 
+    "address": "Kirchbrunnenstra\u00dfe 12, 74072 Heilbronn, Deutschland", 
+    "latitude": 49.14109, 
     "event_date": "2014-09-20", 
     "rsvp_url": "https://secure.avaaz.org/de/event/climate/Film_Kunstnacht_zu_Klimawandel_Energiewende_und_Nachhaltigkeit", 
     "id": 2775
