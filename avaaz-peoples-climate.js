@@ -755,7 +755,7 @@ initData({},
   {
     "city": "Montr\u00e9al", 
     "name": "Marche mondiale pour le climat@ Montr\u00e9al / Peoples' Climat March @ Montr\u00e9al", 
-    "rsvp_count": 267, 
+    "rsvp_count": 268, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "D\u00e9part: Parc Lafontaine, le 21 septembre \u00e0 13:00 3933 Avenue du Parc la Fontaine, Montr\u00e9al, QC H2L 0C7", 
@@ -1219,7 +1219,7 @@ initData({},
   {
     "city": "Amsterdam", 
     "name": "People's Climate March", 
-    "rsvp_count": 344, 
+    "rsvp_count": 345, 
     "country": "Netherlands", 
     "start_time": "13:00:00", 
     "venue": "Damsquare", 
@@ -36383,6 +36383,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaFahrradAktionstag", 
     "id": 5011
+  }, 
+  {
+    "city": "Montreux", 
+    "name": "Marche Pour le Climat", 
+    "rsvp_count": 1, 
+    "country": "Switzerland", 
+    "start_time": "13:00:00", 
+    "venue": "Place du march\u00e9", 
+    "longitude": 6.9097722, 
+    "state": "VD", 
+    "country_code": "CH", 
+    "address": "Place du March\u00e9, 1820 Montreux, Suisse", 
+    "latitude": 46.4320986, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_277", 
+    "id": 5012
   }
 ]
 );
