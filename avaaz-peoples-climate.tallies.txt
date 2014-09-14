@@ -1,4 +1,4 @@
-Number of events: 2301
+Number of events: 2302
 Number of countries: 142
 	Afghanistan: 1
 	Albania: 2
@@ -61,7 +61,7 @@ Number of countries: 142
 	Iraq: 23
 	Ireland: 7
 	Israel: 13
-	Italy: 110
+	Italy: 111
 	Japan: 9
 	Jordan: 2
 	Kenya: 2
