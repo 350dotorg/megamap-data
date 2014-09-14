@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2706, 
+    "rsvp_count": 2707, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -1266,7 +1266,7 @@
   {
     "city": "Treviso", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 109, 
+    "rsvp_count": 110, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -2418,7 +2418,7 @@
   {
     "city": "Cape Town", 
     "name": "People's Climate March", 
-    "rsvp_count": 446, 
+    "rsvp_count": 447, 
     "country": "South Africa", 
     "start_time": "13:00:00", 
     "venue": "Green Point Stadium", 
@@ -36110,5 +36110,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1600", 
     "id": 4989
+  }, 
+  {
+    "city": "Nules", 
+    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
+    "rsvp_count": 1, 
+    "country": "Spain", 
+    "start_time": "13:00:00", 
+    "venue": "", 
+    "longitude": -0.15401440000005, 
+    "state": "Comunidad Valenciana", 
+    "country_code": "ES", 
+    "address": "Calle San Pablo, 1, 12520 Nules, Castell\u00f3n, Espa\u00f1a", 
+    "latitude": 39.857607, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_514", 
+    "id": 4991
   }
 ]
