@@ -13859,7 +13859,7 @@ initData({},
   {
     "city": "Timi\u0219oara", 
     "name": "Mar\u0219ul Cet\u0103\u021benilor pentru Ac\u021biune Climatic\u0103", 
-    "rsvp_count": 34, 
+    "rsvp_count": 35, 
     "country": "Romania", 
     "start_time": "13:00:00", 
     "venue": "Piata Victoriei (in fata operei)", 
