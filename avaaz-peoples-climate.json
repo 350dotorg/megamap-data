@@ -11330,7 +11330,7 @@
   {
     "city": "Santa Rosa", 
     "name": "People's Climate March", 
-    "rsvp_count": 49, 
+    "rsvp_count": 50, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "Luther Burbank gardens", 
@@ -15858,7 +15858,7 @@
   {
     "city": "Goi\u00e2nia", 
     "name": "Recomposi\u00e7\u00e3o Total das Matas Ciliares", 
-    "rsvp_count": 415, 
+    "rsvp_count": 416, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a C\u00edvica", 
@@ -17810,7 +17810,7 @@
   {
     "city": "Botucatu", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 9, 
+    "rsvp_count": 10, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -20514,7 +20514,7 @@
   {
     "city": "Envigado", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 62, 
+    "rsvp_count": 63, 
     "country": "Colombia", 
     "start_time": "13:00:00", 
     "venue": "Parque principal Envigado", 
@@ -37022,5 +37022,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_282", 
     "id": 5061
+  }, 
+  {
+    "city": "Ciudad de M\u00e9xico", 
+    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
+    "rsvp_count": 1, 
+    "country": "Mexico", 
+    "start_time": "13:00:00", 
+    "venue": "Paseo de la Reforma y Eje 2 PTE, Ju\u00e1rez Cuauht\u00e9moc, Ciudad de M\u00e9xico", 
+    "longitude": -99.1665866, 
+    "state": "D.F.", 
+    "country_code": "MX", 
+    "address": "Eje 2 Poniente, Ju\u00e1rez, Ciudad de M\u00e9xico, D.F., M\u00e9xico", 
+    "latitude": 19.4247951, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_528", 
+    "id": 5062
   }
 ]
