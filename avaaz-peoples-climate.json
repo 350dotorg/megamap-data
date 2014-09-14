@@ -9474,7 +9474,7 @@
   {
     "city": "Ljubljana", 
     "name": "People's Climate March Ljubljana", 
-    "rsvp_count": 153, 
+    "rsvp_count": 154, 
     "country": "Slovenia", 
     "start_time": "16:00:00", 
     "venue": "Pre\u0161ernov trg", 
@@ -15826,7 +15826,7 @@
   {
     "city": "Madrid", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 11, 
+    "rsvp_count": 12, 
     "country": "Colombia", 
     "start_time": "13:00:00", 
     "venue": "Alcaldia de Madrid", 
@@ -26130,7 +26130,7 @@
   {
     "city": "Guayaquil", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 24, 
+    "rsvp_count": 25, 
     "country": "Ecuador", 
     "start_time": "13:00:00", 
     "venue": "En la Avenida 27NO, entre  Urdesa Norte y Urbanor,  nos hemos convocado varias  organizaciones  ambientalistas y  personas que  amamos la naturaleza  como amamos al ser humano y  buscamos  su  bienestar.", 
@@ -36846,5 +36846,21 @@
     "event_date": "2014-09-20", 
     "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaAktionstag_166", 
     "id": 5047
+  }, 
+  {
+    "city": "Santa Marta del Cerro", 
+    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
+    "rsvp_count": 1, 
+    "country": "Spain", 
+    "start_time": "13:00:00", 
+    "venue": "la casa de la bruja encantada", 
+    "longitude": -3.684827, 
+    "state": "CL", 
+    "country_code": "ES", 
+    "address": "40310 Santa Marta del Cerro, Segovia, Espa\u00f1a", 
+    "latitude": 41.2186285, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_525", 
+    "id": 5048
   }
 ]
