@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2745, 
+    "rsvp_count": 2746, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -834,7 +834,7 @@
   {
     "city": "Brussels", 
     "name": "\u00c9venement des Citoyens pour le Climat", 
-    "rsvp_count": 884, 
+    "rsvp_count": 885, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "Place Poelaert", 
@@ -2946,7 +2946,7 @@
   {
     "city": "Lyon", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 296, 
+    "rsvp_count": 297, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Terreaux", 
@@ -4866,7 +4866,7 @@
   {
     "city": "Bordeaux", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 193, 
+    "rsvp_count": 194, 
     "country": "France", 
     "start_time": "14:30:00", 
     "venue": "", 
@@ -4914,7 +4914,7 @@
   {
     "city": "Biel/Bienne", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 56, 
+    "rsvp_count": 57, 
     "country": "Switzerland", 
     "start_time": "13:00:00", 
     "venue": "Zenralplatz", 
@@ -9746,7 +9746,7 @@
   {
     "city": "Penticton", 
     "name": "People's Climate March", 
-    "rsvp_count": 25, 
+    "rsvp_count": 26, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Gyro Park main.st", 
@@ -11554,7 +11554,7 @@
   {
     "city": "Cardiff", 
     "name": "People's Climate March", 
-    "rsvp_count": 93, 
+    "rsvp_count": 94, 
     "country": "United Kingdom", 
     "start_time": "13:00:00", 
     "venue": "Millennium stadium", 
@@ -16578,7 +16578,7 @@
   {
     "city": "Mogi das Cruzes", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 18, 
+    "rsvp_count": 19, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -27922,7 +27922,7 @@
   {
     "city": "Olinda", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 30, 
+    "rsvp_count": 31, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "", 
