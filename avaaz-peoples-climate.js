@@ -7891,7 +7891,7 @@ initData({},
   {
     "city": "Brome", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 29, 
+    "rsvp_count": 30, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "", 
