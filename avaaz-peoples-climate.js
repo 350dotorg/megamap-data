@@ -16675,7 +16675,7 @@ initData({},
   {
     "city": "Cachoeira", 
     "name": "Caminhada pelo Clima 21 - Capoeiru\u00e7u Participa!!!", 
-    "rsvp_count": 13, 
+    "rsvp_count": 14, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Br 101, Km 197, Capoeiru\u00e7u", 
