@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2685, 
+    "rsvp_count": 2686, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -450,7 +450,7 @@
   {
     "city": "Lisbon", 
     "name": "Mobiliza\u00e7\u00e3o Contra as Altera\u00e7\u00f5es Clim\u00e1ticas - Salvem o Planeta!", 
-    "rsvp_count": 361, 
+    "rsvp_count": 362, 
     "country": "Portugal", 
     "start_time": "16:00:00", 
     "venue": "Rossio", 
@@ -2898,7 +2898,7 @@
   {
     "city": "Rennes", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 84, 
+    "rsvp_count": 85, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "M\u00e9tro R\u00e9publique", 
@@ -4290,7 +4290,7 @@
   {
     "city": "Wien", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 541, 
+    "rsvp_count": 542, 
     "country": "Austria", 
     "start_time": "16:00:00", 
     "venue": "Gleich neben dem Stephansdom", 
@@ -24946,7 +24946,7 @@
   {
     "city": "Tavira", 
     "name": "People's Climate March", 
-    "rsvp_count": 12, 
+    "rsvp_count": 13, 
     "country": "Portugal", 
     "start_time": "13:00:00", 
     "venue": "Praca da Republica", 
@@ -33410,7 +33410,7 @@
   {
     "city": "Abuja", 
     "name": "People's Climate March", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Nigeria", 
     "start_time": "13:00:00", 
     "venue": "Kaura", 
