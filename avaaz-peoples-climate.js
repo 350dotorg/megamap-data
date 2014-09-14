@@ -2723,7 +2723,7 @@ initData({},
   {
     "city": "Milano", 
     "name": "Climate March", 
-    "rsvp_count": 304, 
+    "rsvp_count": 305, 
     "country": "Italy", 
     "start_time": "10:00:00", 
     "venue": "", 
