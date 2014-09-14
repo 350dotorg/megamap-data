@@ -15203,7 +15203,7 @@ initData({},
   {
     "city": "Phoenix", 
     "name": "People's Climate March", 
-    "rsvp_count": 51, 
+    "rsvp_count": 52, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "central park", 
