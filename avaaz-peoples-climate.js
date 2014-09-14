@@ -10979,7 +10979,7 @@ initData({},
   {
     "city": "Cali", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 89, 
+    "rsvp_count": 90, 
     "country": "Colombia", 
     "start_time": "13:00:00", 
     "venue": "Parque versalles", 
