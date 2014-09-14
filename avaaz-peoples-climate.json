@@ -2,7 +2,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 2192, 
+    "rsvp_count": 2211, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -18,7 +18,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 1184, 
+    "rsvp_count": 1185, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -34,7 +34,7 @@
   {
     "city": "Berlin", 
     "name": "Mal schnell die Welt retten - BERLIN", 
-    "rsvp_count": 566, 
+    "rsvp_count": 568, 
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "Brandenburger Tor", 
@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2689, 
+    "rsvp_count": 2699, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -114,7 +114,7 @@
   {
     "city": "Montreal", 
     "name": "Peoples' Climate March @ Montreal // Marche mondiale pour le climat @ Montr\u00e9al", 
-    "rsvp_count": 240, 
+    "rsvp_count": 241, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Parc Lafontaine", 
@@ -194,7 +194,7 @@
   {
     "city": "Auckland", 
     "name": "People's Climate March - Auckland", 
-    "rsvp_count": 207, 
+    "rsvp_count": 208, 
     "country": "New Zealand", 
     "start_time": "13:00:00", 
     "venue": "Britomart", 
@@ -258,7 +258,7 @@
   {
     "city": "Napoli", 
     "name": "Napoli: E'tempo di cambiare ... il clima", 
-    "rsvp_count": 92, 
+    "rsvp_count": 93, 
     "country": "Italy", 
     "start_time": "18:00:00", 
     "venue": "napoli", 
@@ -274,7 +274,7 @@
   {
     "city": "", 
     "name": "Marche mondiale pour le climat @ Montr\u00e9al / Peoples' Climate March @ Montr\u00e9al", 
-    "rsvp_count": 75, 
+    "rsvp_count": 76, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -402,7 +402,7 @@
   {
     "city": "Castell\u00f3n de la Plana", 
     "name": "Marcha contra el cambio clim\u00e1tico", 
-    "rsvp_count": 23, 
+    "rsvp_count": 24, 
     "country": "Spain", 
     "start_time": "19:00:00", 
     "venue": "Plaza Santa Clara", 
@@ -754,7 +754,7 @@
   {
     "city": "Montr\u00e9al", 
     "name": "Marche mondiale pour le climat@ Montr\u00e9al / Peoples' Climat March @ Montr\u00e9al", 
-    "rsvp_count": 260, 
+    "rsvp_count": 261, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "D\u00e9part: Parc Lafontaine, le 21 septembre \u00e0 13:00 3933 Avenue du Parc la Fontaine, Montr\u00e9al, QC H2L 0C7", 
@@ -786,7 +786,7 @@
   {
     "city": "Dresden", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 129, 
+    "rsvp_count": 131, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "S\u00e4chsischer Landtag", 
@@ -801,16 +801,16 @@
   }, 
   {
     "city": "Lom\u00e9", 
-    "name": "Action Togo pour le Climat", 
+    "name": "FACT Action Togo pour le Climat", 
     "rsvp_count": 12, 
     "country": "Togo", 
     "start_time": "15:00:00", 
-    "venue": "Hotel de Ville", 
-    "longitude": 1.2149797, 
+    "venue": "Palais de congres", 
+    "longitude": 1.2174895000001, 
     "state": "Maritime", 
     "country_code": "TG", 
-    "address": "Ave de l'Hotel de Ville, Lom\u00e9, Togo", 
-    "latitude": 6.1306483, 
+    "address": "Palais des Congr\u00e8s, Lom\u00e9, Togo", 
+    "latitude": 6.1305408, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Action_Togo_pour_le_Climat", 
     "id": 1896
@@ -818,7 +818,7 @@
   {
     "city": "Copenhagen", 
     "name": "People's Climate March", 
-    "rsvp_count": 373, 
+    "rsvp_count": 376, 
     "country": "Denmark", 
     "start_time": "14:00:00", 
     "venue": "Nytorv, Domhuset", 
@@ -834,7 +834,7 @@
   {
     "city": "Brussels", 
     "name": "\u00c9venement des Citoyens pour le Climat", 
-    "rsvp_count": 847, 
+    "rsvp_count": 860, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "Place Poelaert", 
@@ -898,7 +898,7 @@
   {
     "city": "Barcelona", 
     "name": "Marcha Ciudadana Global por el Clima. Barcelona #BCN21S", 
-    "rsvp_count": 1082, 
+    "rsvp_count": 1086, 
     "country": "Spain", 
     "start_time": "11:00:00", 
     "venue": "Moll de la Marina, Barcelona", 
@@ -914,7 +914,7 @@
   {
     "city": "Portland", 
     "name": "PDX People's Climate March", 
-    "rsvp_count": 97, 
+    "rsvp_count": 98, 
     "country": "United States of America", 
     "start_time": "15:00:00", 
     "venue": "Gathering begins at 3pm at the Tom McCall Waterfront Park (park bowl just south of Hawthorne bridge @ SW Naito Parkway & SW Madison", 
@@ -1010,7 +1010,7 @@
   {
     "city": "Ottawa", 
     "name": "People's Climate March - Ottawa Event", 
-    "rsvp_count": 297, 
+    "rsvp_count": 298, 
     "country": "Canada", 
     "start_time": "12:00:00", 
     "venue": "Parliament Hill", 
@@ -1074,7 +1074,7 @@
   {
     "city": "Doha", 
     "name": "Doha Climate Rally", 
-    "rsvp_count": 38, 
+    "rsvp_count": 39, 
     "country": "Qatar", 
     "start_time": "17:00:00", 
     "venue": "Corniche/MIA (location to be confirmed)", 
@@ -1106,7 +1106,7 @@
   {
     "city": "Bristol", 
     "name": "Bristol People's Climate March", 
-    "rsvp_count": 376, 
+    "rsvp_count": 377, 
     "country": "United Kingdom", 
     "start_time": "14:30:00", 
     "venue": "Castle Park", 
@@ -1202,7 +1202,7 @@
   {
     "city": "Nantes", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 277, 
+    "rsvp_count": 279, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Ile de Nantes - Grue Titan Jaune", 
@@ -1218,7 +1218,7 @@
   {
     "city": "Amsterdam", 
     "name": "People's Climate March", 
-    "rsvp_count": 337, 
+    "rsvp_count": 338, 
     "country": "Netherlands", 
     "start_time": "13:00:00", 
     "venue": "Damsquare", 
@@ -1394,7 +1394,7 @@
   {
     "city": "Rimini", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 40, 
+    "rsvp_count": 41, 
     "country": "Italy", 
     "start_time": "16:30:00", 
     "venue": "Rimini, Rn", 
@@ -1410,7 +1410,7 @@
   {
     "city": "Bogota", 
     "name": "Bogot\u00e1 Marcha X el Clima", 
-    "rsvp_count": 256, 
+    "rsvp_count": 257, 
     "country": "Colombia", 
     "start_time": "10:00:00", 
     "venue": "Parque Nacional hasta Plaza de los Periodistas", 
@@ -1474,7 +1474,7 @@
   {
     "city": "Toronto", 
     "name": "People's Climate March - Toronto", 
-    "rsvp_count": 417, 
+    "rsvp_count": 418, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -1794,7 +1794,7 @@
   {
     "city": "San Juan", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 144, 
+    "rsvp_count": 146, 
     "country": "Puerto Rico", 
     "start_time": "13:00:00", 
     "venue": "Capitolio", 
@@ -1842,7 +1842,7 @@
   {
     "city": "Roma", 
     "name": "New York chiama Roma -  People's Climate March", 
-    "rsvp_count": 82, 
+    "rsvp_count": 83, 
     "country": "Italy", 
     "start_time": "18:00:00", 
     "venue": "Roma Centro 00186", 
@@ -1922,7 +1922,7 @@
   {
     "city": "Castell\u00f3n de la Plana", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 17, 
+    "rsvp_count": 18, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -2050,7 +2050,7 @@
   {
     "city": "Brasilia", 
     "name": "Uni\u00e3o Avaaz em Bras\u00edlia contra as Mudan\u00e7as Clim\u00e1ticas", 
-    "rsvp_count": 425, 
+    "rsvp_count": 426, 
     "country": "Brazil", 
     "start_time": "10:00:00", 
     "venue": "Esplanada dos Ministerios", 
@@ -2178,7 +2178,7 @@
   {
     "city": "Mons", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 58, 
+    "rsvp_count": 59, 
     "country": "Belgium", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -2226,7 +2226,7 @@
   {
     "city": "Montpellier", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 185, 
+    "rsvp_count": 187, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "montpellier", 
@@ -2290,7 +2290,7 @@
   {
     "city": "Trouville-sur-Mer", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 32, 
+    "rsvp_count": 33, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "PONT DES BELGES", 
@@ -2434,7 +2434,7 @@
   {
     "city": "Nancy", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 98, 
+    "rsvp_count": 100, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "place stanislas", 
@@ -2450,7 +2450,7 @@
   {
     "city": "\u0391\u03b8\u03ae\u03bd\u03b1", 
     "name": "\u03a0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u039b\u03b1\u03ce\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
-    "rsvp_count": 56, 
+    "rsvp_count": 57, 
     "country": "Greece", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -2496,22 +2496,6 @@
     "id": 2088
   }, 
   {
-    "city": "The Hague", 
-    "name": "Actiedag voor het Klimaat", 
-    "rsvp_count": 30, 
-    "country": "Netherlands", 
-    "start_time": "13:00:00", 
-    "venue": "op het binnenhof.", 
-    "longitude": 4.2981897, 
-    "state": "ZH", 
-    "country_code": "NL", 
-    "address": "", 
-    "latitude": 52.0442234, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/nl/event/climate/Actiedag_voor_het_Klimaat_12", 
-    "id": 2089
-  }, 
-  {
     "city": "Li\u00e8ge", 
     "name": "Marche Pour le Climat", 
     "rsvp_count": 18, 
@@ -2530,7 +2514,7 @@
   {
     "city": "Trieste", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 49, 
+    "rsvp_count": 50, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -2578,7 +2562,7 @@
   {
     "city": "Li\u00e8ge", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 80, 
+    "rsvp_count": 81, 
     "country": "Belgium", 
     "start_time": "13:00:00", 
     "venue": "Universit\u00e9 de Li\u00e8ge, Place du XX Ao\u00fbt", 
@@ -2754,7 +2738,7 @@
   {
     "city": "Rimouski", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 52, 
+    "rsvp_count": 53, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Promenade de la mer", 
@@ -2834,7 +2818,7 @@
   {
     "city": "Toulouse", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 330, 
+    "rsvp_count": 332, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "place du capitole", 
@@ -2898,7 +2882,7 @@
   {
     "city": "Rennes", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 85, 
+    "rsvp_count": 86, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "M\u00e9tro R\u00e9publique", 
@@ -2914,7 +2898,7 @@
   {
     "city": "Roma", 
     "name": "Marcia Globale per il Clima a Roma: LA BICICLETTATA, IL CUORE VERDE", 
-    "rsvp_count": 468, 
+    "rsvp_count": 472, 
     "country": "Italy", 
     "start_time": "15:00:00", 
     "venue": "COLOSSEO, ROMA", 
@@ -2946,7 +2930,7 @@
   {
     "city": "Ottignies-Louvain-la-Neuve", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 181, 
+    "rsvp_count": 182, 
     "country": "Belgium", 
     "start_time": "13:00:00", 
     "venue": "Grand Place de Louvain-la-Neuve", 
@@ -2974,22 +2958,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_46", 
     "id": 2136
-  }, 
-  {
-    "city": "The Hague", 
-    "name": "People's Climate March", 
-    "rsvp_count": 89, 
-    "country": "Netherlands", 
-    "start_time": "13:00:00", 
-    "venue": "Plaats", 
-    "longitude": 4.3006999, 
-    "state": "ZH", 
-    "country_code": "NL", 
-    "address": "The Hague, The Netherlands", 
-    "latitude": 52.0704978, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_982", 
-    "id": 2140
   }, 
   {
     "city": "Boucherville", 
@@ -3154,7 +3122,7 @@
   {
     "city": "N\u00fcrnberg", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 13, 
+    "rsvp_count": 14, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -3394,7 +3362,7 @@
   {
     "city": "Hannover", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 152, 
+    "rsvp_count": 153, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Trammplatz 2, 30159 Hannover", 
@@ -3458,7 +3426,7 @@
   {
     "city": "D\u00fcsseldorf", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 204, 
+    "rsvp_count": 206, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Schlossturm", 
@@ -3538,7 +3506,7 @@
   {
     "city": "Porto Alegre", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 357, 
+    "rsvp_count": 358, 
     "country": "Brazil", 
     "start_time": "11:00:00", 
     "venue": "Parque Farroupilha - Reden\u00e7\u00e3o", 
@@ -3570,7 +3538,7 @@
   {
     "city": "Frankfurt am Main", 
     "name": "KLIMA-AKTIONSTAG FRANKFURT AM MAIN", 
-    "rsvp_count": 208, 
+    "rsvp_count": 210, 
     "country": "Germany", 
     "start_time": "10:00:00", 
     "venue": "Zwischen R\u00f6mer und Zeil", 
@@ -3602,7 +3570,7 @@
   {
     "city": "Rennes", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 75, 
+    "rsvp_count": 76, 
     "country": "France", 
     "start_time": "15:00:00", 
     "venue": "PLACE DE LA MAIRIE", 
@@ -3746,7 +3714,7 @@
   {
     "city": "Dublin", 
     "name": "People's Climate March", 
-    "rsvp_count": 209, 
+    "rsvp_count": 211, 
     "country": "Ireland", 
     "start_time": "13:00:00", 
     "venue": "D\u00e1il \u00c9ireann, Dublin city centre", 
@@ -4002,7 +3970,7 @@
   {
     "city": "Grenoble", 
     "name": "La marche pour le climat", 
-    "rsvp_count": 155, 
+    "rsvp_count": 158, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Hotel de ville", 
@@ -4034,7 +4002,7 @@
   {
     "city": "Moscow", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 310, 
+    "rsvp_count": 313, 
     "country": "Russia", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -4066,7 +4034,7 @@
   {
     "city": "Lille", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 203, 
+    "rsvp_count": 205, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -4210,7 +4178,7 @@
   {
     "city": "Vitoria-Gasteiz", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 62, 
+    "rsvp_count": 63, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Plaza de la Virgen Blanca", 
@@ -4290,7 +4258,7 @@
   {
     "city": "Wien", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 543, 
+    "rsvp_count": 545, 
     "country": "Austria", 
     "start_time": "16:00:00", 
     "venue": "Gleich neben dem Stephansdom", 
@@ -4802,7 +4770,7 @@
   {
     "city": "Randburg", 
     "name": "People's Climate Picnic and Heart Formation", 
-    "rsvp_count": 175, 
+    "rsvp_count": 176, 
     "country": "South Africa", 
     "start_time": "13:00:00", 
     "venue": "Emmarentia Dam", 
@@ -4882,7 +4850,7 @@
   {
     "city": "Norwich", 
     "name": "Norwich Climate Coalition", 
-    "rsvp_count": 90, 
+    "rsvp_count": 91, 
     "country": "United Kingdom", 
     "start_time": "11:00:00", 
     "venue": "Haymarket NR2 1QE", 
@@ -4898,7 +4866,7 @@
   {
     "city": "Bordeaux", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 187, 
+    "rsvp_count": 188, 
     "country": "France", 
     "start_time": "14:30:00", 
     "venue": "", 
@@ -5266,7 +5234,7 @@
   {
     "city": "\u0392\u03cc\u03bb\u03bf\u03c2", 
     "name": "\u03a0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u039b\u03b1\u03ce\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
-    "rsvp_count": 44, 
+    "rsvp_count": 45, 
     "country": "Greece", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -5538,7 +5506,7 @@
   {
     "city": "Manchester", 
     "name": "People's Climate March", 
-    "rsvp_count": 155, 
+    "rsvp_count": 156, 
     "country": "United Kingdom", 
     "start_time": "11:00:00", 
     "venue": "Piccadilly gardens", 
@@ -5618,7 +5586,7 @@
   {
     "city": "", 
     "name": "People's Climate March", 
-    "rsvp_count": 104, 
+    "rsvp_count": 107, 
     "country": "Hong Kong", 
     "start_time": "13:00:00", 
     "venue": "Exchange Square Podium", 
@@ -6066,7 +6034,7 @@
   {
     "city": "Bologna", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 258, 
+    "rsvp_count": 259, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "Piazza Maggiore", 
@@ -6082,7 +6050,7 @@
   {
     "city": "Dakar", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 11, 
+    "rsvp_count": 12, 
     "country": "Senegal", 
     "start_time": "13:00:00", 
     "venue": "DAKAR", 
@@ -6130,7 +6098,7 @@
   {
     "city": "Sankt Wendel", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 52, 
+    "rsvp_count": 53, 
     "country": "Germany", 
     "start_time": "12:30:00", 
     "venue": "Schlossplatz", 
@@ -6226,7 +6194,7 @@
   {
     "city": "Drummondville", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 14, 
+    "rsvp_count": 15, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "marche sur le pont", 
@@ -6290,7 +6258,7 @@
   {
     "city": "Athens", 
     "name": "\u0395\u03c0\u03af\u03c3\u03b7\u03bc\u03b7 \u0394\u03c1\u03ac\u03c3\u03b7 \u0391\u03b8\u03ae\u03bd\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
-    "rsvp_count": 670, 
+    "rsvp_count": 673, 
     "country": "Greece", 
     "start_time": "16:00:00", 
     "venue": "\u0394\u03b9\u03bf\u03bd\u03c5\u03c3\u03af\u03bf\u03c5 \u0391\u03c1\u03b5\u03bf\u03c0\u03b1\u03b3\u03af\u03c4\u03bf\u03c5, \u0391\u03b8\u03ae\u03bd\u03b1", 
@@ -6306,7 +6274,7 @@
   {
     "city": "Roma", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 143, 
+    "rsvp_count": 145, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "roma", 
@@ -6498,7 +6466,7 @@
   {
     "city": "Cesenatico", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 25, 
+    "rsvp_count": 26, 
     "country": "Italy", 
     "start_time": "17:00:00", 
     "venue": "Piazza del Grattacielo", 
@@ -7026,7 +6994,7 @@
   {
     "city": "Trento", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 47, 
+    "rsvp_count": 48, 
     "country": "Italy", 
     "start_time": "14:00:00", 
     "venue": "Piazza Duomo", 
@@ -7090,7 +7058,7 @@
   {
     "city": "K\u00f6ln", 
     "name": "https://www.facebook.com/events/278356532361449", 
-    "rsvp_count": 285, 
+    "rsvp_count": 286, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "K\u00f6lner Dom", 
@@ -7858,7 +7826,7 @@
   {
     "city": "Brome", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 30, 
+    "rsvp_count": 31, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -8066,7 +8034,7 @@
   {
     "city": "Perpignan", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 25, 
+    "rsvp_count": 26, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Place de Catalogne, 66000 Perpignan", 
@@ -9078,11 +9046,11 @@
     "country": "India", 
     "start_time": "17:00:00", 
     "venue": "INnternational Zone in Auroville.Circle of the Latinamerican Countries , opposite the Canadian sit , near the Tibetan Pavilion", 
-    "longitude": 79.8039645, 
+    "longitude": 79.8021271, 
     "state": "TN", 
     "country_code": "IN", 
-    "address": "Kottakarai Road, Auroville, Bommayapalayam, Tamil Nadu 605101, India", 
-    "latitude": 12.0122839, 
+    "address": "Unnamed Road, Auroville, Bommayapalayam, Tamil Nadu 605101, India", 
+    "latitude": 12.0055491, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/Pachamama_Ceremony_Ceremony_to_the_Mother_Earth_In_the_Circle_of_the_Latinamerican_Countries_in_Auroville_The_City_of_th", 
     "id": 2799
@@ -9506,7 +9474,7 @@
   {
     "city": "Ljubljana", 
     "name": "People's Climate March Ljubljana", 
-    "rsvp_count": 147, 
+    "rsvp_count": 149, 
     "country": "Slovenia", 
     "start_time": "16:00:00", 
     "venue": "Pre\u0161ernov trg", 
@@ -9650,7 +9618,7 @@
   {
     "city": "Las Vegas", 
     "name": "People's Climate March", 
-    "rsvp_count": 35, 
+    "rsvp_count": 36, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -9810,7 +9778,7 @@
   {
     "city": "Munich", 
     "name": "People's Climate March", 
-    "rsvp_count": 487, 
+    "rsvp_count": 489, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Karlsplatz", 
@@ -9970,7 +9938,7 @@
   {
     "city": "San Crist\u00f3bal de La Laguna", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 47, 
+    "rsvp_count": 48, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "plaza de la concepcion", 
@@ -10178,7 +10146,7 @@
   {
     "city": "Utrecht", 
     "name": "Klimaatmars van Utrecht naar Amsterdam", 
-    "rsvp_count": 44, 
+    "rsvp_count": 45, 
     "country": "Netherlands", 
     "start_time": "08:00:00", 
     "venue": "Station Terwijde", 
@@ -10530,7 +10498,7 @@
   {
     "city": "Madrid", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 617, 
+    "rsvp_count": 618, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Cada persona en la puerta de su casa: Inundemos las aceras de la ciudad.", 
@@ -10562,7 +10530,7 @@
   {
     "city": "Madrid", 
     "name": "La Marcha Ciudadana por la Naturaleza, la Vida y Evoluci\u00f3n Humana", 
-    "rsvp_count": 370, 
+    "rsvp_count": 373, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "La Puerta de La Tabacalera", 
@@ -10722,7 +10690,7 @@
   {
     "city": "Porto", 
     "name": "Porto pelo Ambiente - People's Climate March", 
-    "rsvp_count": 135, 
+    "rsvp_count": 138, 
     "country": "Portugal", 
     "start_time": "15:00:00", 
     "venue": "Parque da Cidade", 
@@ -11170,7 +11138,7 @@
   {
     "city": "Yaounde", 
     "name": "People's Climate March", 
-    "rsvp_count": 12, 
+    "rsvp_count": 13, 
     "country": "Cameroon", 
     "start_time": "13:00:00", 
     "venue": "Avenue Jean Paul II", 
@@ -11552,17 +11520,17 @@
     "id": 2988
   }, 
   {
-    "city": "\u0130stanbul", 
+    "city": "\u0130zmir", 
     "name": "\u0130klim \u0130\u00e7in Halk Y\u00fcr\u00fcy\u00fc\u015f\u00fc", 
     "rsvp_count": 17, 
     "country": "Turkey", 
     "start_time": "13:00:00", 
-    "venue": "K\u0131br\u0131s \u015eehitleri Caddesi", 
-    "longitude": 28.9671149, 
-    "state": "\u0130stanbul", 
+    "venue": "", 
+    "longitude": 27.1343327, 
+    "state": "\u0130zmir", 
     "country_code": "TR", 
-    "address": "\u0130stanbul, 34130 Fatih/\u0130stanbul, T\u00fcrkiye", 
-    "latitude": 41.008929, 
+    "address": "Alsancak Turizm, Akdeniz Mh., \u015eehit Fethi Bey Caddesi No:73, 35210 Izmir/\u0130zmir, T\u00fcrkiye", 
+    "latitude": 38.4275212, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/tr/event/climate/Iklim_Icin_Halk_Yuruyusu_23", 
     "id": 2989
@@ -11586,7 +11554,7 @@
   {
     "city": "Cardiff", 
     "name": "People's Climate March", 
-    "rsvp_count": 89, 
+    "rsvp_count": 90, 
     "country": "United Kingdom", 
     "start_time": "13:00:00", 
     "venue": "Millennium stadium", 
@@ -11650,7 +11618,7 @@
   {
     "city": "Arlon", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 32, 
+    "rsvp_count": 34, 
     "country": "Belgium", 
     "start_time": "13:00:00", 
     "venue": "place du char", 
@@ -11682,7 +11650,7 @@
   {
     "city": "Bridgewater", 
     "name": "People's Climate March", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Canada", 
     "start_time": "12:00:00", 
     "venue": "MP Gerald Keddy's office", 
@@ -12242,7 +12210,7 @@
   {
     "city": "Santa Cruz", 
     "name": "Meatless Monday Potluck (on Sunday) and People's Climate March", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "United States of America", 
     "start_time": "16:00:00", 
     "venue": "612 Ocean St, Santa Cruz, CA, 95060", 
@@ -12434,7 +12402,7 @@
   {
     "city": "", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 37, 
+    "rsvp_count": 38, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -12850,7 +12818,7 @@
   {
     "city": "Hamilton", 
     "name": "People's Climate March", 
-    "rsvp_count": 45, 
+    "rsvp_count": 46, 
     "country": "New Zealand", 
     "start_time": "13:00:00", 
     "venue": "Panguru , North Hokianga", 
@@ -12978,7 +12946,7 @@
   {
     "city": "P\u00f3rtugos", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 16, 
+    "rsvp_count": 17, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "carretera de trev\u00e9lez, fuente agria de P\u00f3rtugos", 
@@ -13474,7 +13442,7 @@
   {
     "city": "Currumbin", 
     "name": "People's Climate March", 
-    "rsvp_count": 51, 
+    "rsvp_count": 52, 
     "country": "Australia", 
     "start_time": "13:00:00", 
     "venue": "Currumbin Beach", 
@@ -13490,7 +13458,7 @@
   {
     "city": "Berriedale", 
     "name": "People's Climate March: MONA Climate Pop Up Gathering", 
-    "rsvp_count": 80, 
+    "rsvp_count": 81, 
     "country": "Australia", 
     "start_time": "13:00:00", 
     "venue": "MONA, gather on tennis court near museum entrance", 
@@ -13794,7 +13762,7 @@
   {
     "city": "Cambridge", 
     "name": "People's Climate March", 
-    "rsvp_count": 44, 
+    "rsvp_count": 45, 
     "country": "United Kingdom", 
     "start_time": "13:00:00", 
     "venue": "Kings parade", 
@@ -13826,7 +13794,7 @@
   {
     "city": "Narbonne", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 35, 
+    "rsvp_count": 36, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de l'H\u00f4tel de ville", 
@@ -13890,7 +13858,7 @@
   {
     "city": "\u0627\u0644\u0645\u0646\u0627\u0645\u0629", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629 \u0627\u0644\u0628\u062d\u0631\u064a\u0646\u064a\u0629", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Bahrain", 
     "start_time": "16:00:00", 
     "venue": "\u0628\u0627\u0628 \u0627\u0644\u0628\u062d\u0631\u064a\u0646", 
@@ -14402,7 +14370,7 @@
   {
     "city": "Spital am Pyhrn", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 18, 
+    "rsvp_count": 19, 
     "country": "Austria", 
     "start_time": "13:00:00", 
     "venue": "Campingplatz Pyhrn-Priel, Gasthaus \"Hummel in der Au\"", 
@@ -14626,7 +14594,7 @@
   {
     "city": "Chichester", 
     "name": "People's Climate March", 
-    "rsvp_count": 32, 
+    "rsvp_count": 33, 
     "country": "United Kingdom", 
     "start_time": "12:00:00", 
     "venue": "The Cross", 
@@ -14738,7 +14706,7 @@
   {
     "city": "Palma de Mallorca", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 52, 
+    "rsvp_count": 53, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "excorxador", 
@@ -15346,7 +15314,7 @@
   {
     "city": "Cosenza", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "Destro Quintieri Madonna del Creato", 
@@ -15490,7 +15458,7 @@
   {
     "city": "Antwerpen", 
     "name": "THE GREEN LINE avond voor het Klimaat", 
-    "rsvp_count": 30, 
+    "rsvp_count": 31, 
     "country": "Belgium", 
     "start_time": "19:45:00", 
     "venue": "Kavka, oudaan 14, antwerpen", 
@@ -15570,7 +15538,7 @@
   {
     "city": "Darmstadt", 
     "name": "Trommelkreis f\u00fcr unser Klima", 
-    "rsvp_count": 39, 
+    "rsvp_count": 40, 
     "country": "Germany", 
     "start_time": "14:30:00", 
     "venue": "Luisenplatz, 64283", 
@@ -15874,7 +15842,7 @@
   {
     "city": "Groningen", 
     "name": "Actiedag voor het Klimaat", 
-    "rsvp_count": 66, 
+    "rsvp_count": 67, 
     "country": "Netherlands", 
     "start_time": "13:00:00", 
     "venue": "Grote Markt", 
@@ -16002,7 +15970,7 @@
   {
     "city": "Cuiab\u00e1", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 70, 
+    "rsvp_count": 71, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "pra\u00e7a oito de abril", 
@@ -16146,7 +16114,7 @@
   {
     "city": "Skhirat-T\u00e9mara", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 6, 
+    "rsvp_count": 7, 
     "country": "Morocco", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -16498,7 +16466,7 @@
   {
     "city": "Villa Guardia", 
     "name": "Marcia Globale per il Clima all'Isola che C'\u00e8 !11a Fiera provinciale delle relazioni e delle economie solidali -", 
-    "rsvp_count": 19, 
+    "rsvp_count": 20, 
     "country": "Italy", 
     "start_time": "10:00:00", 
     "venue": "parco comunale", 
@@ -16722,7 +16690,7 @@
   {
     "city": "Belo Horizonte", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 34, 
+    "rsvp_count": 35, 
     "country": "Brazil", 
     "start_time": "10:00:00", 
     "venue": "LAGOA DA PAMPULHA - PR\u00d3XIMO A IGREJA S\u00c3O FRANCISCO, AV OTACILIO NEGR\u00c3O DE LIMA, 3117. ENTRE RUAS VERSILIA E EXPEDICION\u00c1RIO.", 
@@ -17077,7 +17045,7 @@
     "rsvp_count": 23, 
     "country": "United Kingdom", 
     "start_time": "11:00:00", 
-    "venue": "Esplanade, by Lifeboat Station", 
+    "venue": "Sidmouth Esplanade, by the Lifeboat Station", 
     "longitude": -3.2346914, 
     "state": "", 
     "country_code": "GB", 
@@ -17170,7 +17138,7 @@
   {
     "city": "Nice", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 96, 
+    "rsvp_count": 97, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -18818,7 +18786,7 @@
   {
     "city": "Gen\u00e8ve", 
     "name": "People's Climate March", 
-    "rsvp_count": 121, 
+    "rsvp_count": 122, 
     "country": "Switzerland", 
     "start_time": "14:00:00", 
     "venue": "Gen\u00e8ve, Plaine de Plainpalais", 
@@ -19954,7 +19922,7 @@
   {
     "city": "Montreal", 
     "name": "Equilibrium: The People's Climate Event", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Canada", 
     "start_time": "11:30:00", 
     "venue": "ST Philip's Church (Sherbrooke West)", 
@@ -20290,7 +20258,7 @@
   {
     "city": "", 
     "name": "People's Climate March", 
-    "rsvp_count": 18, 
+    "rsvp_count": 19, 
     "country": "Russia", 
     "start_time": "13:00:00", 
     "venue": "sea coast", 
@@ -20466,7 +20434,7 @@
   {
     "city": "Sheffield", 
     "name": "People's Climate March - Sheffield Rivers Rally", 
-    "rsvp_count": 23, 
+    "rsvp_count": 24, 
     "country": "United Kingdom", 
     "start_time": "13:00:00", 
     "venue": "Outside Town Hall, Pinstone Street", 
@@ -20674,7 +20642,7 @@
   {
     "city": "Armidale", 
     "name": "People's Climate Rally Armidale", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Australia", 
     "start_time": "11:00:00", 
     "venue": "Curtis Park Armidale", 
@@ -20834,7 +20802,7 @@
   {
     "city": "Padua", 
     "name": "People's Climate March", 
-    "rsvp_count": 57, 
+    "rsvp_count": 58, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "Prato Della Valle", 
@@ -20962,7 +20930,7 @@
   {
     "city": "Budapest", 
     "name": "People's Climate March - Hungary", 
-    "rsvp_count": 103, 
+    "rsvp_count": 104, 
     "country": "Hungary", 
     "start_time": "13:00:00", 
     "venue": "Budapest, Kossuth Lajos t\u00e9r, 1055 Magyarorsz\u00e1g", 
@@ -21346,7 +21314,7 @@
   {
     "city": "Buenos Aires", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 122, 
+    "rsvp_count": 123, 
     "country": "Argentina", 
     "start_time": "13:00:00", 
     "venue": "parque centenario", 
@@ -21378,7 +21346,7 @@
   {
     "city": "Agadir", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 2, 
+    "rsvp_count": 4, 
     "country": "Morocco", 
     "start_time": "13:00:00", 
     "venue": "CORNICHE PLAGE AGADIE", 
@@ -21730,7 +21698,7 @@
   {
     "city": "Pula", 
     "name": "People's Climate March", 
-    "rsvp_count": 16, 
+    "rsvp_count": 18, 
     "country": "Croatia", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -22386,7 +22354,7 @@
   {
     "city": "Troms\u00f8", 
     "name": "Folkets marsj for klima", 
-    "rsvp_count": 7, 
+    "rsvp_count": 8, 
     "country": "Norway", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -22418,7 +22386,7 @@
   {
     "city": "Besan\u00e7on", 
     "name": "\u00c7a commence \u00e0 Besac, \u00e7a finit \u00e0 l'ONU ! Tous ensemble pour le climat", 
-    "rsvp_count": 19, 
+    "rsvp_count": 22, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "", 
@@ -22434,7 +22402,7 @@
   {
     "city": "Vienna", 
     "name": "People's Climate March", 
-    "rsvp_count": 69, 
+    "rsvp_count": 71, 
     "country": "Austria", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -22546,7 +22514,7 @@
   {
     "city": "Siracusa", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 16, 
+    "rsvp_count": 18, 
     "country": "Italy", 
     "start_time": "11:00:00", 
     "venue": "Tempio di Apollo, Largo XXV Luglio", 
@@ -22594,7 +22562,7 @@
   {
     "city": "Modena", 
     "name": "Marcia Globale per il Clima \u2022 Bike \u2022 Percorso natura fiume Panaro", 
-    "rsvp_count": 28, 
+    "rsvp_count": 30, 
     "country": "Italy", 
     "start_time": "11:00:00", 
     "venue": "Parco Ducale Estense (Giardini Pubblici) Modena", 
@@ -22610,7 +22578,7 @@
   {
     "city": "Messina", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 15, 
+    "rsvp_count": 16, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "piazza cairoli", 
@@ -22658,7 +22626,7 @@
   {
     "city": "Gen\u00e8ve", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 40, 
+    "rsvp_count": 41, 
     "country": "Switzerland", 
     "start_time": "13:00:00", 
     "venue": "Place de Plainpalais", 
@@ -22834,7 +22802,7 @@
   {
     "city": "Sevilla", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 8, 
+    "rsvp_count": 9, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -22917,12 +22885,12 @@
     "rsvp_count": 2, 
     "country": "Panama", 
     "start_time": "13:00:00", 
-    "venue": "", 
-    "longitude": -80.9655969, 
+    "venue": "Parque Juan dem\u00f3stenes Arosemena, frente a la alcald\u00eda.", 
+    "longitude": -80.9837308, 
     "state": "Veraguas", 
     "country_code": "PA", 
-    "address": "Carretera Panamericana, Santiago, Panam\u00e1", 
-    "latitude": 8.0997805, 
+    "address": "Calle 2a, Santiago, Panam\u00e1", 
+    "latitude": 8.0976315, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_380", 
     "id": 3987
@@ -22962,7 +22930,7 @@
   {
     "city": "Antalya", 
     "name": "Tek Evimiz D\u00fcnyam\u0131z! Our Only Home, Nature..", 
-    "rsvp_count": 6, 
+    "rsvp_count": 7, 
     "country": "Turkey", 
     "start_time": "13:00:00", 
     "venue": "saat kulesi", 
@@ -23410,7 +23378,7 @@
   {
     "city": "Uccle", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 58, 
+    "rsvp_count": 59, 
     "country": "Belgium", 
     "start_time": "13:00:00", 
     "venue": "Place Saint-Job", 
@@ -23458,7 +23426,7 @@
   {
     "city": "Ainring", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 7, 
+    "rsvp_count": 8, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Naturkostcaf\u00e9 Zallis, Salzburger Stra\u00dfe 14, Mitterfelden", 
@@ -23570,7 +23538,7 @@
   {
     "city": "Bremen", 
     "name": "Autofreier StadTraum", 
-    "rsvp_count": 17, 
+    "rsvp_count": 18, 
     "country": "Germany", 
     "start_time": "11:00:00", 
     "venue": "Utbremer Kreisel / Utbremer Ring", 
@@ -24194,7 +24162,7 @@
   {
     "city": "D\u00fcsseldorf", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 48, 
+    "rsvp_count": 50, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Dachdeckerbetrieb Rainer Tietz", 
@@ -24322,7 +24290,7 @@
   {
     "city": "Port Louis", 
     "name": "People's Climate March", 
-    "rsvp_count": 14, 
+    "rsvp_count": 15, 
     "country": "Mauritius", 
     "start_time": "13:00:00", 
     "venue": "Jardin de la compagnie", 
@@ -24338,7 +24306,7 @@
   {
     "city": "Joliette", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 14, 
+    "rsvp_count": 15, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -25122,7 +25090,7 @@
   {
     "city": "Paderborn", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 24, 
+    "rsvp_count": 27, 
     "country": "Germany", 
     "start_time": "15:00:00", 
     "venue": "Rathausplatz", 
@@ -25874,7 +25842,7 @@
   {
     "city": "Tauranga", 
     "name": "Climate Change Day of Action", 
-    "rsvp_count": 13, 
+    "rsvp_count": 14, 
     "country": "New Zealand", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -25970,7 +25938,7 @@
   {
     "city": "Trois-Rivi\u00e8res", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 19, 
+    "rsvp_count": 21, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Boulevard Gene-H-Krueger", 
@@ -26418,7 +26386,7 @@
   {
     "city": "\u041c\u0443\u043a\u0430\u0447\u0435\u0432\u043e", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 6, 
+    "rsvp_count": 7, 
     "country": "Ukraine", 
     "start_time": "13:00:00", 
     "venue": "\u0420\u0430\u0442\u0443\u0448\u0430", 
@@ -26898,7 +26866,7 @@
   {
     "city": "Southampton", 
     "name": "People's Climate March", 
-    "rsvp_count": 18, 
+    "rsvp_count": 19, 
     "country": "United Kingdom", 
     "start_time": "13:00:00", 
     "venue": "Guildhall Square", 
@@ -27010,7 +26978,7 @@
   {
     "city": "La Seyne-sur-Mer", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 15, 
+    "rsvp_count": 16, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "D\u00e9part Port de la Seyne \u00e0 13h, devant l'hotel Kyriad Prestige", 
@@ -27090,7 +27058,7 @@
   {
     "city": "Legau", 
     "name": "Klima-Aktionstag auf dem Stand \"Nachhaltiges Allg\u00e4u\" beim RAPUNZEL-Festival in Legau", 
-    "rsvp_count": 24, 
+    "rsvp_count": 25, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "RAPUNZEL-Festival", 
@@ -27490,7 +27458,7 @@
   {
     "city": "Roma", 
     "name": "Meditazione Globale per il Clima", 
-    "rsvp_count": 23, 
+    "rsvp_count": 24, 
     "country": "Italy", 
     "start_time": "18:30:00", 
     "venue": "", 
@@ -27714,7 +27682,7 @@
   {
     "city": "Estremoz", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Portugal", 
     "start_time": "13:00:00", 
     "venue": "Rossio Marqu\u00eas de Pombal", 
@@ -27762,7 +27730,7 @@
   {
     "city": "Charleston", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -27858,7 +27826,7 @@
   {
     "city": "Coimbra", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 39, 
+    "rsvp_count": 40, 
     "country": "Portugal", 
     "start_time": "13:00:00", 
     "venue": "pra\u00e7a da rep\u00fablica", 
@@ -27890,7 +27858,7 @@
   {
     "city": "Rotterdam", 
     "name": "Actiedag voor het Klimaat", 
-    "rsvp_count": 12, 
+    "rsvp_count": 13, 
     "country": "Netherlands", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -27970,7 +27938,7 @@
   {
     "city": "Olinda", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 25, 
+    "rsvp_count": 26, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -28018,7 +27986,7 @@
   {
     "city": "Waterloo", 
     "name": "People's Climate March", 
-    "rsvp_count": 24, 
+    "rsvp_count": 25, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Waterloo Towne Square", 
@@ -28162,7 +28130,7 @@
   {
     "city": "Oran", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Algeria", 
     "start_time": "13:00:00", 
     "venue": "Place du 1er novembre 54", 
@@ -28226,7 +28194,7 @@
   {
     "city": "Aix-en-Provence", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 43, 
+    "rsvp_count": 44, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "La Rotonde - Tour de Ville", 
@@ -28450,7 +28418,7 @@
   {
     "city": "Wiesbaden", 
     "name": "Verkehrswendefest an der Ringkirche Wiesbaden", 
-    "rsvp_count": 24, 
+    "rsvp_count": 25, 
     "country": "Germany", 
     "start_time": "12:00:00", 
     "venue": "An der Ringkirche", 
@@ -29282,7 +29250,7 @@
   {
     "city": "Aarhus", 
     "name": "People's Climate March", 
-    "rsvp_count": 20, 
+    "rsvp_count": 23, 
     "country": "Denmark", 
     "start_time": "13:00:00", 
     "venue": "Musikhuset", 
@@ -29426,7 +29394,7 @@
   {
     "city": "Wellington", 
     "name": "Global Climate Action - Raise Your Voices on Mt Vic", 
-    "rsvp_count": 36, 
+    "rsvp_count": 37, 
     "country": "New Zealand", 
     "start_time": "13:00:00", 
     "venue": "Top of Mt Victoria", 
@@ -30178,7 +30146,7 @@
   {
     "city": "\u041f\u0440\u0430\u0433\u0430", 
     "name": "People's Climate March", 
-    "rsvp_count": 10, 
+    "rsvp_count": 13, 
     "country": "Czech Republic", 
     "start_time": "13:00:00", 
     "venue": "vaclavske namesti", 
@@ -31010,7 +30978,7 @@
   {
     "city": "Cape Town", 
     "name": "Cape Town's Climate Activation", 
-    "rsvp_count": 7, 
+    "rsvp_count": 8, 
     "country": "South Africa", 
     "start_time": "13:00:00", 
     "venue": "Grand Parade", 
@@ -31154,7 +31122,7 @@
   {
     "city": "Soissons", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 6, 
+    "rsvp_count": 7, 
     "country": "France", 
     "start_time": "11:00:00", 
     "venue": "", 
@@ -31426,7 +31394,7 @@
   {
     "city": "Casablanca", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 4, 
+    "rsvp_count": 6, 
     "country": "Morocco", 
     "start_time": "13:00:00", 
     "venue": "\u0643\u062a\u0627\u0628\u0629 \u0627\u0644\u062f\u0648\u0644\u0629 \u0627\u0644\u0645\u0643\u0644\u0641\u0629 \u0628\u0627\u0644\u0628\u064a\u0626\u0629", 
@@ -31493,12 +31461,12 @@
     "rsvp_count": 9, 
     "country": "India", 
     "start_time": "18:00:00", 
-    "venue": "Law College Hill, Hanuman Temple to Vetal Hill walk", 
-    "longitude": 73.8205779, 
+    "venue": "1. Hanuman Temple to Vetal Hill, 2. Wanaori by Mr. Sampat", 
+    "longitude": 73.8567437, 
     "state": "MH", 
     "country_code": "IN", 
-    "address": "Gokhalenagar - Vetal Hill Trail, Gokhalenagar, Pune, Maharashtra 411016, India", 
-    "latitude": 18.5246779, 
+    "address": "Pune, Maharashtra, India", 
+    "latitude": 18.5204303, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1552", 
     "id": 4658
@@ -31938,7 +31906,7 @@
   {
     "city": "B\u00e9char", 
     "name": "B\u00e9char avec le climat", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Algeria", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -32466,7 +32434,7 @@
   {
     "city": "Hamburg", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 13, 
+    "rsvp_count": 18, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Rathausmarkt Hamburg", 
@@ -32626,7 +32594,7 @@
   {
     "city": "ieder op zijn eigen plek", 
     "name": "Samen afstemmen op de klimaattop met muziek en video", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Belgium", 
     "start_time": "13:00:00", 
     "venue": "Mortsel", 
@@ -32658,7 +32626,7 @@
   {
     "city": "Speyer", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Speyrer Dom", 
@@ -32706,7 +32674,7 @@
   {
     "city": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 22, 
+    "rsvp_count": 23, 
     "country": "Russia", 
     "start_time": "13:00:00", 
     "venue": "\u0418\u0441\u0430\u0430\u043a\u0438\u0435\u0432\u0441\u043a\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u044c", 
@@ -32770,7 +32738,7 @@
   {
     "city": "Olbia", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "Comune di Olbia", 
@@ -32946,7 +32914,7 @@
   {
     "city": "Wingene", 
     "name": "Actiedag voor het Klimaat", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Belgium", 
     "start_time": "13:00:00", 
     "venue": "Parking De Alk.", 
@@ -33122,7 +33090,7 @@
   {
     "city": "Basel", 
     "name": "People's Climate March", 
-    "rsvp_count": 7, 
+    "rsvp_count": 9, 
     "country": "Switzerland", 
     "start_time": "13:00:00", 
     "venue": "Marktplatz, vor dem Rathaus", 
@@ -33506,7 +33474,7 @@
   {
     "city": "Zirndorf", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -33586,7 +33554,7 @@
   {
     "city": "Tallinn", 
     "name": "\u00d6kom\u00e4ss - Hea Kliima K\u00f5nd", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Estonia", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -33634,7 +33602,7 @@
   {
     "city": "Hassi Messaoud", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Algeria", 
     "start_time": "13:00:00", 
     "venue": "\u0627\u0644\u0645\u0641\u0631\u063a\u0629 \u0627\u0644\u0639\u0634\u0648\u0627\u0626\u064a\u0629 \u0644\u0645\u062f\u064a\u0646\u0629 \u062d\u0627\u0633\u064a \u0645\u0633\u0639\u0648\u062f", 
@@ -33746,7 +33714,7 @@
   {
     "city": "Belo Horizonte", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Brazil", 
     "start_time": "10:00:00", 
     "venue": "", 
@@ -33794,7 +33762,7 @@
   {
     "city": "Batna", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Algeria", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -33920,17 +33888,17 @@
     "id": 4833
   }, 
   {
-    "city": "", 
+    "city": "Alto Para\u00edso de Goi\u00e1s", 
     "name": "Caminhada pelo Clima", 
     "rsvp_count": 1, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "pla\u00e7a do skate", 
-    "longitude": -47.5154985, 
+    "longitude": -47.5150826, 
     "state": "GO", 
     "country_code": "BR", 
-    "address": "Pra\u00e7a do Skate, Goi\u00e1s, Rep\u00fablica Federativa do Brasil", 
-    "latitude": -14.1335661, 
+    "address": "Rua Joaquim Costa, 902-958, Alto Para\u00edso de Goi\u00e1s - GO, 73770-000, Rep\u00fablica Federativa do Brasil", 
+    "latitude": -14.1355617, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_186", 
     "id": 4834
@@ -34402,7 +34370,7 @@
   {
     "city": "La Rochelle", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 10, 
+    "rsvp_count": 11, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "place verdun La Rochelle", 
@@ -34626,7 +34594,7 @@
   {
     "city": "Heilbronn", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -34802,7 +34770,7 @@
   {
     "city": "\u062b\u0644\u0627\u062b\u0629 \u0627\u0644\u062f\u0648\u0627\u0626\u0631", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Algeria", 
     "start_time": "13:00:00", 
     "venue": "\u062d\u064a \u0627\u0644\u062c\u062f\u064a\u062f", 
@@ -35298,7 +35266,7 @@
   {
     "city": "Kiel", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Rathaus", 
@@ -35570,7 +35538,7 @@
   {
     "city": "Curitiba", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "pra\u00e7a ruy barbosa", 
@@ -35906,15 +35874,15 @@
   {
     "city": "Toulouse", 
     "name": "Marche Pour le Climat \u00e0 Toulouse, avec Avaaz.org", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "France", 
     "start_time": "13:00:00", 
-    "venue": "Place du Capitole", 
-    "longitude": 1.4434630000001, 
+    "venue": "Place du Capitole, \u00e0 Toulouse", 
+    "longitude": 1.4442325, 
     "state": "Midi-Pyr\u00e9n\u00e9es", 
     "country_code": "FR", 
-    "address": "Place du Capitole, Place du Capitole, 31000 Toulouse, France", 
-    "latitude": 43.6044328, 
+    "address": "Mairie de Toulouse, 1 Place du Capitole, 31000 Toulouse, France", 
+    "latitude": 43.6045614, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_a_Toulouse_avec_Avaazorg", 
     "id": 4975
@@ -35986,10 +35954,10 @@
   {
     "city": "Haarlem", 
     "name": "Haarlem People's Climate March", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Netherlands", 
     "start_time": "00:30:00", 
-    "venue": "", 
+    "venue": "Grote Markt", 
     "longitude": 4.635906, 
     "state": "NH", 
     "country_code": "NL", 
@@ -36062,5 +36030,53 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/PUEBLO_DE_TARIFA_CONTRA_CAMBIO_CLIMATICO_PEOPLE_OF_TARIFA_AGAINST_CLIMATE_CHANGE", 
     "id": 4984
+  }, 
+  {
+    "city": "Velp", 
+    "name": "Heel de Aarde", 
+    "rsvp_count": 1, 
+    "country": "Netherlands", 
+    "start_time": "14:00:00", 
+    "venue": "", 
+    "longitude": 5.9723658, 
+    "state": "GE", 
+    "country_code": "NL", 
+    "address": "Parkstraat 3, 6881 JA Velp, Nederland", 
+    "latitude": 51.9966594, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/nl/event/climate/Heel_de_Aarde", 
+    "id": 4985
+  }, 
+  {
+    "city": "\u0411\u043b\u0430\u0433\u043e\u0432\u0435\u0449\u0435\u043d\u0441\u043a", 
+    "name": "People's Climate March", 
+    "rsvp_count": 1, 
+    "country": "Russia", 
+    "start_time": "13:00:00", 
+    "venue": "ostrovskogo 58", 
+    "longitude": 127.5391305, 
+    "state": "\u0410\u043c\u0443\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", 
+    "country_code": "RU", 
+    "address": "\u0443\u043b\u0438\u0446\u0430 \u041e\u0441\u0442\u0440\u043e\u0432\u0441\u043a\u043e\u0433\u043e, 58, \u0411\u043b\u0430\u0433\u043e\u0432\u0435\u0449\u0435\u043d\u0441\u043a, \u0410\u043c\u0443\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0420\u043e\u0441\u0441\u0438\u044f, 675016", 
+    "latitude": 50.2669432, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1598", 
+    "id": 4986
+  }, 
+  {
+    "city": "Casablanca", 
+    "name": "Marche Pour le Climat", 
+    "rsvp_count": 2, 
+    "country": "Morocco", 
+    "start_time": "15:00:00", 
+    "venue": "Place Mohamed V", 
+    "longitude": -7.6197246, 
+    "state": "Grand Casablanca", 
+    "country_code": "MA", 
+    "address": "Place Mohamed V, Casablanca, Maroc", 
+    "latitude": 33.5916958, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_275", 
+    "id": 4987
   }
 ]
