@@ -31891,7 +31891,7 @@ initData({},
   {
     "city": "Ashland", 
     "name": "Chequamegon Climate Walk", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "United States of America", 
     "start_time": "18:00:00", 
     "venue": "Ashland Memorial Park Bandshell", 
