@@ -15907,7 +15907,7 @@ initData({},
   {
     "city": "Goi\u00e2nia", 
     "name": "Recomposi\u00e7\u00e3o Total das Matas Ciliares", 
-    "rsvp_count": 402, 
+    "rsvp_count": 403, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a C\u00edvica", 
