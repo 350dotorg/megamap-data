@@ -2,7 +2,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 2105, 
+    "rsvp_count": 2107, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -34,7 +34,7 @@
   {
     "city": "Berlin", 
     "name": "Mal schnell die Welt retten - BERLIN", 
-    "rsvp_count": 554, 
+    "rsvp_count": 555, 
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "Brandenburger Tor", 
@@ -482,7 +482,7 @@
   {
     "city": "Helsinki", 
     "name": "People's Climate March - Helsinki", 
-    "rsvp_count": 126, 
+    "rsvp_count": 127, 
     "country": "Finland", 
     "start_time": "16:00:00", 
     "venue": "Kamppi", 
@@ -850,7 +850,7 @@
   {
     "city": "Brussels", 
     "name": "\u00c9venement des Citoyens pour le Climat", 
-    "rsvp_count": 819, 
+    "rsvp_count": 820, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "Place Poelaert", 
@@ -8114,7 +8114,7 @@
   {
     "city": "Stuttgart", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 162, 
+    "rsvp_count": 163, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Fu\u00dfg\u00e4ngerzone S-Untertr\u00fcrkheim", 
@@ -12866,7 +12866,7 @@
   {
     "city": "Hamilton", 
     "name": "People's Climate March", 
-    "rsvp_count": 43, 
+    "rsvp_count": 44, 
     "country": "New Zealand", 
     "start_time": "13:00:00", 
     "venue": "Panguru , North Hokianga", 
@@ -26400,17 +26400,17 @@
     "id": 4221
   }, 
   {
-    "city": "Jidhafs", 
+    "city": "\u0627\u0644\u0631\u0641\u0627\u0639", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
     "rsvp_count": 2, 
     "country": "Bahrain", 
-    "start_time": "13:00:00", 
-    "venue": "juffair", 
-    "longitude": 50.5367093, 
-    "state": "Northern Governorate", 
+    "start_time": "18:00:00", 
+    "venue": "Bahrain national stadium", 
+    "longitude": 50.5417424, 
+    "state": "\u0627\u0644\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629", 
     "country_code": "BH", 
-    "address": "Shaikh Khalifa Bin Salman Highway, Jidhafs, Bahrain", 
-    "latitude": 26.2310234, 
+    "address": "\u0634\u0627\u0631\u0639 \u0627\u0644\u0645\u062d\u0631\u0642\u060c \u0627\u0644\u0631\u0641\u0627\u0639\u060c \u0627\u0644\u0628\u062d\u0631\u064a\u0646", 
+    "latitude": 26.1538857, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/ar/event/climate/lmsyr_lmnkhy_lshby_178", 
     "id": 4222
@@ -28242,7 +28242,7 @@
   {
     "city": "Aix-en-Provence", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 42, 
+    "rsvp_count": 43, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "La Rotonde - Tour de Ville", 
@@ -28786,7 +28786,7 @@
   {
     "city": "Baleal", 
     "name": "CONCERTO PELO CLIMA", 
-    "rsvp_count": 10, 
+    "rsvp_count": 11, 
     "country": "Portugal", 
     "start_time": "22:00:00", 
     "venue": "", 
