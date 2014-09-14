@@ -9779,7 +9779,7 @@ initData({},
   {
     "city": "Munich", 
     "name": "People's Climate March", 
-    "rsvp_count": 500, 
+    "rsvp_count": 502, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Karlsplatz", 
