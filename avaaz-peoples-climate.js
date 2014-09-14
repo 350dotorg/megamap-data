@@ -22579,7 +22579,7 @@ initData({},
   {
     "city": "Viareggio", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 16, 
+    "rsvp_count": 17, 
     "country": "Italy", 
     "start_time": "10:00:00", 
     "venue": "Via Verdi 171", 
