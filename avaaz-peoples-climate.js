@@ -7267,7 +7267,7 @@ initData({},
   {
     "city": "Lausanne", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 58, 
+    "rsvp_count": 59, 
     "country": "Switzerland", 
     "start_time": "13:00:00", 
     "venue": "Les ruines romaines de Vidy pour remonter \u00e0 la place du ch\u00e2teau.", 
