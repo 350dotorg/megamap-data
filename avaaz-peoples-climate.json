@@ -2,7 +2,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 2292, 
+    "rsvp_count": 2293, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -706,7 +706,7 @@
   {
     "city": "Zurich", 
     "name": "Zurich People's Climate Stand", 
-    "rsvp_count": 204, 
+    "rsvp_count": 205, 
     "country": "Switzerland", 
     "start_time": "10:00:00", 
     "venue": "Hirschenplatz", 
@@ -4402,7 +4402,7 @@
   {
     "city": "\u00c1guas de Lind\u00f3ia", 
     "name": "Caminhada pelo Clima Circuito das \u00e1guas paulista", 
-    "rsvp_count": 12, 
+    "rsvp_count": 13, 
     "country": "Brazil", 
     "start_time": "15:00:00", 
     "venue": "Pra\u00e7a Adhemar de Barros", 
@@ -23170,7 +23170,7 @@
   {
     "city": "Ancona", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 30, 
+    "rsvp_count": 31, 
     "country": "Italy", 
     "start_time": "15:00:00", 
     "venue": "piazza Cavour", 
