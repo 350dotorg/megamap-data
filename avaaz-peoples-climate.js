@@ -4115,7 +4115,7 @@ initData({},
   {
     "city": "Auckland", 
     "name": "People's Climate March", 
-    "rsvp_count": 187, 
+    "rsvp_count": 188, 
     "country": "New Zealand", 
     "start_time": "13:00:00", 
     "venue": "Christchurch", 
