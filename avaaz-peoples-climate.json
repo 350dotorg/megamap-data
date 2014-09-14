@@ -35566,5 +35566,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/CONCENTRACION_POR_EL_USO_DE_ENERGIAS_LIMPIAS_A_FAVOR_DEL_CLIMA_SANO_MUNDIAL", 
     "id": 4948
+  }, 
+  {
+    "city": "Curitiba", 
+    "name": "Caminhada pelo Clima", 
+    "rsvp_count": 1, 
+    "country": "Brazil", 
+    "start_time": "13:00:00", 
+    "venue": "pra\u00e7a ruy barbosa", 
+    "longitude": -49.2529105, 
+    "state": "PR", 
+    "country_code": "BR", 
+    "address": "Rua David Bodziak, 916-948 - Cachoeira, Boa Vista, Curitiba - PR, 82710-260, Rep\u00fablica Federativa do Brasil", 
+    "latitude": -25.3521015, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_195", 
+    "id": 4949
   }
 ]
