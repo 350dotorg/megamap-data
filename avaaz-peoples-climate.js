@@ -7043,7 +7043,7 @@ initData({},
   {
     "city": "Trento", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 43, 
+    "rsvp_count": 44, 
     "country": "Italy", 
     "start_time": "14:00:00", 
     "venue": "Piazza Duomo", 
