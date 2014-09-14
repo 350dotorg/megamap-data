@@ -1363,7 +1363,7 @@ initData({},
   {
     "city": "L'Alfas del Pi", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 47, 
+    "rsvp_count": 48, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Playa del Albir (El Ancla)", 
