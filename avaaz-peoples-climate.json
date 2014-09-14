@@ -6258,7 +6258,7 @@
   {
     "city": "Athens", 
     "name": "\u0395\u03c0\u03af\u03c3\u03b7\u03bc\u03b7 \u0394\u03c1\u03ac\u03c3\u03b7 \u0391\u03b8\u03ae\u03bd\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
-    "rsvp_count": 683, 
+    "rsvp_count": 685, 
     "country": "Greece", 
     "start_time": "16:00:00", 
     "venue": "\u0394\u03b9\u03bf\u03bd\u03c5\u03c3\u03af\u03bf\u03c5 \u0391\u03c1\u03b5\u03bf\u03c0\u03b1\u03b3\u03af\u03c4\u03bf\u03c5, \u0391\u03b8\u03ae\u03bd\u03b1", 
@@ -27586,7 +27586,7 @@
   {
     "city": "Santiago Province", 
     "name": "Marcha Ciudadana contra el Cambio Clim\u00e1tico, MAC Santiago de Chile, 12 hrs", 
-    "rsvp_count": 102, 
+    "rsvp_count": 103, 
     "country": "Chile", 
     "start_time": "12:00:00", 
     "venue": "Jos\u00e9 Victorino Lastarria 307, Plaza Mulato Gil de Castro (Metro U. Cat\u00f3lica y/o Bellas Artes)", 
@@ -29154,7 +29154,7 @@
   {
     "city": "Settat", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Morocco", 
     "start_time": "13:00:00", 
     "venue": "route ben ahmed", 
@@ -36366,5 +36366,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_276", 
     "id": 5010
+  }, 
+  {
+    "city": "Wetter (Ruhr)", 
+    "name": "Klima-Fahrrad-Aktionstag", 
+    "rsvp_count": 1, 
+    "country": "Germany", 
+    "start_time": "11:15:00", 
+    "venue": "Bahnhof Alt-Wetter", 
+    "longitude": 7.386205, 
+    "state": "NRW", 
+    "country_code": "DE", 
+    "address": "Bahnhof Wetter (Ruhr), Bahnhofstra\u00dfe 19, 58300 Wetter (Ruhr), Deutschland", 
+    "latitude": 51.3865873, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaFahrradAktionstag", 
+    "id": 5011
   }
 ]
