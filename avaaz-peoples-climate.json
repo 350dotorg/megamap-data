@@ -898,7 +898,7 @@
   {
     "city": "Barcelona", 
     "name": "Marcha Ciudadana Global por el Clima. Barcelona #BCN21S", 
-    "rsvp_count": 1118, 
+    "rsvp_count": 1119, 
     "country": "Spain", 
     "start_time": "11:00:00", 
     "venue": "Moll de la Marina, Barcelona", 
@@ -1874,7 +1874,7 @@
   {
     "city": "Caracas", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 99, 
+    "rsvp_count": 100, 
     "country": "Venezuela", 
     "start_time": "10:00:00", 
     "venue": "Parque General\u00edsimo Francisco de Miranda", 
@@ -2722,7 +2722,7 @@
   {
     "city": "Milano", 
     "name": "Climate March", 
-    "rsvp_count": 309, 
+    "rsvp_count": 310, 
     "country": "Italy", 
     "start_time": "10:00:00", 
     "venue": "", 
@@ -21266,7 +21266,7 @@
   {
     "city": "M\u00e1laga", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 95, 
+    "rsvp_count": 96, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "M\u00e1laga ciudad, Calle Larios: entre BBVA y Banco Popular", 
