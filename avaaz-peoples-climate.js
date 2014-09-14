@@ -5155,7 +5155,7 @@ initData({},
   {
     "city": "Ciudad de M\u00e9xico", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 111, 
+    "rsvp_count": 112, 
     "country": "Mexico", 
     "start_time": "10:00:00", 
     "venue": "Parque Ecol\u00f3gico Juana de Asbaje", 
