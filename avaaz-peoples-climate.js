@@ -27155,7 +27155,7 @@ initData({},
   {
     "city": "\u3044\u308f\u304d\u5e02", 
     "name": "People's Climate March", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Japan", 
     "start_time": "13:00:00", 
     "venue": "", 
