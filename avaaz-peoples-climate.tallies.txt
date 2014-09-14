@@ -1,4 +1,4 @@
-Number of events: 2234
+Number of events: 2235
 Number of countries: 142
 	Afghanistan: 1
 	Albania: 2
@@ -42,7 +42,7 @@ Number of countries: 142
 	Egypt: 34
 	El Salvador: 2
 	Estonia: 3
-	Finland: 5
+	Finland: 6
 	France: 159
 	French Guiana: 2
 	French Polynesia: 3
