@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2749, 
+    "rsvp_count": 2750, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -114,7 +114,7 @@
   {
     "city": "Montreal", 
     "name": "Peoples' Climate March @ Montreal // Marche mondiale pour le climat @ Montr\u00e9al", 
-    "rsvp_count": 250, 
+    "rsvp_count": 251, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Parc Lafontaine", 
@@ -1074,7 +1074,7 @@
   {
     "city": "Doha", 
     "name": "Doha Climate Rally", 
-    "rsvp_count": 39, 
+    "rsvp_count": 40, 
     "country": "Qatar", 
     "start_time": "17:00:00", 
     "venue": "Corniche/MIA (location to be confirmed)", 
@@ -2754,7 +2754,7 @@
   {
     "city": "Buenos Aires", 
     "name": "Movimiento Global Ciudadano por el Cambio Clim\u00e1tico", 
-    "rsvp_count": 95, 
+    "rsvp_count": 96, 
     "country": "Argentina", 
     "start_time": "15:00:00", 
     "venue": "", 
@@ -3506,7 +3506,7 @@
   {
     "city": "Porto Alegre", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 359, 
+    "rsvp_count": 360, 
     "country": "Brazil", 
     "start_time": "11:00:00", 
     "venue": "Parque Farroupilha - Reden\u00e7\u00e3o", 
@@ -24978,7 +24978,7 @@
   {
     "city": "Las Palmas de Gran Canaria", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 22, 
+    "rsvp_count": 23, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Parque de San Telmo, pr\u00f3ximo a calle comercial Triana", 
@@ -32018,7 +32018,7 @@
   {
     "city": "Rutland", 
     "name": "People's Climate March", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "Corner of West Street (Rte 4) and Route 7, Main Street Park", 
