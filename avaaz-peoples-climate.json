@@ -2722,7 +2722,7 @@
   {
     "city": "Saint-Leu", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 84, 
+    "rsvp_count": 85, 
     "country": "Reunion", 
     "start_time": "13:00:00", 
     "venue": "Parvis de la Mairie de St Leu", 
@@ -4290,7 +4290,7 @@
   {
     "city": "Wien", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 540, 
+    "rsvp_count": 541, 
     "country": "Austria", 
     "start_time": "16:00:00", 
     "venue": "Gleich neben dem Stephansdom", 
@@ -9762,7 +9762,7 @@
   {
     "city": "Bilbao", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 44, 
+    "rsvp_count": 45, 
     "country": "Spain", 
     "start_time": "17:00:00", 
     "venue": "PLAZA DEL ARRIAGA", 
@@ -18802,7 +18802,7 @@
   {
     "city": "Vilnius", 
     "name": "Klimato kaitos \u017eygis Vilniuje", 
-    "rsvp_count": 24, 
+    "rsvp_count": 25, 
     "country": "Lithuania", 
     "start_time": "13:00:00", 
     "venue": "\u017dygis prasid\u0117s nuo Prezident\u016bros (S. Daukanto aik\u0161t\u0117) ir pajud\u0117s iki Vyriausyb\u0117s r\u016bm\u0173.", 
@@ -22674,7 +22674,7 @@
   {
     "city": "Gent", 
     "name": "Actiedag voor het Klimaat", 
-    "rsvp_count": 110, 
+    "rsvp_count": 111, 
     "country": "Belgium", 
     "start_time": "13:00:00", 
     "venue": "Stadhuis, Botermarkt 1, 9000 Gent", 
@@ -35966,5 +35966,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1596", 
     "id": 4978
+  }, 
+  {
+    "city": "Yarmouth", 
+    "name": "People's Climate March", 
+    "rsvp_count": 1, 
+    "country": "Canada", 
+    "start_time": "13:00:00", 
+    "venue": "", 
+    "longitude": -66.117382, 
+    "state": "NS", 
+    "country_code": "CA", 
+    "address": "Yarmouth, NS, Canada", 
+    "latitude": 43.8374576, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1597", 
+    "id": 4979
   }
 ]
