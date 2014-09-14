@@ -35599,6 +35599,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_196", 
     "id": 4950
+  }, 
+  {
+    "city": "Belo Horizonte", 
+    "name": "Caminhada pelo Clima", 
+    "rsvp_count": 1, 
+    "country": "Brazil", 
+    "start_time": "13:00:00", 
+    "venue": "parque nossa senhora da piedade", 
+    "longitude": -43.9277996, 
+    "state": "MG", 
+    "country_code": "BR", 
+    "address": "Parque Nossa Senhora da Piedade - Rua Rubens de Souza Pimentel, 750 - Aar\u00e3o Reis, Belo Horizonte - Minas Gerais, 31814-360, Brazil", 
+    "latitude": -19.8482157, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_197", 
+    "id": 4951
   }
 ]
 );
