@@ -3,7 +3,7 @@ initData({},
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 2228, 
+    "rsvp_count": 2229, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -8243,7 +8243,7 @@ initData({},
   {
     "city": "Las Palmas de Gran Canaria", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 75, 
+    "rsvp_count": 76, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Fuente Luminosa", 
@@ -36271,6 +36271,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_515", 
     "id": 5000
+  }, 
+  {
+    "city": "El Espinar", 
+    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
+    "rsvp_count": 1, 
+    "country": "Spain", 
+    "start_time": "13:00:00", 
+    "venue": "", 
+    "longitude": -4.2468294, 
+    "state": "CL", 
+    "country_code": "ES", 
+    "address": "40400 El Espinar, Segovia, Espa\u00f1a", 
+    "latitude": 40.7178009, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_516", 
+    "id": 5002
   }
 ]
 );
