@@ -33891,7 +33891,7 @@ initData({},
   {
     "city": "Santa Fe", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Argentina", 
     "start_time": "13:00:00", 
     "venue": "costanera saliendo desde el puente colgante\u00a1\u00a1\u00a1", 
