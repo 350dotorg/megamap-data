@@ -8099,7 +8099,7 @@ initData({},
   {
     "city": "La Dorada", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 8, 
+    "rsvp_count": 9, 
     "country": "Colombia", 
     "start_time": "13:00:00", 
     "venue": "Parque Bol\u00edvar", 
