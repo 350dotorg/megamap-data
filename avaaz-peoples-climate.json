@@ -834,7 +834,7 @@
   {
     "city": "Brussels", 
     "name": "\u00c9venement des Citoyens pour le Climat", 
-    "rsvp_count": 861, 
+    "rsvp_count": 862, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "Place Poelaert", 
@@ -898,7 +898,7 @@
   {
     "city": "Barcelona", 
     "name": "Marcha Ciudadana Global por el Clima. Barcelona #BCN21S", 
-    "rsvp_count": 1086, 
+    "rsvp_count": 1087, 
     "country": "Spain", 
     "start_time": "11:00:00", 
     "venue": "Moll de la Marina, Barcelona", 
@@ -34418,7 +34418,7 @@
   {
     "city": "Lausanne", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Switzerland", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -36094,5 +36094,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1599", 
     "id": 4988
+  }, 
+  {
+    "city": "Mulhouse", 
+    "name": "People's Climate March", 
+    "rsvp_count": 1, 
+    "country": "France", 
+    "start_time": "13:00:00", 
+    "venue": "Boulevard Stoessel", 
+    "longitude": 7.3216457, 
+    "state": "Alsace", 
+    "country_code": "FR", 
+    "address": "Boulevard Charles Stoessel, Mulhouse, France", 
+    "latitude": 47.7410227, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1600", 
+    "id": 4989
   }
 ]
