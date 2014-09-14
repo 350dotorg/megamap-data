@@ -1250,7 +1250,7 @@
   {
     "city": "\u0411\u0430\u0440\u0430\u043d\u043e\u0432\u0438\u0447\u0438", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 8, 
+    "rsvp_count": 9, 
     "country": "Belarus", 
     "start_time": "13:00:00", 
     "venue": "\u0421\u0442\u0430\u0440\u044b\u0439 \u043f\u0430\u0440\u043a", 
@@ -2914,7 +2914,7 @@
   {
     "city": "Roma", 
     "name": "Marcia Globale per il Clima a Roma: LA BICICLETTATA, IL CUORE VERDE", 
-    "rsvp_count": 466, 
+    "rsvp_count": 467, 
     "country": "Italy", 
     "start_time": "15:00:00", 
     "venue": "COLOSSEO, ROMA", 
@@ -17666,7 +17666,7 @@
   {
     "city": "Bolzano", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 61, 
+    "rsvp_count": 62, 
     "country": "Italy", 
     "start_time": "16:00:00", 
     "venue": "Piazza Walter", 
@@ -19538,7 +19538,7 @@
   {
     "city": "Dublin", 
     "name": "People's Climate Picnic on the Green", 
-    "rsvp_count": 133, 
+    "rsvp_count": 134, 
     "country": "Ireland", 
     "start_time": "12:00:00", 
     "venue": "The Bandstand, St. Stephen's Green", 
@@ -20962,7 +20962,7 @@
   {
     "city": "Budapest", 
     "name": "People's Climate March - Hungary", 
-    "rsvp_count": 100, 
+    "rsvp_count": 101, 
     "country": "Hungary", 
     "start_time": "13:00:00", 
     "venue": "Budapest, Kossuth Lajos t\u00e9r, 1055 Magyarorsz\u00e1g", 
@@ -23410,7 +23410,7 @@
   {
     "city": "Uccle", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 57, 
+    "rsvp_count": 58, 
     "country": "Belgium", 
     "start_time": "13:00:00", 
     "venue": "Place Saint-Job", 
@@ -25330,7 +25330,7 @@
   {
     "city": "Venezia", 
     "name": "Venezia chiama Terra-  Venice calls Earth - Gruppo di sostegno della People's Climate March", 
-    "rsvp_count": 7, 
+    "rsvp_count": 8, 
     "country": "Italy", 
     "start_time": "12:00:00", 
     "venue": "Ponte di Rialto ; Rialto Bridge", 
