@@ -6243,7 +6243,7 @@ initData({},
   {
     "city": "Drummondville", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 13, 
+    "rsvp_count": 14, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "marche sur le pont", 
