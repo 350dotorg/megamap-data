@@ -834,7 +834,7 @@
   {
     "city": "Brussels", 
     "name": "\u00c9venement des Citoyens pour le Climat", 
-    "rsvp_count": 844, 
+    "rsvp_count": 845, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "Place Poelaert", 
@@ -3602,7 +3602,7 @@
   {
     "city": "Rennes", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 74, 
+    "rsvp_count": 75, 
     "country": "France", 
     "start_time": "15:00:00", 
     "venue": "PLACE DE LA MAIRIE", 
@@ -31506,7 +31506,7 @@
   {
     "city": "Dubai", 
     "name": "Dubai People's Climate Action", 
-    "rsvp_count": 11, 
+    "rsvp_count": 12, 
     "country": "United Arab Emirates", 
     "start_time": "13:00:00", 
     "venue": "Everywhere - use your imagination and take a picture!", 
@@ -31826,7 +31826,7 @@
   {
     "city": "", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Italy", 
     "start_time": "11:00:00", 
     "venue": "terrazza mascagni", 
@@ -36030,5 +36030,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_273", 
     "id": 4982
+  }, 
+  {
+    "city": "Mont-Laurier", 
+    "name": "Marche Pour le Climat", 
+    "rsvp_count": 1, 
+    "country": "Canada", 
+    "start_time": "13:00:00", 
+    "venue": "Centre sportif Jacques-Lesage", 
+    "longitude": -75.4996365, 
+    "state": "QC", 
+    "country_code": "CA", 
+    "address": "Centre sportif Jacques-Lesage, 801 Rue Alix, Mont-Laurier, QC J9L 2V9", 
+    "latitude": 46.5596177, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_274", 
+    "id": 4983
   }
 ]
