@@ -2,7 +2,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 2236, 
+    "rsvp_count": 2239, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -466,7 +466,7 @@
   {
     "city": "Helsinki", 
     "name": "People's Climate March - Helsinki", 
-    "rsvp_count": 133, 
+    "rsvp_count": 134, 
     "country": "Finland", 
     "start_time": "16:00:00", 
     "venue": "Kamppi", 
@@ -3458,7 +3458,7 @@
   {
     "city": "La Coru\u00f1a", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 78, 
+    "rsvp_count": 79, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "plaza maria pita", 
@@ -7794,7 +7794,7 @@
   {
     "city": "Tijuana", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 16, 
+    "rsvp_count": 17, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "av. paseo de los heroes, zona urbana rio tijuana, 22010", 
@@ -13186,7 +13186,7 @@
   {
     "city": "Vila Velha", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 39, 
+    "rsvp_count": 40, 
     "country": "Brazil", 
     "start_time": "08:30:00", 
     "venue": "Av. Antonio Gil Veloso esquina com Jair Andrade. Dire\u00e7\u00e3o da caminhada : Itapo\u00e3 -  Praia da Costa", 
@@ -18690,7 +18690,7 @@
   {
     "city": "Girardot", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 8, 
+    "rsvp_count": 9, 
     "country": "Colombia", 
     "start_time": "13:00:00", 
     "venue": "Parque Bolivar , frente de a la alcaldia.", 
@@ -23410,7 +23410,7 @@
   {
     "city": "Hamburg", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 27, 
+    "rsvp_count": 28, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Hauptbahnhof Blumen Laden", 
@@ -32914,7 +32914,7 @@
   {
     "city": "Wingene", 
     "name": "Actiedag voor het Klimaat", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Belgium", 
     "start_time": "13:00:00", 
     "venue": "Parking De Alk.", 
@@ -35746,7 +35746,7 @@
   {
     "city": "Tours", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -36318,5 +36318,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_517", 
     "id": 5006
+  }, 
+  {
+    "city": "Brighton", 
+    "name": "People's Climate March", 
+    "rsvp_count": 0, 
+    "country": "United Kingdom", 
+    "start_time": "13:00:00", 
+    "venue": "Palmeira Squere", 
+    "longitude": -0.16305460000001, 
+    "state": "England", 
+    "country_code": "GB", 
+    "address": "Palmeira Square, Brighton, Hove, The City of Brighton and Hove BN3, UK", 
+    "latitude": 50.8258313, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1604", 
+    "id": 5008
   }
 ]
