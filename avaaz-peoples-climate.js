@@ -6499,7 +6499,7 @@ initData({},
   {
     "city": "Cesenatico", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 24, 
+    "rsvp_count": 25, 
     "country": "Italy", 
     "start_time": "17:00:00", 
     "venue": "Piazza del Grattacielo", 
