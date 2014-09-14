@@ -1506,7 +1506,7 @@
   {
     "city": "Seattle", 
     "name": "People's Climate March", 
-    "rsvp_count": 93, 
+    "rsvp_count": 94, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -4866,7 +4866,7 @@
   {
     "city": "Bordeaux", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 192, 
+    "rsvp_count": 193, 
     "country": "France", 
     "start_time": "14:30:00", 
     "venue": "", 
@@ -22386,7 +22386,7 @@
   {
     "city": "Vienna", 
     "name": "People's Climate March", 
-    "rsvp_count": 73, 
+    "rsvp_count": 74, 
     "country": "Austria", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -25730,7 +25730,7 @@
   {
     "city": "Oviedo", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 22, 
+    "rsvp_count": 23, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "la escandalera", 
