@@ -35534,5 +35534,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/BTT_pelo_Planeta", 
     "id": 4946
+  }, 
+  {
+    "city": "", 
+    "name": "People's Climate March", 
+    "rsvp_count": 0, 
+    "country": "India", 
+    "start_time": "13:00:00", 
+    "venue": "Clean Juhu Beach", 
+    "longitude": 72.8240375, 
+    "state": "", 
+    "country_code": "IN", 
+    "address": "Juhu Beach", 
+    "latitude": 19.1042102, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1591", 
+    "id": 4947
   }
 ]
