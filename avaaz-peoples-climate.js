@@ -21107,7 +21107,7 @@ initData({},
   {
     "city": "Hermosa Beach", 
     "name": "People's Climate March:  Sepulveda-PCH Corridor", 
-    "rsvp_count": 19, 
+    "rsvp_count": 20, 
     "country": "United States of America", 
     "start_time": "12:00:00", 
     "venue": "Pier Avenue & Pacific Coast Hiway", 
