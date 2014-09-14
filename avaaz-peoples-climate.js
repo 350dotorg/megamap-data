@@ -19,7 +19,7 @@ initData({},
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 1175, 
+    "rsvp_count": 1176, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -35503,6 +35503,38 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/En_defensa_del_planeta", 
     "id": 4942
+  }, 
+  {
+    "city": "Gr\u00e3o Mogol", 
+    "name": "Caminhada pelo Clima", 
+    "rsvp_count": 1, 
+    "country": "Brazil", 
+    "start_time": "13:00:00", 
+    "venue": "antiga pra\u00e7a da roviaria", 
+    "longitude": -42.8932326, 
+    "state": "MG", 
+    "country_code": "BR", 
+    "address": "Gr\u00e3o Mogol - MG, Rep\u00fablica Federativa do Brasil", 
+    "latitude": -16.5653072, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_194", 
+    "id": 4943
+  }, 
+  {
+    "city": "Louga", 
+    "name": "Marche Pour le Climat", 
+    "rsvp_count": 0, 
+    "country": "Senegal", 
+    "start_time": "08:00:00", 
+    "venue": "place yacine boubou", 
+    "longitude": -16.216667, 
+    "state": "Louga", 
+    "country_code": "SN", 
+    "address": "Louga, S\u00e9n\u00e9gal", 
+    "latitude": 15.616667, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_269", 
+    "id": 4944
   }
 ]
 );
