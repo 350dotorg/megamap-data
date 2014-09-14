@@ -18611,7 +18611,7 @@ initData({},
   {
     "city": "Lima", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Peru", 
     "start_time": "13:00:00", 
     "venue": "Av. Bolognesi y Sucre cerca a la Municipalidad y Centro Comercial S.M.", 
