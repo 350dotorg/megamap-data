@@ -19171,7 +19171,7 @@ initData({},
   {
     "city": "Angers", 
     "name": "Marche mondiale des citoyens pour le climat", 
-    "rsvp_count": 57, 
+    "rsvp_count": 58, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Parc Balzac", 
