@@ -22771,7 +22771,7 @@ initData({},
   {
     "city": "El Palomar", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 16, 
+    "rsvp_count": 17, 
     "country": "Argentina", 
     "start_time": "13:00:00", 
     "venue": "av gaona esquina rosales", 
