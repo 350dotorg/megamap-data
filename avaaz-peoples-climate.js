@@ -1731,7 +1731,7 @@ initData({},
   {
     "city": "Medell\u00edn", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 393, 
+    "rsvp_count": 394, 
     "country": "Colombia", 
     "start_time": "09:00:00", 
     "venue": "Alcald\u00eda de Medell\u00edn", 
@@ -12179,7 +12179,7 @@ initData({},
   {
     "city": "Burlington", 
     "name": "People's Climate March: Burlington, ON", 
-    "rsvp_count": 30, 
+    "rsvp_count": 31, 
     "country": "Canada", 
     "start_time": "10:00:00", 
     "venue": "", 
@@ -36895,6 +36895,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1608", 
     "id": 5051
+  }, 
+  {
+    "city": "\u0628\u0646\u063a\u0627\u0632\u064a", 
+    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
+    "rsvp_count": 1, 
+    "country": "Libya", 
+    "start_time": "13:00:00", 
+    "venue": "elbwaqi", 
+    "longitude": 20.066667, 
+    "state": "\u0628\u0646\u063a\u0627\u0632\u064a", 
+    "country_code": "LY", 
+    "address": "\u0628\u0646\u063a\u0627\u0632\u064a\u060c \u0644\u064a\u0628\u064a\u0627", 
+    "latitude": 32.116667, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/ar/event/climate/lmsyr_lmnkhy_lshby_253", 
+    "id": 5052
   }
 ]
 );

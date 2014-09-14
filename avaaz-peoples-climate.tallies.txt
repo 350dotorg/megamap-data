@@ -1,4 +1,4 @@
-Number of events: 2306
+Number of events: 2307
 Number of countries: 142
 	Afghanistan: 1
 	Albania: 2
@@ -70,7 +70,7 @@ Number of countries: 142
 	Kyrgistan: 3
 	Lebanon: 1
 	Liberia: 2
-	Libya: 3
+	Libya: 4
 	Lithuania: 2
 	Madagascar: 5
 	Malaysia: 1
