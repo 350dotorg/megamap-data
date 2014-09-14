@@ -114,7 +114,7 @@
   {
     "city": "Montreal", 
     "name": "Peoples' Climate March @ Montreal // Marche mondiale pour le climat @ Montr\u00e9al", 
-    "rsvp_count": 244, 
+    "rsvp_count": 245, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Parc Lafontaine", 
@@ -9778,7 +9778,7 @@
   {
     "city": "Munich", 
     "name": "People's Climate March", 
-    "rsvp_count": 494, 
+    "rsvp_count": 495, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Karlsplatz", 
@@ -10450,7 +10450,7 @@
   {
     "city": "Hendaye", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 23, 
+    "rsvp_count": 24, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Xingudi", 
@@ -23090,7 +23090,7 @@
   {
     "city": "Mendoza", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Argentina", 
     "start_time": "13:00:00", 
     "venue": "Piensan activar la actividad minera de San Jorge - Uspallata, para la extracci\u00f3n de oro, plata, cobre, plomo, etc. Necesitamos que la extracci\u00f3n no contamine nuestras fuentes de agua y que no sea a cielo abierto.; terminar\u00edan con la fauna aut\u00f3ctona. Que u", 
@@ -27282,7 +27282,7 @@
   {
     "city": "Santo Andr\u00e9", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 88, 
+    "rsvp_count": 89, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Av Dom Pedro II", 
@@ -36254,5 +36254,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1602", 
     "id": 4999
+  }, 
+  {
+    "city": "Castelar", 
+    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
+    "rsvp_count": 1, 
+    "country": "Argentina", 
+    "start_time": "13:00:00", 
+    "venue": "", 
+    "longitude": -58.6452437, 
+    "state": "BA", 
+    "country_code": "AR", 
+    "address": "Castelar, Buenos Aires Province, Argentina", 
+    "latitude": -34.6554584, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_515", 
+    "id": 5000
   }
 ]
