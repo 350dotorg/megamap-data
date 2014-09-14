@@ -2,7 +2,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 2213, 
+    "rsvp_count": 2214, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -818,7 +818,7 @@
   {
     "city": "Copenhagen", 
     "name": "People's Climate March", 
-    "rsvp_count": 378, 
+    "rsvp_count": 379, 
     "country": "Denmark", 
     "start_time": "14:00:00", 
     "venue": "Nytorv, Domhuset", 
@@ -1746,7 +1746,7 @@
   {
     "city": "Freiburg im Breisgau", 
     "name": "Klimaevent", 
-    "rsvp_count": 133, 
+    "rsvp_count": 134, 
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "Ecke Bertoldstr./Niemenstr.", 
@@ -7234,7 +7234,7 @@
   {
     "city": "Lausanne", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 59, 
+    "rsvp_count": 60, 
     "country": "Switzerland", 
     "start_time": "13:00:00", 
     "venue": "Les ruines romaines de Vidy pour remonter \u00e0 la place du ch\u00e2teau.", 
