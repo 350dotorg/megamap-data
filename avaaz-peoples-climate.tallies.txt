@@ -6,7 +6,7 @@ Number of countries: 142
 	Argentina: 75
 	Armenia: 4
 	Australia: 38
-	Austria: 28
+	Austria: 27
 	Azerbaijan: 1
 	Bahrain: 3
 	Bangladesh: 4
@@ -17,7 +17,7 @@ Number of countries: 142
 	Bolivia: 6
 	Bosnia and Herzegovina: 1
 	Botswana: 1
-	Brazil: 224
+	Brazil: 225
 	Brunei: 1
 	Bulgaria: 6
 	Burkina Faso: 1
