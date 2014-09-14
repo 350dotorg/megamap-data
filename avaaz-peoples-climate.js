@@ -10275,7 +10275,7 @@ initData({},
   {
     "city": "Guimar\u00e3es", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 28, 
+    "rsvp_count": 29, 
     "country": "Portugal", 
     "start_time": "13:00:00", 
     "venue": "LARGO DO TOURAL", 
