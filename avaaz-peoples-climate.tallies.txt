@@ -1,4 +1,4 @@
-Number of events: 2240
+Number of events: 2241
 Number of countries: 142
 	Afghanistan: 1
 	Albania: 2
@@ -54,7 +54,7 @@ Number of countries: 142
 	Guinea: 1
 	Honduras: 4
 	Hong Kong: 1
-	Hungary: 4
+	Hungary: 5
 	India: 31
 	Indonesia: 3
 	Iran: 7
