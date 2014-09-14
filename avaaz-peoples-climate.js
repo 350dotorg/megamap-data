@@ -23443,7 +23443,7 @@ initData({},
   {
     "city": "Villavicencio", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 7, 
+    "rsvp_count": 8, 
     "country": "Colombia", 
     "start_time": "13:00:00", 
     "venue": "calle 26 # 37-45", 
