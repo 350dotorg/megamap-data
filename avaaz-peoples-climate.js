@@ -35695,6 +35695,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_202", 
     "id": 4957
+  }, 
+  {
+    "city": "Buenos Aires", 
+    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
+    "rsvp_count": 1, 
+    "country": "Argentina", 
+    "start_time": "13:00:00", 
+    "venue": "Parque Rivadavia entre Jos\u00e9 Mar\u00eda Moreno y...", 
+    "longitude": -58.6725, 
+    "state": "Ciudad Aut\u00f3noma de Buenos Aires", 
+    "country_code": "AR", 
+    "address": "Avda. Rivadavia 4950", 
+    "latitude": -34.5875, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_513", 
+    "id": 4959
   }
 ]
 );
