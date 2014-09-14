@@ -36127,6 +36127,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_514", 
     "id": 4991
+  }, 
+  {
+    "city": "\u062a\u0642\u0631\u062a", 
+    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
+    "rsvp_count": 1, 
+    "country": "Algeria", 
+    "start_time": "13:00:00", 
+    "venue": "\u0628\u0644\u062f\u064a\u0629 \u062a\u0642\u0631\u062a", 
+    "longitude": 6.0654830999999, 
+    "state": "\u0648\u0631\u0642\u0644\u0629", 
+    "country_code": "DZ", 
+    "address": "\u0645\u0642\u0631 \u0628\u0644\u062f\u064a\u0629 \u062a\u0642\u0631\u062a\u060c \u062a\u0642\u0631\u062a\u060c \u0627\u0644\u062c\u0632\u0627\u0626\u0631", 
+    "latitude": 33.1034956, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/ar/event/climate/lmsyr_lmnkhy_lshby_248", 
+    "id": 4992
   }
 ]
 );
