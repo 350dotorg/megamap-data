@@ -1907,7 +1907,7 @@ initData({},
   {
     "city": "Newcastle upon Tyne", 
     "name": "People's Climate Petition", 
-    "rsvp_count": 40, 
+    "rsvp_count": 41, 
     "country": "United Kingdom", 
     "start_time": "10:00:00", 
     "venue": "Grey's Monument", 
@@ -16035,7 +16035,7 @@ initData({},
   {
     "city": "Belo Horizonte", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 49, 
+    "rsvp_count": 50, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -38495,6 +38495,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_Rio_de_Janeiro_Barra_da_Tijuca_Quebramar", 
     "id": 5185
+  }, 
+  {
+    "city": "Rio Acima", 
+    "name": "Caminhada pelo Clima - CAMINHADA E ABRACE A SERRA DO GANDARELA", 
+    "rsvp_count": 1, 
+    "country": "Brazil", 
+    "start_time": "08:00:00", 
+    "venue": "Encontro Rio Acima 8:00hs (p\u00e7a da esta\u00e7\u00e3o). Ver evento:http://www.aguasdogandarela.org/events/abrace", 
+    "longitude": -43.7910446, 
+    "state": "MG", 
+    "country_code": "BR", 
+    "address": "Rio Acima - MG, Rep\u00fablica Federativa do Brasil", 
+    "latitude": -20.0883098, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_CAMINHADA_E_ABRACE_A_SERRA_DO_GANDARELA", 
+    "id": 5186
   }
 ]
 );
