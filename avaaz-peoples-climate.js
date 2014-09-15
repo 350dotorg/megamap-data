@@ -17811,7 +17811,7 @@ initData({},
   {
     "city": "Botucatu", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 11, 
+    "rsvp_count": 12, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "", 
