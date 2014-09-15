@@ -18963,7 +18963,7 @@ initData({},
   {
     "city": "Monserrato", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 14, 
+    "rsvp_count": 15, 
     "country": "Italy", 
     "start_time": "09:00:00", 
     "venue": "", 
