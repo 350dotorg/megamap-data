@@ -32931,7 +32931,7 @@ initData({},
   {
     "city": "Basel", 
     "name": "People's Climate March", 
-    "rsvp_count": 13, 
+    "rsvp_count": 14, 
     "country": "Switzerland", 
     "start_time": "13:00:00", 
     "venue": "Marktplatz, vor dem Rathaus", 
