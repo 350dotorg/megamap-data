@@ -13427,7 +13427,7 @@ initData({},
   {
     "city": "Currumbin", 
     "name": "People's Climate March", 
-    "rsvp_count": 52, 
+    "rsvp_count": 53, 
     "country": "Australia", 
     "start_time": "13:00:00", 
     "venue": "Currumbin Beach", 
