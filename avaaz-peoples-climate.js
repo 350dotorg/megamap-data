@@ -10227,7 +10227,7 @@ initData({},
   {
     "city": "Los Angeles", 
     "name": "People's Climate March LA - Building Blocks Against Climate Change", 
-    "rsvp_count": 30, 
+    "rsvp_count": 31, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "Wilshire Boulevard between Wilton Place and Alvarado Street", 
