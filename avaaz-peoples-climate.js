@@ -963,7 +963,7 @@ initData({},
   {
     "city": "Saint Paul", 
     "name": "People's Climate Meetup Minnesota", 
-    "rsvp_count": 86, 
+    "rsvp_count": 87, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "Como Park Conservatory", 
