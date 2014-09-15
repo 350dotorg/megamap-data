@@ -835,7 +835,7 @@ initData({},
   {
     "city": "Brussels", 
     "name": "\u00c9venement des Citoyens pour le Climat", 
-    "rsvp_count": 945, 
+    "rsvp_count": 946, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "Place Poelaert", 
@@ -1171,7 +1171,7 @@ initData({},
   {
     "city": "Angoul\u00eame", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 57, 
+    "rsvp_count": 58, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "c'est \u00e0 determiner avec la pr\u00e9fecture, je pense que le point de d\u00e9part sera au champ de mars.", 
@@ -37647,6 +37647,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Unidos_Crescemos_na_fe_pelo_nosso_planeta", 
     "id": 5110
+  }, 
+  {
+    "city": "Florence", 
+    "name": "People's Climate Event", 
+    "rsvp_count": 1, 
+    "country": "Italy", 
+    "start_time": "11:00:00", 
+    "venue": "", 
+    "longitude": 11.3472035, 
+    "state": "Tuscany", 
+    "country_code": "IT", 
+    "address": "Via Mulinaccio, 1, 50032 Borgo San Lorenzo, Florence, Italy", 
+    "latitude": 43.8715605, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_Event_1", 
+    "id": 5111
   }
 ]
 );
