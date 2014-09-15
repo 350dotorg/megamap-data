@@ -24227,7 +24227,7 @@ initData({},
   {
     "city": "Port Louis", 
     "name": "People's Climate March", 
-    "rsvp_count": 17, 
+    "rsvp_count": 18, 
     "country": "Mauritius", 
     "start_time": "13:00:00", 
     "venue": "Jardin de la compagnie", 
