@@ -10131,7 +10131,7 @@ initData({},
   {
     "city": "Utrecht", 
     "name": "Klimaatmars van Utrecht naar Amsterdam", 
-    "rsvp_count": 47, 
+    "rsvp_count": 48, 
     "country": "Netherlands", 
     "start_time": "08:00:00", 
     "venue": "Station Terwijde", 
