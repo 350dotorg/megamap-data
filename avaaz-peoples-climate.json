@@ -2354,7 +2354,7 @@
   {
     "city": "Cape Town", 
     "name": "People's Climate March", 
-    "rsvp_count": 462, 
+    "rsvp_count": 463, 
     "country": "South Africa", 
     "start_time": "13:00:00", 
     "venue": "Green Point Stadium", 
@@ -2470,11 +2470,11 @@
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "", 
-    "longitude": 8.7565569999999, 
+    "longitude": 8.77333, 
     "state": "HE", 
     "country_code": "DE", 
-    "address": "35037 Marburg, Deutschland", 
-    "latitude": 50.8037915, 
+    "address": "Gerhard-Jahn-Platz 7, 35037 Marburg, Deutschland", 
+    "latitude": 50.80894, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaAktionstag_39", 
     "id": 2096
@@ -37554,7 +37554,7 @@
   {
     "city": "El Retiro", 
     "name": "Plant\u00f3n Ciudadano y Siembra de \u00e4rboles contra el Cambio Clim\u00e1tico y la Deforestaci\u00f3n de los Bosques Nativos", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Colombia", 
     "start_time": "10:00:00", 
     "venue": "El Plant\u00f3n ser\u00e1 en el Parque Principal y la siembra de \u00e1rboles en el barrio Pinares", 
