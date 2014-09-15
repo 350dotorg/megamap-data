@@ -1,4 +1,4 @@
-Number of events: 2346
+Number of events: 2347
 Number of countries: 143
 	Afghanistan: 1
 	Albania: 2
@@ -127,7 +127,7 @@ Number of countries: 143
 	Togo: 1
 	Trinidad and Tobago: 1
 	Tunisia: 17
-	Turkey: 26
+	Turkey: 27
 	US Virgin Islands: 1
 	Uganda: 2
 	Ukraine: 50
