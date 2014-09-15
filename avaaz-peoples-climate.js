@@ -38131,7 +38131,7 @@ initData({},
   {
     "city": "Division No. 23", 
     "name": "Rassemblement Pour le Climat", 
-    "rsvp_count": 0, 
+    "rsvp_count": 1, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Terrain de l'\u00e9glise", 
