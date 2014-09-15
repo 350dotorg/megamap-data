@@ -34,7 +34,7 @@
   {
     "city": "Berlin", 
     "name": "Mal schnell die Welt retten - BERLIN", 
-    "rsvp_count": 619, 
+    "rsvp_count": 621, 
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "Brandenburger Tor", 
@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 2962, 
+    "rsvp_count": 2964, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -30370,7 +30370,7 @@
   {
     "city": "Sanary-sur-Mer", 
     "name": "FAIRE DU REBOISEMENT", 
-    "rsvp_count": 7, 
+    "rsvp_count": 8, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "", 
@@ -34962,7 +34962,7 @@
   {
     "city": "Carcassonne", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Square Gambetta", 
@@ -37614,5 +37614,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/it/event/climate/Marcia_Globale_per_il_Clima_147", 
     "id": 5107
+  }, 
+  {
+    "city": "Vignanello", 
+    "name": "Marcia Globale per il Clima", 
+    "rsvp_count": 1, 
+    "country": "Italy", 
+    "start_time": "13:00:00", 
+    "venue": "Piazza della Repubblica", 
+    "longitude": 12.2799603, 
+    "state": "Lazio", 
+    "country_code": "IT", 
+    "address": "Piazza della Repubblica, 01039 Vignanello VT, Italia", 
+    "latitude": 42.3841032, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/it/event/climate/Marcia_Globale_per_il_Clima_148", 
+    "id": 5108
   }
 ]
