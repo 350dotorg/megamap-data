@@ -2050,7 +2050,7 @@
   {
     "city": "Brasilia", 
     "name": "Uni\u00e3o Avaaz em Bras\u00edlia contra as Mudan\u00e7as Clim\u00e1ticas", 
-    "rsvp_count": 455, 
+    "rsvp_count": 456, 
     "country": "Brazil", 
     "start_time": "10:00:00", 
     "venue": "Esplanada dos Ministerios", 
@@ -13522,7 +13522,7 @@
   {
     "city": "Bengaluru", 
     "name": "People's Climate March", 
-    "rsvp_count": 34, 
+    "rsvp_count": 35, 
     "country": "India", 
     "start_time": "13:00:00", 
     "venue": "Town Hall, J C Road", 
@@ -26322,7 +26322,7 @@
   {
     "city": "Stockerau", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Austria", 
     "start_time": "13:00:00", 
     "venue": "kirchturm", 
@@ -26738,7 +26738,7 @@
   {
     "city": "\u041c\u0438\u043d\u0441\u043a", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 13, 
+    "rsvp_count": 14, 
     "country": "Belarus", 
     "start_time": "13:00:00", 
     "venue": "\u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u044c, \u0414\u0432\u043e\u0440\u0435\u0446 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0438", 
@@ -36530,7 +36530,7 @@
   {
     "city": "Barcelona", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 10, 
+    "rsvp_count": 11, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -37486,5 +37486,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1622", 
     "id": 5099
+  }, 
+  {
+    "city": "Saint-Malo", 
+    "name": "Marche Pour le Climat", 
+    "rsvp_count": 1, 
+    "country": "France", 
+    "start_time": "14:00:00", 
+    "venue": "intra muros, porte saint Vincent", 
+    "longitude": -2.0231949, 
+    "state": "Bretagne", 
+    "country_code": "FR", 
+    "address": "Porte Saint-Vincent, 35400 Saint-Malo, France", 
+    "latitude": 48.6505069, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_286", 
+    "id": 5100
   }
 ]
