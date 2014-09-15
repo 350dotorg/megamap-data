@@ -2243,7 +2243,7 @@ initData({},
   {
     "city": "St. John's", 
     "name": "People's Climate March", 
-    "rsvp_count": 23, 
+    "rsvp_count": 24, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Harbourside Park", 
