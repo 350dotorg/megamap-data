@@ -6691,7 +6691,7 @@ initData({},
   {
     "city": "Santo Domingo", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 105, 
+    "rsvp_count": 106, 
     "country": "Dominican Republic", 
     "start_time": "13:00:00", 
     "venue": "Parque Mirador Sur", 
