@@ -37102,5 +37102,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_215", 
     "id": 5067
+  }, 
+  {
+    "city": "Pemberton", 
+    "name": "People's Climate March", 
+    "rsvp_count": 1, 
+    "country": "Australia", 
+    "start_time": "09:00:00", 
+    "venue": "Meet at the entrance of Forest Lodge Resort on the Vasse Highway.", 
+    "longitude": 116.0538589, 
+    "state": "WA", 
+    "country_code": "AU", 
+    "address": "Vasse Highway, Pemberton WA 6260, Australia", 
+    "latitude": -34.4358668, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1614", 
+    "id": 5069
   }
 ]
