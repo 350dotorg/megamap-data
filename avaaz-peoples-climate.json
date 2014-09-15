@@ -18,7 +18,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 1241, 
+    "rsvp_count": 1242, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -34,7 +34,7 @@
   {
     "city": "Berlin", 
     "name": "Mal schnell die Welt retten - BERLIN", 
-    "rsvp_count": 630, 
+    "rsvp_count": 631, 
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "Brandenburger Tor", 
@@ -16594,7 +16594,7 @@
   {
     "city": "Campinas", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 109, 
+    "rsvp_count": 110, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Teatro Centro Convivencia Cultural", 
@@ -37822,5 +37822,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/el/event/climate/Poreia_ton_Laon_gia_to_Klima_114", 
     "id": 5123
+  }, 
+  {
+    "city": "Nazar\u00e9", 
+    "name": "Caminhada pelo Clima", 
+    "rsvp_count": 1, 
+    "country": "Brazil", 
+    "start_time": "13:00:00", 
+    "venue": "", 
+    "longitude": -39.0033989, 
+    "state": "BA", 
+    "country_code": "BR", 
+    "address": "Nazar\u00e9 - BA, Rep\u00fablica Federativa do Brasil", 
+    "latitude": -13.0399395, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_220", 
+    "id": 5124
   }
 ]
