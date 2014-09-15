@@ -21715,7 +21715,7 @@ initData({},
   {
     "city": "Valpara\u00edso", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 18, 
+    "rsvp_count": 19, 
     "country": "Chile", 
     "start_time": "13:00:00", 
     "venue": "", 
