@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 3068, 
+    "rsvp_count": 3069, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -834,7 +834,7 @@
   {
     "city": "Brussels", 
     "name": "\u00c9venement des Citoyens pour le Climat", 
-    "rsvp_count": 964, 
+    "rsvp_count": 965, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "Place Poelaert", 
@@ -25010,7 +25010,7 @@
   {
     "city": "Paderborn", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 30, 
+    "rsvp_count": 31, 
     "country": "Germany", 
     "start_time": "15:00:00", 
     "venue": "Rathausplatz", 
@@ -25058,7 +25058,7 @@
   {
     "city": "Frankfurt", 
     "name": "People's Climate March", 
-    "rsvp_count": 38, 
+    "rsvp_count": 39, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -27378,7 +27378,7 @@
   {
     "city": "Gar\u00e7a", 
     "name": "Caminhada Ecol\u00f3gica pelo Clima", 
-    "rsvp_count": 6, 
+    "rsvp_count": 7, 
     "country": "Brazil", 
     "start_time": "08:00:00", 
     "venue": "Parque Ecol\u00f3gico \u201cJayme Nogueira de Miranda", 
@@ -37986,7 +37986,7 @@
   {
     "city": "Zamora", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Ecuador", 
     "start_time": "13:00:00", 
     "venue": "PARQUE CENTRAL", 
@@ -38094,5 +38094,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_223", 
     "id": 5144
+  }, 
+  {
+    "city": "S\u00e3o Paulo", 
+    "name": "Caminhada pelo Clima", 
+    "rsvp_count": 1, 
+    "country": "Brazil", 
+    "start_time": "13:00:00", 
+    "venue": "Est\u00e1dio do Morumbi", 
+    "longitude": -46.7200939, 
+    "state": "SP", 
+    "country_code": "BR", 
+    "address": "Est\u00e1dio do Morumbi - Morumbi, S\u00e3o Paulo - SP, 05653-070, Rep\u00fablica Federativa do Brasil", 
+    "latitude": -23.6001102, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_224", 
+    "id": 5145
   }
 ]
