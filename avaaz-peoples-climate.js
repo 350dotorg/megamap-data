@@ -33747,7 +33747,7 @@ initData({},
   {
     "city": "Vicenza", 
     "name": "Diventa anche tu un Guardiano della Terra", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Italy", 
     "start_time": "01:00:00", 
     "venue": "", 
