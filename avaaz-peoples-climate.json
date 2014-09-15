@@ -37198,5 +37198,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/ru/event/climate/Kupi_tepluyu_kurtku_podgotovitsya_k_sibirskoy_zime", 
     "id": 5080
+  }, 
+  {
+    "city": "New Denver", 
+    "name": "People's Climate March", 
+    "rsvp_count": 1, 
+    "country": "Canada", 
+    "start_time": "13:00:00", 
+    "venue": "Highway 6 and 6th Avenue, New Denver, B.C.", 
+    "longitude": -117.3731181, 
+    "state": "BC", 
+    "country_code": "CA", 
+    "address": "411 6 Avenue, New Denver, BC V0G 1S1, Canada", 
+    "latitude": 49.9913687, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1617", 
+    "id": 5081
   }
 ]
