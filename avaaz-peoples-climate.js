@@ -36067,7 +36067,7 @@ initData({},
   {
     "city": "Castelar", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Argentina", 
     "start_time": "13:00:00", 
     "venue": "Arias y Carlos Casares", 
