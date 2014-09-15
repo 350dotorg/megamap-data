@@ -1410,7 +1410,7 @@
   {
     "city": "Bogota", 
     "name": "Bogot\u00e1 Marcha X el Clima", 
-    "rsvp_count": 275, 
+    "rsvp_count": 276, 
     "country": "Colombia", 
     "start_time": "10:00:00", 
     "venue": "Parque Nacional hasta Plaza de los Periodistas", 
@@ -3908,7 +3908,7 @@
     "name": "Mar\u0219ul Cet\u0103\u021benilor pentru Ac\u021biune Climatic\u0103", 
     "rsvp_count": 84, 
     "country": "Romania", 
-    "start_time": "13:00:00", 
+    "start_time": "16:00:00", 
     "venue": "Piata Unirii", 
     "longitude": 23.5903703, 
     "state": "CJ", 
@@ -4162,7 +4162,7 @@
   {
     "city": "Avignon", 
     "name": "People's Climate March", 
-    "rsvp_count": 65, 
+    "rsvp_count": 66, 
     "country": "France", 
     "start_time": "12:00:00", 
     "venue": "place de l'Horloge", 
@@ -9762,7 +9762,7 @@
   {
     "city": "Munich", 
     "name": "People's Climate March", 
-    "rsvp_count": 546, 
+    "rsvp_count": 547, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Karlsplatz", 
@@ -35554,7 +35554,7 @@
   {
     "city": "Terni", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "piazza primo maggio", 
