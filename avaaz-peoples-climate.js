@@ -16339,7 +16339,7 @@ initData({},
   {
     "city": "Santa Maria", 
     "name": "Caminhada pelo Clima e Conscientiza\u00e7\u00e3o Ambiental", 
-    "rsvp_count": 42, 
+    "rsvp_count": 43, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a Saldanha Marinho", 
