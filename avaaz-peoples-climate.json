@@ -978,7 +978,7 @@
   {
     "city": "San Diego", 
     "name": "People's Climate March", 
-    "rsvp_count": 50, 
+    "rsvp_count": 51, 
     "country": "United States of America", 
     "start_time": "12:30:00", 
     "venue": "San Diego City Hall", 
@@ -7938,7 +7938,7 @@
   {
     "city": "Pesaro", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 54, 
+    "rsvp_count": 55, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "Piazza del Popolo", 
@@ -31218,7 +31218,7 @@
   {
     "city": "L'Aquila", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Italy", 
     "start_time": "11:00:00", 
     "venue": "Fontana Luminosa", 
