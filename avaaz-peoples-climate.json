@@ -658,7 +658,7 @@
   {
     "city": "Puerto Morelos", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 36, 
+    "rsvp_count": 37, 
     "country": "Mexico", 
     "start_time": "17:00:00", 
     "venue": "Playa de Puerto Morelos a la Plaza Principal", 
@@ -1202,7 +1202,7 @@
   {
     "city": "Nantes", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 302, 
+    "rsvp_count": 303, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Ile de Nantes - Grue Titan Jaune", 
@@ -1634,7 +1634,7 @@
   {
     "city": "Pergine Valsugana", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 26, 
+    "rsvp_count": 27, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "Parco Tre Castagni", 
@@ -2706,7 +2706,7 @@
   {
     "city": "Saint-Leu", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 90, 
+    "rsvp_count": 92, 
     "country": "Reunion", 
     "start_time": "13:00:00", 
     "venue": "Parvis de la Mairie de St Leu", 
