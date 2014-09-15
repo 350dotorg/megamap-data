@@ -2,7 +2,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 2392, 
+    "rsvp_count": 2393, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -18,7 +18,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 1348, 
+    "rsvp_count": 1349, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -1778,7 +1778,7 @@
   {
     "city": "Udine", 
     "name": "Flash Mob Udine per il Clima", 
-    "rsvp_count": 58, 
+    "rsvp_count": 59, 
     "country": "Italy", 
     "start_time": "19:00:00", 
     "venue": "Piazza Libert\u00e0", 
@@ -4962,7 +4962,7 @@
   {
     "city": "Belo Horizonte", 
     "name": "Caminhada pelo Clima BH - Pra\u00e7a da Liberdade", 
-    "rsvp_count": 235, 
+    "rsvp_count": 236, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a da Liberdade", 
@@ -7602,7 +7602,7 @@
   {
     "city": "Zaporizhia", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 18, 
+    "rsvp_count": 19, 
     "country": "Ukraine", 
     "start_time": "13:00:00", 
     "venue": "\u041f\u043b\u043e\u0449\u0430\u0434\u044c \u041c\u0430\u044f\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e", 
@@ -16562,7 +16562,7 @@
   {
     "city": "Cachoeira", 
     "name": "Caminhada pelo Clima 21 - Capoeiru\u00e7u Participa!!!", 
-    "rsvp_count": 18, 
+    "rsvp_count": 19, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Br 101, Km 197, Capoeiru\u00e7u", 
@@ -22338,7 +22338,7 @@
   {
     "city": "Vienna", 
     "name": "People's Climate March", 
-    "rsvp_count": 77, 
+    "rsvp_count": 78, 
     "country": "Austria", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -23730,7 +23730,7 @@
   {
     "city": "Ajaccio", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 9, 
+    "rsvp_count": 10, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Mairie Avenue du Pr\u00e9sident Kennedy 20000 Ajaccio", 
@@ -37634,7 +37634,7 @@
   {
     "city": "Florence", 
     "name": "Il Laghino's Community Climate Event", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Italy", 
     "start_time": "12:00:00", 
     "venue": "", 
@@ -38078,5 +38078,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/Temazcal_por_el_bienestar_de_la_Madre_Tierra_y_toda_la_Humanidad", 
     "id": 5143
+  }, 
+  {
+    "city": "Picos", 
+    "name": "Caminhada pelo Clima", 
+    "rsvp_count": 1, 
+    "country": "Brazil", 
+    "start_time": "08:00:00", 
+    "venue": "Rua Egidio Francisco da Luz, 761", 
+    "longitude": -41.4673741, 
+    "state": "PI", 
+    "country_code": "BR", 
+    "address": "Picos - PI, Rep\u00fablica Federativa do Brasil", 
+    "latitude": -7.0776163, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_223", 
+    "id": 5144
   }
 ]
