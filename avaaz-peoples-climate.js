@@ -2611,7 +2611,7 @@ initData({},
   {
     "city": "Vicenza", 
     "name": "People's Climate Flash Mob", 
-    "rsvp_count": 56, 
+    "rsvp_count": 57, 
     "country": "Italy", 
     "start_time": "11:30:00", 
     "venue": "Piazza dei Signori", 
