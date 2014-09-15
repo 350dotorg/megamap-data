@@ -4963,7 +4963,7 @@ initData({},
   {
     "city": "Belo Horizonte", 
     "name": "Caminhada pelo Clima BH - Pra\u00e7a da Liberdade", 
-    "rsvp_count": 221, 
+    "rsvp_count": 222, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a da Liberdade", 
