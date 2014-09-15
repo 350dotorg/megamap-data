@@ -10723,7 +10723,7 @@ initData({},
   {
     "city": "Singapore", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 33, 
+    "rsvp_count": 34, 
     "country": "Singapore", 
     "start_time": "13:00:00", 
     "venue": "McRitchie Reservoir", 
