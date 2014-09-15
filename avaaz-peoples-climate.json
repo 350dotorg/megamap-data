@@ -5442,7 +5442,7 @@
   {
     "city": "Ulm", 
     "name": "People's Climate March", 
-    "rsvp_count": 38, 
+    "rsvp_count": 39, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "M\u00fcnsterplatz", 
@@ -17122,7 +17122,7 @@
   {
     "city": "Salmon Arm", 
     "name": "World Wide Climate Change March Salmon Arm", 
-    "rsvp_count": 10, 
+    "rsvp_count": 11, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "West end of McGuire Lake, heading up the TCH to Shuswap Street, then back down Hudson Avenue to the Ross Street Plaza", 
@@ -19730,7 +19730,7 @@
   {
     "city": "Goi\u00e2nia", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 200, 
+    "rsvp_count": 201, 
     "country": "Brazil", 
     "start_time": "16:00:00", 
     "venue": "Pra\u00e7a C\u00edvica, setor Sul", 
@@ -35058,7 +35058,7 @@
   {
     "city": "Barnstaple", 
     "name": "People's Climate March", 
-    "rsvp_count": 7, 
+    "rsvp_count": 8, 
     "country": "United Kingdom", 
     "start_time": "13:00:00", 
     "venue": "The Square", 
@@ -37968,17 +37968,17 @@
     "id": 5134
   }, 
   {
-    "city": "Lahinch", 
+    "city": "Clare", 
     "name": "People's Climate March", 
     "rsvp_count": 1, 
     "country": "Ireland", 
-    "start_time": "13:00:00", 
+    "start_time": "11:00:00", 
     "venue": "", 
-    "longitude": -9.3366629, 
+    "longitude": -9.3482824, 
     "state": "Clare", 
     "country_code": "IE", 
-    "address": "Lahinch, Co. Clare, Ireland", 
-    "latitude": 52.9326784, 
+    "address": "Promenade, Co. Clare, Ireland", 
+    "latitude": 52.9338964, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1629", 
     "id": 5135
