@@ -83,7 +83,7 @@ initData({},
   {
     "city": "Nelson", 
     "name": "People's Climate March", 
-    "rsvp_count": 59, 
+    "rsvp_count": 60, 
     "country": "New Zealand", 
     "start_time": "12:30:00", 
     "venue": "Cathedral Steps - The top of Trafalgar St", 
@@ -16179,7 +16179,7 @@ initData({},
   {
     "city": "Fortaleza", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 80, 
+    "rsvp_count": 81, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Memorial Castelo Branco, Palacio da Aboli\u00e7\u00e3o - sede do governo do Cear\u00e1", 
@@ -37071,6 +37071,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1612", 
     "id": 5065
+  }, 
+  {
+    "city": "Manly", 
+    "name": "Marcia Globale per il Clima", 
+    "rsvp_count": 1, 
+    "country": "Australia", 
+    "start_time": "13:00:00", 
+    "venue": "", 
+    "longitude": 151.2850055, 
+    "state": "NSW", 
+    "country_code": "AU", 
+    "address": "Manly Council, 1 Belgrave Street, Manly NSW 2095, Australia", 
+    "latitude": -33.7982863, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/it/event/climate/Marcia_Globale_per_il_Clima_140", 
+    "id": 5066
   }
 ]
 );
