@@ -1,9 +1,9 @@
-Number of events: 2395
+Number of events: 2396
 Number of countries: 145
 	Afghanistan: 1
 	Albania: 2
 	Algeria: 58
-	Argentina: 75
+	Argentina: 74
 	Armenia: 4
 	Australia: 41
 	Austria: 27
@@ -47,7 +47,7 @@ Number of countries: 145
 	French Guiana: 2
 	French Polynesia: 3
 	Gabon: 2
-	Germany: 84
+	Germany: 85
 	Gibraltar: 1
 	Greece: 47
 	Grenada: 1
@@ -63,7 +63,7 @@ Number of countries: 145
 	Iraq: 23
 	Ireland: 8
 	Israel: 13
-	Italy: 125
+	Italy: 126
 	Japan: 9
 	Jordan: 2
 	Kenya: 2
@@ -116,7 +116,7 @@ Number of countries: 145
 	South Africa: 19
 	South Korea: 1
 	South Sudan: 2
-	Spain: 137
+	Spain: 136
 	Sri Lanka: 2
 	Sudan: 7
 	Sweden: 17
@@ -134,7 +134,7 @@ Number of countries: 145
 	Uganda: 2
 	Ukraine: 54
 	United Arab Emirates: 3
-	United Kingdom: 63
+	United Kingdom: 64
 	United States of America: 82
 	Uruguay: 15
 	Uzbekistan: 1
