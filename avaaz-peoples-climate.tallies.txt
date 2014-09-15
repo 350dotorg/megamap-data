@@ -1,4 +1,4 @@
-Number of events: 2331
+Number of events: 2332
 Number of countries: 143
 	Afghanistan: 1
 	Albania: 2
@@ -104,7 +104,7 @@ Number of countries: 143
 	Qatar: 2
 	Reunion: 2
 	Romania: 15
-	Russia: 53
+	Russia: 54
 	Saudi Arabia: 14
 	Senegal: 3
 	Serbia: 6
