@@ -1682,7 +1682,7 @@
   {
     "city": "Freiburg im Breisgau", 
     "name": "Klimaevent", 
-    "rsvp_count": 144, 
+    "rsvp_count": 145, 
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "Ecke Bertoldstr./Niemenstr.", 
@@ -4706,7 +4706,7 @@
   {
     "city": "Randburg", 
     "name": "People's Climate Picnic and Heart Formation", 
-    "rsvp_count": 182, 
+    "rsvp_count": 183, 
     "country": "South Africa", 
     "start_time": "13:00:00", 
     "venue": "Emmarentia Dam", 
@@ -12626,7 +12626,7 @@
   {
     "city": "San Luis Obispo", 
     "name": "People's Climate March", 
-    "rsvp_count": 36, 
+    "rsvp_count": 37, 
     "country": "United States of America", 
     "start_time": "14:00:00", 
     "venue": "Mitchell Park", 
@@ -27474,7 +27474,7 @@
   {
     "city": "", 
     "name": "sans WIFI pour le Climat", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Martinique", 
     "start_time": "07:00:00", 
     "venue": "", 
