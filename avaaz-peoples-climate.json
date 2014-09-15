@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 3093, 
+    "rsvp_count": 3094, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -3506,7 +3506,7 @@
   {
     "city": "Porto Alegre", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 419, 
+    "rsvp_count": 420, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Parque Farroupilha - Reden\u00e7\u00e3o", 
@@ -11522,7 +11522,7 @@
   {
     "city": "\u041a\u0440\u0435\u043c\u0435\u043d\u0435\u0446", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Ukraine", 
     "start_time": "13:00:00", 
     "venue": "\u0443\u043b.\u0428\u0435\u0432\u0447\u0435\u043d\u043a\u0430", 
@@ -17954,7 +17954,7 @@
   {
     "city": "P\u00e9rigueux", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 33, 
+    "rsvp_count": 34, 
     "country": "France", 
     "start_time": "15:00:00", 
     "venue": "", 
