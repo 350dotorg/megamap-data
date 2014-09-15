@@ -851,7 +851,7 @@ initData({},
   {
     "city": "Halifax", 
     "name": "People's Climate March Halifax", 
-    "rsvp_count": 122, 
+    "rsvp_count": 123, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Meet at Citadel Hill, 5425 Sackville Street, Halifax", 
