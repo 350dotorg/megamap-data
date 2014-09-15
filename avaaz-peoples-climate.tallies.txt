@@ -1,4 +1,4 @@
-Number of events: 2407
+Number of events: 2406
 Number of countries: 145
 	Afghanistan: 1
 	Albania: 2
@@ -107,7 +107,7 @@ Number of countries: 145
 	Romania: 16
 	Russia: 55
 	Saudi Arabia: 14
-	Senegal: 3
+	Senegal: 2
 	Serbia: 6
 	Seychelles: 2
 	Singapore: 1

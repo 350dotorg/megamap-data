@@ -2608,22 +2608,6 @@
     "id": 2116
   }, 
   {
-    "city": "Dakar", 
-    "name": "Marche Pour le Climat", 
-    "rsvp_count": 16, 
-    "country": "Senegal", 
-    "start_time": "13:00:00", 
-    "venue": "", 
-    "longitude": -17.4992455, 
-    "state": "Dakar", 
-    "country_code": "SN", 
-    "address": "Route de l'Aeroport, Dakar, S\u00e9n\u00e9gal", 
-    "latitude": 14.7526575, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_38", 
-    "id": 2117
-  }, 
-  {
     "city": "Saint-Leu", 
     "name": "Marche Pour le Climat", 
     "rsvp_count": 95, 
@@ -7154,7 +7138,7 @@
   {
     "city": "Aguascalientes", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 102, 
+    "rsvp_count": 103, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Plaza de Armas", 
@@ -13346,7 +13330,7 @@
   {
     "city": "Berriedale", 
     "name": "People's Climate March: MONA Climate Pop Up Gathering", 
-    "rsvp_count": 86, 
+    "rsvp_count": 87, 
     "country": "Australia", 
     "start_time": "13:00:00", 
     "venue": "MONA, gather on tennis court near museum entrance", 
@@ -22178,7 +22162,7 @@
   {
     "city": "Vienna", 
     "name": "People's Climate March", 
-    "rsvp_count": 82, 
+    "rsvp_count": 83, 
     "country": "Austria", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -22386,7 +22370,7 @@
   {
     "city": "Quito", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 40, 
+    "rsvp_count": 41, 
     "country": "Ecuador", 
     "start_time": "13:00:00", 
     "venue": "Parque \"El Arbolito\"", 
@@ -38482,7 +38466,7 @@
   {
     "city": "Sherbrooke", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Parc Jacques-Cartier", 
