@@ -12979,7 +12979,7 @@ initData({},
   {
     "city": "Canberra City", 
     "name": "Sing for Peace - Walk for Climate", 
-    "rsvp_count": 17, 
+    "rsvp_count": 18, 
     "country": "Australia", 
     "start_time": "09:00:00", 
     "venue": "National Arboretum", 
