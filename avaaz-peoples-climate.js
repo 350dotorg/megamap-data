@@ -31715,7 +31715,7 @@ initData({},
   {
     "city": "S\u00e3o Carlos", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 13, 
+    "rsvp_count": 14, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Avenida S\u00e3o Carlos, Pra\u00e7a Coronel Salles", 
