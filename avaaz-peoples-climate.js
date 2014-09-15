@@ -10179,7 +10179,7 @@ initData({},
   {
     "city": "Prato", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 46, 
+    "rsvp_count": 47, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "piazza del comune", 
