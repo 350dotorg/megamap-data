@@ -275,7 +275,7 @@ initData({},
   {
     "city": "", 
     "name": "Marche mondiale pour le climat @ Montr\u00e9al / Peoples' Climate March @ Montr\u00e9al", 
-    "rsvp_count": 90, 
+    "rsvp_count": 91, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "", 
