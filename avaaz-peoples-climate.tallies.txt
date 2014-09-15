@@ -1,5 +1,5 @@
-Number of events: 2330
-Number of countries: 142
+Number of events: 2331
+Number of countries: 143
 	Afghanistan: 1
 	Albania: 2
 	Algeria: 57
@@ -48,6 +48,7 @@ Number of countries: 142
 	French Polynesia: 3
 	Gabon: 2
 	Germany: 82
+	Gibraltar: 1
 	Greece: 44
 	Guadeloupe: 2
 	Guatemala: 13
