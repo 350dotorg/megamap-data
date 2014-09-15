@@ -3506,7 +3506,7 @@
   {
     "city": "Porto Alegre", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 401, 
+    "rsvp_count": 402, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Parque Farroupilha - Reden\u00e7\u00e3o", 
@@ -17186,7 +17186,7 @@
   {
     "city": "Santos", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 72, 
+    "rsvp_count": 73, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a das Bandeiras - Gonzaga - Santos", 
@@ -22018,7 +22018,7 @@
   {
     "city": "Perth", 
     "name": "People's Climate March", 
-    "rsvp_count": 25, 
+    "rsvp_count": 26, 
     "country": "Australia", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -37093,12 +37093,12 @@
     "rsvp_count": 1, 
     "country": "Canada", 
     "start_time": "13:00:00", 
-    "venue": "Millenium Park", 
-    "longitude": -77.858901, 
+    "venue": "", 
+    "longitude": -77.8611344, 
     "state": "ON", 
     "country_code": "CA", 
-    "address": "154 Hastings Street North, Bancroft, ON K0L, Canada", 
-    "latitude": 45.0647417, 
+    "address": "166 Hastings Street North, Bancroft, ON K0L, Canada", 
+    "latitude": 45.0671417, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1615", 
     "id": 5072
