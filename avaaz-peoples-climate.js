@@ -4467,7 +4467,7 @@ initData({},
   {
     "city": "Zaragoza", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 167, 
+    "rsvp_count": 168, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Plaza de Espa\u00f1a", 
@@ -38511,6 +38511,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_CAMINHADA_E_ABRACE_A_SERRA_DO_GANDARELA", 
     "id": 5186
+  }, 
+  {
+    "city": "Saquarema", 
+    "name": "Caminhada pelo Clima", 
+    "rsvp_count": 1, 
+    "country": "Brazil", 
+    "start_time": "13:00:00", 
+    "venue": "clube saquarema no centro.", 
+    "longitude": -42.4866843, 
+    "state": "RJ", 
+    "country_code": "BR", 
+    "address": "Saquarema - RJ, Rep\u00fablica Federativa do Brasil", 
+    "latitude": -22.932382, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_227", 
+    "id": 5188
   }
 ]
 );
