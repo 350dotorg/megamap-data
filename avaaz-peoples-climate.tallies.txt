@@ -1,4 +1,4 @@
-Number of events: 2333
+Number of events: 2336
 Number of countries: 143
 	Afghanistan: 1
 	Albania: 2
@@ -80,7 +80,7 @@ Number of countries: 143
 	Martinique: 3
 	Mauritania: 2
 	Mauritius: 2
-	Mexico: 117
+	Mexico: 118
 	Moldova: 2
 	Morocco: 37
 	Myanmar: 1
@@ -104,7 +104,7 @@ Number of countries: 143
 	Qatar: 2
 	Reunion: 2
 	Romania: 15
-	Russia: 54
+	Russia: 53
 	Saudi Arabia: 14
 	Senegal: 3
 	Serbia: 6
@@ -118,7 +118,7 @@ Number of countries: 143
 	Spain: 138
 	Sri Lanka: 2
 	Sudan: 7
-	Sweden: 16
+	Sweden: 17
 	Switzerland: 25
 	Syria: 4
 	Taiwan: 1
@@ -130,9 +130,9 @@ Number of countries: 143
 	Turkey: 26
 	US Virgin Islands: 1
 	Uganda: 2
-	Ukraine: 49
+	Ukraine: 50
 	United Arab Emirates: 3
-	United Kingdom: 63
+	United Kingdom: 64
 	United States of America: 82
 	Uruguay: 15
 	Uzbekistan: 1
