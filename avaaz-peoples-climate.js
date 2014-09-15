@@ -1779,7 +1779,7 @@ initData({},
   {
     "city": "Torre\u00f3n", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 59, 
+    "rsvp_count": 60, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Plaza mayor", 
