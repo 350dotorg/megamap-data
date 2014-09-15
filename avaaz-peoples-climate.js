@@ -7091,7 +7091,7 @@ initData({},
   {
     "city": "Pasto", 
     "name": "Pasto se mueve contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 34, 
+    "rsvp_count": 35, 
     "country": "Colombia", 
     "start_time": "13:00:00", 
     "venue": "Plaza de Nari\u00f1o", 
