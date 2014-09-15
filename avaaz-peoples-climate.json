@@ -37118,5 +37118,37 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/ru/event/climate/Narodnyy_klimaticheskiy_marsh_199", 
     "id": 5074
+  }, 
+  {
+    "city": "Santar\u00e9m", 
+    "name": "Caminhada pelo Clima", 
+    "rsvp_count": 1, 
+    "country": "Brazil", 
+    "start_time": "14:00:00", 
+    "venue": "", 
+    "longitude": -54.7164922, 
+    "state": "PA", 
+    "country_code": "BR", 
+    "address": "Aeroporto Velho, Santar\u00e9m - PA, Rep\u00fablica Federativa do Brasil", 
+    "latitude": -2.4415345, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_216", 
+    "id": 5075
+  }, 
+  {
+    "city": "Pf\u00e4ffikon", 
+    "name": "People's Climate March", 
+    "rsvp_count": 0, 
+    "country": "Switzerland", 
+    "start_time": "13:00:00", 
+    "venue": "Kehr 1", 
+    "longitude": 8.7813819, 
+    "state": "ZH", 
+    "country_code": "CH", 
+    "address": "Stogelenweg 2, 8330 Pf\u00e4ffikon, Schweiz", 
+    "latitude": 47.3642816, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1616", 
+    "id": 5076
   }
 ]
