@@ -2483,7 +2483,7 @@ initData({},
   {
     "city": "Li\u00e8ge", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 86, 
+    "rsvp_count": 87, 
     "country": "Belgium", 
     "start_time": "13:00:00", 
     "venue": "Universit\u00e9 de Li\u00e8ge, Place du XX Ao\u00fbt", 
