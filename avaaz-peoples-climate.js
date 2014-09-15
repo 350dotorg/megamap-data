@@ -12323,7 +12323,7 @@ initData({},
   {
     "city": "Castell\u00f3n", 
     "name": "qaue planten muchos arboles la meseta castellana no tiene arboles ni vegetacion y los pueblos tampoco ,creo que se esta desertizando la vegetacion hace llover y aca no llueve casi nunca. la tierra esta seca y blanca", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "", 
