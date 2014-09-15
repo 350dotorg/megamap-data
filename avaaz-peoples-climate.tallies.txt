@@ -1,4 +1,4 @@
-Number of events: 2320
+Number of events: 2321
 Number of countries: 142
 	Afghanistan: 1
 	Albania: 2
@@ -17,7 +17,7 @@ Number of countries: 142
 	Bolivia: 6
 	Bosnia and Herzegovina: 1
 	Botswana: 1
-	Brazil: 226
+	Brazil: 225
 	Brunei: 1
 	Bulgaria: 6
 	Burkina Faso: 1
@@ -37,7 +37,7 @@ Number of countries: 142
 	Czech Republic: 2
 	Côte d'Ivoire: 2
 	Denmark: 6
-	Dominican Republic: 7
+	Dominican Republic: 8
 	Ecuador: 15
 	Egypt: 35
 	El Salvador: 2
@@ -56,7 +56,7 @@ Number of countries: 142
 	Hong Kong: 1
 	Hungary: 5
 	India: 32
-	Indonesia: 4
+	Indonesia: 5
 	Iran: 7
 	Iraq: 23
 	Ireland: 7
