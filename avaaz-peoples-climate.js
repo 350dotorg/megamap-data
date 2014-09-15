@@ -37311,6 +37311,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/ru/event/climate/Narodnyy_klimaticheskiy_marsh_200", 
     "id": 5087
+  }, 
+  {
+    "city": "Sedgefield", 
+    "name": "People's Climate March", 
+    "rsvp_count": 1, 
+    "country": "South Africa", 
+    "start_time": "22:00:00", 
+    "venue": "Myoli Beach, Sedgefield", 
+    "longitude": 22.8047118, 
+    "state": "WC", 
+    "country_code": "ZA", 
+    "address": "Maroela Road, Sedgefield 6573, South Africa", 
+    "latitude": -34.0343518, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1620", 
+    "id": 5088
   }
 ]
 );
