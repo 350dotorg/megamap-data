@@ -4002,7 +4002,7 @@
   {
     "city": "Moscow", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 331, 
+    "rsvp_count": 332, 
     "country": "Russia", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -5154,7 +5154,7 @@
   {
     "city": "Durban", 
     "name": "People's Climate March", 
-    "rsvp_count": 26, 
+    "rsvp_count": 27, 
     "country": "South Africa", 
     "start_time": "13:00:00", 
     "venue": "Durban City Hall", 
@@ -12386,7 +12386,7 @@
   {
     "city": "", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 40, 
+    "rsvp_count": 41, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -17106,7 +17106,7 @@
   {
     "city": "Nice", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 108, 
+    "rsvp_count": 109, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -22498,7 +22498,7 @@
   {
     "city": "Quattromiglia", 
     "name": "Marcia Globale per il Clima all'Unical", 
-    "rsvp_count": 11, 
+    "rsvp_count": 12, 
     "country": "Italy", 
     "start_time": "19:00:00", 
     "venue": "", 
