@@ -16451,7 +16451,7 @@ initData({},
   {
     "city": "Sorocaba", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 48, 
+    "rsvp_count": 49, 
     "country": "Brazil", 
     "start_time": "17:00:00", 
     "venue": "Pra\u00e7a do canh\u00e3o, Centro", 
