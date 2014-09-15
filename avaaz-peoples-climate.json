@@ -2146,7 +2146,7 @@
   {
     "city": "Rabat", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 42, 
+    "rsvp_count": 43, 
     "country": "Morocco", 
     "start_time": "13:00:00", 
     "venue": "Les Jardins d'Essai Rabat-Agdal", 
@@ -3906,7 +3906,7 @@
   {
     "city": "Grenoble", 
     "name": "La marche pour le climat", 
-    "rsvp_count": 167, 
+    "rsvp_count": 168, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Hotel de ville", 
@@ -4098,7 +4098,7 @@
   {
     "city": "Avignon", 
     "name": "People's Climate March", 
-    "rsvp_count": 67, 
+    "rsvp_count": 68, 
     "country": "France", 
     "start_time": "12:00:00", 
     "venue": "place de l'Horloge", 
@@ -9410,7 +9410,7 @@
   {
     "city": "Bauru", 
     "name": "A\u00e7\u00e3o Global  pelo Clima", 
-    "rsvp_count": 31, 
+    "rsvp_count": 32, 
     "country": "Brazil", 
     "start_time": "09:00:00", 
     "venue": "Rua Batista de Carvalho", 
@@ -16658,7 +16658,7 @@
   {
     "city": "Manaus", 
     "name": "Grito Amaz\u00f4nico sobre Mudan\u00e7as Clim\u00e1ticas", 
-    "rsvp_count": 65, 
+    "rsvp_count": 66, 
     "country": "Brazil", 
     "start_time": "22:00:00", 
     "venue": "Pra\u00e7a Heliodoro Balbi (Antiga Pra\u00e7a da Pol\u00edcia) - Centro", 
@@ -25026,7 +25026,7 @@
   {
     "city": "\u0391\u03b8\u03ae\u03bd\u03b1", 
     "name": "People's Climate March", 
-    "rsvp_count": 8, 
+    "rsvp_count": 9, 
     "country": "Greece", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -31186,7 +31186,7 @@
   {
     "city": "Pune", 
     "name": "People's Climate March", 
-    "rsvp_count": 11, 
+    "rsvp_count": 12, 
     "country": "India", 
     "start_time": "18:00:00", 
     "venue": "1. Hanuman Temple to Vetal Hill, 2. Wanaori by Mr. Sampat", 
@@ -38302,5 +38302,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/it/event/climate/Marcia_Globale_per_il_Clima_152", 
     "id": 5167
+  }, 
+  {
+    "city": "Fan\u00f8", 
+    "name": "People's Climate March", 
+    "rsvp_count": 1, 
+    "country": "Denmark", 
+    "start_time": "13:00:00", 
+    "venue": "F\u00e6rgeHavnen, Norby", 
+    "longitude": 8.4068317, 
+    "state": "", 
+    "country_code": "DK", 
+    "address": "Langelinie 5, Nationalpark Vadehavet, 6720 Fan\u00f8, Danmark", 
+    "latitude": 55.4493218, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1637", 
+    "id": 5169
   }
 ]

@@ -1,4 +1,4 @@
-Number of events: 2394
+Number of events: 2395
 Number of countries: 145
 	Afghanistan: 1
 	Albania: 2
@@ -36,7 +36,7 @@ Number of countries: 145
 	Cyprus: 5
 	Czech Republic: 2
 	Côte d'Ivoire: 2
-	Denmark: 6
+	Denmark: 7
 	Dominican Republic: 8
 	Ecuador: 17
 	Egypt: 36
