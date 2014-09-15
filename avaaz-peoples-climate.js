@@ -30403,7 +30403,7 @@ initData({},
   {
     "city": "Naucalpan de Ju\u00e1rez", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "comenzaremos desde la Zona azul", 
