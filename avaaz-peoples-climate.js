@@ -16547,7 +16547,7 @@ initData({},
   {
     "city": "Ciudad de M\u00e9xico", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 92, 
+    "rsvp_count": 93, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Zocalo de la Ciudad de M\u00e9xico", 
