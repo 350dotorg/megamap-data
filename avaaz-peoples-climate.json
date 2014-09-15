@@ -18,7 +18,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 1342, 
+    "rsvp_count": 1344, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -50,7 +50,7 @@
   {
     "city": "Paris", 
     "name": "Paris Marche pour le Climat", 
-    "rsvp_count": 3061, 
+    "rsvp_count": 3063, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Place de la R\u00e9publique", 
@@ -2050,7 +2050,7 @@
   {
     "city": "Brasilia", 
     "name": "Uni\u00e3o Avaaz em Bras\u00edlia contra as Mudan\u00e7as Clim\u00e1ticas", 
-    "rsvp_count": 463, 
+    "rsvp_count": 464, 
     "country": "Brazil", 
     "start_time": "10:00:00", 
     "venue": "Esplanada dos Ministerios", 
@@ -2210,7 +2210,7 @@
   {
     "city": "Rabat", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 41, 
+    "rsvp_count": 42, 
     "country": "Morocco", 
     "start_time": "13:00:00", 
     "venue": "Les Jardins d'Essai Rabat-Agdal", 
@@ -5938,7 +5938,7 @@
   {
     "city": "Rouen", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 97, 
+    "rsvp_count": 98, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "palais de justice", 
@@ -7330,7 +7330,7 @@
   {
     "city": "\u0427\u0435\u0440\u043a\u0430\u0441\u0438", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 31, 
+    "rsvp_count": 32, 
     "country": "Ukraine", 
     "start_time": "13:00:00", 
     "venue": "14 \u0433\u0440\u0443\u0434\u043d\u044f 1943-\u0433\u043e \u0440\u043e\u043a\u0443 (\u0413\u0430\u0440\u043c\u0430\u0442\u0430) \u0432\u0443\u043b\u0438\u0446\u044f \u0412\u0435\u0440\u043d\u0438\u0433\u043e\u0440\u0438, 12/ \u0421\u043c\u0456\u043b\u044f\u043d\u0441\u044c\u043a\u0430, \u0427\u0435\u0440\u043a\u0430\u0441\u0438, \u0427\u0435\u0440\u043a\u0430\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0423\u043a\u0440\u0430\u0457\u043d\u0430", 
@@ -25826,7 +25826,7 @@
   {
     "city": "Trois-Rivi\u00e8res", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 23, 
+    "rsvp_count": 24, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Boulevard Gene-H-Krueger", 
@@ -27170,7 +27170,7 @@
   {
     "city": "Santo Andr\u00e9", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 113, 
+    "rsvp_count": 114, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Av Dom Pedro II", 
@@ -29874,7 +29874,7 @@
   {
     "city": "Presidente Prudente", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 9, 
+    "rsvp_count": 10, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Parque do povo", 
@@ -36642,7 +36642,7 @@
   {
     "city": "Lustenau", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 9, 
+    "rsvp_count": 10, 
     "country": "Austria", 
     "start_time": "10:00:00", 
     "venue": "Kirchplatz", 
