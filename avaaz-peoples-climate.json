@@ -450,7 +450,7 @@
   {
     "city": "Lisbon", 
     "name": "Mobiliza\u00e7\u00e3o Contra as Altera\u00e7\u00f5es Clim\u00e1ticas - Salvem o Planeta!", 
-    "rsvp_count": 385, 
+    "rsvp_count": 386, 
     "country": "Portugal", 
     "start_time": "16:00:00", 
     "venue": "Rossio", 
@@ -1618,7 +1618,7 @@
   {
     "city": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433", 
     "name": "People's Climate March", 
-    "rsvp_count": 71, 
+    "rsvp_count": 72, 
     "country": "Russia", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -2898,7 +2898,7 @@
   {
     "city": "Roma", 
     "name": "Marcia Globale per il Clima a Roma: LA BICICLETTATA, IL CUORE VERDE", 
-    "rsvp_count": 502, 
+    "rsvp_count": 503, 
     "country": "Italy", 
     "start_time": "15:00:00", 
     "venue": "COLOSSEO, ROMA", 
@@ -6674,7 +6674,7 @@
   {
     "city": "Catania", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 44, 
+    "rsvp_count": 45, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "Piazza Duomo. Catania", 
@@ -23330,7 +23330,7 @@
   {
     "city": "Uccle", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 67, 
+    "rsvp_count": 68, 
     "country": "Belgium", 
     "start_time": "13:00:00", 
     "venue": "Place Saint-Job", 
@@ -34418,7 +34418,7 @@
   {
     "city": "Falmouth", 
     "name": "Raise a brolly against climate folly", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "United Kingdom", 
     "start_time": "15:00:00", 
     "venue": "", 
@@ -35010,7 +35010,7 @@
   {
     "city": "Offenburg", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Germany", 
     "start_time": "09:00:00", 
     "venue": "Lindenplatz", 
@@ -37438,5 +37438,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_530", 
     "id": 5096
+  }, 
+  {
+    "city": "San Donato Milanese", 
+    "name": "Marcia Globale per il Clima", 
+    "rsvp_count": 1, 
+    "country": "Italy", 
+    "start_time": "10:30:00", 
+    "venue": "Via Libert\u00e0, San Donato Milanese", 
+    "longitude": 9.2620223, 
+    "state": "Lombardia", 
+    "country_code": "IT", 
+    "address": "Via della Libert\u00e0, 20097 San Donato Milanese MI, Italia", 
+    "latitude": 45.4174444, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/it/event/climate/Marcia_Globale_per_il_Clima_142", 
+    "id": 5097
   }
 ]
