@@ -17795,7 +17795,7 @@ initData({},
   {
     "city": "Botucatu", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 13, 
+    "rsvp_count": 14, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -24563,7 +24563,7 @@ initData({},
   {
     "city": "Reims", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 34, 
+    "rsvp_count": 35, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Avenue de Laen", 
@@ -37471,6 +37471,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/it/event/climate/Marcia_Globale_per_il_Clima_143", 
     "id": 5098
+  }, 
+  {
+    "city": "Jalandhar", 
+    "name": "People's Climate March", 
+    "rsvp_count": 1, 
+    "country": "India", 
+    "start_time": "13:00:00", 
+    "venue": "", 
+    "longitude": 75.5783281, 
+    "state": "PB", 
+    "country_code": "IN", 
+    "address": "ER-259, G T \u092e\u093e\u0930\u094d\u0917, Pacca Bagh, Jalandhar, Punjab 144001, India", 
+    "latitude": 31.3266758, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1622", 
+    "id": 5099
   }
 ]
 );
