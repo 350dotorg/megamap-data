@@ -25826,7 +25826,7 @@
   {
     "city": "\u0411\u0430\u043a\u0443", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 17, 
+    "rsvp_count": 18, 
     "country": "Azerbaijan", 
     "start_time": "13:00:00", 
     "venue": "\u0414\u043e\u043c \u041f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430", 
@@ -26210,7 +26210,7 @@
   {
     "city": "Meise", 
     "name": "Actiedag voor het Klimaat", 
-    "rsvp_count": 10, 
+    "rsvp_count": 11, 
     "country": "Belgium", 
     "start_time": "13:00:00", 
     "venue": "", 
