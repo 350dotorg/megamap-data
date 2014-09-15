@@ -2914,7 +2914,7 @@
   {
     "city": "Basel", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 128, 
+    "rsvp_count": 129, 
     "country": "Switzerland", 
     "start_time": "13:00:00", 
     "venue": "Wettsteinbr\u00fccke - Rhein", 
@@ -6066,7 +6066,7 @@
   {
     "city": "Graz", 
     "name": "Klima-Aktion Graz - People's Climate March", 
-    "rsvp_count": 226, 
+    "rsvp_count": 227, 
     "country": "Austria", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -9762,7 +9762,7 @@
   {
     "city": "Munich", 
     "name": "People's Climate March", 
-    "rsvp_count": 547, 
+    "rsvp_count": 548, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Karlsplatz", 
@@ -29202,7 +29202,7 @@
   {
     "city": "\u05e7\u05e8\u05d9\u05ea \u05d8\u05d1\u05e2\u05d5\u05df", 
     "name": "\u05de\u05e6\u05e2\u05d3 \u05d4\u05d0\u05e7\u05dc\u05d9\u05dd \u05d4\u05d0\u05d6\u05e8\u05d7\u05d9", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Israel", 
     "start_time": "13:00:00", 
     "venue": "\u05de\u05d5\u05dc \u05d1\u05e0\u05d9\u05df \u05d4\u05de\u05d5\u05e2\u05e6\u05d4", 
@@ -32274,7 +32274,7 @@
   {
     "city": "Bras\u00edlia", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "SQS. 403 bLOCO H APARTAMENTO 108 - BRAS\u00cdLIA-DF.", 
