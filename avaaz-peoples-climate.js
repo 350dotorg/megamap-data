@@ -8819,7 +8819,7 @@ initData({},
   {
     "city": "W\u00fcrzburg", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 37, 
+    "rsvp_count": 38, 
     "country": "Germany", 
     "start_time": "15:00:00", 
     "venue": "Augustinerstra\u00dfe", 
