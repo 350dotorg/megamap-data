@@ -2530,7 +2530,7 @@
   {
     "city": "Marburg", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 43, 
+    "rsvp_count": 44, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Cineplex", 
@@ -2610,7 +2610,7 @@
   {
     "city": "Vicenza", 
     "name": "People's Climate Flash Mob", 
-    "rsvp_count": 57, 
+    "rsvp_count": 58, 
     "country": "Italy", 
     "start_time": "11:30:00", 
     "venue": "Piazza dei Signori", 
@@ -6226,7 +6226,7 @@
   {
     "city": "Fasano", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 11, 
+    "rsvp_count": 12, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "Fasano, Piazza Ciaia", 
