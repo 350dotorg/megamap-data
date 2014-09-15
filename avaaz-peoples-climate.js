@@ -8579,7 +8579,7 @@ initData({},
   {
     "city": "Toluca de Lerdo", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 37, 
+    "rsvp_count": 38, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Avenida Independencia 50000 Toluca de Lerdo", 
