@@ -1,4 +1,4 @@
-Number of events: 2368
+Number of events: 2378
 Number of countries: 145
 	Afghanistan: 1
 	Albania: 2
@@ -9,7 +9,7 @@ Number of countries: 145
 	Austria: 27
 	Azerbaijan: 1
 	Bahrain: 3
-	Bangladesh: 4
+	Bangladesh: 5
 	Belarus: 4
 	Belgium: 39
 	Benin: 1
@@ -17,7 +17,7 @@ Number of countries: 145
 	Bolivia: 6
 	Bosnia and Herzegovina: 1
 	Botswana: 1
-	Brazil: 231
+	Brazil: 233
 	Brunei: 1
 	Bulgaria: 6
 	Burkina Faso: 1
@@ -38,16 +38,16 @@ Number of countries: 145
 	Côte d'Ivoire: 2
 	Denmark: 6
 	Dominican Republic: 8
-	Ecuador: 16
+	Ecuador: 17
 	Egypt: 36
 	El Salvador: 2
 	Estonia: 4
 	Finland: 5
-	France: 166
+	France: 167
 	French Guiana: 2
 	French Polynesia: 3
 	Gabon: 2
-	Germany: 85
+	Germany: 86
 	Gibraltar: 1
 	Greece: 45
 	Grenada: 1
@@ -61,7 +61,7 @@ Number of countries: 145
 	Indonesia: 5
 	Iran: 7
 	Iraq: 23
-	Ireland: 7
+	Ireland: 8
 	Israel: 13
 	Italy: 119
 	Japan: 9
@@ -70,7 +70,7 @@ Number of countries: 145
 	Kosovo: 1
 	Kuwait: 2
 	Kyrgistan: 3
-	Lebanon: 1
+	Lebanon: 2
 	Liberia: 2
 	Libya: 4
 	Lithuania: 2
@@ -105,7 +105,7 @@ Number of countries: 145
 	Qatar: 2
 	Reunion: 2
 	Romania: 16
-	Russia: 54
+	Russia: 55
 	Saudi Arabia: 14
 	Senegal: 3
 	Serbia: 6
@@ -134,7 +134,7 @@ Number of countries: 145
 	Uganda: 2
 	Ukraine: 50
 	United Arab Emirates: 3
-	United Kingdom: 63
+	United Kingdom: 64
 	United States of America: 82
 	Uruguay: 15
 	Uzbekistan: 1
