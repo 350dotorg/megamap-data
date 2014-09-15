@@ -1,4 +1,4 @@
-Number of events: 2398
+Number of events: 2400
 Number of countries: 145
 	Afghanistan: 1
 	Albania: 2
@@ -49,7 +49,7 @@ Number of countries: 145
 	Gabon: 2
 	Germany: 85
 	Gibraltar: 1
-	Greece: 47
+	Greece: 48
 	Grenada: 1
 	Guadeloupe: 2
 	Guatemala: 13
@@ -88,7 +88,7 @@ Number of countries: 145
 	Nepal: 3
 	Netherlands: 33
 	New Caledonia: 2
-	New Zealand: 26
+	New Zealand: 27
 	Nicaragua: 1
 	Nigeria: 7
 	Norway: 9
