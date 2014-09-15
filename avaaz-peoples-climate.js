@@ -4803,7 +4803,7 @@ initData({},
   {
     "city": "Pretoria", 
     "name": "People's Climate March", 
-    "rsvp_count": 79, 
+    "rsvp_count": 80, 
     "country": "South Africa", 
     "start_time": "13:00:00", 
     "venue": "", 
