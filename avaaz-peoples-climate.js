@@ -24595,7 +24595,7 @@ initData({},
   {
     "city": "Dijon", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 28, 
+    "rsvp_count": 29, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Place Darcy", 
