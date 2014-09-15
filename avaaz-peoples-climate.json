@@ -642,7 +642,7 @@
   {
     "city": "Zurich", 
     "name": "Zurich People's Climate Stand", 
-    "rsvp_count": 211, 
+    "rsvp_count": 212, 
     "country": "Switzerland", 
     "start_time": "10:00:00", 
     "venue": "Hirschenplatz", 
@@ -898,7 +898,7 @@
   {
     "city": "Saint Paul", 
     "name": "People's Climate Meetup Minnesota", 
-    "rsvp_count": 92, 
+    "rsvp_count": 93, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "Como Park Conservatory", 
@@ -15266,7 +15266,7 @@
   {
     "city": "Torino", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 219, 
+    "rsvp_count": 220, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "PIAZZA CASTELLO", 
@@ -35218,7 +35218,7 @@
   {
     "city": "Belo Horizonte", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "parque nossa senhora da piedade", 
@@ -36962,7 +36962,7 @@
   {
     "city": "Serra", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -38286,5 +38286,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_226", 
     "id": 5166
+  }, 
+  {
+    "city": "Reggio Emilia", 
+    "name": "Marcia Globale per il Clima", 
+    "rsvp_count": 1, 
+    "country": "Italy", 
+    "start_time": "13:00:00", 
+    "venue": "P.zza della vittoria", 
+    "longitude": 10.6337591, 
+    "state": "Emilia-Romagna", 
+    "country_code": "IT", 
+    "address": "Via Massimo Samoggia, 31-35, 42124 Reggio Emilia RE, Italia", 
+    "latitude": 44.7146714, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/it/event/climate/Marcia_Globale_per_il_Clima_152", 
+    "id": 5167
   }
 ]
