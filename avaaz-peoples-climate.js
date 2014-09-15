@@ -38513,6 +38513,22 @@ initData({},
     "id": 5186
   }, 
   {
+    "city": "Mira", 
+    "name": "Marcia Globale per il Clima - Manifestazione No autostrada Orte-Mestre", 
+    "rsvp_count": 1, 
+    "country": "Italy", 
+    "start_time": "10:30:00", 
+    "venue": "Giare di Mira", 
+    "longitude": 12.147482, 
+    "state": "Veneto", 
+    "country_code": "IT", 
+    "address": "Via Giare, 111, 30034 Mira VE, Italia", 
+    "latitude": 45.4008449, 
+    "event_date": "2014-09-20", 
+    "rsvp_url": "https://secure.avaaz.org/it/event/climate/Marcia_Globale_per_il_Clima_Manifestazione_No_autostrada_OrteMestre", 
+    "id": 5187
+  }, 
+  {
     "city": "Saquarema", 
     "name": "Caminhada pelo Clima", 
     "rsvp_count": 1, 
