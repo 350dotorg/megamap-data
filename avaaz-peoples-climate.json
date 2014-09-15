@@ -5410,7 +5410,7 @@
   {
     "city": "Inverness", 
     "name": "People's Climate March", 
-    "rsvp_count": 40, 
+    "rsvp_count": 41, 
     "country": "United Kingdom", 
     "start_time": "13:00:00", 
     "venue": "Velocity cycle cafe", 
@@ -5426,7 +5426,7 @@
   {
     "city": "Galway", 
     "name": "People's Climate March", 
-    "rsvp_count": 100, 
+    "rsvp_count": 101, 
     "country": "Ireland", 
     "start_time": "13:00:00", 
     "venue": "Eyre Square", 
@@ -14226,7 +14226,7 @@
   {
     "city": "Catania", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 27, 
+    "rsvp_count": 28, 
     "country": "Italy", 
     "start_time": "10:00:00", 
     "venue": "Catania", 
@@ -26610,7 +26610,7 @@
   {
     "city": "Southampton", 
     "name": "People's Climate March", 
-    "rsvp_count": 23, 
+    "rsvp_count": 24, 
     "country": "United Kingdom", 
     "start_time": "13:00:00", 
     "venue": "Guildhall Square", 
@@ -35666,7 +35666,7 @@
   {
     "city": "Mont-Laurier", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Centre sportif Jacques-Lesage", 
@@ -38142,5 +38142,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Rassemblement_Pour_le_Climat", 
     "id": 5156
+  }, 
+  {
+    "city": "\u041e\u0434\u0435\u0441\u0441\u0430", 
+    "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
+    "rsvp_count": 1, 
+    "country": "Ukraine", 
+    "start_time": "13:00:00", 
+    "venue": "", 
+    "longitude": 30.7233095, 
+    "state": "\u041e\u0434\u0435\u0441\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+    "country_code": "UA", 
+    "address": "\u041e\u0434\u0435\u0441\u0441\u0430, \u041e\u0434\u0435\u0441\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0423\u043a\u0440\u0430\u0438\u043d\u0430", 
+    "latitude": 46.482526, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/ru/event/climate/Narodnyy_klimaticheskiy_marsh_204", 
+    "id": 5157
   }
 ]
