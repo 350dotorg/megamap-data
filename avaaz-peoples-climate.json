@@ -18,7 +18,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 1330, 
+    "rsvp_count": 1331, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -818,7 +818,7 @@
   {
     "city": "Copenhagen", 
     "name": "People's Climate March", 
-    "rsvp_count": 399, 
+    "rsvp_count": 400, 
     "country": "Denmark", 
     "start_time": "14:00:00", 
     "venue": "Nytorv, Domhuset", 
@@ -1474,7 +1474,7 @@
   {
     "city": "Toronto", 
     "name": "People's Climate March - Toronto", 
-    "rsvp_count": 453, 
+    "rsvp_count": 454, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -25410,7 +25410,7 @@
   {
     "city": "S\u00e3o Jos\u00e9 dos Campos", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 59, 
+    "rsvp_count": 60, 
     "country": "Brazil", 
     "start_time": "11:00:00", 
     "venue": "Parque Vicentina Aranha", 
