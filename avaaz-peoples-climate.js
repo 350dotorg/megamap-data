@@ -19155,7 +19155,7 @@ initData({},
   {
     "city": "Kyneton", 
     "name": "Kyneton Community Climate March", 
-    "rsvp_count": 7, 
+    "rsvp_count": 8, 
     "country": "Australia", 
     "start_time": "13:00:00", 
     "venue": "Quarry Reserve", 
