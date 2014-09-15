@@ -12691,7 +12691,7 @@ initData({},
   {
     "city": "San Luis Obispo", 
     "name": "People's Climate March", 
-    "rsvp_count": 35, 
+    "rsvp_count": 36, 
     "country": "United States of America", 
     "start_time": "14:00:00", 
     "venue": "Mitchell Park", 
