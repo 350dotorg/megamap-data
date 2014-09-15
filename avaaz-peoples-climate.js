@@ -19,7 +19,7 @@ initData({},
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima - RIO", 
-    "rsvp_count": 1338, 
+    "rsvp_count": 1339, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Praia de Ipanema -- Posto 8, das 10h30 \u00e0s 14h30", 
@@ -34019,7 +34019,7 @@ initData({},
   {
     "city": "\u0411\u0438\u0448\u043a\u0435\u043a", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Kyrgistan", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -38063,6 +38063,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1631", 
     "id": 5141
+  }, 
+  {
+    "city": "Pereira", 
+    "name": "Temazcal por el bienestar de la Madre Tierra y toda la Humanidad", 
+    "rsvp_count": 1, 
+    "country": "Colombia", 
+    "start_time": "09:00:00", 
+    "venue": "Escuela de la Vereda el P\u00f6rvenir corregimiento de la Florida.", 
+    "longitude": -75.6183, 
+    "state": "Risaralda", 
+    "country_code": "CO", 
+    "address": "La Florida, Pereira, Risaralda, Colombia", 
+    "latitude": 4.7606, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/es/event/climate/Temazcal_por_el_bienestar_de_la_Madre_Tierra_y_toda_la_Humanidad", 
+    "id": 5143
   }
 ]
 );
