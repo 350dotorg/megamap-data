@@ -1155,7 +1155,7 @@ initData({},
   {
     "city": "Amsterdam", 
     "name": "People's Climate March", 
-    "rsvp_count": 374, 
+    "rsvp_count": 375, 
     "country": "Netherlands", 
     "start_time": "13:00:00", 
     "venue": "Damsquare", 
