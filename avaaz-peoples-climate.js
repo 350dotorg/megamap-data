@@ -2915,7 +2915,7 @@ initData({},
   {
     "city": "Basel", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 126, 
+    "rsvp_count": 127, 
     "country": "Switzerland", 
     "start_time": "13:00:00", 
     "venue": "Wettsteinbr\u00fccke - Rhein", 
