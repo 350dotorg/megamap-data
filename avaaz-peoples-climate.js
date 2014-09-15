@@ -16819,7 +16819,7 @@ initData({},
   {
     "city": "Geraldton", 
     "name": "People's Climate March Geraldton", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Australia", 
     "start_time": "13:00:00", 
     "venue": "The Yellow Submarine", 
