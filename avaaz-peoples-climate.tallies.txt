@@ -1,4 +1,4 @@
-Number of events: 2381
+Number of events: 2382
 Number of countries: 145
 	Afghanistan: 1
 	Albania: 2
@@ -11,7 +11,7 @@ Number of countries: 145
 	Bahrain: 3
 	Bangladesh: 5
 	Belarus: 4
-	Belgium: 39
+	Belgium: 40
 	Benin: 1
 	Bermuda: 1
 	Bolivia: 6
