@@ -1,4 +1,4 @@
-Number of events: 2400
+Number of events: 2401
 Number of countries: 145
 	Afghanistan: 1
 	Albania: 2
@@ -83,7 +83,7 @@ Number of countries: 145
 	Mauritius: 2
 	Mexico: 118
 	Moldova: 2
-	Morocco: 37
+	Morocco: 38
 	Myanmar: 1
 	Nepal: 3
 	Netherlands: 33
