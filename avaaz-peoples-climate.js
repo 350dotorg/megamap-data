@@ -26627,7 +26627,7 @@ initData({},
   {
     "city": "Ploemeur", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 6, 
+    "rsvp_count": 7, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "d\u00e9part \u00e9glise de Ploemeur", 
