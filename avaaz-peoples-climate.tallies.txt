@@ -1,5 +1,5 @@
-Number of events: 2347
-Number of countries: 143
+Number of events: 2348
+Number of countries: 144
 	Afghanistan: 1
 	Albania: 2
 	Algeria: 57
@@ -123,6 +123,7 @@ Number of countries: 143
 	Syria: 4
 	Taiwan: 1
 	Tajikistan: 1
+	Tanzania: 1
 	Thailand: 2
 	Togo: 1
 	Trinidad and Tobago: 1
