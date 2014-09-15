@@ -17539,7 +17539,7 @@ initData({},
   {
     "city": "Pelotas", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 22, 
+    "rsvp_count": 23, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "HOSPITAL ESPIRITA DE PELOTAS", 
