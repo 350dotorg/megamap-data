@@ -1010,7 +1010,7 @@
   {
     "city": "Ottawa", 
     "name": "People's Climate March - Ottawa Event", 
-    "rsvp_count": 324, 
+    "rsvp_count": 325, 
     "country": "Canada", 
     "start_time": "12:00:00", 
     "venue": "Parliament Hill", 
@@ -7618,7 +7618,7 @@
   {
     "city": "Miraflores", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 63, 
+    "rsvp_count": 64, 
     "country": "Peru", 
     "start_time": "10:00:00", 
     "venue": "PARQUE KENNEDY. MIRAFLORES.LIMA", 
@@ -25742,38 +25742,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1470", 
     "id": 4187
-  }, 
-  {
-    "city": "\u0411\u0435\u043b\u043e\u0432\u043e", 
-    "name": "People's Climate March", 
-    "rsvp_count": 1, 
-    "country": "Russia", 
-    "start_time": "13:00:00", 
-    "venue": "\u042e\u0431\u0438\u043b\u0435\u0439\u043d\u0430\u044f", 
-    "longitude": 86.2951538, 
-    "state": "\u041a\u0435\u043c\u0435\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", 
-    "country_code": "RU", 
-    "address": "\u042e\u0431\u0438\u043b\u0435\u0439\u043d\u0430\u044f \u0443\u043b\u0438\u0446\u0430, \u0411\u0435\u043b\u043e\u0432\u043e, \u041a\u0435\u043c\u0435\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0420\u043e\u0441\u0441\u0438\u044f", 
-    "latitude": 54.4116866, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1471", 
-    "id": 4188
-  }, 
-  {
-    "city": "\u0411\u0435\u043b\u043e\u0432\u043e", 
-    "name": "People's Climate March", 
-    "rsvp_count": 3, 
-    "country": "Russia", 
-    "start_time": "13:00:00", 
-    "venue": "\u042e\u0431\u0438\u043b\u0435\u0439\u043d\u0430\u044f", 
-    "longitude": 86.2951538, 
-    "state": "\u041a\u0435\u043c\u0435\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", 
-    "country_code": "RU", 
-    "address": "\u042e\u0431\u0438\u043b\u0435\u0439\u043d\u0430\u044f \u0443\u043b\u0438\u0446\u0430, \u0411\u0435\u043b\u043e\u0432\u043e, \u041a\u0435\u043c\u0435\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0420\u043e\u0441\u0441\u0438\u044f", 
-    "latitude": 54.4116866, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1472", 
-    "id": 4189
   }, 
   {
     "city": "Tauranga", 
