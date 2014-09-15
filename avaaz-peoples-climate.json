@@ -1906,7 +1906,7 @@
   {
     "city": "Hamburg", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 367, 
+    "rsvp_count": 368, 
     "country": "Germany", 
     "start_time": "16:00:00", 
     "venue": "vor dem Rathaus", 
@@ -6194,7 +6194,7 @@
   {
     "city": "Athens", 
     "name": "\u0395\u03c0\u03af\u03c3\u03b7\u03bc\u03b7 \u0394\u03c1\u03ac\u03c3\u03b7 \u0391\u03b8\u03ae\u03bd\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
-    "rsvp_count": 837, 
+    "rsvp_count": 838, 
     "country": "Greece", 
     "start_time": "16:00:00", 
     "venue": "\u0394\u03b9\u03bf\u03bd\u03c5\u03c3\u03af\u03bf\u03c5 \u0391\u03c1\u03b5\u03bf\u03c0\u03b1\u03b3\u03af\u03c4\u03bf\u03c5, \u0391\u03b8\u03ae\u03bd\u03b1", 
@@ -32274,7 +32274,7 @@
   {
     "city": "Bremen", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -32338,7 +32338,7 @@
   {
     "city": "Amsterdam", 
     "name": "People's Climate March,  verzamelpunt D66,  cafe Kobalt", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Netherlands", 
     "start_time": "16:00:00", 
     "venue": "", 
@@ -32370,7 +32370,7 @@
   {
     "city": "\u041e\u0434\u0435\u0441\u0441\u0430", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 13, 
+    "rsvp_count": 14, 
     "country": "Ukraine", 
     "start_time": "13:00:00", 
     "venue": "\u0421\u043e\u0431\u043e\u0440\u043d\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u044c", 
@@ -38126,5 +38126,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_225", 
     "id": 5155
+  }, 
+  {
+    "city": "Division No. 23", 
+    "name": "Rassemblement Pour le Climat", 
+    "rsvp_count": 0, 
+    "country": "Canada", 
+    "start_time": "13:00:00", 
+    "venue": "Terrain de l'\u00e9glise", 
+    "longitude": -96.9211176, 
+    "state": "MB", 
+    "country_code": "CA", 
+    "address": "Division No. 23, MB, Canada", 
+    "latitude": 57.4541661, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Rassemblement_Pour_le_Climat", 
+    "id": 5156
   }
 ]
