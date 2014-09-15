@@ -1490,7 +1490,7 @@
   {
     "city": "Marseille", 
     "name": "Marche Pour le Climat - Marseille", 
-    "rsvp_count": 243, 
+    "rsvp_count": 244, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "", 
@@ -30870,11 +30870,11 @@
     "country": "South Africa", 
     "start_time": "13:00:00", 
     "venue": "Camps Bay Beach (Opposite the Grand)", 
-    "longitude": 18.4240553, 
+    "longitude": 18.378514, 
     "state": "WC", 
     "country_code": "ZA", 
-    "address": "Cape Town, South Africa", 
-    "latitude": -33.9248685, 
+    "address": "Camps Bay, Cape Town 8005, South Africa", 
+    "latitude": -33.950617, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Cape_Towns_Climate_Activation", 
     "id": 4615
