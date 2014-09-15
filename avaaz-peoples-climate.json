@@ -33042,7 +33042,7 @@
   {
     "city": "Medell\u00edn", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 21, 
+    "rsvp_count": 22, 
     "country": "Colombia", 
     "start_time": "13:00:00", 
     "venue": "marcha desde belen hasta la alcaldia de medellin", 
@@ -37138,7 +37138,7 @@
   {
     "city": "Pf\u00e4ffikon", 
     "name": "People's Climate March", 
-    "rsvp_count": 0, 
+    "rsvp_count": 1, 
     "country": "Switzerland", 
     "start_time": "13:00:00", 
     "venue": "Kehr 1", 
@@ -37150,5 +37150,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1616", 
     "id": 5076
+  }, 
+  {
+    "city": "Serra", 
+    "name": "Caminhada pelo Clima", 
+    "rsvp_count": 0, 
+    "country": "Brazil", 
+    "start_time": "13:00:00", 
+    "venue": "", 
+    "longitude": -40.2497098, 
+    "state": "ES", 
+    "country_code": "BR", 
+    "address": "Avenida Carapebus, Serra - ES, Rep\u00fablica Federativa do Brasil", 
+    "latitude": -20.2446804, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_217", 
+    "id": 5077
   }
 ]
