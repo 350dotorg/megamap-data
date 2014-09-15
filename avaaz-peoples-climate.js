@@ -24387,7 +24387,7 @@ initData({},
   {
     "city": "Chihuahua", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 19, 
+    "rsvp_count": 20, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "", 
