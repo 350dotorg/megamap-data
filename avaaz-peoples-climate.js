@@ -1107,7 +1107,7 @@ initData({},
   {
     "city": "Bristol", 
     "name": "Bristol People's Climate March", 
-    "rsvp_count": 398, 
+    "rsvp_count": 399, 
     "country": "United Kingdom", 
     "start_time": "14:30:00", 
     "venue": "Castle Park", 
