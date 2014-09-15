@@ -21107,7 +21107,7 @@ initData({},
   {
     "city": "Greenfield", 
     "name": "People's Climate March", 
-    "rsvp_count": 12, 
+    "rsvp_count": 13, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "S 108th St & Layton Ave, Greenfield, WI 53228, USA", 
