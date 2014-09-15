@@ -322,7 +322,7 @@
   {
     "city": "Alicante", 
     "name": "People's Climate March - Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 146, 
+    "rsvp_count": 147, 
     "country": "Spain", 
     "start_time": "19:00:00", 
     "venue": "Escaleras del Instituto Jorge Juan", 
@@ -12802,7 +12802,7 @@
   {
     "city": "Hamilton", 
     "name": "People's Climate March", 
-    "rsvp_count": 50, 
+    "rsvp_count": 51, 
     "country": "New Zealand", 
     "start_time": "13:00:00", 
     "venue": "Panguru , North Hokianga", 
@@ -37518,5 +37518,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/it/event/climate/Marcia_Globale_per_il_Clima_144", 
     "id": 5101
+  }, 
+  {
+    "city": "Vilshofen", 
+    "name": "Klima-Aktionstag", 
+    "rsvp_count": 1, 
+    "country": "Germany", 
+    "start_time": "10:00:00", 
+    "venue": "Stadtplatz Vilshofen", 
+    "longitude": 13.1871631, 
+    "state": "BY", 
+    "country_code": "DE", 
+    "address": "Stadtverwaltung Vilshofen, Stadtplatz 27, 94474 Vilshofen, Deutschland", 
+    "latitude": 48.63383, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaAktionstag_168", 
+    "id": 5102
   }
 ]
