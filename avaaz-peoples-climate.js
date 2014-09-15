@@ -4419,7 +4419,7 @@ initData({},
   {
     "city": "Granville", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 18, 
+    "rsvp_count": 19, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Granville devant la Mairie", 
