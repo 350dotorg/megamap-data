@@ -6771,7 +6771,7 @@ initData({},
   {
     "city": "Cali", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 104, 
+    "rsvp_count": 105, 
     "country": "Colombia", 
     "start_time": "09:00:00", 
     "venue": "Avenida 2 norte #10 - 70", 
@@ -19763,7 +19763,7 @@ initData({},
   {
     "city": "Goi\u00e2nia", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 166, 
+    "rsvp_count": 167, 
     "country": "Brazil", 
     "start_time": "16:00:00", 
     "venue": "Pra\u00e7a C\u00edvica, setor Sul", 
@@ -37087,6 +37087,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/it/event/climate/Marcia_Globale_per_il_Clima_140", 
     "id": 5066
+  }, 
+  {
+    "city": "Santa Rosa", 
+    "name": "Caminhada pelo Clima", 
+    "rsvp_count": 1, 
+    "country": "Brazil", 
+    "start_time": "13:00:00", 
+    "venue": "", 
+    "longitude": -54.4568512, 
+    "state": "RS", 
+    "country_code": "BR", 
+    "address": "Avenida Expedicion\u00e1rio Weber, Santa Rosa - RS, 98900-000, Rep\u00fablica Federativa do Brasil", 
+    "latitude": -27.8624045, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_215", 
+    "id": 5067
   }
 ]
 );
