@@ -2658,7 +2658,7 @@
   {
     "city": "Milano", 
     "name": "Climate March", 
-    "rsvp_count": 320, 
+    "rsvp_count": 321, 
     "country": "Italy", 
     "start_time": "10:00:00", 
     "venue": "", 
@@ -20258,7 +20258,7 @@
   {
     "city": "Zagreb", 
     "name": "People's Climate March", 
-    "rsvp_count": 131, 
+    "rsvp_count": 132, 
     "country": "Croatia", 
     "start_time": "13:00:00", 
     "venue": "Trg Kralja Tomislava", 
