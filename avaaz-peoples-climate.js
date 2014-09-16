@@ -3811,7 +3811,7 @@ initData({},
   {
     "city": "Grenoble", 
     "name": "Marche pour le climat de Grenoble (officiel)", 
-    "rsvp_count": 175, 
+    "rsvp_count": 176, 
     "country": "France", 
     "start_time": "13:30:00", 
     "venue": "Place de Verdun", 
