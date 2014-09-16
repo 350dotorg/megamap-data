@@ -899,7 +899,7 @@ initData({},
   {
     "city": "San Diego", 
     "name": "People's Climate March", 
-    "rsvp_count": 55, 
+    "rsvp_count": 56, 
     "country": "United States of America", 
     "start_time": "12:30:00", 
     "venue": "San Diego City Hall", 
