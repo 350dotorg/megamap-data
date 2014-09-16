@@ -3313,7 +3313,7 @@
   }, 
   {
     "city": "D\u00fcsseldorf", 
-    "name": "Klima-Aktionstag", 
+    "name": "KlimaAktionsTag", 
     "rsvp_count": 221, 
     "country": "Germany", 
     "start_time": "13:00:00", 
@@ -3858,7 +3858,7 @@
   {
     "city": "Grenoble", 
     "name": "La marche pour le climat", 
-    "rsvp_count": 173, 
+    "rsvp_count": 174, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Hotel de ville", 
@@ -33026,7 +33026,7 @@
   {
     "city": "Aachen", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 21, 
+    "rsvp_count": 22, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "", 
