@@ -25091,7 +25091,7 @@ initData({},
   {
     "city": "Burns Lake", 
     "name": "People's Care about Climate Event", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Spirit Square", 
