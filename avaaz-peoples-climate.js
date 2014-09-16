@@ -31923,7 +31923,7 @@ initData({},
   {
     "city": "Livorno", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 12, 
+    "rsvp_count": 13, 
     "country": "Italy", 
     "start_time": "11:00:00", 
     "venue": "Terrazza Mascagni", 
