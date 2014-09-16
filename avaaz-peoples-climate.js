@@ -16275,7 +16275,7 @@ initData({},
   {
     "city": "Barueri", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 39, 
+    "rsvp_count": 40, 
     "country": "Brazil", 
     "start_time": "10:00:00", 
     "venue": "Parque Ecol\u00f3gico Tambor\u00e9", 
