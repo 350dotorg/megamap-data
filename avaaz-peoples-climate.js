@@ -9537,22 +9537,6 @@ initData({},
     "id": 2866
   }, 
   {
-    "city": "Bilbao", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 53, 
-    "country": "Spain", 
-    "start_time": "17:00:00", 
-    "venue": "PLAZA DEL ARRIAGA", 
-    "longitude": -2.9251613, 
-    "state": "PV", 
-    "country_code": "ES", 
-    "address": "Plaza del Arriaga, 48005 Bilbao, Vizcaya, Espa\u00f1a", 
-    "latitude": 43.2595982, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_179", 
-    "id": 2867
-  }, 
-  {
     "city": "Penticton", 
     "name": "People's Climate March", 
     "rsvp_count": 27, 
