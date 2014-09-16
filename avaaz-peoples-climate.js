@@ -33283,7 +33283,7 @@ initData({},
   {
     "city": "Palmas", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a dos girass\u00f3is", 
