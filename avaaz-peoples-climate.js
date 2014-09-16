@@ -24547,7 +24547,7 @@ initData({},
   {
     "city": "Tavira", 
     "name": "People's Climate March", 
-    "rsvp_count": 14, 
+    "rsvp_count": 15, 
     "country": "Portugal", 
     "start_time": "13:00:00", 
     "venue": "Praca da Republica", 
