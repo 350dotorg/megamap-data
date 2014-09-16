@@ -9043,7 +9043,7 @@ initData({},
   {
     "city": "Sacramento", 
     "name": "People's Climate March", 
-    "rsvp_count": 77, 
+    "rsvp_count": 78, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "State Capital", 
