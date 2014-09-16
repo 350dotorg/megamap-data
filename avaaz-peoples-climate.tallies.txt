@@ -1,4 +1,4 @@
-Number of events: 2448
+Number of events: 2449
 Number of countries: 144
 	Afghanistan: 1
 	Albania: 2
@@ -133,7 +133,7 @@ Number of countries: 144
 	Uganda: 2
 	Ukraine: 55
 	United Arab Emirates: 3
-	United Kingdom: 65
+	United Kingdom: 66
 	United States of America: 85
 	Uruguay: 16
 	Uzbekistan: 1
