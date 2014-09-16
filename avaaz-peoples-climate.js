@@ -82,7 +82,7 @@ initData({},
   }, 
   {
     "city": "Greater Sudbury", 
-    "name": "People's Climate March", 
+    "name": "Sudbury People's Climate March", 
     "rsvp_count": 25, 
     "country": "Canada", 
     "start_time": "13:00:00", 
