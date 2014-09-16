@@ -35058,7 +35058,7 @@
   {
     "city": "Rio de Janeiro", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Vargem grande", 
@@ -39118,22 +39118,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Pause_pour_le_climat", 
     "id": 5242
-  }, 
-  {
-    "city": "Trier", 
-    "name": "Klima-Aktionstag", 
-    "rsvp_count": 1, 
-    "country": "Germany", 
-    "start_time": "15:00:00", 
-    "venue": "Porta Nigra Trier", 
-    "longitude": 6.6440437, 
-    "state": "RP", 
-    "country_code": "DE", 
-    "address": "Porta Nigra, 54290 Trier, Deutschland", 
-    "latitude": 49.759706, 
-    "event_date": "2014-09-20", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/KlimaAktionstag_175", 
-    "id": 5243
   }, 
   {
     "city": "Mankato", 
