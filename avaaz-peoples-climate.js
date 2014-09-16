@@ -16019,7 +16019,7 @@ initData({},
   {
     "city": "Poperinge", 
     "name": "Op straat voor het klimaat!!!", 
-    "rsvp_count": 32, 
+    "rsvp_count": 33, 
     "country": "Belgium", 
     "start_time": "17:00:00", 
     "venue": "Poperinge", 
