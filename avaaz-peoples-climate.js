@@ -4803,7 +4803,7 @@ initData({},
   {
     "city": "Belo Horizonte", 
     "name": "Caminhada pelo Clima BH - Pra\u00e7a da Liberdade", 
-    "rsvp_count": 246, 
+    "rsvp_count": 247, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a da Liberdade", 
@@ -10195,7 +10195,7 @@ initData({},
   {
     "city": "Stratford", 
     "name": "People's Climate March", 
-    "rsvp_count": 31, 
+    "rsvp_count": 32, 
     "country": "Canada", 
     "start_time": "22:00:00", 
     "venue": "Slow Food Youth Booth, Market Square", 
@@ -39135,6 +39135,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Pause_pour_le_climat", 
     "id": 5242
+  }, 
+  {
+    "city": "Trier", 
+    "name": "Klima-Aktionstag", 
+    "rsvp_count": 1, 
+    "country": "Germany", 
+    "start_time": "15:00:00", 
+    "venue": "Porta Nigra Trier", 
+    "longitude": 6.6440437, 
+    "state": "RP", 
+    "country_code": "DE", 
+    "address": "Porta Nigra, 54290 Trier, Deutschland", 
+    "latitude": 49.759706, 
+    "event_date": "2014-09-20", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/KlimaAktionstag_175", 
+    "id": 5243
   }
 ]
 );
