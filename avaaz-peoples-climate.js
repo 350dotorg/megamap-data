@@ -2883,7 +2883,7 @@ initData({},
   {
     "city": "Nottingham", 
     "name": "People's Climate March", 
-    "rsvp_count": 89, 
+    "rsvp_count": 90, 
     "country": "United Kingdom", 
     "start_time": "13:00:00", 
     "venue": "Old Market Square", 
