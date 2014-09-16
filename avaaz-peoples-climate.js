@@ -27411,7 +27411,7 @@ initData({},
   {
     "city": "", 
     "name": "sans WIFI pour le Climat", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Martinique", 
     "start_time": "07:00:00", 
     "venue": "", 
