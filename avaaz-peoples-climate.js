@@ -23235,7 +23235,7 @@ initData({},
   {
     "city": "Dokkum", 
     "name": "Klimaat Evenement Dokkum", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Netherlands", 
     "start_time": "15:00:00", 
     "venue": "Raadhuis Dokkum De Zijl", 
