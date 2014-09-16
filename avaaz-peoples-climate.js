@@ -20627,7 +20627,7 @@ initData({},
   {
     "city": "Budapest", 
     "name": "People's Climate March - Hungary", 
-    "rsvp_count": 125, 
+    "rsvp_count": 126, 
     "country": "Hungary", 
     "start_time": "13:00:00", 
     "venue": "Budapest, Kossuth Lajos t\u00e9r, 1055 Magyarorsz\u00e1g", 
@@ -38847,6 +38847,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_229", 
     "id": 5216
+  }, 
+  {
+    "city": "Angra do Hero\u00edsmo", 
+    "name": "Caminhada pelo Clima", 
+    "rsvp_count": 0, 
+    "country": "Portugal", 
+    "start_time": "13:00:00", 
+    "venue": "Alto das Covas", 
+    "longitude": -27.2233395, 
+    "state": "A\u00e7ores", 
+    "country_code": "PT", 
+    "address": "Alto das Covas, 9700-220 Angra do Hero\u00edsmo, Portugal", 
+    "latitude": 38.6561675, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_230", 
+    "id": 5217
   }
 ]
 );
