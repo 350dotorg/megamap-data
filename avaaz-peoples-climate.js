@@ -22291,7 +22291,7 @@ initData({},
   {
     "city": "Modena", 
     "name": "Marcia Globale per il Clima \u2022 Bike \u2022 Percorso natura fiume Panaro", 
-    "rsvp_count": 33, 
+    "rsvp_count": 34, 
     "country": "Italy", 
     "start_time": "11:00:00", 
     "venue": "Parco Ducale Estense (Giardini Pubblici) Modena", 
