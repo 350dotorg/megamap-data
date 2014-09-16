@@ -2323,7 +2323,7 @@ initData({},
   {
     "city": "Cape Town", 
     "name": "People's Climate March", 
-    "rsvp_count": 475, 
+    "rsvp_count": 476, 
     "country": "South Africa", 
     "start_time": "13:00:00", 
     "venue": "Green Point Stadium", 
