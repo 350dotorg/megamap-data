@@ -38606,5 +38606,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/el/event/climate/Poreia_ton_Laon_gia_to_Klima_119", 
     "id": 5193
+  }, 
+  {
+    "city": "Managua", 
+    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
+    "rsvp_count": 1, 
+    "country": "Nicaragua", 
+    "start_time": "15:00:00", 
+    "venue": "", 
+    "longitude": -86.2715578, 
+    "state": "MN", 
+    "country_code": "NI", 
+    "address": "Universidad Nacional Aut\u00f3noma de Nicaragua, Managua, Nicaragua", 
+    "latitude": 12.1055747, 
+    "event_date": "2014-09-18", 
+    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_536", 
+    "id": 5194
   }
 ]
