@@ -3731,7 +3731,7 @@ initData({},
   {
     "city": "", 
     "name": "Marche Pour le Climat, ballade nature guid\u00e9e dans la sabli\u00e8re de Braine-le-Comte", 
-    "rsvp_count": 39, 
+    "rsvp_count": 40, 
     "country": "Belgium", 
     "start_time": "10:00:00", 
     "venue": "", 
