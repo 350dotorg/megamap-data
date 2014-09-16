@@ -27843,7 +27843,7 @@ initData({},
   {
     "city": "Gij\u00f3n", 
     "name": "La Marcha Ciudadana contra el Alarmismo clim\u00e1tico", 
-    "rsvp_count": 8, 
+    "rsvp_count": 9, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Plaza Europa jardines", 
