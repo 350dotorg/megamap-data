@@ -23891,7 +23891,7 @@ initData({},
   {
     "city": "Totnes", 
     "name": "People's Climate Rally", 
-    "rsvp_count": 57, 
+    "rsvp_count": 58, 
     "country": "United Kingdom", 
     "start_time": "12:00:00", 
     "venue": "", 
