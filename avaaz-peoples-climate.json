@@ -1362,7 +1362,7 @@
   {
     "city": "Toronto", 
     "name": "People's Climate March - Toronto", 
-    "rsvp_count": 472, 
+    "rsvp_count": 473, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -2306,7 +2306,7 @@
   {
     "city": "Nancy", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 105, 
+    "rsvp_count": 106, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "place stanislas", 
@@ -19474,7 +19474,7 @@
   {
     "city": "Goi\u00e2nia", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 226, 
+    "rsvp_count": 227, 
     "country": "Brazil", 
     "start_time": "16:00:00", 
     "venue": "Pra\u00e7a C\u00edvica, setor Sul", 
@@ -39150,5 +39150,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1651", 
     "id": 5245
+  }, 
+  {
+    "city": "Curitiba", 
+    "name": "Tree day", 
+    "rsvp_count": 1, 
+    "country": "Brazil", 
+    "start_time": "14:00:00", 
+    "venue": "Rua Fagundes Varela, esquina com a Rua Oz\u00f3rio Duque Estrada \u2013 Jardim Social. Entrada tamb\u00e9m pelas ruas Francisco Stobbia e Lange de Morretes.", 
+    "longitude": -49.2650973, 
+    "state": "PR", 
+    "country_code": "BR", 
+    "address": "Curitiba - PR, Rep\u00fablica Federativa do Brasil", 
+    "latitude": -25.4200388, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Tree_day", 
+    "id": 5246
   }
 ]
