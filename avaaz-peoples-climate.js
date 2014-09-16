@@ -12579,7 +12579,7 @@ initData({},
   {
     "city": "Hamilton", 
     "name": "People's Climate March", 
-    "rsvp_count": 53, 
+    "rsvp_count": 54, 
     "country": "New Zealand", 
     "start_time": "13:00:00", 
     "venue": "Panguru , North Hokianga", 
