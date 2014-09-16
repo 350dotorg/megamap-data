@@ -3251,7 +3251,7 @@ initData({},
   {
     "city": "Bietigheim-Bissingen", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 20, 
+    "rsvp_count": 21, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Ku(h)riosum", 
