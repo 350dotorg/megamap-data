@@ -4083,7 +4083,7 @@ initData({},
   {
     "city": "Santander de Quilichao", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Colombia", 
     "start_time": "13:00:00", 
     "venue": "PARQUE PRINCIPAL", 
