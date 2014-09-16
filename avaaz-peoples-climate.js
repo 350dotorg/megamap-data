@@ -195,7 +195,7 @@ initData({},
   {
     "city": "Napoli", 
     "name": "Napoli: E'tempo di cambiare ... il clima", 
-    "rsvp_count": 102, 
+    "rsvp_count": 103, 
     "country": "Italy", 
     "start_time": "18:00:00", 
     "venue": "napoli", 
