@@ -37139,7 +37139,7 @@ initData({},
   {
     "city": "Christchurch", 
     "name": "Mischa Belton", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "New Zealand", 
     "start_time": "13:00:00", 
     "venue": "88 Victoria Street", 
