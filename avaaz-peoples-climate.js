@@ -9379,7 +9379,7 @@ initData({},
   {
     "city": "Bauru", 
     "name": "A\u00e7\u00e3o Global  pelo Clima", 
-    "rsvp_count": 32, 
+    "rsvp_count": 33, 
     "country": "Brazil", 
     "start_time": "09:00:00", 
     "venue": "Rua Batista de Carvalho", 
