@@ -7440,22 +7440,6 @@
     "id": 2695
   }, 
   {
-    "city": "Kharkiv", 
-    "name": "People's Climate March", 
-    "rsvp_count": 1, 
-    "country": "Ukraine", 
-    "start_time": "13:00:00", 
-    "venue": "", 
-    "longitude": 36.230407, 
-    "state": "Kharkiv Oblast", 
-    "country_code": "UA", 
-    "address": "Rymars'ka street, 3/5, Kharkiv, Kharkiv Oblast, Ukraine", 
-    "latitude": 49.993934, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1150", 
-    "id": 2697
-  }, 
-  {
     "city": "Zaporizhia", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
     "rsvp_count": 23, 
@@ -33122,7 +33106,7 @@
   {
     "city": "Mossor\u00f3", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "", 
