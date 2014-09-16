@@ -403,7 +403,7 @@ initData({},
   {
     "city": "Helsinki", 
     "name": "People's Climate March - Helsinki", 
-    "rsvp_count": 143, 
+    "rsvp_count": 144, 
     "country": "Finland", 
     "start_time": "16:00:00", 
     "venue": "Kamppi", 
