@@ -258,7 +258,7 @@
   {
     "city": "Alicante", 
     "name": "People's Climate March - Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 156, 
+    "rsvp_count": 157, 
     "country": "Spain", 
     "start_time": "19:00:00", 
     "venue": "Escaleras del Instituto Jorge Juan", 
@@ -8338,7 +8338,7 @@
   {
     "city": "Quito", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 133, 
+    "rsvp_count": 134, 
     "country": "Ecuador", 
     "start_time": "15:00:00", 
     "venue": "Plaza de las Am\u00e9ricas", 
@@ -18498,7 +18498,7 @@
   {
     "city": "Gen\u00e8ve", 
     "name": "Marche pour le climat- Gen\u00e8ve", 
-    "rsvp_count": 151, 
+    "rsvp_count": 152, 
     "country": "Switzerland", 
     "start_time": "14:00:00", 
     "venue": "Gen\u00e8ve, Plaine de Plainpalais", 
@@ -19490,7 +19490,7 @@
   {
     "city": "Goi\u00e2nia", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 224, 
+    "rsvp_count": 225, 
     "country": "Brazil", 
     "start_time": "16:00:00", 
     "venue": "Pra\u00e7a C\u00edvica, setor Sul", 
@@ -22594,7 +22594,7 @@
   {
     "city": "Cardigan", 
     "name": "Concerned People's Climate Vigil in conjuction with support for Drape the Drones & Intrnational Day of Peace on 21st September.", 
-    "rsvp_count": 7, 
+    "rsvp_count": 8, 
     "country": "United Kingdom", 
     "start_time": "11:00:00", 
     "venue": "", 
@@ -35234,7 +35234,7 @@
   {
     "city": "Tours", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 10, 
+    "rsvp_count": 11, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -39102,5 +39102,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1649", 
     "id": 5238
+  }, 
+  {
+    "city": "Tavira", 
+    "name": "Caminhada pela Clima e Paz", 
+    "rsvp_count": 1, 
+    "country": "Portugal", 
+    "start_time": "10:00:00", 
+    "venue": "Loja Beterraba-Mercado Municipal, 10am", 
+    "longitude": -7.6430018999999, 
+    "state": "", 
+    "country_code": "PT", 
+    "address": "Tavira, Portugal", 
+    "latitude": 37.1335906, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Caminhada_pela_Clima_e_Paz", 
+    "id": 5239
   }
 ]
