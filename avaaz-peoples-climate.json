@@ -6130,7 +6130,7 @@
   {
     "city": "Roma", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 172, 
+    "rsvp_count": 173, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "roma", 
@@ -9618,7 +9618,7 @@
   {
     "city": "Munich", 
     "name": "People's Climate March", 
-    "rsvp_count": 577, 
+    "rsvp_count": 578, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Karlsplatz", 
@@ -14754,7 +14754,7 @@
   {
     "city": "Mansoura", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 6, 
+    "rsvp_count": 7, 
     "country": "Egypt", 
     "start_time": "13:00:00", 
     "venue": "\u062d\u064a \u0627\u0644\u062c\u0627\u0645\u0639\u0647", 
@@ -39038,5 +39038,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_240", 
     "id": 5228
+  }, 
+  {
+    "city": "Angra do Hero\u00edsmo", 
+    "name": "Caminhada pelo Clima", 
+    "rsvp_count": 1, 
+    "country": "Portugal", 
+    "start_time": "13:00:00", 
+    "venue": "Alto das Covas", 
+    "longitude": -27.2232508, 
+    "state": "A\u00e7ores", 
+    "country_code": "PT", 
+    "address": "EN1-1A, 9700-220 Angra do Hero\u00edsmo, Portugal", 
+    "latitude": 38.6559852, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_241", 
+    "id": 5230
   }
 ]

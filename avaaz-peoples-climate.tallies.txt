@@ -1,4 +1,4 @@
-Number of events: 2440
+Number of events: 2441
 Number of countries: 145
 	Afghanistan: 1
 	Albania: 2
@@ -100,7 +100,7 @@ Number of countries: 145
 	Peru: 36
 	Philippines: 4
 	Poland: 8
-	Portugal: 35
+	Portugal: 36
 	Puerto Rico: 2
 	Qatar: 1
 	Reunion: 1
