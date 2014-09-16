@@ -28931,7 +28931,7 @@ initData({},
   {
     "city": "Teslin", 
     "name": "People's Climate March", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Friendship Park", 
