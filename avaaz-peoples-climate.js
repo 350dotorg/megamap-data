@@ -7299,7 +7299,7 @@ initData({},
   {
     "city": "Hyderabad", 
     "name": "People's Climate March", 
-    "rsvp_count": 47, 
+    "rsvp_count": 48, 
     "country": "India", 
     "start_time": "13:00:00", 
     "venue": "HYDERABAD CITY", 
