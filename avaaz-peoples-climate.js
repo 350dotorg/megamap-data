@@ -10979,7 +10979,7 @@ initData({},
   {
     "city": "Hengelo", 
     "name": "Actiedag voor het Klimaat", 
-    "rsvp_count": 28, 
+    "rsvp_count": 29, 
     "country": "Netherlands", 
     "start_time": "13:00:00", 
     "venue": "Enschedesestraat", 
