@@ -12003,7 +12003,7 @@ initData({},
   {
     "city": "Banyoles", 
     "name": "Marxa Ciutadana contra el Canvi Clim\u00e0tic", 
-    "rsvp_count": 16, 
+    "rsvp_count": 17, 
     "country": "Spain", 
     "start_time": "18:00:00", 
     "venue": "Estany oficina de turisme de Banyoles", 
