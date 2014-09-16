@@ -11427,7 +11427,7 @@ initData({},
   {
     "city": "Cardiff", 
     "name": "People's Climate March", 
-    "rsvp_count": 103, 
+    "rsvp_count": 104, 
     "country": "United Kingdom", 
     "start_time": "13:00:00", 
     "venue": "Millennium stadium", 
