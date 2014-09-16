@@ -3283,7 +3283,7 @@ initData({},
   {
     "city": "D\u00fcsseldorf", 
     "name": "KlimaAktionsTag", 
-    "rsvp_count": 222, 
+    "rsvp_count": 223, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Rathaus", 
