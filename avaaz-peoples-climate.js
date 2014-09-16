@@ -34595,7 +34595,7 @@ initData({},
   {
     "city": "Essen", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 24, 
+    "rsvp_count": 25, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Willy-Brandt-Platz", 
