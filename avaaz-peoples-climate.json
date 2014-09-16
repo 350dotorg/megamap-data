@@ -690,7 +690,7 @@
   {
     "city": "Montr\u00e9al", 
     "name": "Marche mondiale pour le climat@ Montr\u00e9al / Peoples' Climat March @ Montr\u00e9al", 
-    "rsvp_count": 282, 
+    "rsvp_count": 283, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "D\u00e9part: Parc Lafontaine, le 21 septembre \u00e0 13:00 3933 Avenue du Parc la Fontaine, Montr\u00e9al, QC H2L 0C7", 
@@ -1650,7 +1650,7 @@
   {
     "city": "Medell\u00edn", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 400, 
+    "rsvp_count": 401, 
     "country": "Colombia", 
     "start_time": "09:00:00", 
     "venue": "Alcald\u00eda de Medell\u00edn", 
@@ -20032,16 +20032,16 @@
     "id": 3773
   }, 
   {
-    "city": "Belo Horizonte", 
+    "city": "", 
     "name": "Caminhada pelo Clima", 
     "rsvp_count": 20, 
     "country": "Brazil", 
-    "start_time": "13:00:00", 
-    "venue": "Parque das Mangabeiras -", 
+    "start_time": "10:00:00", 
+    "venue": "", 
     "longitude": -43.9071501, 
-    "state": "MG", 
+    "state": "", 
     "country_code": "BR", 
-    "address": "Parque das Mangabeiras - Avenida Jos\u00e9 do Patroc\u00ednio Pontes, 580 - Mangabeiras, Belo Horizonte - MG, 30210-090, Rep\u00fablica Federativa do Brasil", 
+    "address": "Parque das Mangabeiras - entrada pela portaria R.Cara\u00e7a 900 ou Av, Bandeirantes ao  lado do Minas 2 .", 
     "latitude": -19.946726, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_101", 
@@ -38466,7 +38466,7 @@
   {
     "city": "Sherbrooke", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Parc Jacques-Cartier", 
