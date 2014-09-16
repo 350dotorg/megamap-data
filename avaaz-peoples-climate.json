@@ -3825,18 +3825,18 @@
   }, 
   {
     "city": "Grenoble", 
-    "name": "La marche pour le climat", 
+    "name": "Marche pour le climat de Grenoble (officiel)", 
     "rsvp_count": 175, 
     "country": "France", 
-    "start_time": "13:00:00", 
-    "venue": "Hotel de ville", 
-    "longitude": 5.7378188, 
+    "start_time": "13:30:00", 
+    "venue": "Place de Verdun", 
+    "longitude": 5.7323868, 
     "state": "RA", 
     "country_code": "FR", 
-    "address": "Grenoble H\u00f4tel de Ville, 38000 Grenoble, France", 
-    "latitude": 45.1874367, 
+    "address": "Place de Verdun, 38000 Grenoble, France", 
+    "latitude": 45.1884506, 
     "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/La_marche_pour_le_climat", 
+    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/La_marche_pour_le_climat", 
     "id": 2245
   }, 
   {
@@ -18386,7 +18386,7 @@
   {
     "city": "", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 25, 
+    "rsvp_count": 26, 
     "country": "Ecuador", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -32178,7 +32178,7 @@
   {
     "city": "Amiens", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 9, 
+    "rsvp_count": 10, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "D\u00e9part devant le cirque", 
