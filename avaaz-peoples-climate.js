@@ -9475,7 +9475,7 @@ initData({},
   {
     "city": "San Sebasti\u00e1n", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 82, 
+    "rsvp_count": 83, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "", 
