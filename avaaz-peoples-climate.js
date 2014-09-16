@@ -5459,7 +5459,7 @@ initData({},
   {
     "city": "Stroud", 
     "name": "Gloucestershire Climate March \u2013 Climate Change: we can Climb it!", 
-    "rsvp_count": 18, 
+    "rsvp_count": 19, 
     "country": "United Kingdom", 
     "start_time": "12:00:00", 
     "venue": "The Subscription Rooms (forecourt) GL5 1AE", 
