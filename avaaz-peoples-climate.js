@@ -23059,7 +23059,7 @@ initData({},
   {
     "city": "Rosario", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 26, 
+    "rsvp_count": 27, 
     "country": "Argentina", 
     "start_time": "13:00:00", 
     "venue": "monumento", 
