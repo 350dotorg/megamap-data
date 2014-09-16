@@ -1650,7 +1650,7 @@
   {
     "city": "Freiburg im Breisgau", 
     "name": "Klimaevent", 
-    "rsvp_count": 149, 
+    "rsvp_count": 150, 
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "Ecke Bertoldstr./Niemenstr.", 
@@ -11394,7 +11394,7 @@
   {
     "city": "\u0130zmir", 
     "name": "\u0130klim \u0130\u00e7in Halk Y\u00fcr\u00fcy\u00fc\u015f\u00fc", 
-    "rsvp_count": 22, 
+    "rsvp_count": 23, 
     "country": "Turkey", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -29026,7 +29026,7 @@
   {
     "city": "Wellington", 
     "name": "Global Climate Action - Raise Your Voices on Mt Vic", 
-    "rsvp_count": 46, 
+    "rsvp_count": 47, 
     "country": "New Zealand", 
     "start_time": "13:00:00", 
     "venue": "Top of Mt Victoria", 
