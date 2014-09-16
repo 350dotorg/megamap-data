@@ -4115,7 +4115,7 @@ initData({},
   {
     "city": "Wien", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 606, 
+    "rsvp_count": 607, 
     "country": "Austria", 
     "start_time": "16:00:00", 
     "venue": "Gleich neben dem Stephansdom", 
@@ -8675,7 +8675,7 @@ initData({},
   {
     "city": "W\u00fcrzburg", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 41, 
+    "rsvp_count": 42, 
     "country": "Germany", 
     "start_time": "15:00:00", 
     "venue": "Augustinerstra\u00dfe", 
@@ -38815,6 +38815,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_294", 
     "id": 5214
+  }, 
+  {
+    "city": "Leicester", 
+    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
+    "rsvp_count": 0, 
+    "country": "United Kingdom", 
+    "start_time": "13:00:00", 
+    "venue": "", 
+    "longitude": -1.1175169000001, 
+    "state": "England", 
+    "country_code": "GB", 
+    "address": "7 Arbour Road, Leicester, Leicester, Leicester LE4, UK", 
+    "latitude": 52.6553887, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/ar/event/climate/lmsyr_lmnkhy_lshby_259", 
+    "id": 5215
   }
 ]
 );
