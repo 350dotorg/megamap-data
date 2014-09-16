@@ -25859,7 +25859,7 @@ initData({},
   {
     "city": "Be'er Sheva", 
     "name": "People's Climate March", 
-    "rsvp_count": 10, 
+    "rsvp_count": 11, 
     "country": "Israel", 
     "start_time": "13:00:00", 
     "venue": "", 
