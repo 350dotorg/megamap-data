@@ -20211,7 +20211,7 @@ initData({},
   {
     "city": "Playa del Carmen", 
     "name": "People's Climate March", 
-    "rsvp_count": 27, 
+    "rsvp_count": 28, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Plaza municipal", 
