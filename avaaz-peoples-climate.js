@@ -8435,7 +8435,7 @@ initData({},
   {
     "city": "Montevideo", 
     "name": "Contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 74, 
+    "rsvp_count": 75, 
     "country": "Uruguay", 
     "start_time": "13:00:00", 
     "venue": "Parque Rod\u00f3", 
