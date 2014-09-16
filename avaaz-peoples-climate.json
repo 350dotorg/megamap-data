@@ -1650,7 +1650,7 @@
   {
     "city": "Udine", 
     "name": "Flash Mob Udine per il Clima", 
-    "rsvp_count": 78, 
+    "rsvp_count": 79, 
     "country": "Italy", 
     "start_time": "19:00:00", 
     "venue": "Piazza Libert\u00e0", 
@@ -1954,7 +1954,7 @@
   {
     "city": "Birmingham", 
     "name": "People's Climate Change Rally", 
-    "rsvp_count": 173, 
+    "rsvp_count": 174, 
     "country": "United Kingdom", 
     "start_time": "11:00:00", 
     "venue": "", 
@@ -24242,7 +24242,7 @@
   {
     "city": "Reims", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 39, 
+    "rsvp_count": 40, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Avenue de Laen", 
@@ -37378,7 +37378,7 @@
   {
     "city": "Madrid", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Spain", 
     "start_time": "11:30:00", 
     "venue": "Plaza de San Juan de la Cruz, Nuevos Ministerios", 
@@ -39166,5 +39166,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Transport_durable_et_energies_renouvelable", 
     "id": 5248
+  }, 
+  {
+    "city": "Loreto", 
+    "name": "Marcia Globale per il Clima", 
+    "rsvp_count": 1, 
+    "country": "Italy", 
+    "start_time": "10:00:00", 
+    "venue": "PIAZZA GIOVANNI XXIII", 
+    "longitude": 13.6086756, 
+    "state": "Marche", 
+    "country_code": "IT", 
+    "address": "Piazza Giovanni XXIII, 60025 Loreto AN, Italia", 
+    "latitude": 43.4411007, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/it/event/climate/Marcia_Globale_per_il_Clima_155", 
+    "id": 5251
   }
 ]
