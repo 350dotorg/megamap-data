@@ -31811,7 +31811,7 @@ initData({},
   {
     "city": "Livorno", 
     "name": "Marcia Globale per il Clima -Obiettivo 100% di energia rinnovabile", 
-    "rsvp_count": 16, 
+    "rsvp_count": 17, 
     "country": "Italy", 
     "start_time": "11:00:00", 
     "venue": "Terrazza Mascagni", 
