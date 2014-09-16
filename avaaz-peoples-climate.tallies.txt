@@ -1,4 +1,4 @@
-Number of events: 2410
+Number of events: 2411
 Number of countries: 145
 	Afghanistan: 1
 	Albania: 2
@@ -24,7 +24,7 @@ Number of countries: 145
 	Burundi: 1
 	Cambodia: 1
 	Cameroon: 1
-	Canada: 93
+	Canada: 94
 	Cayman Islands: 1
 	Chile: 26
 	Colombia: 88

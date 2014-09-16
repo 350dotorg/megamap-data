@@ -8499,7 +8499,7 @@ initData({},
   {
     "city": "Manzanillo", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "San Pedrito", 
@@ -38559,6 +38559,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_contra_el_Cambio_Climatico", 
     "id": 5190
+  }, 
+  {
+    "city": "Lindsay", 
+    "name": "Free Tour / March around Carbon-Friendly Community Farm", 
+    "rsvp_count": 1, 
+    "country": "Canada", 
+    "start_time": "14:00:00", 
+    "venue": "Pigeon Lake Rd., just past Centreline Rd. 15 min. east of Lindsay", 
+    "longitude": -78.7407542, 
+    "state": "ON", 
+    "country_code": "CA", 
+    "address": "Lindsay, ON, Canada", 
+    "latitude": 44.3565742, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Free_Tour_March_around_CarbonFriendly_Community_Farm", 
+    "id": 5191
   }
 ]
 );
