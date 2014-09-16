@@ -32995,7 +32995,7 @@ initData({},
   {
     "city": "Guardamar del Segura", 
     "name": "Actiedag voor het Klimaat", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "av del puerto mas y mas", 
