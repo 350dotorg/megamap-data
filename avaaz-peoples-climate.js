@@ -28595,7 +28595,7 @@ initData({},
   {
     "city": "Cama\u00e7ari", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 7, 
+    "rsvp_count": 8, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Come\u00e7a em frente a prefeitura, seguindo pela radial c...", 
