@@ -1635,7 +1635,7 @@ initData({},
   {
     "city": "Udine", 
     "name": "Flash Mob Udine per il Clima", 
-    "rsvp_count": 81, 
+    "rsvp_count": 82, 
     "country": "Italy", 
     "start_time": "19:00:00", 
     "venue": "Piazza Libert\u00e0", 
