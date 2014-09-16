@@ -34323,7 +34323,7 @@ initData({},
   {
     "city": "Caen", 
     "name": "People's Climate March", 
-    "rsvp_count": 9, 
+    "rsvp_count": 10, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "3, avenue michel crepeau", 
