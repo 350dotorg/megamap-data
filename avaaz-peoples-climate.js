@@ -10211,7 +10211,7 @@ initData({},
   {
     "city": "Warszawa", 
     "name": "Marsz dla Klimatu", 
-    "rsvp_count": 76, 
+    "rsvp_count": 77, 
     "country": "Poland", 
     "start_time": "13:00:00", 
     "venue": "Kolumna zygmunta", 
