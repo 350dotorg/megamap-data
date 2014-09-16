@@ -1,4 +1,4 @@
-Number of events: 2415
+Number of events: 2416
 Number of countries: 145
 	Afghanistan: 1
 	Albania: 2
@@ -24,7 +24,7 @@ Number of countries: 145
 	Burundi: 1
 	Cambodia: 1
 	Cameroon: 1
-	Canada: 94
+	Canada: 93
 	Cayman Islands: 1
 	Chile: 26
 	Colombia: 88
@@ -58,12 +58,12 @@ Number of countries: 145
 	Hong Kong: 1
 	Hungary: 5
 	India: 33
-	Indonesia: 5
+	Indonesia: 4
 	Iran: 7
 	Iraq: 23
 	Ireland: 8
 	Israel: 13
-	Italy: 129
+	Italy: 130
 	Japan: 9
 	Jordan: 2
 	Kenya: 2
@@ -83,7 +83,7 @@ Number of countries: 145
 	Mauritius: 2
 	Mexico: 119
 	Moldova: 2
-	Morocco: 38
+	Morocco: 39
 	Myanmar: 1
 	Nepal: 3
 	Netherlands: 33
@@ -132,7 +132,7 @@ Number of countries: 145
 	Turkey: 27
 	US Virgin Islands: 1
 	Uganda: 2
-	Ukraine: 54
+	Ukraine: 55
 	United Arab Emirates: 3
 	United Kingdom: 64
 	United States of America: 82
