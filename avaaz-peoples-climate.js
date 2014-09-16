@@ -7763,7 +7763,7 @@ initData({},
   {
     "city": "Tulum", 
     "name": "Jornada por la Emergencia Clim\u00e1tica", 
-    "rsvp_count": 12, 
+    "rsvp_count": 13, 
     "country": "Mexico", 
     "start_time": "16:00:00", 
     "venue": "Explanada central", 
