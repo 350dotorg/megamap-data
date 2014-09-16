@@ -18915,7 +18915,7 @@ initData({},
   {
     "city": "Reggio Emilia", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 48, 
+    "rsvp_count": 49, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "Piazza del monte", 
