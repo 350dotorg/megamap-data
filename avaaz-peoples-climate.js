@@ -11411,7 +11411,7 @@ initData({},
   {
     "city": "Bridgewater", 
     "name": "People's Climate March", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Canada", 
     "start_time": "12:00:00", 
     "venue": "", 
