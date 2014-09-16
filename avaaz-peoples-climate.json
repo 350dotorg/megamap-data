@@ -38686,5 +38686,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/ar/event/climate/lmsyr_lmnkhy_lshby_258", 
     "id": 5202
+  }, 
+  {
+    "city": "Amay", 
+    "name": "Marche Pour le Climat", 
+    "rsvp_count": 1, 
+    "country": "Belgium", 
+    "start_time": "13:00:00", 
+    "venue": "d\u00e9part place du Tambour en face du caf\u00e9", 
+    "longitude": 5.3096648000001, 
+    "state": "R\u00e9gion wallonne", 
+    "country_code": "BE", 
+    "address": "Amay, Belgique", 
+    "latitude": 50.5482792, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_292", 
+    "id": 5203
   }
 ]
