@@ -3283,7 +3283,7 @@ initData({},
   {
     "city": "Rota", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 10, 
+    "rsvp_count": 11, 
     "country": "Spain", 
     "start_time": "12:00:00", 
     "venue": "Plaza Jes\u00fas del Nazareno", 
