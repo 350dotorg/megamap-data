@@ -8995,7 +8995,7 @@ initData({},
   {
     "city": "Nueva San Salvador", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 98, 
+    "rsvp_count": 99, 
     "country": "El Salvador", 
     "start_time": "13:00:00", 
     "venue": "", 
