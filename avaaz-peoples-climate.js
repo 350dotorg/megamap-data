@@ -18531,7 +18531,7 @@ initData({},
   {
     "city": "Vilnius", 
     "name": "Klimato kaitos \u017eygis Vilniuje", 
-    "rsvp_count": 32, 
+    "rsvp_count": 33, 
     "country": "Lithuania", 
     "start_time": "13:00:00", 
     "venue": "\u017dygis prasid\u0117s nuo Prezident\u016bros (S. Daukanto aik\u0161t\u0117) ir pajud\u0117s iki Vyriausyb\u0117s r\u016bm\u0173.", 
