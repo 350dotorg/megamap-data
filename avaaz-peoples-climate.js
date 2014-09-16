@@ -2659,7 +2659,7 @@ initData({},
   {
     "city": "Toulouse", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 376, 
+    "rsvp_count": 377, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "place du capitole", 
