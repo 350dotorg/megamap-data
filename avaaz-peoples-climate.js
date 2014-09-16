@@ -5491,7 +5491,7 @@ initData({},
   {
     "city": "", 
     "name": "People's Climate March", 
-    "rsvp_count": 116, 
+    "rsvp_count": 117, 
     "country": "Hong Kong", 
     "start_time": "13:00:00", 
     "venue": "Exchange Square Podium", 
