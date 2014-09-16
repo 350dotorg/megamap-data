@@ -2578,7 +2578,7 @@
   {
     "city": "Milano", 
     "name": "Climate March", 
-    "rsvp_count": 332, 
+    "rsvp_count": 333, 
     "country": "Italy", 
     "start_time": "10:00:00", 
     "venue": "", 
@@ -3298,7 +3298,7 @@
   {
     "city": "Eisenach", 
     "name": "Danke Klima: People's Climate March", 
-    "rsvp_count": 26, 
+    "rsvp_count": 27, 
     "country": "Germany", 
     "start_time": "12:00:00", 
     "venue": "Wartburg", 
@@ -17026,7 +17026,7 @@
   {
     "city": "Kharkiv", 
     "name": "People's Climate March", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Ukraine", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -38990,5 +38990,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_237", 
     "id": 5225
+  }, 
+  {
+    "city": "Angra do Hero\u00edsmo", 
+    "name": "Caminhada pelo Clima", 
+    "rsvp_count": 1, 
+    "country": "Portugal", 
+    "start_time": "13:00:00", 
+    "venue": "Alto das Covas", 
+    "longitude": -27.2232508, 
+    "state": "A\u00e7ores", 
+    "country_code": "PT", 
+    "address": "EN1-1A, 9700-220 Angra do Hero\u00edsmo, Portugal", 
+    "latitude": 38.6559852, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_238", 
+    "id": 5226
   }
 ]
