@@ -4099,7 +4099,7 @@ initData({},
   {
     "city": "Wien", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 611, 
+    "rsvp_count": 612, 
     "country": "Austria", 
     "start_time": "16:00:00", 
     "venue": "Gleich neben dem Stephansdom", 
