@@ -18195,7 +18195,7 @@ initData({},
   {
     "city": "Varese", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 27, 
+    "rsvp_count": 28, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "Giardini Estensi - via Luigi Sacco Varese VA, Italia", 
