@@ -1907,7 +1907,7 @@ initData({},
   {
     "city": "San Jose", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 24, 
+    "rsvp_count": 25, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "Santa Clara st .", 
