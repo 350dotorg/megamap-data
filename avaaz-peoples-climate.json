@@ -34658,7 +34658,7 @@
   {
     "city": "Macei\u00f3", 
     "name": "Mobiliza\u00e7\u00e3o pelo Clima", 
-    "rsvp_count": 12, 
+    "rsvp_count": 13, 
     "country": "Brazil", 
     "start_time": "09:00:00", 
     "venue": "Rua Fechada, na Ponta Verde", 
@@ -39166,5 +39166,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1658", 
     "id": 5260
+  }, 
+  {
+    "city": "Itumbiara", 
+    "name": "Caminhada pelo Clima", 
+    "rsvp_count": 0, 
+    "country": "Brazil", 
+    "start_time": "13:00:00", 
+    "venue": "Beira Rio.", 
+    "longitude": -49.1976133, 
+    "state": "GO", 
+    "country_code": "BR", 
+    "address": "Avenida Beira Rio, Itumbiara - GO, Rep\u00fablica Federativa do Brasil", 
+    "latitude": -18.4148329, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_242", 
+    "id": 5261
   }
 ]
