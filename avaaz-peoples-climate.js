@@ -499,7 +499,7 @@ initData({},
   {
     "city": "Bucharest", 
     "name": "People's Climate March", 
-    "rsvp_count": 54, 
+    "rsvp_count": 55, 
     "country": "Romania", 
     "start_time": "13:00:00", 
     "venue": "PARCUL TINERETULUI, FROM 1 P.M....OR EARLIER:BRUNCH PLANNING PARTY FOLLOWED BY MARCH INTO THE HEART OF BUCH=UNIRII, UNIVERSITATE, SALA PALATULUI, ROMANA, CALEA VICTORIEI, AVIATORILOR....", 
@@ -38099,7 +38099,7 @@ initData({},
   {
     "city": "Le Mans", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "place de la r\u00e9publique", 
@@ -38591,6 +38591,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_228", 
     "id": 5192
+  }, 
+  {
+    "city": "\u0386\u03c1\u03c4\u03b5\u03bc\u03b9\u03c2", 
+    "name": "\u03a0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u039b\u03b1\u03ce\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
+    "rsvp_count": 1, 
+    "country": "Greece", 
+    "start_time": "13:00:00", 
+    "venue": "\u0391\u03c1\u03c4\u03ad\u03bc\u03b9\u03b4\u03b1", 
+    "longitude": 24.0077427, 
+    "state": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae", 
+    "country_code": "GR", 
+    "address": "\u0386\u03c1\u03c4\u03b5\u03bc\u03b9\u03c2, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1", 
+    "latitude": 37.9703906, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/el/event/climate/Poreia_ton_Laon_gia_to_Klima_119", 
+    "id": 5193
   }
 ]
 );
