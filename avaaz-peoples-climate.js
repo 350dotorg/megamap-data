@@ -15411,7 +15411,7 @@ initData({},
   {
     "city": "\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1", 
     "name": "\u05de\u05e6\u05e2\u05d3 \u05d4\u05d0\u05e7\u05dc\u05d9\u05dd \u05d4\u05d0\u05d6\u05e8\u05d7\u05d9", 
-    "rsvp_count": 14, 
+    "rsvp_count": 15, 
     "country": "Israel", 
     "start_time": "13:00:00", 
     "venue": "", 
