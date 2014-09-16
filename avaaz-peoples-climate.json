@@ -1058,7 +1058,7 @@
   {
     "city": "Angoul\u00eame", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 60, 
+    "rsvp_count": 61, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "c'est \u00e0 determiner avec la pr\u00e9fecture, je pense que le point de d\u00e9part sera au champ de mars.", 
@@ -11314,7 +11314,7 @@
   {
     "city": "Rabat", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 20, 
+    "rsvp_count": 21, 
     "country": "Morocco", 
     "start_time": "13:00:00", 
     "venue": "Place Pi\u00e8trie (Avenue Abou Inane) / Devant le Parlement (Avenue Mohammed V)", 
@@ -33694,22 +33694,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1583", 
     "id": 4856
-  }, 
-  {
-    "city": "Lille", 
-    "name": "Route de l'\u00e9nergie", 
-    "rsvp_count": 1, 
-    "country": "France", 
-    "start_time": "10:00:00", 
-    "venue": "", 
-    "longitude": 3.0564564, 
-    "state": "Nord-Pas-de-Calais", 
-    "country_code": "FR", 
-    "address": "4 Rue de l'Escaut, 59000 Lille, France", 
-    "latitude": 50.6135958, 
-    "event_date": "2014-09-27", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Route_de_lenergie", 
-    "id": 4857
   }, 
   {
     "city": "Saint-Pierre-de-Bressieux", 
