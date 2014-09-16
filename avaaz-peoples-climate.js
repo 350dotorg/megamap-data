@@ -38899,7 +38899,7 @@ initData({},
   {
     "city": "Angra do Hero\u00edsmo", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 0, 
+    "rsvp_count": 1, 
     "country": "Portugal", 
     "start_time": "13:00:00", 
     "venue": "Alto das Covas", 
@@ -38911,6 +38911,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_232", 
     "id": 5220
+  }, 
+  {
+    "city": "Angra do Hero\u00edsmo", 
+    "name": "Caminhada pelo Clima", 
+    "rsvp_count": 1, 
+    "country": "Portugal", 
+    "start_time": "13:00:00", 
+    "venue": "Alto das Covas", 
+    "longitude": -27.2233395, 
+    "state": "A\u00e7ores", 
+    "country_code": "PT", 
+    "address": "Alto das Covas, 9700-220 Angra do Hero\u00edsmo, Portugal", 
+    "latitude": 38.6561675, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_233", 
+    "id": 5221
   }
 ]
 );
