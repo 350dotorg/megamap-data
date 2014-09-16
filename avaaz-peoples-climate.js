@@ -39171,7 +39171,7 @@ initData({},
   {
     "city": "Itumbiara", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 0, 
+    "rsvp_count": 1, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Beira Rio.", 
@@ -39183,6 +39183,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_242", 
     "id": 5261
+  }, 
+  {
+    "city": "Belo Horizonte", 
+    "name": "Caminhada pelo Clima sauda\u00e7\u00e3o a primavera moc. eco e pomar do cafezal", 
+    "rsvp_count": 1, 
+    "country": "Brazil", 
+    "start_time": "13:00:00", 
+    "venue": "alto da serra no pomar do cafezal subir rua gregorio de matos ate veraldo lambertuci e rua f 293 .", 
+    "longitude": -44.0175967, 
+    "state": "MG", 
+    "country_code": "BR", 
+    "address": "Rua F, 293 - Brasil Industrial, Belo Horizonte - Minas Gerais, 30626-020, Brazil", 
+    "latitude": -19.9986627, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_saudacao_a_primavera_moc_eco_e_pomar_do_cafezal", 
+    "id": 5262
   }
 ]
 );
