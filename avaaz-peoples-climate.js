@@ -13395,7 +13395,7 @@ initData({},
   {
     "city": "Bengaluru", 
     "name": "People's Climate March", 
-    "rsvp_count": 37, 
+    "rsvp_count": 38, 
     "country": "India", 
     "start_time": "13:00:00", 
     "venue": "Town Hall, J C Road", 
