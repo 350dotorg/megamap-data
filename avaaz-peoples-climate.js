@@ -739,7 +739,7 @@ initData({},
   {
     "city": "Copenhagen", 
     "name": "People's Climate March", 
-    "rsvp_count": 416, 
+    "rsvp_count": 417, 
     "country": "Denmark", 
     "start_time": "14:00:00", 
     "venue": "Nytorv, Domhuset", 
@@ -39087,6 +39087,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Bendigo_March", 
     "id": 5237
+  }, 
+  {
+    "city": "\u0421\u043e\u0444\u0438\u044f", 
+    "name": "People's Climate March", 
+    "rsvp_count": 1, 
+    "country": "Bulgaria", 
+    "start_time": "13:00:00", 
+    "venue": "\u043f\u043b\u043e\u0449\u0430\u0434 \u201e\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u044a\u0440 \u041d\u0435\u0432\u0441\u043a\u0438\u201c", 
+    "longitude": 23.3326475, 
+    "state": "\u0421\u043e\u0444\u0438\u044f-\u0433\u0440\u0430\u0434", 
+    "country_code": "BG", 
+    "address": "\u043f\u043b\u043e\u0449\u0430\u0434 \u201e\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u044a\u0440 \u041d\u0435\u0432\u0441\u043a\u0438\u201c, 1000 \u0421\u043e\u0444\u0438\u044f, \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f", 
+    "latitude": 42.6956464, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1649", 
+    "id": 5238
   }
 ]
 );

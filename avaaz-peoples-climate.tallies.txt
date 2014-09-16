@@ -1,4 +1,4 @@
-Number of events: 2443
+Number of events: 2444
 Number of countries: 145
 	Afghanistan: 1
 	Albania: 2
@@ -19,7 +19,7 @@ Number of countries: 145
 	Botswana: 1
 	Brazil: 241
 	Brunei: 1
-	Bulgaria: 5
+	Bulgaria: 6
 	Burkina Faso: 1
 	Burundi: 1
 	Cambodia: 1
