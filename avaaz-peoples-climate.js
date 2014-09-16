@@ -29379,7 +29379,7 @@ initData({},
   {
     "city": "Traipu", 
     "name": "People's Climate March San Cristobal Despierta", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "", 
