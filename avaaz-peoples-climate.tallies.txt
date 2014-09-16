@@ -26,7 +26,7 @@ Number of countries: 144
 	Cameroon: 1
 	Canada: 94
 	Cayman Islands: 1
-	Chile: 26
+	Chile: 27
 	Colombia: 88
 	Congo, DPR: 2
 	Congo, PR: 2
@@ -62,7 +62,7 @@ Number of countries: 144
 	Iran: 7
 	Iraq: 23
 	Ireland: 8
-	Israel: 13
+	Israel: 12
 	Italy: 133
 	Japan: 9
 	Jordan: 2
@@ -116,7 +116,7 @@ Number of countries: 144
 	South Africa: 20
 	South Korea: 1
 	South Sudan: 2
-	Spain: 138
+	Spain: 137
 	Sri Lanka: 2
 	Sudan: 7
 	Sweden: 17
@@ -134,7 +134,7 @@ Number of countries: 144
 	Ukraine: 55
 	United Arab Emirates: 3
 	United Kingdom: 65
-	United States of America: 84
+	United States of America: 85
 	Uruguay: 16
 	Uzbekistan: 1
 	Venezuela: 25
