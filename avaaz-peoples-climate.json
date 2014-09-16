@@ -1408,22 +1408,6 @@
     "id": 2012
   }, 
   {
-    "city": "Landshut", 
-    "name": "Sonntags mal Klima", 
-    "rsvp_count": 49, 
-    "country": "Germany", 
-    "start_time": "15:30:00", 
-    "venue": "", 
-    "longitude": 12.15224, 
-    "state": "BY", 
-    "country_code": "DE", 
-    "address": "Altstadt 315, 84028 Landshut, Deutschland", 
-    "latitude": 48.53611, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaAktionstag_34", 
-    "id": 2013
-  }, 
-  {
     "city": "Bra\u0219ov", 
     "name": "Mar\u0219ul Cet\u0103\u021benilor pentru Ac\u021biune Climatic\u0103", 
     "rsvp_count": 50, 
@@ -35586,7 +35570,7 @@
   {
     "city": "Nules", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Avda. diagonal", 
@@ -37762,7 +37746,7 @@
   {
     "city": "S\u00e3o Paulo", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Est\u00e1dio do Morumbi", 
