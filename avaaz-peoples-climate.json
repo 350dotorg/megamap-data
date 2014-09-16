@@ -6896,17 +6896,17 @@
     "id": 2659
   }, 
   {
-    "city": "K\u00f6ln", 
+    "city": "Cologne", 
     "name": "https://www.facebook.com/events/278356532361449", 
     "rsvp_count": 323, 
     "country": "Germany", 
     "start_time": "13:00:00", 
-    "venue": "K\u00f6lner Dom", 
-    "longitude": 6.9582814, 
+    "venue": "Bahnhofsvorplatz Domseite", 
+    "longitude": 6.957358, 
     "state": "NRW", 
     "country_code": "DE", 
-    "address": "K\u00f6lner Dom, Domkloster 4, 50667 K\u00f6ln, Deutschland", 
-    "latitude": 50.9412784, 
+    "address": "Bahnhofsvorplatz 1-5, 50667 Cologne, Germany", 
+    "latitude": 50.9421543, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaAktionstag_84", 
     "id": 2661
@@ -20482,7 +20482,7 @@
   {
     "city": "Padua", 
     "name": "People's Climate March", 
-    "rsvp_count": 68, 
+    "rsvp_count": 69, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "Prato Della Valle", 
@@ -30306,7 +30306,7 @@
   {
     "city": "Troyes", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "", 
