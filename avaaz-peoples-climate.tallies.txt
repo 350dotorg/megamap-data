@@ -3,7 +3,7 @@ Number of countries: 145
 	Afghanistan: 1
 	Albania: 2
 	Algeria: 58
-	Argentina: 75
+	Argentina: 74
 	Armenia: 4
 	Australia: 41
 	Austria: 28
@@ -136,7 +136,7 @@ Number of countries: 145
 	United Arab Emirates: 3
 	United Kingdom: 64
 	United States of America: 82
-	Uruguay: 15
+	Uruguay: 16
 	Uzbekistan: 1
 	Venezuela: 25
 	Vietnam: 1
