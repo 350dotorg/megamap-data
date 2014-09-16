@@ -12499,7 +12499,7 @@ initData({},
   {
     "city": "Cusco", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 16, 
+    "rsvp_count": 17, 
     "country": "Peru", 
     "start_time": "10:00:00", 
     "venue": "La plaza de armas del Cusco", 
