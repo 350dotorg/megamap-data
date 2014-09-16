@@ -2530,7 +2530,7 @@
   {
     "city": "Klagenfurt am W\u00f6rthersee", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 116, 
+    "rsvp_count": 117, 
     "country": "Austria", 
     "start_time": "13:00:00", 
     "venue": "Rathaus", 
@@ -39038,5 +39038,37 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_241", 
     "id": 5230
+  }, 
+  {
+    "city": "Trier", 
+    "name": "People's Climate March", 
+    "rsvp_count": 1, 
+    "country": "Germany", 
+    "start_time": "14:00:00", 
+    "venue": "Porta Nigra", 
+    "longitude": 6.6441659, 
+    "state": "RP", 
+    "country_code": "DE", 
+    "address": "Porta Nigra, Porta-Nigra-Platz, 54290 Trier, Deutschland", 
+    "latitude": 49.7596231, 
+    "event_date": "2014-09-20", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1647", 
+    "id": 5235
+  }, 
+  {
+    "city": "Trier", 
+    "name": "People's Climate March", 
+    "rsvp_count": 1, 
+    "country": "Germany", 
+    "start_time": "14:00:00", 
+    "venue": "Porta Nigra", 
+    "longitude": 6.6441659, 
+    "state": "RP", 
+    "country_code": "DE", 
+    "address": "Porta Nigra, Porta-Nigra-Platz, 54290 Trier, Deutschland", 
+    "latitude": 49.7596231, 
+    "event_date": "2014-09-20", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1648", 
+    "id": 5236
   }
 ]
