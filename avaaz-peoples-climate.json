@@ -18384,7 +18384,7 @@
     "id": 3623
   }, 
   {
-    "city": "Quito", 
+    "city": "", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
     "rsvp_count": 24, 
     "country": "Ecuador", 
@@ -18393,7 +18393,7 @@
     "longitude": -78.5, 
     "state": "", 
     "country_code": "EC", 
-    "address": "", 
+    "address": "el ejido patria amazonas la carolina", 
     "latitude": -0.2167, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_298", 
@@ -36626,7 +36626,7 @@
   {
     "city": "Pointe-Claire", 
     "name": "People's Climate March", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Mansfield Athletic Club and Spa", 
