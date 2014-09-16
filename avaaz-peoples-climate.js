@@ -23811,7 +23811,7 @@ initData({},
   {
     "city": "Montr\u00e9al", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 24, 
+    "rsvp_count": 25, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "L'Ile-de-la-Visitation", 
