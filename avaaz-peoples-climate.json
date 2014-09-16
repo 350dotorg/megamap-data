@@ -754,7 +754,7 @@
   {
     "city": "Brussels", 
     "name": "\u00c9venement des Citoyens pour le Climat", 
-    "rsvp_count": 1036, 
+    "rsvp_count": 1037, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "Place Poelaert", 
@@ -850,7 +850,7 @@
   {
     "city": "Halifax", 
     "name": "People's Climate March Halifax", 
-    "rsvp_count": 124, 
+    "rsvp_count": 125, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Meet at Citadel Hill, 5425 Sackville Street, Halifax", 
@@ -2386,7 +2386,7 @@
   {
     "city": "Trieste", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 58, 
+    "rsvp_count": 59, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "", 
