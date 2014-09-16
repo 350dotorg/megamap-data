@@ -34547,7 +34547,7 @@ initData({},
   {
     "city": "\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u0438\u0439", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Ukraine", 
     "start_time": "13:00:00", 
     "venue": "\u041c\u0430\u0439\u0434\u0430\u043d", 
