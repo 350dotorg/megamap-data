@@ -25027,7 +25027,7 @@ initData({},
   {
     "city": "Sohag", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Egypt", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -39151,6 +39151,22 @@ initData({},
     "event_date": "2014-09-20", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/KlimaAktionstag_175", 
     "id": 5243
+  }, 
+  {
+    "city": "Mankato", 
+    "name": "People's Climate March/ Winona Rally", 
+    "rsvp_count": 1, 
+    "country": "United States of America", 
+    "start_time": "12:00:00", 
+    "venue": "Rally at Frontenac and Mankato street", 
+    "longitude": -94.019069, 
+    "state": "MN", 
+    "country_code": "US", 
+    "address": "Winona Street, Mankato, MN 56001, USA", 
+    "latitude": 44.1569126, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_Winona_Rally", 
+    "id": 5244
   }
 ]
 );
