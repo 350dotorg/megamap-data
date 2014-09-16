@@ -18403,7 +18403,7 @@ initData({},
   {
     "city": "Barrydale", 
     "name": "People's Climate March", 
-    "rsvp_count": 12, 
+    "rsvp_count": 13, 
     "country": "South Africa", 
     "start_time": "13:00:00", 
     "venue": "Cnr Bain Street & Van Riebeek Street, Municipality Parking", 
