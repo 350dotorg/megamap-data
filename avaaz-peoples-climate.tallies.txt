@@ -120,14 +120,14 @@ Number of countries: 144
 	Sri Lanka: 2
 	Sudan: 7
 	Sweden: 17
-	Switzerland: 25
+	Switzerland: 24
 	Syria: 4
 	Tajikistan: 1
 	Tanzania: 1
 	Thailand: 2
 	Togo: 1
 	Trinidad and Tobago: 1
-	Tunisia: 17
+	Tunisia: 18
 	Turkey: 27
 	US Virgin Islands: 1
 	Uganda: 2
