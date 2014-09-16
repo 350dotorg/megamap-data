@@ -38574,5 +38574,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Free_Tour_March_around_CarbonFriendly_Community_Farm", 
     "id": 5191
+  }, 
+  {
+    "city": "Brejo Grande", 
+    "name": "Caminhada pelo Clima", 
+    "rsvp_count": 1, 
+    "country": "Brazil", 
+    "start_time": "13:00:00", 
+    "venue": "FESTIVAL DO MILHO EM BREJO GRANDE", 
+    "longitude": -41.0157282, 
+    "state": "RJ", 
+    "country_code": "BR", 
+    "address": "Brejo Grande - RJ, Rep\u00fablica Federativa do Brasil", 
+    "latitude": -21.3443266, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_228", 
+    "id": 5192
   }
 ]
