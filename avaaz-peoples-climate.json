@@ -754,7 +754,7 @@
   {
     "city": "Brussels", 
     "name": "\u00c9venement des Citoyens pour le Climat", 
-    "rsvp_count": 999, 
+    "rsvp_count": 1000, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "Place Poelaert", 
@@ -1314,7 +1314,7 @@
   {
     "city": "Bogota", 
     "name": "Bogot\u00e1 Marcha X el Clima", 
-    "rsvp_count": 283, 
+    "rsvp_count": 284, 
     "country": "Colombia", 
     "start_time": "10:00:00", 
     "venue": "Parque Nacional hasta Plaza de los Periodistas", 
