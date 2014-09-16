@@ -25443,7 +25443,7 @@ initData({},
   {
     "city": "Oviedo", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 27, 
+    "rsvp_count": 28, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "la escandalera", 
