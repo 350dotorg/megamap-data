@@ -8819,7 +8819,7 @@ initData({},
   {
     "city": "San Jos\u00e9", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 223, 
+    "rsvp_count": 224, 
     "country": "Costa Rica", 
     "start_time": "13:00:00", 
     "venue": "Parque de las garant\u00edas sociales", 
