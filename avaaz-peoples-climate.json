@@ -1394,7 +1394,7 @@
   {
     "city": "Seattle", 
     "name": "People's Climate March", 
-    "rsvp_count": 101, 
+    "rsvp_count": 102, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -2562,7 +2562,7 @@
   {
     "city": "Milano", 
     "name": "Climate March", 
-    "rsvp_count": 335, 
+    "rsvp_count": 336, 
     "country": "Italy", 
     "start_time": "10:00:00", 
     "venue": "", 
@@ -2786,7 +2786,7 @@
   {
     "city": "Lyon", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 318, 
+    "rsvp_count": 319, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Terreaux", 
@@ -10498,7 +10498,7 @@
   {
     "city": "Porto", 
     "name": "Porto pelo Ambiente - People's Climate March", 
-    "rsvp_count": 165, 
+    "rsvp_count": 166, 
     "country": "Portugal", 
     "start_time": "15:00:00", 
     "venue": "Parque da Cidade", 
@@ -11746,7 +11746,7 @@
   {
     "city": "Charleroi", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 48, 
+    "rsvp_count": 49, 
     "country": "Belgium", 
     "start_time": "13:00:00", 
     "venue": "le terril des Hiercheuses", 
@@ -22834,7 +22834,7 @@
   {
     "city": "Ancona", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 35, 
+    "rsvp_count": 36, 
     "country": "Italy", 
     "start_time": "15:00:00", 
     "venue": "piazza Cavour", 
@@ -26114,7 +26114,7 @@
   {
     "city": "Thonon-les-Bains", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 17, 
+    "rsvp_count": 18, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Place de la Mairie", 
