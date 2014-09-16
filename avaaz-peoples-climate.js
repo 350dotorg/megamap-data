@@ -32147,7 +32147,7 @@ initData({},
   {
     "city": "Amiens", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 10, 
+    "rsvp_count": 11, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "D\u00e9part devant le cirque", 
