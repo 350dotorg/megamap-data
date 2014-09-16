@@ -754,7 +754,7 @@
   {
     "city": "Brussels", 
     "name": "\u00c9venement des Citoyens pour le Climat", 
-    "rsvp_count": 997, 
+    "rsvp_count": 998, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "Place Poelaert", 
@@ -802,7 +802,7 @@
   {
     "city": "Santander", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 64, 
+    "rsvp_count": 65, 
     "country": "Spain", 
     "start_time": "12:30:00", 
     "venue": "Plaza Porticada", 
@@ -4098,7 +4098,7 @@
   {
     "city": "\u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 51, 
+    "rsvp_count": 52, 
     "country": "Ukraine", 
     "start_time": "13:00:00", 
     "venue": "\u0424\u0435\u0441\u0442\u0438\u0432\u0430\u043b\u044c\u043d\u044b\u0439 \u043f\u0440\u0438\u0447\u0430\u043b", 
@@ -24098,7 +24098,7 @@
   {
     "city": "Le\u00f3n", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 24, 
+    "rsvp_count": 25, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Plaza de S. Marcos", 
@@ -28962,7 +28962,7 @@
   {
     "city": "\u0627\u0644\u0631\u064a\u0627\u0636", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Saudi Arabia", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -34658,7 +34658,7 @@
   {
     "city": "Rabat", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Morocco", 
     "start_time": "13:00:00", 
     "venue": "\u062a\u0645\u0627\u0631\u0629", 
