@@ -1395,7 +1395,7 @@ initData({},
   {
     "city": "Toronto", 
     "name": "People's Climate March - Toronto", 
-    "rsvp_count": 467, 
+    "rsvp_count": 468, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "", 
