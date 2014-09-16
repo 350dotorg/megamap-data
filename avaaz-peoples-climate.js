@@ -8787,7 +8787,7 @@ initData({},
   {
     "city": "La Romana", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 9, 
+    "rsvp_count": 10, 
     "country": "Dominican Republic", 
     "start_time": "13:00:00", 
     "venue": "Av. santa rosa. El boulevar", 
