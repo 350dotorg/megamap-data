@@ -17027,7 +17027,7 @@ initData({},
   {
     "city": "Brusque", 
     "name": "Dia da \u00e1rvore - aten\u00e7\u00e3o a mata ciliar", 
-    "rsvp_count": 13, 
+    "rsvp_count": 14, 
     "country": "Brazil", 
     "start_time": "09:00:00", 
     "venue": "margem do rio Itaja\u00ed-Mirim, em frente ao SESC", 
