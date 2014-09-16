@@ -22115,7 +22115,7 @@ initData({},
   {
     "city": "Besan\u00e7on", 
     "name": "\u00c7a commence \u00e0 Besac, \u00e7a finit \u00e0 l'ONU ! Tous ensemble pour le climat", 
-    "rsvp_count": 31, 
+    "rsvp_count": 32, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "", 
