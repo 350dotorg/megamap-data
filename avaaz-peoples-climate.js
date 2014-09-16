@@ -37011,7 +37011,7 @@ initData({},
   {
     "city": "Saint-Malo", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "intra muros, porte saint Vincent", 
