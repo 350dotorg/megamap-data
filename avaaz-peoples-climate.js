@@ -30931,7 +30931,7 @@ initData({},
   {
     "city": "Al Hoce\u00efma", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Morocco", 
     "start_time": "13:00:00", 
     "venue": "\u0633\u0627\u062d\u0629 \u0645\u062d\u0645\u062f \u0627\u0644\u0633\u0627\u062f\u0633", 
