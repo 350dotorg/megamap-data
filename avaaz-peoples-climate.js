@@ -21555,7 +21555,7 @@ initData({},
   {
     "city": "Miami", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 29, 
+    "rsvp_count": 30, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "Jose Bermudez Park, 3000 Nw 87th Av , Doral - cityofdoral.com", 
