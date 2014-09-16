@@ -32147,7 +32147,7 @@ initData({},
   {
     "city": "Bras\u00edlia", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 15, 
+    "rsvp_count": 16, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "SQS. 403 bLOCO H APARTAMENTO 108 - BRAS\u00cdLIA-DF.", 
