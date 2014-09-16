@@ -30771,7 +30771,7 @@ initData({},
   {
     "city": "Napoli", 
     "name": "Biciclettata Globale per il Clima a Napoli", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Italy", 
     "start_time": "10:00:00", 
     "venue": "Via Partenope", 
