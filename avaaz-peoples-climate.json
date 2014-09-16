@@ -2546,7 +2546,7 @@
   {
     "city": "Milano", 
     "name": "Climate March", 
-    "rsvp_count": 338, 
+    "rsvp_count": 339, 
     "country": "Italy", 
     "start_time": "10:00:00", 
     "venue": "", 
@@ -8178,7 +8178,7 @@
   {
     "city": "Austin", 
     "name": "People's Climate March", 
-    "rsvp_count": 57, 
+    "rsvp_count": 58, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "Austin City Hall", 
@@ -16498,7 +16498,7 @@
   {
     "city": "Manaus", 
     "name": "Grito Amaz\u00f4nico sobre Mudan\u00e7as Clim\u00e1ticas", 
-    "rsvp_count": 71, 
+    "rsvp_count": 72, 
     "country": "Brazil", 
     "start_time": "22:00:00", 
     "venue": "Pra\u00e7a Heliodoro Balbi (Antiga Pra\u00e7a da Pol\u00edcia) - Centro", 
@@ -37906,7 +37906,7 @@
   {
     "city": "Lisbon", 
     "name": "People's Climate March", 
-    "rsvp_count": 7, 
+    "rsvp_count": 8, 
     "country": "Portugal", 
     "start_time": "13:00:00", 
     "venue": "Marqu\u00eas de Pombal", 
