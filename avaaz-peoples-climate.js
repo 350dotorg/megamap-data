@@ -16435,7 +16435,7 @@ initData({},
   {
     "city": "Campinas", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 117, 
+    "rsvp_count": 118, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Teatro Centro Convivencia Cultural", 
