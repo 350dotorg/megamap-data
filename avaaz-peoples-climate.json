@@ -1346,7 +1346,7 @@
   {
     "city": "Toronto", 
     "name": "People's Climate March - Toronto", 
-    "rsvp_count": 480, 
+    "rsvp_count": 481, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -1634,7 +1634,7 @@
   {
     "city": "Udine", 
     "name": "Flash Mob Udine per il Clima", 
-    "rsvp_count": 80, 
+    "rsvp_count": 81, 
     "country": "Italy", 
     "start_time": "19:00:00", 
     "venue": "Piazza Libert\u00e0", 
@@ -3442,7 +3442,7 @@
   {
     "city": "Sunshine Beach", 
     "name": "People's Climate March", 
-    "rsvp_count": 38, 
+    "rsvp_count": 39, 
     "country": "Australia", 
     "start_time": "13:00:00", 
     "venue": "sunshine beach", 
