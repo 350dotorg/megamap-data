@@ -102,9 +102,9 @@ Number of countries: 145
 	Poland: 8
 	Portugal: 22
 	Puerto Rico: 2
-	Qatar: 2
+	Qatar: 1
 	Reunion: 2
-	Romania: 16
+	Romania: 17
 	Russia: 55
 	Saudi Arabia: 14
 	Senegal: 2
