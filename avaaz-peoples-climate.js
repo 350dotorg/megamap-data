@@ -3011,7 +3011,7 @@ initData({},
   {
     "city": "Veracruz", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 29, 
+    "rsvp_count": 30, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "", 
