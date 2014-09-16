@@ -28019,7 +28019,7 @@ initData({},
   {
     "city": "Wiesbaden", 
     "name": "Verkehrswendefest an der Ringkirche Wiesbaden", 
-    "rsvp_count": 42, 
+    "rsvp_count": 43, 
     "country": "Germany", 
     "start_time": "12:00:00", 
     "venue": "An der Ringkirche", 
@@ -34659,7 +34659,7 @@ initData({},
   {
     "city": "Carcassonne", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Square Gambetta", 
@@ -38975,6 +38975,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_236", 
     "id": 5224
+  }, 
+  {
+    "city": "Angra do Hero\u00edsmo", 
+    "name": "Caminhada pelo Clima", 
+    "rsvp_count": 1, 
+    "country": "Portugal", 
+    "start_time": "13:00:00", 
+    "venue": "Alto das Covas", 
+    "longitude": -27.2232508, 
+    "state": "A\u00e7ores", 
+    "country_code": "PT", 
+    "address": "EN1-1A, 9700-220 Angra do Hero\u00edsmo, Portugal", 
+    "latitude": 38.6559852, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_237", 
+    "id": 5225
   }
 ]
 );
