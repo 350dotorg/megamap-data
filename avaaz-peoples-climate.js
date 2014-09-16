@@ -35363,7 +35363,7 @@ initData({},
   {
     "city": "Terni", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "piazza primo maggio", 
