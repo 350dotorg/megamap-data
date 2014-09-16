@@ -1139,7 +1139,7 @@ initData({},
   {
     "city": "Amsterdam", 
     "name": "Amsterdam People's Climate March \u2764\ufe0e De mars van de Klimmuur naar het slotevent op de EYE kade", 
-    "rsvp_count": 380, 
+    "rsvp_count": 381, 
     "country": "Netherlands", 
     "start_time": "17:00:00", 
     "venue": "", 
