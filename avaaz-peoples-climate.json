@@ -3922,7 +3922,7 @@
   {
     "city": "Lille", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 217, 
+    "rsvp_count": 218, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -6658,7 +6658,7 @@
   {
     "city": "Bastia Umbra", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 49, 
+    "rsvp_count": 50, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "Bastia  Umbra", 
@@ -29186,7 +29186,7 @@
   {
     "city": "\u0635\u0646\u0639\u0627\u0621\u200e", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 10, 
+    "rsvp_count": 11, 
     "country": "Yemen", 
     "start_time": "13:00:00", 
     "venue": "\u0634\u0627\u0631\u0639 \u0627\u0644\u0632\u0628\u064a\u0631\u064a", 
@@ -36466,7 +36466,7 @@
   {
     "city": "Swansea", 
     "name": "People's Climate March", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "United Kingdom", 
     "start_time": "13:00:00", 
     "venue": "Castle Square", 
@@ -38654,5 +38654,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/ar/event/climate/lmsyr_lmnkhy_lshby_257", 
     "id": 5200
+  }, 
+  {
+    "city": "Talbot", 
+    "name": "CLIMATE ACTION RALLY AT TALBOT MARKET", 
+    "rsvp_count": 1, 
+    "country": "Australia", 
+    "start_time": "11:00:00", 
+    "venue": "The Central Victorian Sustainability Group stall at Talbot market in the main street", 
+    "longitude": 143.7021381, 
+    "state": "VIC", 
+    "country_code": "AU", 
+    "address": "Talbot VIC 3371, Australia", 
+    "latitude": -37.1709439, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/CLIMATE_ACTION_RALLY_AT_TALBOT_MARKET", 
+    "id": 5201
   }
 ]
