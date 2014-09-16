@@ -14643,7 +14643,7 @@ initData({},
   {
     "city": "Szczecin", 
     "name": "Marsz dla Klimatu", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Poland", 
     "start_time": "13:00:00", 
     "venue": "Wa\u0142y Chrobrego na przeciwko urz\u0119du wojew\u00f3dzkiego", 
