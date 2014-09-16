@@ -9571,7 +9571,7 @@ initData({},
   {
     "city": "Bilbao", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 50, 
+    "rsvp_count": 51, 
     "country": "Spain", 
     "start_time": "17:00:00", 
     "venue": "PLAZA DEL ARRIAGA", 
