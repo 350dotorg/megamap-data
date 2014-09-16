@@ -26371,7 +26371,7 @@ initData({},
   {
     "city": "Southampton", 
     "name": "People's Climate March", 
-    "rsvp_count": 36, 
+    "rsvp_count": 37, 
     "country": "United Kingdom", 
     "start_time": "13:00:00", 
     "venue": "Guildhall Square", 
