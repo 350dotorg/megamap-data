@@ -11763,7 +11763,7 @@ initData({},
   {
     "city": "Kolkata", 
     "name": "People's Climate March", 
-    "rsvp_count": 6, 
+    "rsvp_count": 7, 
     "country": "India", 
     "start_time": "13:00:00", 
     "venue": "RANGBHUMI MAIDAN", 
