@@ -1,4 +1,4 @@
-Number of events: 2067
+Number of events: 2052
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
@@ -23,7 +23,7 @@ Number of countries: 137
 	Burundi: 1
 	Cambodia: 1
 	Cameroon: 1
-	Canada: 82
+	Canada: 77
 	Cayman Islands: 1
 	Chile: 22
 	Colombia: 74
@@ -46,7 +46,7 @@ Number of countries: 137
 	French Guiana: 1
 	French Polynesia: 2
 	Germany: 78
-	Greece: 42
+	Greece: 43
 	Grenada: 1
 	Guadeloupe: 2
 	Guatemala: 12
@@ -126,8 +126,8 @@ Number of countries: 137
 	Turkey: 14
 	Ukraine: 51
 	United Arab Emirates: 2
-	United Kingdom: 61
-	United States of America: 69
+	United Kingdom: 62
+	United States of America: 57
 	Uruguay: 13
 	Uzbekistan: 1
 	Venezuela: 21
