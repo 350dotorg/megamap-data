@@ -26451,7 +26451,7 @@ initData({},
   {
     "city": "Aspen", 
     "name": "People's Climate March", 
-    "rsvp_count": 7, 
+    "rsvp_count": 8, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "300 Conundrum Rd, Aspen", 
