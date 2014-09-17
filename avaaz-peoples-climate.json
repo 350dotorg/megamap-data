@@ -882,7 +882,7 @@
   {
     "city": "San Diego", 
     "name": "People's Climate March", 
-    "rsvp_count": 61, 
+    "rsvp_count": 62, 
     "country": "United States of America", 
     "start_time": "12:30:00", 
     "venue": "San Diego City Hall", 
@@ -12450,7 +12450,7 @@
   {
     "city": "S\u00e3o Paulo", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 145, 
+    "rsvp_count": 146, 
     "country": "Brazil", 
     "start_time": "10:00:00", 
     "venue": "Ibirapuera, em frente \u00e0 Assembleia Legislativa de SP,  Av. Pedro \u00c1lvares Cabral", 
@@ -14050,7 +14050,7 @@
   {
     "city": "S\u00e3o Paulo", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 28, 
+    "rsvp_count": 29, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Avenida Atlantica", 
@@ -23250,7 +23250,7 @@
   {
     "city": "Waterloo", 
     "name": "People's Climate March", 
-    "rsvp_count": 45, 
+    "rsvp_count": 46, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Waterloo Towne Square", 
