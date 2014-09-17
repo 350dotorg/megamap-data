@@ -13506,7 +13506,7 @@
   {
     "city": "Poperinge", 
     "name": "Op straat voor het klimaat!!!", 
-    "rsvp_count": 46, 
+    "rsvp_count": 47, 
     "country": "Belgium", 
     "start_time": "17:00:00", 
     "venue": "Poperinge", 
@@ -13586,7 +13586,7 @@
   {
     "city": "Santa Maria", 
     "name": "Caminhada pelo Clima e Conscientiza\u00e7\u00e3o Ambiental", 
-    "rsvp_count": 56, 
+    "rsvp_count": 57, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a Saldanha Marinho", 
@@ -14578,7 +14578,7 @@
   {
     "city": "Umuarama", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 18, 
+    "rsvp_count": 19, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "LAGO ARATIMB\u00d3", 
@@ -29920,17 +29920,17 @@
     "id": 5021
   }, 
   {
-    "city": "Zarate", 
+    "city": "", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
     "rsvp_count": 3, 
     "country": "Argentina", 
     "start_time": "13:00:00", 
     "venue": "", 
-    "longitude": -59.0239258, 
-    "state": "BA", 
+    "longitude": -59.0078926, 
+    "state": "", 
     "country_code": "AR", 
-    "address": "Hip\u00f3lito Yrigoyen, Zarate, Buenos Aires, Argentina", 
-    "latitude": -34.1037483, 
+    "address": "R\u00edo Parana entre Rivadavia e Hip\u00f3lito Yrigoyen, Zarate, Buenos Aires, Argentina", 
+    "latitude": -34.1154213, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_521", 
     "id": 5022
