@@ -21683,7 +21683,7 @@ initData({},
   {
     "city": "Santiago de Surco", 
     "name": "Pasacalle \u201cPon de tu parte: Segrega tus Residuos \u00a1Ya!\u201d.", 
-    "rsvp_count": 28, 
+    "rsvp_count": 29, 
     "country": "Peru", 
     "start_time": "08:00:00", 
     "venue": "", 
