@@ -45,7 +45,7 @@ Number of countries: 137
 	France: 141
 	French Guiana: 1
 	French Polynesia: 2
-	Germany: 79
+	Germany: 78
 	Greece: 42
 	Grenada: 1
 	Guadeloupe: 2
@@ -63,7 +63,7 @@ Number of countries: 137
 	Italy: 125
 	Japan: 7
 	Jordan: 2
-	Kenya: 1
+	Kenya: 2
 	Kosovo: 2
 	Kuwait: 2
 	Kyrgistan: 2
