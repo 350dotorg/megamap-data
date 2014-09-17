@@ -1,4 +1,4 @@
-Number of events: 2069
+Number of events: 2068
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
@@ -96,7 +96,7 @@ Number of countries: 137
 	Peru: 30
 	Philippines: 3
 	Poland: 5
-	Portugal: 33
+	Portugal: 32
 	Puerto Rico: 2
 	Qatar: 1
 	Reunion: 1
