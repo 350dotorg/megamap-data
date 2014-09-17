@@ -16483,7 +16483,7 @@ initData({},
   {
     "city": "S\u00e3o Paulo", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 21, 
+    "rsvp_count": 22, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Parque do Ibirapuera", 
