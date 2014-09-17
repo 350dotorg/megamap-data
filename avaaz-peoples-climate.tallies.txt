@@ -43,7 +43,7 @@ Number of countries: 144
 	El Salvador: 2
 	Estonia: 4
 	Finland: 5
-	France: 171
+	France: 170
 	French Guiana: 2
 	French Polynesia: 3
 	Gabon: 2
@@ -57,7 +57,7 @@ Number of countries: 144
 	Honduras: 4
 	Hong Kong: 1
 	Hungary: 6
-	India: 33
+	India: 34
 	Indonesia: 4
 	Iran: 7
 	Iraq: 23
