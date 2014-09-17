@@ -25331,7 +25331,7 @@ initData({},
   {
     "city": "Tauranga", 
     "name": "Climate Change Day of Action", 
-    "rsvp_count": 15, 
+    "rsvp_count": 16, 
     "country": "New Zealand", 
     "start_time": "13:00:00", 
     "venue": "", 
