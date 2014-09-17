@@ -28627,7 +28627,7 @@ initData({},
   {
     "city": "Macap\u00e1", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 9, 
+    "rsvp_count": 10, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "", 
