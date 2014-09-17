@@ -1,4 +1,4 @@
-Number of events: 2447
+Number of events: 2448
 Number of countries: 144
 	Afghanistan: 1
 	Albania: 2
@@ -118,7 +118,7 @@ Number of countries: 144
 	South Sudan: 2
 	Spain: 136
 	Sri Lanka: 2
-	Sudan: 7
+	Sudan: 8
 	Sweden: 17
 	Switzerland: 24
 	Syria: 4
