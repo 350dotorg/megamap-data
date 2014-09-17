@@ -752,14 +752,14 @@
     "id": 1898
   }, 
   {
-    "city": "Brussels", 
+    "city": "", 
     "name": "\u00c9venement des Citoyens pour le Climat", 
     "rsvp_count": 1075, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "Place Poelaert", 
     "longitude": 4.3523849000001, 
-    "state": "Brussels", 
+    "state": "", 
     "country_code": "BE", 
     "address": "Place Poelaert, 1000 Brussels, Belgium", 
     "latitude": 50.8374299, 
@@ -1874,7 +1874,7 @@
   {
     "city": "Brasilia", 
     "name": "Uni\u00e3o Avaaz em Bras\u00edlia contra as Mudan\u00e7as Clim\u00e1ticas", 
-    "rsvp_count": 702, 
+    "rsvp_count": 703, 
     "country": "Brazil", 
     "start_time": "10:00:00", 
     "venue": "Esplanada dos Ministerios", 
@@ -29762,7 +29762,7 @@
   {
     "city": "Wetter (Ruhr)", 
     "name": "Klima-Fahrrad-Aktionstag", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Germany", 
     "start_time": "11:15:00", 
     "venue": "Bahnhof Alt-Wetter", 
