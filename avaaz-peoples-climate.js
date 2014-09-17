@@ -20051,7 +20051,7 @@ initData({},
   {
     "city": "Zagreb", 
     "name": "People's Climate March", 
-    "rsvp_count": 141, 
+    "rsvp_count": 142, 
     "country": "Croatia", 
     "start_time": "13:00:00", 
     "venue": "Trg Kralja Tomislava", 
