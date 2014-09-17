@@ -1315,7 +1315,7 @@ initData({},
   {
     "city": "Marseille", 
     "name": "Marche Pour le Climat - Marseille", 
-    "rsvp_count": 262, 
+    "rsvp_count": 263, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "", 
