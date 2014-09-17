@@ -15315,7 +15315,7 @@ initData({},
   {
     "city": "Caracas", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 71, 
+    "rsvp_count": 72, 
     "country": "Venezuela", 
     "start_time": "08:00:00", 
     "venue": "Plaza Alfredo Sadel", 
