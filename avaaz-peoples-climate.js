@@ -35987,7 +35987,7 @@ initData({},
   {
     "city": "Barcelona", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 23, 
+    "rsvp_count": 24, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "", 
