@@ -5955,7 +5955,7 @@ initData({},
   {
     "city": "Philadelphia", 
     "name": "Freedom People's Climate March", 
-    "rsvp_count": 35, 
+    "rsvp_count": 36, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "Liberty Bell Center mall area of Independence National Historical Park mall North of Independence Hall.", 
