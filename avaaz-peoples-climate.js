@@ -8275,7 +8275,7 @@ initData({},
   {
     "city": "Caracas", 
     "name": "Restablecer la DEMOCRACIA en Venezuela", 
-    "rsvp_count": 17, 
+    "rsvp_count": 18, 
     "country": "Venezuela", 
     "start_time": "13:00:00", 
     "venue": "", 
