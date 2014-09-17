@@ -11923,7 +11923,7 @@ initData({},
   {
     "city": "Burlington", 
     "name": "People's Climate March: Burlington, ON", 
-    "rsvp_count": 35, 
+    "rsvp_count": 36, 
     "country": "Canada", 
     "start_time": "10:00:00", 
     "venue": "", 
