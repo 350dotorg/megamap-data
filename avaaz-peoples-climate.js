@@ -11427,7 +11427,7 @@ initData({},
   {
     "city": "Bendigo", 
     "name": "PICNIC IN THE PARK FOR ACTION ON CLIMATE CHANGE", 
-    "rsvp_count": 14, 
+    "rsvp_count": 15, 
     "country": "Australia", 
     "start_time": "11:00:00", 
     "venue": "ROSILAND PARK, BENDIGO", 
