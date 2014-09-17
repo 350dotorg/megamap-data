@@ -54,7 +54,7 @@ Number of countries: 137
 	Honduras: 4
 	Hong Kong: 1
 	Hungary: 6
-	India: 22
+	India: 21
 	Indonesia: 2
 	Iran: 6
 	Iraq: 18
@@ -71,7 +71,7 @@ Number of countries: 137
 	Liberia: 1
 	Libya: 3
 	Lithuania: 2
-	Madagascar: 3
+	Madagascar: 4
 	Malaysia: 1
 	Maldives: 1
 	Mali: 2
