@@ -1,4 +1,4 @@
-Number of events: 2072
+Number of events: 2067
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
@@ -17,7 +17,7 @@ Number of countries: 137
 	Bolivia: 5
 	Bosnia and Herzegovina: 1
 	Botswana: 1
-	Brazil: 195
+	Brazil: 194
 	Bulgaria: 4
 	Burkina Faso: 1
 	Burundi: 1
@@ -60,7 +60,7 @@ Number of countries: 137
 	Iraq: 18
 	Ireland: 7
 	Israel: 10
-	Italy: 126
+	Italy: 125
 	Japan: 7
 	Jordan: 2
 	Kenya: 2
@@ -84,7 +84,7 @@ Number of countries: 137
 	Nepal: 2
 	Netherlands: 31
 	New Caledonia: 2
-	New Zealand: 26
+	New Zealand: 27
 	Nicaragua: 2
 	Nigeria: 4
 	Norway: 6
@@ -127,7 +127,7 @@ Number of countries: 137
 	Ukraine: 51
 	United Arab Emirates: 2
 	United Kingdom: 61
-	United States of America: 73
+	United States of America: 69
 	Uruguay: 13
 	Uzbekistan: 1
 	Venezuela: 21
