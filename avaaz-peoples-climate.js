@@ -23571,7 +23571,7 @@ initData({},
   {
     "city": "Los Angeles", 
     "name": "Climate Change:  The Basic Science behind this Emergency (slide lecture)", 
-    "rsvp_count": 8, 
+    "rsvp_count": 9, 
     "country": "United States of America", 
     "start_time": "19:30:00", 
     "venue": "Revolution Books 5726 Hollywood Blvd (near Wilton)", 
