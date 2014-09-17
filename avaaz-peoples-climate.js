@@ -5379,7 +5379,7 @@ initData({},
   {
     "city": "Chennai", 
     "name": "People's Climate March", 
-    "rsvp_count": 34, 
+    "rsvp_count": 35, 
     "country": "India", 
     "start_time": "13:00:00", 
     "venue": "MARINA BEACH", 
