@@ -20243,7 +20243,7 @@ initData({},
   {
     "city": "Armidale", 
     "name": "People's Climate Rally Armidale", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Australia", 
     "start_time": "11:00:00", 
     "venue": "Curtis Park Armidale", 
