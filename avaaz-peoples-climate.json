@@ -754,7 +754,7 @@
   {
     "city": "Brussels", 
     "name": "\u00c9venement des Citoyens pour le Climat", 
-    "rsvp_count": 1051, 
+    "rsvp_count": 1052, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "Place Poelaert", 
@@ -10098,7 +10098,7 @@
   {
     "city": "Warszawa", 
     "name": "Marsz dla Klimatu", 
-    "rsvp_count": 79, 
+    "rsvp_count": 80, 
     "country": "Poland", 
     "start_time": "13:00:00", 
     "venue": "Kolumna zygmunta", 
@@ -35634,7 +35634,7 @@
   {
     "city": "Wetter (Ruhr)", 
     "name": "Klima-Fahrrad-Aktionstag", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Germany", 
     "start_time": "11:15:00", 
     "venue": "Bahnhof Alt-Wetter", 
