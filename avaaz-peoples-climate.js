@@ -12467,7 +12467,7 @@ initData({},
   {
     "city": "Mexicali", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 16, 
+    "rsvp_count": 17, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "", 
