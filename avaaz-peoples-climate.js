@@ -36691,7 +36691,7 @@ initData({},
   {
     "city": "Corato", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "", 
