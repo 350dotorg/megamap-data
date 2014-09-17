@@ -27571,7 +27571,7 @@ initData({},
   {
     "city": "Exeter", 
     "name": "People's Climate March - Here we grow!", 
-    "rsvp_count": 36, 
+    "rsvp_count": 37, 
     "country": "United Kingdom", 
     "start_time": "12:00:00", 
     "venue": "Bedford Square Exeter city centre", 
