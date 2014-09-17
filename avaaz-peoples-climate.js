@@ -515,7 +515,7 @@ initData({},
   {
     "city": "Venezia", 
     "name": "manifestazione informativa sul problema del clima e raccolta firme", 
-    "rsvp_count": 24, 
+    "rsvp_count": 25, 
     "country": "Italy", 
     "start_time": "09:00:00", 
     "venue": "piazza s.giorgio - 30174 Chirignago Venezia , italia", 
