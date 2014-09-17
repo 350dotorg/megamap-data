@@ -130,7 +130,7 @@
   {
     "city": "", 
     "name": "People's Climate March - Auckland", 
-    "rsvp_count": 263, 
+    "rsvp_count": 264, 
     "country": "New Zealand", 
     "start_time": "13:00:00", 
     "venue": "BRITOMART train station", 
@@ -22658,7 +22658,7 @@
   {
     "city": "C\u00f3rdoba", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 10, 
+    "rsvp_count": 11, 
     "country": "Argentina", 
     "start_time": "13:00:00", 
     "venue": "Patio Olmos Shopping - Av. V\u00e9lez Sarsfield 361", 
@@ -24724,7 +24724,7 @@
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
     "rsvp_count": 2, 
     "country": "Chile", 
-    "start_time": "13:00:00", 
+    "start_time": "18:00:00", 
     "venue": "Plaza de Armas", 
     "longitude": -70.332237, 
     "state": "Regi\u00f3n de Atacama", 
