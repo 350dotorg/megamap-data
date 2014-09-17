@@ -11473,6 +11473,22 @@ initData({},
     "id": 3001
   }, 
   {
+    "city": "New York", 
+    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
+    "rsvp_count": 22, 
+    "country": "United States of America", 
+    "start_time": "13:00:00", 
+    "venue": "INTERNET", 
+    "longitude": -74.0059413, 
+    "state": "NY", 
+    "country_code": "US", 
+    "address": "New York, NY, USA", 
+    "latitude": 40.7127837, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_223", 
+    "id": 3002
+  }, 
+  {
     "city": "San Juan de Los Morros", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
     "rsvp_count": 6, 
