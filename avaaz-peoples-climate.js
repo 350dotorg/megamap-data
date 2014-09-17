@@ -20755,7 +20755,7 @@ initData({},
   {
     "city": "Adrogu\u00e9", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 19, 
+    "rsvp_count": 20, 
     "country": "Argentina", 
     "start_time": "13:00:00", 
     "venue": "Adrogu\u00e9", 
