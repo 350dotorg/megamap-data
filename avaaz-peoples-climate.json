@@ -754,7 +754,7 @@
   {
     "city": "Brussels", 
     "name": "\u00c9venement des Citoyens pour le Climat", 
-    "rsvp_count": 1061, 
+    "rsvp_count": 1062, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "Place Poelaert", 
@@ -1874,7 +1874,7 @@
   {
     "city": "Brasilia", 
     "name": "Uni\u00e3o Avaaz em Bras\u00edlia contra as Mudan\u00e7as Clim\u00e1ticas", 
-    "rsvp_count": 560, 
+    "rsvp_count": 561, 
     "country": "Brazil", 
     "start_time": "10:00:00", 
     "venue": "Esplanada dos Ministerios", 
@@ -5154,7 +5154,7 @@
   {
     "city": "Salzburg", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 8, 
+    "rsvp_count": 9, 
     "country": "Austria", 
     "start_time": "13:00:00", 
     "venue": "Residenzbrunnen", 
@@ -13218,7 +13218,7 @@
   {
     "city": "Salvador", 
     "name": "EDUCA\u00c7\u00c3O PELA PAZ CLIM\u00c1TICA", 
-    "rsvp_count": 136, 
+    "rsvp_count": 137, 
     "country": "Brazil", 
     "start_time": "09:00:00", 
     "venue": "BAIRRO DO RIO VERMELHO, REGI\u00c3O DAS DUAS IGREJAS DOS PESCADORES", 
@@ -13554,7 +13554,7 @@
   {
     "city": "Santa Maria", 
     "name": "Caminhada pelo Clima e Conscientiza\u00e7\u00e3o Ambiental", 
-    "rsvp_count": 50, 
+    "rsvp_count": 51, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a Saldanha Marinho", 
@@ -19029,12 +19029,12 @@
     "rsvp_count": 18, 
     "country": "Canada", 
     "start_time": "10:00:00", 
-    "venue": "", 
-    "longitude": -73.8940345, 
+    "venue": "Antoinette Layoun", 
+    "longitude": -73.8932108, 
     "state": "QC", 
     "country_code": "CA", 
-    "address": "1004 Chemin d'Oka, Deux-Montagnes, QC J7R 1L7, Canada", 
-    "latitude": 45.5400642, 
+    "address": "Deux-Montagnes, QC, Canada", 
+    "latitude": 45.5418051, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_194", 
     "id": 3982
@@ -21394,7 +21394,7 @@
   {
     "city": "S\u00e3o Jos\u00e9 dos Campos", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 76, 
+    "rsvp_count": 77, 
     "country": "Brazil", 
     "start_time": "11:00:00", 
     "venue": "Parque Vicentina Aranha", 
@@ -26226,7 +26226,7 @@
   {
     "city": "Costa da Caparica", 
     "name": "Corrida pelo Clima", 
-    "rsvp_count": 8, 
+    "rsvp_count": 9, 
     "country": "Portugal", 
     "start_time": "09:00:00", 
     "venue": "Costa Capatica, nas escadas do Cafe do Mar Barbas", 
@@ -30226,7 +30226,7 @@
   {
     "city": "Lustenau", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 18, 
+    "rsvp_count": 19, 
     "country": "Austria", 
     "start_time": "10:00:00", 
     "venue": "Kirchplatz", 
