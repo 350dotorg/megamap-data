@@ -2530,7 +2530,7 @@
   {
     "city": "Toulouse", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 392, 
+    "rsvp_count": 393, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "place du capitole", 
@@ -13362,7 +13362,7 @@
   {
     "city": "Fortaleza", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 107, 
+    "rsvp_count": 108, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Memorial Castelo Branco, Palacio da Aboli\u00e7\u00e3o - sede do governo do Cear\u00e1", 
@@ -19554,7 +19554,7 @@
   {
     "city": "Uccle", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 80, 
+    "rsvp_count": 81, 
     "country": "Belgium", 
     "start_time": "13:00:00", 
     "venue": "Place Saint-Job", 
@@ -27330,7 +27330,7 @@
   {
     "city": "Basel", 
     "name": "People's Climate March", 
-    "rsvp_count": 20, 
+    "rsvp_count": 21, 
     "country": "Switzerland", 
     "start_time": "13:00:00", 
     "venue": "Marktplatz, vor dem Rathaus", 
@@ -33086,5 +33086,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_295", 
     "id": 5276
+  }, 
+  {
+    "city": "S\u00e3o Jos\u00e9 do Rio Preto", 
+    "name": "Caminhada pelo Clima", 
+    "rsvp_count": 1, 
+    "country": "Brazil", 
+    "start_time": "17:00:00", 
+    "venue": "caminhada da Av Alberto Andal\u00f3 at\u00e9 represa", 
+    "longitude": -55, 
+    "state": "SP", 
+    "country_code": "BR", 
+    "address": "Av Alberto Andal\u00f3 (frente Autom\u00f3vel Clube at\u00e9 represa Municipal)", 
+    "latitude": -10, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_243", 
+    "id": 5291
   }
 ]
