@@ -35491,7 +35491,7 @@ initData({},
   {
     "city": "Buenos Aires", 
     "name": "Marcha Global Ciudadana, Unidos por la Vida ante el Cambio Clim\u00e1tico", 
-    "rsvp_count": 8, 
+    "rsvp_count": 9, 
     "country": "Argentina", 
     "start_time": "13:00:00", 
     "venue": "", 
