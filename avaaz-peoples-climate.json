@@ -754,7 +754,7 @@
   {
     "city": "Brussels", 
     "name": "\u00c9venement des Citoyens pour le Climat", 
-    "rsvp_count": 1050, 
+    "rsvp_count": 1051, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "Place Poelaert", 
@@ -3810,7 +3810,7 @@
   {
     "city": "Amsterdam", 
     "name": "Amsterdam People's Climate March \u2764\ufe0e De mars van de Klimmuur naar het slotevent op de EYE kade", 
-    "rsvp_count": 139, 
+    "rsvp_count": 140, 
     "country": "Netherlands", 
     "start_time": "17:00:00", 
     "venue": "Plein bij de Klimmuur", 
@@ -7842,7 +7842,7 @@
   {
     "city": "Stuttgart", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 195, 
+    "rsvp_count": 196, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Fu\u00dfg\u00e4ngerzone S-Untertr\u00fcrkheim", 
@@ -13490,7 +13490,7 @@
   {
     "city": "Cambridge", 
     "name": "People's Climate March", 
-    "rsvp_count": 59, 
+    "rsvp_count": 60, 
     "country": "United Kingdom", 
     "start_time": "13:00:00", 
     "venue": "Kings parade", 
@@ -36210,7 +36210,7 @@
   {
     "city": "Swansea", 
     "name": "People's Climate March", 
-    "rsvp_count": 8, 
+    "rsvp_count": 9, 
     "country": "United Kingdom", 
     "start_time": "13:00:00", 
     "venue": "Castle Square", 
