@@ -19955,7 +19955,7 @@ initData({},
   {
     "city": "Manawatu District", 
     "name": "Plant for the Planet at the Makino Stream", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "New Zealand", 
     "start_time": "13:00:00", 
     "venue": "Lovers Lane, Feilding", 
