@@ -1010,7 +1010,7 @@
   {
     "city": "Bristol", 
     "name": "Bristol People's Climate March", 
-    "rsvp_count": 447, 
+    "rsvp_count": 448, 
     "country": "United Kingdom", 
     "start_time": "14:30:00", 
     "venue": "Castle Park", 
@@ -1058,7 +1058,7 @@
   {
     "city": "Angoul\u00eame", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 61, 
+    "rsvp_count": 62, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "c'est \u00e0 determiner avec la pr\u00e9fecture, je pense que le point de d\u00e9part sera au champ de mars.", 
@@ -3458,7 +3458,7 @@
   {
     "city": "Tenby", 
     "name": "People's Climate March", 
-    "rsvp_count": 19, 
+    "rsvp_count": 20, 
     "country": "United Kingdom", 
     "start_time": "13:00:00", 
     "venue": "De Valence", 
@@ -33906,7 +33906,7 @@
   {
     "city": "Falmouth", 
     "name": "Raise a brolly against climate folly", 
-    "rsvp_count": 15, 
+    "rsvp_count": 16, 
     "country": "United Kingdom", 
     "start_time": "15:00:00", 
     "venue": "", 
