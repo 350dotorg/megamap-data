@@ -818,7 +818,7 @@
   {
     "city": "Barcelona", 
     "name": "Marcha Ciudadana Global por el Clima. Barcelona #BCN21S", 
-    "rsvp_count": 1235, 
+    "rsvp_count": 1236, 
     "country": "Spain", 
     "start_time": "11:00:00", 
     "venue": "Moll de la Marina, Barcelona", 
@@ -15378,7 +15378,7 @@
   {
     "city": "S\u00e3o Paulo", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 196, 
+    "rsvp_count": 197, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a Campo de Bagatelle - Bairro de Santana - em frente ao Campo de Marte", 
@@ -28798,22 +28798,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Plantio_de_arvores_para_recomposicao_de_mata_ciliar_sabado_e_domingo_20_e_2109", 
     "id": 4494
-  }, 
-  {
-    "city": "Mullsj\u00f6", 
-    "name": "People's Climate March", 
-    "rsvp_count": 1, 
-    "country": "Sweden", 
-    "start_time": "13:00:00", 
-    "venue": "Torget i Mullsj\u00f6 vid font\u00e4nen!", 
-    "longitude": 13.8773174, 
-    "state": "J\u00f6nk\u00f6pings l\u00e4n", 
-    "country_code": "SE", 
-    "address": "Mullsj\u00f6, Sverige", 
-    "latitude": 57.9165989, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1517", 
-    "id": 4495
   }, 
   {
     "city": "Wellington", 
