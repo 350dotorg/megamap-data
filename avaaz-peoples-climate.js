@@ -30547,7 +30547,7 @@ initData({},
   {
     "city": "Serra", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 8, 
+    "rsvp_count": 9, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "", 
