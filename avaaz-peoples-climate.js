@@ -12451,7 +12451,7 @@ initData({},
   {
     "city": "S\u00e3o Paulo", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 144, 
+    "rsvp_count": 145, 
     "country": "Brazil", 
     "start_time": "10:00:00", 
     "venue": "Ibirapuera, em frente \u00e0 Assembleia Legislativa de SP,  Av. Pedro \u00c1lvares Cabral", 
