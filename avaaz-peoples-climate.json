@@ -1762,7 +1762,7 @@
   {
     "city": "\u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7", 
     "name": "\u03a0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u039b\u03b1\u03ce\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
-    "rsvp_count": 137, 
+    "rsvp_count": 138, 
     "country": "Greece", 
     "start_time": "13:00:00", 
     "venue": "\u03a0\u03bb\u03b1\u03c4\u03b5\u03b9\u03b1  \u0391\u03c1\u03b9\u03c3\u03c4\u03bf\u03c4\u03b5\u03bb\u03bf\u03c5\u03c2 - \u039b\u03b5\u03c5\u03ba\u03bf\u03c2 \u03a0\u03c5\u03c1\u03b3\u03bf\u03c2", 
@@ -6210,7 +6210,7 @@
   {
     "city": "Cologne", 
     "name": "https://www.facebook.com/events/278356532361449", 
-    "rsvp_count": 332, 
+    "rsvp_count": 333, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Bahnhofsvorplatz Domseite", 
@@ -7990,11 +7990,11 @@
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "State Capitol", 
-    "longitude": -121.4933552, 
+    "longitude": -121.4949288, 
     "state": "CA", 
     "country_code": "US", 
-    "address": "California State Capitol Museum, 1315 10th Street, Sacramento, CA 95814, USA", 
-    "latitude": 38.5765978, 
+    "address": "1250 10th Street, Sacramento, CA 95814, USA", 
+    "latitude": 38.5769051, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1168", 
     "id": 2809
@@ -17362,7 +17362,7 @@
   {
     "city": "St Albans", 
     "name": "St Albans People's Climate March", 
-    "rsvp_count": 11, 
+    "rsvp_count": 12, 
     "country": "United Kingdom", 
     "start_time": "13:00:00", 
     "venue": "St Albans Market Place", 
@@ -27538,7 +27538,7 @@
   {
     "city": "Aachen", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 31, 
+    "rsvp_count": 32, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "", 
