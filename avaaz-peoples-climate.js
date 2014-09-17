@@ -24147,7 +24147,7 @@ initData({},
   {
     "city": "Port Alberni", 
     "name": "Port Alberni People's Climate March", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Canada", 
     "start_time": "14:00:00", 
     "venue": "Gather at Trinity Church, 4766 Angus Street at Fifth Avenue", 
