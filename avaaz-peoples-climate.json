@@ -7922,7 +7922,7 @@
   {
     "city": "Sacramento", 
     "name": "People's Climate March", 
-    "rsvp_count": 90, 
+    "rsvp_count": 91, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "State Capitol", 
@@ -32830,5 +32830,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/el/event/climate/Poreia_ton_Laon_gia_to_Klima_120", 
     "id": 5295
+  }, 
+  {
+    "city": "Lauro de Freitas", 
+    "name": "Mobiliza\u00e7\u00e3o Global pelo Clima - Lauro de Freitas/BA", 
+    "rsvp_count": 1, 
+    "country": "Brazil", 
+    "start_time": "09:00:00", 
+    "venue": "Aeroporto Internacional Luis Eduardo Magalh\u00e3es (concentra\u00e7\u00e3o no Bobs da pra\u00e7a de alimenta\u00e7\u00e3o)", 
+    "longitude": -38.3148204, 
+    "state": "BA", 
+    "country_code": "BR", 
+    "address": "Lauro de Freitas - BA, Rep\u00fablica Federativa do Brasil", 
+    "latitude": -12.8820575, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Mobilizacao_Global_pelo_Clima_Lauro_de_FreitasBA", 
+    "id": 5296
   }
 ]
