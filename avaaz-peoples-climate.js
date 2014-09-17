@@ -14739,7 +14739,7 @@ initData({},
   {
     "city": "Preston", 
     "name": "People's Climate March", 
-    "rsvp_count": 26, 
+    "rsvp_count": 27, 
     "country": "United Kingdom", 
     "start_time": "13:00:00", 
     "venue": "to be arranged", 
