@@ -1602,7 +1602,7 @@
   {
     "city": "Freiburg im Breisgau", 
     "name": "Klimaevent", 
-    "rsvp_count": 160, 
+    "rsvp_count": 161, 
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "Ecke Bertoldstr./Niemenstr.", 
@@ -4018,7 +4018,7 @@
   {
     "city": "\u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 57, 
+    "rsvp_count": 58, 
     "country": "Ukraine", 
     "start_time": "13:00:00", 
     "venue": "\u0424\u0435\u0441\u0442\u0438\u0432\u0430\u043b\u044c\u043d\u044b\u0439 \u043f\u0440\u0438\u0447\u0430\u043b", 
@@ -9138,7 +9138,7 @@
   {
     "city": "Gwanda", 
     "name": "Tree Planting", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Zimbabwe", 
     "start_time": "08:00:00", 
     "venue": "Gwanda and Kanabulemu Parish", 
@@ -15874,7 +15874,7 @@
   {
     "city": "Belo Horizonte", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 56, 
+    "rsvp_count": 57, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -17202,7 +17202,7 @@
   {
     "city": "Piracicaba", 
     "name": "Psseata de jeep's pelo Clima", 
-    "rsvp_count": 19, 
+    "rsvp_count": 20, 
     "country": "Brazil", 
     "start_time": "09:00:00", 
     "venue": "RUA DO PORTO", 
