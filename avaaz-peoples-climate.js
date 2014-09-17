@@ -4291,7 +4291,7 @@ initData({},
   {
     "city": "Bordeaux", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 222, 
+    "rsvp_count": 223, 
     "country": "France", 
     "start_time": "14:30:00", 
     "venue": "", 
