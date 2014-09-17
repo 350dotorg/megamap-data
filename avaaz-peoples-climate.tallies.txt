@@ -1,146 +1,139 @@
-Number of events: 2447
-Number of countries: 144
+Number of events: 2071
+Number of countries: 137
 	Afghanistan: 1
-	Albania: 2
-	Algeria: 58
-	Argentina: 74
-	Armenia: 4
-	Australia: 43
-	Austria: 28
+	Albania: 1
+	Algeria: 48
+	Argentina: 61
+	Armenia: 3
+	Australia: 40
+	Austria: 26
 	Azerbaijan: 1
-	Bahrain: 3
+	Bahrain: 2
 	Bangladesh: 5
 	Belarus: 4
-	Belgium: 41
+	Belgium: 39
 	Benin: 1
 	Bermuda: 1
-	Bolivia: 6
+	Bolivia: 5
 	Bosnia and Herzegovina: 1
 	Botswana: 1
-	Brazil: 245
-	Brunei: 1
-	Bulgaria: 6
+	Brazil: 193
+	Bulgaria: 4
 	Burkina Faso: 1
 	Burundi: 1
 	Cambodia: 1
 	Cameroon: 1
-	Canada: 93
+	Canada: 82
 	Cayman Islands: 1
-	Chile: 27
-	Colombia: 88
+	Chile: 22
+	Colombia: 74
 	Congo, DPR: 2
 	Congo, PR: 2
-	Costa Rica: 7
-	Croatia: 3
+	Costa Rica: 6
+	Croatia: 2
 	Cuba: 2
-	Cyprus: 5
+	Cyprus: 3
 	Czech Republic: 2
-	Côte d'Ivoire: 2
-	Denmark: 7
-	Dominican Republic: 9
-	Ecuador: 17
-	Egypt: 36
+	Côte d'Ivoire: 1
+	Denmark: 6
+	Dominican Republic: 7
+	Ecuador: 15
+	Egypt: 28
 	El Salvador: 2
 	Estonia: 4
 	Finland: 4
-	France: 170
-	French Guiana: 2
-	French Polynesia: 3
-	Gabon: 2
-	Germany: 85
-	Gibraltar: 1
-	Greece: 49
+	France: 141
+	French Guiana: 1
+	French Polynesia: 2
+	Germany: 79
+	Greece: 43
 	Grenada: 1
 	Guadeloupe: 2
-	Guatemala: 13
+	Guatemala: 12
 	Guinea: 1
 	Honduras: 4
 	Hong Kong: 1
 	Hungary: 6
-	India: 34
-	Indonesia: 4
-	Iran: 7
-	Iraq: 23
-	Ireland: 8
-	Israel: 12
-	Italy: 134
-	Japan: 9
+	India: 22
+	Indonesia: 2
+	Iran: 6
+	Iraq: 18
+	Ireland: 7
+	Israel: 10
+	Italy: 125
+	Japan: 7
 	Jordan: 2
-	Kenya: 2
+	Kenya: 1
 	Kosovo: 2
 	Kuwait: 2
-	Kyrgistan: 3
-	Lebanon: 2
-	Liberia: 2
-	Libya: 4
+	Kyrgistan: 2
+	Lebanon: 1
+	Liberia: 1
+	Libya: 3
 	Lithuania: 2
-	Madagascar: 5
+	Madagascar: 3
 	Malaysia: 1
 	Maldives: 1
 	Mali: 2
 	Martinique: 3
-	Mauritania: 2
-	Mauritius: 2
-	Mexico: 119
+	Mauritania: 1
+	Mauritius: 1
+	Mexico: 103
 	Moldova: 2
-	Morocco: 39
-	Myanmar: 1
-	Nepal: 3
-	Netherlands: 32
+	Morocco: 34
+	Nepal: 2
+	Netherlands: 30
 	New Caledonia: 2
 	New Zealand: 26
 	Nicaragua: 2
-	Nigeria: 7
-	Norway: 9
+	Nigeria: 4
+	Norway: 6
 	Oman: 2
 	Pakistan: 3
-	Palestine: 9
+	Palestine: 5
 	Panama: 3
 	Paraguay: 1
-	Peru: 36
-	Philippines: 4
-	Poland: 8
-	Portugal: 37
+	Peru: 30
+	Philippines: 3
+	Poland: 5
+	Portugal: 33
 	Puerto Rico: 2
 	Qatar: 1
 	Reunion: 1
-	Romania: 18
-	Russia: 55
-	Saudi Arabia: 15
+	Romania: 14
+	Russia: 48
+	Saudi Arabia: 11
 	Senegal: 2
 	Serbia: 6
 	Seychelles: 2
 	Singapore: 1
-	Slovakia: 6
+	Slovakia: 5
 	Slovenia: 3
-	South Africa: 20
+	South Africa: 15
 	South Korea: 1
-	South Sudan: 2
-	Spain: 136
+	South Sudan: 1
+	Spain: 119
 	Sri Lanka: 2
-	Sudan: 8
+	Sudan: 7
 	Sweden: 16
-	Switzerland: 24
-	Syria: 4
+	Switzerland: 22
+	Syria: 3
 	Tajikistan: 1
 	Tanzania: 1
-	Thailand: 1
 	Togo: 1
 	Trinidad and Tobago: 1
-	Tunisia: 18
-	Turkey: 27
-	US Virgin Islands: 1
-	Uganda: 2
-	Ukraine: 55
-	United Arab Emirates: 3
-	United Kingdom: 66
-	United States of America: 85
-	Uruguay: 16
+	Tunisia: 12
+	Turkey: 14
+	Ukraine: 51
+	United Arab Emirates: 2
+	United Kingdom: 61
+	United States of America: 73
+	Uruguay: 13
 	Uzbekistan: 1
-	Venezuela: 25
+	Venezuela: 21
 	Vietnam: 1
 	Wallis and Futuna: 1
 	Western Sahara: 1
-	Yemen: 15
+	Yemen: 10
 	Zambia: 3
 	Zimbabwe: 1
