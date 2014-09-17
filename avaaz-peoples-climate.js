@@ -24627,7 +24627,7 @@ initData({},
   {
     "city": "Paderborn", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 32, 
+    "rsvp_count": 33, 
     "country": "Germany", 
     "start_time": "15:00:00", 
     "venue": "Rathausplatz", 
