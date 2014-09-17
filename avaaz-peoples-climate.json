@@ -1874,7 +1874,7 @@
   {
     "city": "Brasilia", 
     "name": "Uni\u00e3o Avaaz em Bras\u00edlia contra as Mudan\u00e7as Clim\u00e1ticas", 
-    "rsvp_count": 564, 
+    "rsvp_count": 565, 
     "country": "Brazil", 
     "start_time": "10:00:00", 
     "venue": "Esplanada dos Ministerios", 
@@ -3954,7 +3954,7 @@
   {
     "city": "Granville", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 20, 
+    "rsvp_count": 21, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Granville devant la Mairie", 
@@ -16242,7 +16242,7 @@
   {
     "city": "Goi\u00e2nia", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 274, 
+    "rsvp_count": 275, 
     "country": "Brazil", 
     "start_time": "16:00:00", 
     "venue": "Pra\u00e7a C\u00edvica, setor Sul", 
@@ -30146,7 +30146,7 @@
   {
     "city": "Barretos", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Anfi-teatro da Regi\u00e3o dos Lagos", 
@@ -31726,22 +31726,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/ru/event/climate/Narodnyy_klimaticheskiy_marsh_204", 
     "id": 5157
-  }, 
-  {
-    "city": "\u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7", 
-    "name": "\u03a0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u039b\u03b1\u03ce\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
-    "rsvp_count": 7, 
-    "country": "Greece", 
-    "start_time": "13:00:00", 
-    "venue": "\u039b\u03b5\u03c5\u03ba\u03cc\u03c2 \u03c0\u03cd\u03c1\u03b3\u03bf\u03c2", 
-    "longitude": 22.9483747, 
-    "state": "", 
-    "country_code": "GR", 
-    "address": "\u039b\u03b5\u03c5\u03ba\u03cc\u03c2 \u03a0\u03cd\u03c1\u03b3\u03bf\u03c2 \u03c4\u03b7\u03c2 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2, \u039b\u03b5\u03c9\u03c6\u03cc\u03c1\u03bf\u03c2 \u039d\u03af\u03ba\u03b7\u03c2, \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7 546 21, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1", 
-    "latitude": 40.6263975, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/el/event/climate/Poreia_ton_Laon_gia_to_Klima_116", 
-    "id": 5158
   }, 
   {
     "city": "Le Mans", 
