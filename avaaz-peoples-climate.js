@@ -35379,7 +35379,7 @@ initData({},
   {
     "city": "Mulhouse", 
     "name": "People's Climate March", 
-    "rsvp_count": 8, 
+    "rsvp_count": 9, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Boulevard Stoessel", 
