@@ -674,7 +674,7 @@
   {
     "city": "Monterrey", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 235, 
+    "rsvp_count": 236, 
     "country": "Mexico", 
     "start_time": "10:00:00", 
     "venue": "Explanada de los heroes", 
@@ -16160,14 +16160,14 @@
     "id": 3382
   }, 
   {
-    "city": "", 
+    "city": "Resende", 
     "name": "Caminhada pelo Clima", 
     "rsvp_count": 10, 
     "country": "Brazil", 
     "start_time": "10:00:00", 
-    "venue": "", 
+    "venue": "Vila de Visconde de Mau\u00e1 at\u00e9 o Cruzeiro / Maromba at\u00e9 o Escorrega fica como op\u00e7\u00e3o para quem j\u00e1 se programou", 
     "longitude": -44.4513347, 
-    "state": "", 
+    "state": "RJ", 
     "country_code": "BR", 
     "address": "Resende - RJ, Rep\u00fablica Federativa do Brasil", 
     "latitude": -22.4709659, 
