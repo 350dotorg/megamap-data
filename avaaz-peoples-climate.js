@@ -17571,7 +17571,7 @@ initData({},
   {
     "city": "Honolulu", 
     "name": "People's Climate March Hawai'i", 
-    "rsvp_count": 34, 
+    "rsvp_count": 35, 
     "country": "United States of America", 
     "start_time": "14:00:00", 
     "venue": "Meeting on the beach in Waikiki in front of the Royal Hawaiian (the infamous pink hotel). We'll then march down Kalakaua and end up at Kapiolani Park.", 
