@@ -7619,7 +7619,7 @@ initData({},
   {
     "city": "Knowlton", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 38, 
+    "rsvp_count": 39, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "", 
