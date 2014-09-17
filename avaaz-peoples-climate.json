@@ -1874,7 +1874,7 @@
   {
     "city": "Brasilia", 
     "name": "Uni\u00e3o Avaaz em Bras\u00edlia contra as Mudan\u00e7as Clim\u00e1ticas", 
-    "rsvp_count": 588, 
+    "rsvp_count": 589, 
     "country": "Brazil", 
     "start_time": "10:00:00", 
     "venue": "Esplanada dos Ministerios", 
@@ -3106,7 +3106,7 @@
   {
     "city": "Porto Alegre", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 473, 
+    "rsvp_count": 474, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Parque Farroupilha - Reden\u00e7\u00e3o", 
@@ -16640,17 +16640,17 @@
     "id": 3773
   }, 
   {
-    "city": "", 
+    "city": "Belo Horizonte", 
     "name": "Caminhada pelo Clima", 
     "rsvp_count": 22, 
     "country": "Brazil", 
     "start_time": "10:00:00", 
-    "venue": "", 
-    "longitude": -43.9071501, 
-    "state": "", 
+    "venue": "Parque das Mangabeiras- rua Cara\u00e7a 900 ou av bandeirantes portaria ao lado do Minas 2", 
+    "longitude": -43.9352685, 
+    "state": "MG", 
     "country_code": "BR", 
-    "address": "Parque das Mangabeiras - entrada pela portaria R.Cara\u00e7a 900 ou Av, Bandeirantes ao  lado do Minas 2 .", 
-    "latitude": -19.946726, 
+    "address": "Belo Horizonte - MG, Rep\u00fablica Federativa do Brasil", 
+    "latitude": -19.9245192, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_101", 
     "id": 3775
@@ -19074,7 +19074,7 @@
   {
     "city": "Chamb\u00e9ry", 
     "name": "Chamb\u00e9ry : \"Marche pour le climat", 
-    "rsvp_count": 47, 
+    "rsvp_count": 48, 
     "country": "France", 
     "start_time": "15:00:00", 
     "venue": "Parc du Verney", 
@@ -22914,7 +22914,7 @@
   {
     "city": "Santo Andr\u00e9", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 137, 
+    "rsvp_count": 138, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Av Dom Pedro II", 
@@ -23314,7 +23314,7 @@
   {
     "city": "Salvador", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 6, 
+    "rsvp_count": 7, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -25682,7 +25682,7 @@
   {
     "city": "Amsterdam", 
     "name": "Actiedag voor het Klimaat", 
-    "rsvp_count": 10, 
+    "rsvp_count": 11, 
     "country": "Netherlands", 
     "start_time": "13:00:00", 
     "venue": "Bibliotheek amsterdam, centrale bibliotheek", 
