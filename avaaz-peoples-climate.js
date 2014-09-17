@@ -27411,7 +27411,7 @@ initData({},
   {
     "city": "Erlangen", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 22, 
+    "rsvp_count": 23, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "", 
