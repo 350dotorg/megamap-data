@@ -36243,7 +36243,7 @@ initData({},
   {
     "city": "\u0628\u0646\u063a\u0627\u0632\u064a", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Libya", 
     "start_time": "13:00:00", 
     "venue": "elbwaqi", 
