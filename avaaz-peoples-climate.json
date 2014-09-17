@@ -818,7 +818,7 @@
   {
     "city": "Barcelona", 
     "name": "Marcha Ciudadana Global por el Clima. Barcelona #BCN21S", 
-    "rsvp_count": 1232, 
+    "rsvp_count": 1233, 
     "country": "Spain", 
     "start_time": "11:00:00", 
     "venue": "Moll de la Marina, Barcelona", 
@@ -3330,7 +3330,7 @@
   {
     "city": "Porto Alegre", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 444, 
+    "rsvp_count": 445, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Parque Farroupilha - Reden\u00e7\u00e3o", 
@@ -16114,7 +16114,7 @@
   {
     "city": "Sorocaba", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 57, 
+    "rsvp_count": 58, 
     "country": "Brazil", 
     "start_time": "17:00:00", 
     "venue": "Pra\u00e7a do canh\u00e3o, Centro", 
@@ -17202,7 +17202,7 @@
   {
     "city": "Piracicaba", 
     "name": "Psseata de jeep's pelo Clima", 
-    "rsvp_count": 18, 
+    "rsvp_count": 19, 
     "country": "Brazil", 
     "start_time": "09:00:00", 
     "venue": "RUA DO PORTO", 
@@ -19378,7 +19378,7 @@
   {
     "city": "Goi\u00e2nia", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 234, 
+    "rsvp_count": 235, 
     "country": "Brazil", 
     "start_time": "16:00:00", 
     "venue": "Pra\u00e7a C\u00edvica, setor Sul", 
@@ -22482,7 +22482,7 @@
   {
     "city": "Cardigan", 
     "name": "Concerned People's Climate Vigil in conjuction with support for Drape the Drones & Intrnational Day of Peace on 21st September.", 
-    "rsvp_count": 9, 
+    "rsvp_count": 10, 
     "country": "United Kingdom", 
     "start_time": "11:00:00", 
     "venue": "", 
@@ -34309,14 +34309,14 @@
     "rsvp_count": 13, 
     "country": "Germany", 
     "start_time": "14:00:00", 
-    "venue": "Bochumer Rathaus", 
-    "longitude": 7.2162363, 
+    "venue": "Bochumer Rathaus, hinter der Glocke", 
+    "longitude": 7.2153553000001, 
     "state": "NRW", 
     "country_code": "DE", 
-    "address": "Bochum, Deutschland", 
-    "latitude": 51.4818445, 
+    "address": "Willy-Brandt-Platz 4, 44787 Bochum, Deutschland", 
+    "latitude": 51.4818997, 
     "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Aktionstag_Bochum_Peoples_Climate_March_2014", 
+    "rsvp_url": "https://secure.avaaz.org/de/event/climate/Aktionstag_Bochum_Peoples_Climate_March_2014", 
     "id": 4909
   }, 
   {
