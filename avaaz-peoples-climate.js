@@ -10275,7 +10275,7 @@ initData({},
   {
     "city": "Banff", 
     "name": "People's Climate March", 
-    "rsvp_count": 17, 
+    "rsvp_count": 18, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Banff Central Park near the gazebo . Across from the post office on Buffalo St.", 
