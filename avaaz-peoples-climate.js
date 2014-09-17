@@ -3411,7 +3411,7 @@ initData({},
   {
     "city": "Nambour", 
     "name": "People's Climate March", 
-    "rsvp_count": 33, 
+    "rsvp_count": 34, 
     "country": "Australia", 
     "start_time": "13:00:00", 
     "venue": "Sunshine Coast Council Offices", 
