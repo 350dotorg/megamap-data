@@ -2432,22 +2432,6 @@
     "id": 2113
   }, 
   {
-    "city": "Stockholm", 
-    "name": "\u03a0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u039b\u03b1\u03ce\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
-    "rsvp_count": 27, 
-    "country": "Sweden", 
-    "start_time": "13:00:00", 
-    "venue": "", 
-    "longitude": 18.0685808, 
-    "state": "Stockholm County", 
-    "country_code": "SE", 
-    "address": "Stockholm, Sweden", 
-    "latitude": 59.3293235, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/el/event/climate/Poreia_ton_Laon_gia_to_Klima_63", 
-    "id": 2116
-  }, 
-  {
     "city": "Milano", 
     "name": "Climate March", 
     "rsvp_count": 344, 
@@ -13250,7 +13234,7 @@
   {
     "city": "Cuiab\u00e1", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 99, 
+    "rsvp_count": 100, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "pra\u00e7a oito de abril", 
@@ -14242,7 +14226,7 @@
   {
     "city": "Iguatu", 
     "name": "Caminhada pela conviv\u00eancia pac\u00edfica com o semi\u00e1rido em Iguatu CE", 
-    "rsvp_count": 6, 
+    "rsvp_count": 7, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "APA da Lagoa da Bastiana, lado da avenida perimetral", 
@@ -16930,7 +16914,7 @@
   {
     "city": "Mairipor\u00e3", 
     "name": "2a. Caminhada pelo Parque Ecol\u00f3gico Pico do Olho D\u00b4\u00c1gua, pelo Clima e pela \u00c1gua", 
-    "rsvp_count": 17, 
+    "rsvp_count": 18, 
     "country": "Brazil", 
     "start_time": "09:00:00", 
     "venue": "", 
@@ -19666,7 +19650,7 @@
   {
     "city": "Curitiba", 
     "name": "Caminhada pelo Clima - Parque Barigui", 
-    "rsvp_count": 45, 
+    "rsvp_count": 46, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Parque Barigui", 
@@ -22914,7 +22898,7 @@
   {
     "city": "Santo Andr\u00e9", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 143, 
+    "rsvp_count": 144, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Av Dom Pedro II", 
