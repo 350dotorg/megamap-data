@@ -32003,7 +32003,7 @@ initData({},
   {
     "city": "Amsterdam", 
     "name": "People's Climate March,  verzamelpunt D66,  cafe Kobalt", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Netherlands", 
     "start_time": "16:00:00", 
     "venue": "", 
