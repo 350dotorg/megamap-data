@@ -1,4 +1,4 @@
-Number of events: 2069
+Number of events: 2068
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
@@ -37,7 +37,7 @@ Number of countries: 137
 	Côte d'Ivoire: 1
 	Denmark: 6
 	Dominican Republic: 7
-	Ecuador: 15
+	Ecuador: 14
 	Egypt: 28
 	El Salvador: 2
 	Estonia: 4
