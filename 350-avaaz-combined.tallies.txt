@@ -118,7 +118,7 @@ Number of countries: 159
 	Puerto Rico: 3
 	Qatar: 1
 	Reunion: 2
-	Romania: 16
+	Romania: 15
 	Russia: 45
 	Saudi Arabia: 11
 	Senegal: 2
@@ -150,7 +150,7 @@ Number of countries: 159
 	Ukraine: 51
 	United Arab Emirates: 3
 	United Kingdom: 100
-	United States of America: 276
+	United States of America: 277
 	Uruguay: 12
 	Uzbekistan: 1
 	Venezuela: 22
