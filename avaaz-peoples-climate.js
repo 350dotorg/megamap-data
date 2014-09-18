@@ -26307,7 +26307,7 @@ initData({},
   {
     "city": "Livorno", 
     "name": "Marcia Globale per il Clima - Obiettivo 100% di energia rinnovabile contro l'effetto serra", 
-    "rsvp_count": 19, 
+    "rsvp_count": 20, 
     "country": "Italy", 
     "start_time": "11:00:00", 
     "venue": "", 
