@@ -1,4 +1,4 @@
-Number of events: 2053
+Number of events: 2057
 Number of countries: 136
 	Afghanistan: 1
 	Albania: 1
@@ -17,7 +17,7 @@ Number of countries: 136
 	Bolivia: 5
 	Bosnia and Herzegovina: 1
 	Botswana: 1
-	Brazil: 196
+	Brazil: 198
 	Bulgaria: 4
 	Burkina Faso: 1
 	Burundi: 1
@@ -45,7 +45,7 @@ Number of countries: 136
 	France: 142
 	French Guiana: 1
 	French Polynesia: 2
-	Germany: 79
+	Germany: 80
 	Greece: 43
 	Grenada: 1
 	Guadeloupe: 2
@@ -95,7 +95,7 @@ Number of countries: 136
 	Peru: 30
 	Philippines: 3
 	Poland: 5
-	Portugal: 32
+	Portugal: 33
 	Puerto Rico: 2
 	Qatar: 1
 	Reunion: 1

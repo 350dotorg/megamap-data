@@ -1,4 +1,4 @@
-Number of events: 2804
+Number of events: 2812
 Number of countries: 163
 	Afghanistan: 1
 	Albania: 2
@@ -15,10 +15,10 @@ Number of countries: 163
 	Belgium: 39
 	Benin: 1
 	Bermuda: 1
-	Bolivia: 7
+	Bolivia: 8
 	Bosnia and Herzegovina: 1
 	Botswana: 1
-	Brazil: 207
+	Brazil: 209
 	British Virgin Islands: 1
 	Bulgaria: 6
 	Burkina Faso: 1
@@ -39,7 +39,7 @@ Number of countries: 163
 	Cyprus: 4
 	Czech Republic: 4
 	Côte d'Ivoire: 1
-	Democratic Republic of the Congo: 3
+	Democratic Republic of the Congo: 4
 	Denmark: 6
 	Dominica: 1
 	Dominican Republic: 8
@@ -53,7 +53,7 @@ Number of countries: 163
 	French Guiana: 1
 	French Polynesia: 2
 	Georgia: 1
-	Germany: 90
+	Germany: 91
 	Ghana: 3
 	Greece: 43
 	Grenada: 1
@@ -116,7 +116,7 @@ Number of countries: 163
 	Peru: 33
 	Philippines: 20
 	Poland: 8
-	Portugal: 40
+	Portugal: 41
 	Puerto Rico: 3
 	Qatar: 1
 	Reunion: 2
@@ -149,8 +149,8 @@ Number of countries: 163
 	Tunisia: 12
 	Turkey: 25
 	Tuvalu: 1
-	Uganda: 1
-	Ukraine: 52
+	Uganda: 2
+	Ukraine: 53
 	United Arab Emirates: 3
 	United Kingdom: 100
 	United States of America: 271
