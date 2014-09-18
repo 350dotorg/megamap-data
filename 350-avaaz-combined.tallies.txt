@@ -1,4 +1,4 @@
-Number of events: 2636
+Number of events: 2643
 Number of countries: 159
 	Afghanistan: 1
 	Albania: 1
@@ -24,7 +24,7 @@ Number of countries: 159
 	Burundi: 3
 	Cambodia: 1
 	Cameroon: 1
-	Canada: 152
+	Canada: 153
 	Cayman Islands: 1
 	Central African Republic: 1
 	Chile: 18
@@ -51,7 +51,7 @@ Number of countries: 159
 	French Guiana: 1
 	French Polynesia: 2
 	Georgia: 1
-	Germany: 86
+	Germany: 88
 	Ghana: 3
 	Greece: 38
 	Grenada: 1
@@ -68,7 +68,7 @@ Number of countries: 159
 	Indonesia: 4
 	Iran: 10
 	Iraq: 17
-	Ireland: 10
+	Ireland: 11
 	Isle of Man: 1
 	Israel: 13
 	Italy: 133
@@ -86,7 +86,7 @@ Number of countries: 159
 	Libya: 3
 	Lithuania: 2
 	Madagascar: 3
-	Malaysia: 3
+	Malaysia: 2
 	Maldives: 1
 	Mali: 2
 	Malta: 1
@@ -94,7 +94,7 @@ Number of countries: 159
 	Martinique: 2
 	Mauritania: 1
 	Mauritius: 1
-	Mexico: 102
+	Mexico: 103
 	Micronesia: 1
 	Moldova: 4
 	Morocco: 30
@@ -130,14 +130,14 @@ Number of countries: 159
 	South Africa: 21
 	South Korea: 3
 	South Sudan: 1
-	Spain: 123
+	Spain: 124
 	Sri Lanka: 2
 	Sudan: 7
-	Sweden: 25
+	Sweden: 24
 	Switzerland: 24
 	Syria: 3
 	Taiwan: 3
-	Tajikistan: 1
+	Tajikistan: 2
 	Tanzania: 4
 	Togo: 1
 	Tokelau: 1
@@ -150,7 +150,7 @@ Number of countries: 159
 	Ukraine: 50
 	United Arab Emirates: 3
 	United Kingdom: 100
-	United States of America: 268
+	United States of America: 270
 	Uruguay: 12
 	Uzbekistan: 1
 	Venezuela: 22

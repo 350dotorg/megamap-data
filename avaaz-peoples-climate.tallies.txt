@@ -1,5 +1,5 @@
 Number of events: 1873
-Number of countries: 130
+Number of countries: 129
 	Afghanistan: 1
 	Algeria: 20
 	Argentina: 56
@@ -42,7 +42,7 @@ Number of countries: 130
 	France: 132
 	French Guiana: 1
 	French Polynesia: 2
-	Germany: 75
+	Germany: 77
 	Greece: 38
 	Grenada: 1
 	Guadeloupe: 2
@@ -68,7 +68,6 @@ Number of countries: 130
 	Libya: 3
 	Lithuania: 2
 	Madagascar: 3
-	Malaysia: 1
 	Maldives: 1
 	Mali: 2
 	Martinique: 2
@@ -107,10 +106,10 @@ Number of countries: 130
 	South Africa: 14
 	South Korea: 1
 	South Sudan: 1
-	Spain: 111
+	Spain: 112
 	Sri Lanka: 2
 	Sudan: 7
-	Sweden: 10
+	Sweden: 9
 	Switzerland: 21
 	Syria: 3
 	Tajikistan: 1
@@ -122,7 +121,7 @@ Number of countries: 130
 	Ukraine: 47
 	United Arab Emirates: 2
 	United Kingdom: 60
-	United States of America: 53
+	United States of America: 52
 	Uruguay: 12
 	Venezuela: 21
 	Vietnam: 1
