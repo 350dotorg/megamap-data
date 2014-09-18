@@ -1859,7 +1859,7 @@ initData({},
   {
     "city": "Brasilia", 
     "name": "Uni\u00e3o Avaaz em Bras\u00edlia contra as Mudan\u00e7as Clim\u00e1ticas", 
-    "rsvp_count": 817, 
+    "rsvp_count": 818, 
     "country": "Brazil", 
     "start_time": "10:00:00", 
     "venue": "Esplanada dos Ministerios", 
@@ -32831,6 +32831,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_245", 
     "id": 5297
+  }, 
+  {
+    "city": "Los Angeles", 
+    "name": "People's Climate March", 
+    "rsvp_count": 1, 
+    "country": "United States of America", 
+    "start_time": "13:00:00", 
+    "venue": "", 
+    "longitude": -118.403063, 
+    "state": "CA", 
+    "country_code": "US", 
+    "address": "7709 Hosford Avenue, Los Angeles, CA 90045, USA", 
+    "latitude": 33.972766, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1663", 
+    "id": 5299
   }
 ]
 );
