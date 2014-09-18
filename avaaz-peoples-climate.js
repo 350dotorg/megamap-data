@@ -32847,6 +32847,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Mobilizacao_Global_pelo_Clima_Lauro_de_FreitasBA", 
     "id": 5296
+  }, 
+  {
+    "city": "Belo Horizonte", 
+    "name": "Caminhada pelo Clima", 
+    "rsvp_count": 1, 
+    "country": "Brazil", 
+    "start_time": "13:30:00", 
+    "venue": "Incerto, vai ser decidido em Assembl\u00e9ia: Congresso do SINSEP/MG.", 
+    "longitude": -43.9333, 
+    "state": "MG", 
+    "country_code": "BR", 
+    "address": "O Congresso que come\u00e7a dia 19/09/2014 e termina 21/09/2014, \u00e0s 12h00, no hotel SESC Venda Nova. N\u00e3o sei qual vai ser o resultado das vota\u00e7\u00f5es. Vou propor o ponto de pauta, j\u00e1 dia 19, e j\u00e1 levaremos faixa e megafone. Se vamos participar, ou onde vamos faze", 
+    "latitude": -19.9167, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_245", 
+    "id": 5297
   }
 ]
 );
