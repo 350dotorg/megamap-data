@@ -1,6 +1,22 @@
 initData({}, 
 [
   {
+    "city": "London", 
+    "name": "People's Climate March London", 
+    "rsvp_count": 3240, 
+    "country": "United Kingdom", 
+    "start_time": "12:30:00", 
+    "venue": "", 
+    "longitude": -0.11499920000006, 
+    "state": "", 
+    "country_code": "GB", 
+    "address": "Temple Place, London WC2R, UK", 
+    "latitude": 51.5110252, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_London", 
+    "id": 1488
+  }, 
+  {
     "city": "Eugene", 
     "name": "People's Climate March", 
     "rsvp_count": 31, 
