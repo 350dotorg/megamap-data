@@ -12323,7 +12323,7 @@ initData({},
   {
     "city": "St-Jean-sur-Richelieu", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 26, 
+    "rsvp_count": 27, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "place publique du vieux saint-jean", 
