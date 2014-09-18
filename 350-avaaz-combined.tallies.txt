@@ -1,4 +1,4 @@
-Number of events: 2814
+Number of events: 2815
 Number of countries: 163
 	Afghanistan: 1
 	Albania: 2
@@ -22,7 +22,7 @@ Number of countries: 163
 	British Virgin Islands: 1
 	Bulgaria: 6
 	Burkina Faso: 1
-	Burundi: 2
+	Burundi: 3
 	Cambodia: 1
 	Cameroon: 1
 	Canada: 154
