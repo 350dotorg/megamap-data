@@ -5555,7 +5555,7 @@ initData({},
   {
     "city": "St. Louis", 
     "name": "People's Climate March", 
-    "rsvp_count": 23, 
+    "rsvp_count": 24, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "Keiner Plaza", 
