@@ -29843,7 +29843,7 @@ initData({},
   {
     "city": "", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 10, 
+    "rsvp_count": 11, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "UFPA", 
