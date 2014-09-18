@@ -1,4 +1,4 @@
-Number of events: 2651
+Number of events: 2652
 Number of countries: 159
 	Afghanistan: 1
 	Albania: 1
@@ -156,6 +156,6 @@ Number of countries: 159
 	Venezuela: 22
 	Vietnam: 5
 	Western Sahara: 1
-	Yemen: 10
+	Yemen: 11
 	Zambia: 2
 	Zimbabwe: 2
