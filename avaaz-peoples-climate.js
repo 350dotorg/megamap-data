@@ -29075,7 +29075,7 @@ initData({},
   {
     "city": "Bourguignon", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "", 
