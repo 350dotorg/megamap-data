@@ -28355,7 +28355,7 @@ initData({},
   {
     "city": "Oca\u00f1a", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 37, 
+    "rsvp_count": 38, 
     "country": "Colombia", 
     "start_time": "14:00:00", 
     "venue": "Plazoleta de San Francisco", 
