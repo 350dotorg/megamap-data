@@ -32675,7 +32675,7 @@ initData({},
   {
     "city": "Belo Horizonte", 
     "name": "Caminhada pelo Clima sauda\u00e7\u00e3o a primavera moc. eco e pomar do cafezal", 
-    "rsvp_count": 8, 
+    "rsvp_count": 9, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "alto da serra no pomar do cafezal subir rua gregorio de matos ate veraldo lambertuci e rua f 293 .", 
