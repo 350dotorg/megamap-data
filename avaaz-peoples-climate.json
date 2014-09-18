@@ -2,7 +2,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 3354, 
+    "rsvp_count": 3355, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -82,7 +82,7 @@
   {
     "city": "Tamworth", 
     "name": "Tamworth People's Climate Action Rally", 
-    "rsvp_count": 10, 
+    "rsvp_count": 11, 
     "country": "Australia", 
     "start_time": "10:00:00", 
     "venue": "Bicentennial Park, Tamworth.", 
@@ -2578,7 +2578,7 @@
   {
     "city": "Saltillo", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 51, 
+    "rsvp_count": 52, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "PLAZA DE ARMAS", 
@@ -2738,7 +2738,7 @@
   {
     "city": "D\u00fcsseldorf", 
     "name": "KlimaAktionsTag", 
-    "rsvp_count": 254, 
+    "rsvp_count": 255, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Schadowplatz", 
@@ -3410,7 +3410,7 @@
   {
     "city": "Wien", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 684, 
+    "rsvp_count": 685, 
     "country": "Austria", 
     "start_time": "16:00:00", 
     "venue": "Gleich neben dem Stephansdom", 
@@ -6290,7 +6290,7 @@
   {
     "city": "Temuco", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 9, 
+    "rsvp_count": 10, 
     "country": "Chile", 
     "start_time": "13:00:00", 
     "venue": "Plaza de Armas", 
@@ -13874,7 +13874,7 @@
   {
     "city": "Reggio Emilia", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 59, 
+    "rsvp_count": 60, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "Piazza del monte", 
@@ -15922,7 +15922,7 @@
   {
     "city": "Pula", 
     "name": "People's Climate March", 
-    "rsvp_count": 28, 
+    "rsvp_count": 29, 
     "country": "Croatia", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -17282,7 +17282,7 @@
   {
     "city": "Sevilla", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 29, 
+    "rsvp_count": 30, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Plaza de la Encarnacion (las Setas)", 
@@ -18722,7 +18722,7 @@
   {
     "city": "Otaki", 
     "name": "People's Climate March", 
-    "rsvp_count": 15, 
+    "rsvp_count": 16, 
     "country": "New Zealand", 
     "start_time": "13:00:00", 
     "venue": "Haruatai Park", 
@@ -20082,7 +20082,7 @@
   {
     "city": "S\u00e3o Paulo", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 15, 
+    "rsvp_count": 16, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Masp", 
@@ -20274,7 +20274,7 @@
   {
     "city": "S\u00e3o Paulo", 
     "name": "VAMOS CRESCER PARA MUDAR O CLIMA", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Brazil", 
     "start_time": "07:00:00", 
     "venue": "", 
@@ -20306,7 +20306,7 @@
   {
     "city": "Bucharest", 
     "name": "Mar\u0219ul Cet\u0103\u021benilor pentru Ac\u021biune Climatic\u0103", 
-    "rsvp_count": 20, 
+    "rsvp_count": 21, 
     "country": "Romania", 
     "start_time": "16:30:00", 
     "venue": "Mars Parcul Tineretului - Piata Universitatii", 
@@ -20562,7 +20562,7 @@
   {
     "city": "", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 128, 
+    "rsvp_count": 129, 
     "country": "Brazil", 
     "start_time": "10:00:00", 
     "venue": "", 
@@ -24661,12 +24661,12 @@
     "rsvp_count": 2, 
     "country": "Mexico", 
     "start_time": "08:00:00", 
-    "venue": "", 
-    "longitude": -103.6008188, 
+    "venue": "Jard\u00edn Principal del Centro", 
+    "longitude": -103.5998678, 
     "state": "JAL", 
     "country_code": "MX", 
-    "address": "Ju\u00e1rez 4, 49300 Sayula, JAL, M\u00e9xico", 
-    "latitude": 19.8831105, 
+    "address": "Sayula, 49300 JAL, M\u00e9xico", 
+    "latitude": 19.8829821, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_507", 
     "id": 4837
@@ -29250,7 +29250,7 @@
   {
     "city": "Johannesburg", 
     "name": "Guests on earth Climate Change March", 
-    "rsvp_count": 7, 
+    "rsvp_count": 8, 
     "country": "South Africa", 
     "start_time": "13:00:00", 
     "venue": "Nelson Mandela and Kellener Detea offices", 
