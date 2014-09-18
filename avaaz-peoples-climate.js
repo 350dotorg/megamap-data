@@ -4147,7 +4147,7 @@ initData({},
   {
     "city": "Steyr", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 69, 
+    "rsvp_count": 70, 
     "country": "Austria", 
     "start_time": "13:00:00", 
     "venue": "Stadtplatz", 
