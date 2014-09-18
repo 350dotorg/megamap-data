@@ -9859,7 +9859,7 @@ initData({},
   {
     "city": "Arlon", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 47, 
+    "rsvp_count": 48, 
     "country": "Belgium", 
     "start_time": "13:00:00", 
     "venue": "place du char", 
