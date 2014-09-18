@@ -30707,7 +30707,7 @@ initData({},
   {
     "city": "Madrid", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 37, 
+    "rsvp_count": 38, 
     "country": "Spain", 
     "start_time": "11:30:00", 
     "venue": "Plaza de San Juan de la Cruz, Madrid", 
