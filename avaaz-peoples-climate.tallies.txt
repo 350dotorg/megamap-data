@@ -1,4 +1,4 @@
-Number of events: 1873
+Number of events: 1874
 Number of countries: 129
 	Afghanistan: 1
 	Algeria: 20
@@ -15,7 +15,7 @@ Number of countries: 129
 	Bolivia: 3
 	Bosnia and Herzegovina: 1
 	Botswana: 1
-	Brazil: 179
+	Brazil: 180
 	Bulgaria: 4
 	Burkina Faso: 1
 	Burundi: 1

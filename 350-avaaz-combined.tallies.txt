@@ -1,4 +1,4 @@
-Number of events: 2643
+Number of events: 2644
 Number of countries: 159
 	Afghanistan: 1
 	Albania: 1
@@ -17,7 +17,7 @@ Number of countries: 159
 	Bolivia: 7
 	Bosnia and Herzegovina: 1
 	Botswana: 1
-	Brazil: 190
+	Brazil: 191
 	British Virgin Islands: 1
 	Bulgaria: 6
 	Burkina Faso: 1
