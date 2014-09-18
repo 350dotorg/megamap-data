@@ -24771,7 +24771,7 @@ initData({},
   {
     "city": "Peterborough", 
     "name": "International Picnic and People's Climate March @ The Green Backyard", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "United Kingdom", 
     "start_time": "12:00:00", 
     "venue": "The Green Backyard", 
