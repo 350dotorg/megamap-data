@@ -15427,7 +15427,7 @@ initData({},
   {
     "city": "Guajar\u00e1-Mirim", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Brazil", 
     "start_time": "08:00:00", 
     "venue": "", 
