@@ -1,4 +1,4 @@
-Number of events: 2779
+Number of events: 2781
 Number of countries: 164
 	Afghanistan: 1
 	Albania: 2
@@ -104,7 +104,7 @@ Number of countries: 164
 	Nepal: 4
 	Netherlands: 43
 	New Caledonia: 3
-	New Zealand: 31
+	New Zealand: 32
 	Nicaragua: 4
 	Nigeria: 7
 	Norway: 12
@@ -115,7 +115,7 @@ Number of countries: 164
 	Papua New Guinea: 1
 	Paraguay: 3
 	Peru: 33
-	Philippines: 18
+	Philippines: 19
 	Poland: 7
 	Portugal: 40
 	Puerto Rico: 3
