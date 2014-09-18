@@ -1891,7 +1891,7 @@ initData({},
   {
     "city": "Birmingham", 
     "name": "People's Climate Change Rally", 
-    "rsvp_count": 185, 
+    "rsvp_count": 186, 
     "country": "United Kingdom", 
     "start_time": "11:00:00", 
     "venue": "", 
