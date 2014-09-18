@@ -1,4 +1,4 @@
-Number of events: 2782
+Number of events: 2783
 Number of countries: 164
 	Afghanistan: 1
 	Albania: 2
@@ -154,7 +154,7 @@ Number of countries: 164
 	Ukraine: 53
 	United Arab Emirates: 3
 	United Kingdom: 100
-	United States of America: 265
+	United States of America: 266
 	Uruguay: 13
 	Uzbekistan: 2
 	Venezuela: 22
