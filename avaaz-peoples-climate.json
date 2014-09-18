@@ -754,7 +754,7 @@
   {
     "city": "", 
     "name": "\u00c9venement des Citoyens pour le Climat", 
-    "rsvp_count": 1110, 
+    "rsvp_count": 1111, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "Place Poelaert", 
@@ -18690,7 +18690,7 @@
   {
     "city": "La Chaux-de-Fonds", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 15, 
+    "rsvp_count": 16, 
     "country": "Switzerland", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -20818,7 +20818,7 @@
   {
     "city": "Frankfurt", 
     "name": "People's Climate March", 
-    "rsvp_count": 52, 
+    "rsvp_count": 53, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -31457,7 +31457,7 @@
   }, 
   {
     "city": "Monza", 
-    "name": "RADUNA NAZIONALE VEICOLI ELETTRICI", 
+    "name": "RADUNO NAZIONALE VEICOLI ELETTRICI", 
     "rsvp_count": 2, 
     "country": "Italy", 
     "start_time": "10:00:00", 
