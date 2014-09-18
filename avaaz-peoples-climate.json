@@ -3234,7 +3234,7 @@
   {
     "city": "Dublin", 
     "name": "People's Climate March", 
-    "rsvp_count": 244, 
+    "rsvp_count": 245, 
     "country": "Ireland", 
     "start_time": "13:00:00", 
     "venue": "D\u00e1il \u00c9ireann, Dublin city centre", 
@@ -24530,7 +24530,7 @@
   {
     "city": "Ilha Solteira", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 7, 
+    "rsvp_count": 8, 
     "country": "Brazil", 
     "start_time": "09:00:00", 
     "venue": "Pra\u00e7a dos Paiagu\u00e1s", 
@@ -25778,7 +25778,7 @@
   {
     "city": "Costa da Caparica", 
     "name": "Corrida pelo Clima", 
-    "rsvp_count": 12, 
+    "rsvp_count": 13, 
     "country": "Portugal", 
     "start_time": "09:00:00", 
     "venue": "Costa Capatica, nas escadas do Cafe do Mar Barbas", 
