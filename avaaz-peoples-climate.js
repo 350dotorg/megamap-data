@@ -25235,7 +25235,7 @@ initData({},
   {
     "city": "Falmouth", 
     "name": "Raise a brolly against climate folly", 
-    "rsvp_count": 24, 
+    "rsvp_count": 25, 
     "country": "United Kingdom", 
     "start_time": "15:00:00", 
     "venue": "", 
