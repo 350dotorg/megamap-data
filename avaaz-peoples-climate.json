@@ -5860,7 +5860,7 @@
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
     "rsvp_count": 111, 
     "country": "Dominican Republic", 
-    "start_time": "13:00:00", 
+    "start_time": "11:00:00", 
     "venue": "Parque Mirador Sur", 
     "longitude": -69.9513117, 
     "state": "Santo Domingo", 
@@ -14514,7 +14514,7 @@
   {
     "city": "Cincinnati", 
     "name": "People's Climate March", 
-    "rsvp_count": 11, 
+    "rsvp_count": 12, 
     "country": "United States of America", 
     "start_time": "12:00:00", 
     "venue": "Theodore M. Berry International Friendship Park", 
