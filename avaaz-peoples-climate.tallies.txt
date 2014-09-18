@@ -95,7 +95,7 @@ Number of countries: 136
 	Peru: 30
 	Philippines: 3
 	Poland: 5
-	Portugal: 31
+	Portugal: 32
 	Puerto Rico: 2
 	Qatar: 1
 	Reunion: 1
@@ -125,7 +125,7 @@ Number of countries: 136
 	Turkey: 14
 	Ukraine: 50
 	United Arab Emirates: 2
-	United Kingdom: 62
+	United Kingdom: 61
 	United States of America: 56
 	Uruguay: 13
 	Uzbekistan: 1

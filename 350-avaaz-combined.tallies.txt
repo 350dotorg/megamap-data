@@ -1,4 +1,4 @@
-Number of events: 2795
+Number of events: 2798
 Number of countries: 163
 	Afghanistan: 1
 	Albania: 2
@@ -75,7 +75,7 @@ Number of countries: 163
 	Israel: 13
 	Italy: 140
 	Ivory Coast: 1
-	Japan: 8
+	Japan: 9
 	Jersey: 1
 	Jordan: 2
 	Kenya: 4
@@ -114,9 +114,9 @@ Number of countries: 163
 	Papua New Guinea: 1
 	Paraguay: 3
 	Peru: 33
-	Philippines: 19
+	Philippines: 20
 	Poland: 8
-	Portugal: 39
+	Portugal: 40
 	Puerto Rico: 3
 	Qatar: 1
 	Reunion: 2
@@ -133,7 +133,7 @@ Number of countries: 163
 	South Africa: 22
 	South Korea: 3
 	South Sudan: 1
-	Spain: 131
+	Spain: 132
 	Sri Lanka: 2
 	Sudan: 7
 	Sweden: 30
@@ -152,7 +152,7 @@ Number of countries: 163
 	Uganda: 1
 	Ukraine: 52
 	United Arab Emirates: 3
-	United Kingdom: 101
+	United Kingdom: 100
 	United States of America: 271
 	Uruguay: 13
 	Uzbekistan: 2
