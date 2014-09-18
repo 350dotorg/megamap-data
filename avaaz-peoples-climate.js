@@ -11331,7 +11331,7 @@ initData({},
   {
     "city": "Pachuca", 
     "name": "Tertulia Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 25, 
+    "rsvp_count": 26, 
     "country": "Mexico", 
     "start_time": "12:00:00", 
     "venue": "Kiosko frente al reloj monumental de Pachuca. Plaza Independencia.", 
