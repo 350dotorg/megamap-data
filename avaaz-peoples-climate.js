@@ -25491,7 +25491,7 @@ initData({},
   {
     "city": "Ampuero", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 6, 
+    "rsvp_count": 7, 
     "country": "Spain", 
     "start_time": "12:00:00", 
     "venue": "Plaza de Ampuero", 
