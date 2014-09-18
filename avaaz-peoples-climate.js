@@ -18931,7 +18931,7 @@ initData({},
   {
     "city": "Barcelona", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 136, 
+    "rsvp_count": 137, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "CALLE LA ERA N\u00ba 5, FRENTE AL AYUNTAMIENTO", 
