@@ -11266,7 +11266,7 @@
   {
     "city": "Bengaluru", 
     "name": "People's Climate March", 
-    "rsvp_count": 44, 
+    "rsvp_count": 45, 
     "country": "India", 
     "start_time": "13:00:00", 
     "venue": "Town Hall, J C Road", 
@@ -30974,22 +30974,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_532", 
     "id": 5137
-  }, 
-  {
-    "city": "Beirut", 
-    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 2, 
-    "country": "Lebanon", 
-    "start_time": "13:00:00", 
-    "venue": "\u0628\u064a\u0631\u0648\u062a\u060c \u0644\u0628\u0646\u0627\u0646", 
-    "longitude": 35.4954794, 
-    "state": "Beirut", 
-    "country_code": "LB", 
-    "address": "Beirut, Lebanon", 
-    "latitude": 33.8886289, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/ar/event/climate/lmsyr_lmnkhy_lshby_255", 
-    "id": 5138
   }, 
   {
     "city": "Swansea", 

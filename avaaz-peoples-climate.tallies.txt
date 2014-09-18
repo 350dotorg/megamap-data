@@ -1,5 +1,5 @@
-Number of events: 2052
-Number of countries: 137
+Number of events: 2051
+Number of countries: 136
 	Afghanistan: 1
 	Albania: 1
 	Algeria: 48
@@ -67,7 +67,6 @@ Number of countries: 137
 	Kosovo: 2
 	Kuwait: 2
 	Kyrgistan: 2
-	Lebanon: 1
 	Liberia: 1
 	Libya: 3
 	Lithuania: 2

@@ -1,5 +1,5 @@
-Number of events: 2789
-Number of countries: 164
+Number of events: 2788
+Number of countries: 163
 	Afghanistan: 1
 	Albania: 2
 	Algeria: 48
@@ -84,7 +84,6 @@ Number of countries: 164
 	Kuwait: 2
 	Kyrgistan: 2
 	Latvia: 1
-	Lebanon: 1
 	Liberia: 1
 	Libya: 3
 	Lithuania: 2
