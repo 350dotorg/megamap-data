@@ -1,4 +1,4 @@
-Number of events: 1875
+Number of events: 1876
 Number of countries: 129
 	Afghanistan: 1
 	Algeria: 20
@@ -126,6 +126,6 @@ Number of countries: 129
 	Venezuela: 21
 	Vietnam: 1
 	Western Sahara: 1
-	Yemen: 10
+	Yemen: 11
 	Zambia: 2
 	Zimbabwe: 1
