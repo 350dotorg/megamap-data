@@ -9059,7 +9059,7 @@ initData({},
   {
     "city": "Maple Ridge", 
     "name": "People's Climate March", 
-    "rsvp_count": 33, 
+    "rsvp_count": 34, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Bandstand on 224th Street", 
