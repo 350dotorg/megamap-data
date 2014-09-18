@@ -16499,7 +16499,7 @@ initData({},
   {
     "city": "Deventer", 
     "name": "Actiedag voor het Klimaat", 
-    "rsvp_count": 19, 
+    "rsvp_count": 20, 
     "country": "Netherlands", 
     "start_time": "12:30:00", 
     "venue": "Ulebelt, Maatmansweg", 
