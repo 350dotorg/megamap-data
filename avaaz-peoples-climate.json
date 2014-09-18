@@ -4242,7 +4242,7 @@
   {
     "city": "Bordeaux", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 228, 
+    "rsvp_count": 229, 
     "country": "France", 
     "start_time": "14:30:00", 
     "venue": "", 
@@ -5298,7 +5298,7 @@
   {
     "city": "Graz", 
     "name": "Klima-Aktion Graz - People's Climate March", 
-    "rsvp_count": 264, 
+    "rsvp_count": 265, 
     "country": "Austria", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -16802,7 +16802,7 @@
   {
     "city": "Bras\u00edlia", 
     "name": "People's Climate March", 
-    "rsvp_count": 102, 
+    "rsvp_count": 103, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Esplanada dos Minist\u00e9rios", 
@@ -30086,11 +30086,11 @@
     "country": "Russia", 
     "start_time": "13:00:00", 
     "venue": "\u042e\u0431\u0438\u043b\u0435\u0439\u043d\u0430\u044f", 
-    "longitude": 86.2951538, 
+    "longitude": 86.3028461, 
     "state": "\u041a\u0435\u043c\u0435\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", 
     "country_code": "RU", 
-    "address": "\u042e\u0431\u0438\u043b\u0435\u0439\u043d\u0430\u044f \u0443\u043b\u0438\u0446\u0430, \u0411\u0435\u043b\u043e\u0432\u043e, \u041a\u0435\u043c\u0435\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0420\u043e\u0441\u0441\u0438\u044f", 
-    "latitude": 54.4116866, 
+    "address": "\u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430, \u0411\u0435\u043b\u043e\u0432\u043e, \u041a\u0435\u043c\u0435\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0420\u043e\u0441\u0441\u0438\u044f", 
+    "latitude": 54.4116434, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/ru/event/climate/Narodnyy_klimaticheskiy_marsh_199", 
     "id": 5074
@@ -30706,7 +30706,7 @@
   {
     "city": "Madrid", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 41, 
+    "rsvp_count": 42, 
     "country": "Spain", 
     "start_time": "11:30:00", 
     "venue": "Plaza de San Juan de la Cruz, Madrid", 
