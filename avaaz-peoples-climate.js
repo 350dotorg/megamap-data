@@ -2755,7 +2755,7 @@ initData({},
   {
     "city": "Brampton", 
     "name": "Sacred Drum Circle to Honour Mother Earth as part of People's Climate March", 
-    "rsvp_count": 55, 
+    "rsvp_count": 56, 
     "country": "Canada", 
     "start_time": "19:00:00", 
     "venue": "72 Newbridge Crescent , backyard of organizer Christine", 
