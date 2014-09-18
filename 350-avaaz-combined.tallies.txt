@@ -1,4 +1,4 @@
-Number of events: 2799
+Number of events: 2801
 Number of countries: 163
 	Afghanistan: 1
 	Albania: 2
@@ -36,7 +36,7 @@ Number of countries: 163
 	Costa Rica: 7
 	Croatia: 2
 	Cuba: 2
-	Cyprus: 3
+	Cyprus: 4
 	Czech Republic: 4
 	Côte d'Ivoire: 1
 	Democratic Republic of the Congo: 3
@@ -147,7 +147,7 @@ Number of countries: 163
 	Tonga: 2
 	Trinidad and Tobago: 1
 	Tunisia: 12
-	Turkey: 24
+	Turkey: 25
 	Tuvalu: 1
 	Uganda: 1
 	Ukraine: 52

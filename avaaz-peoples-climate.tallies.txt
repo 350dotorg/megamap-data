@@ -1,4 +1,4 @@
-Number of events: 2051
+Number of events: 2052
 Number of countries: 136
 	Afghanistan: 1
 	Albania: 1
@@ -32,7 +32,7 @@ Number of countries: 136
 	Costa Rica: 5
 	Croatia: 2
 	Cuba: 2
-	Cyprus: 3
+	Cyprus: 4
 	Czech Republic: 2
 	Côte d'Ivoire: 1
 	Denmark: 6
