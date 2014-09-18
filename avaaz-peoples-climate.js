@@ -13075,7 +13075,7 @@ initData({},
   {
     "city": "S\u00e3o Paulo", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 110, 
+    "rsvp_count": 111, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a Nova Am\u00e9rica", 
