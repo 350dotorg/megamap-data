@@ -1,4 +1,4 @@
-Number of events: 2053
+Number of events: 2054
 Number of countries: 136
 	Afghanistan: 1
 	Albania: 1
@@ -60,7 +60,7 @@ Number of countries: 136
 	Iraq: 18
 	Ireland: 7
 	Israel: 10
-	Italy: 126
+	Italy: 127
 	Japan: 7
 	Jordan: 2
 	Kenya: 2
