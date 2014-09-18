@@ -12691,7 +12691,7 @@ initData({},
   {
     "city": "Mumbai", 
     "name": "People's Climate March", 
-    "rsvp_count": 31, 
+    "rsvp_count": 32, 
     "country": "India", 
     "start_time": "13:00:00", 
     "venue": "", 
