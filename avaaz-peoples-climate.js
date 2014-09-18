@@ -24067,7 +24067,7 @@ initData({},
   {
     "city": "Port Alberni", 
     "name": "Port Alberni People's Climate Rally and Banner-Making", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Canada", 
     "start_time": "09:00:00", 
     "venue": "Corner of Argyle Street and Kingsway Avenue", 
