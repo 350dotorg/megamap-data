@@ -29795,7 +29795,7 @@ initData({},
   {
     "city": "Lustenau", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 22, 
+    "rsvp_count": 23, 
     "country": "Austria", 
     "start_time": "10:00:00", 
     "venue": "Kirchplatz", 
