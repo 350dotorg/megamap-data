@@ -11203,7 +11203,7 @@ initData({},
   {
     "city": "Berriedale", 
     "name": "People's Climate March: Climate Pop Up Gathering at MONA", 
-    "rsvp_count": 95, 
+    "rsvp_count": 96, 
     "country": "Australia", 
     "start_time": "13:00:00", 
     "venue": "MONA, gather on far side of tennis court  (in area where museum entrance is, but away from the entrance).", 
