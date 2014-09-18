@@ -7811,7 +7811,7 @@ initData({},
   {
     "city": "Bommayapalayam", 
     "name": "\"Pachamama Ceremony \"- Ceremony to the Mother Earth -.In the Circle of the Latinamerican Countries in Auroville, The City of the Human Unity ,  we wil do an offering to the Mother Earth ,thanking for all that she gives to us and finishing with a bonfire .", 
-    "rsvp_count": 8, 
+    "rsvp_count": 9, 
     "country": "India", 
     "start_time": "17:00:00", 
     "venue": "INnternational Zone in Auroville.Circle of the Latinamerican Countries , opposite the Canadian sit , near the Tibetan Pavilion", 
