@@ -30259,7 +30259,7 @@ initData({},
   {
     "city": "St. Catharines", 
     "name": "Screening of Disruption, and 5 min. talks and entertainment by many local sectors", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Canada", 
     "start_time": "16:30:00", 
     "venue": "", 
