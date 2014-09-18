@@ -1,4 +1,4 @@
-Number of events: 1872
+Number of events: 1873
 Number of countries: 130
 	Afghanistan: 1
 	Algeria: 20
@@ -111,7 +111,7 @@ Number of countries: 130
 	Sri Lanka: 2
 	Sudan: 7
 	Sweden: 10
-	Switzerland: 20
+	Switzerland: 21
 	Syria: 3
 	Tajikistan: 1
 	Tanzania: 1

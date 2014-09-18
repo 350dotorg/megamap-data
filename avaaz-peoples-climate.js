@@ -899,7 +899,7 @@ initData({},
   {
     "city": "Ottawa", 
     "name": "People's Climate March - Ottawa Event", 
-    "rsvp_count": 391, 
+    "rsvp_count": 392, 
     "country": "Canada", 
     "start_time": "12:00:00", 
     "venue": "Parliament Hill", 
@@ -29951,6 +29951,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Edmon_Prochain_contre_le_changement_climatique", 
     "id": 5316
+  }, 
+  {
+    "city": "Biel/Bienne", 
+    "name": "Klima-Aktionstag", 
+    "rsvp_count": 1, 
+    "country": "Switzerland", 
+    "start_time": "13:00:00", 
+    "venue": "", 
+    "longitude": 7.2548234999999, 
+    "state": "BE", 
+    "country_code": "CH", 
+    "address": "B\u00f6zingenstrasse 25, 2502 Biel/Bienne, Schweiz", 
+    "latitude": 47.1467606, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaAktionstag_178", 
+    "id": 5318
   }
 ]
 );
