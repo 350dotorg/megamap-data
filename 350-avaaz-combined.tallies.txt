@@ -1,0 +1,161 @@
+Number of events: 2654
+Number of countries: 159
+	Afghanistan: 1
+	Albania: 1
+	Algeria: 20
+	Angola: 2
+	Argentina: 62
+	Armenia: 2
+	Australia: 137
+	Austria: 29
+	Azerbaijan: 1
+	Bahrain: 5
+	Bangladesh: 10
+	Belarus: 3
+	Belgium: 35
+	Benin: 1
+	Bolivia: 7
+	Bosnia and Herzegovina: 1
+	Botswana: 1
+	Brazil: 192
+	British Virgin Islands: 1
+	Bulgaria: 6
+	Burkina Faso: 1
+	Burundi: 3
+	Cambodia: 1
+	Cameroon: 1
+	Canada: 153
+	Cayman Islands: 1
+	Central African Republic: 1
+	Chile: 18
+	China: 2
+	Colombia: 73
+	Congo, DPR: 2
+	Congo, PR: 2
+	Costa Rica: 7
+	Croatia: 1
+	Cuba: 2
+	Cyprus: 3
+	Czech Republic: 4
+	Democratic Republic of the Congo: 4
+	Denmark: 6
+	Dominica: 1
+	Dominican Republic: 8
+	Ecuador: 15
+	Egypt: 28
+	El Salvador: 2
+	Estonia: 5
+	Fiji: 1
+	Finland: 8
+	France: 153
+	French Guiana: 1
+	French Polynesia: 2
+	Georgia: 1
+	Germany: 88
+	Ghana: 3
+	Greece: 37
+	Grenada: 1
+	Guadeloupe: 2
+	Guam: 1
+	Guatemala: 11
+	Guinea: 2
+	Guyana: 1
+	Honduras: 2
+	Hong Kong: 1
+	Hungary: 8
+	Iceland: 2
+	India: 34
+	Indonesia: 4
+	Iran: 10
+	Iraq: 17
+	Ireland: 11
+	Isle of Man: 1
+	Israel: 13
+	Italy: 133
+	Ivory Coast: 1
+	Japan: 8
+	Jersey: 1
+	Jordan: 2
+	Kenya: 4
+	Kiribati: 1
+	Kosovo: 1
+	Kuwait: 2
+	Kyrgistan: 2
+	Latvia: 1
+	Liberia: 1
+	Libya: 3
+	Lithuania: 2
+	Madagascar: 3
+	Malaysia: 2
+	Maldives: 1
+	Mali: 2
+	Malta: 1
+	Marshall Islands: 1
+	Martinique: 2
+	Mauritania: 1
+	Mauritius: 1
+	Mexico: 104
+	Micronesia: 1
+	Moldova: 4
+	Morocco: 30
+	Nepal: 4
+	Netherlands: 44
+	New Caledonia: 3
+	New Zealand: 29
+	Nicaragua: 3
+	Nigeria: 7
+	Norway: 12
+	Oman: 2
+	Pakistan: 3
+	Palestine: 5
+	Panama: 3
+	Papua New Guinea: 1
+	Paraguay: 3
+	Peru: 35
+	Philippines: 19
+	Poland: 8
+	Portugal: 39
+	Puerto Rico: 3
+	Qatar: 1
+	Reunion: 2
+	Romania: 16
+	Russia: 45
+	Saudi Arabia: 11
+	Senegal: 2
+	Serbia: 6
+	Seychelles: 2
+	Slovakia: 7
+	Slovenia: 3
+	Solomon Islands: 1
+	South Africa: 21
+	South Korea: 3
+	South Sudan: 1
+	Spain: 124
+	Sri Lanka: 2
+	Sudan: 7
+	Sweden: 24
+	Switzerland: 24
+	Syria: 3
+	Taiwan: 3
+	Tajikistan: 2
+	Tanzania: 4
+	Togo: 1
+	Tokelau: 1
+	Tonga: 2
+	Trinidad and Tobago: 1
+	Tunisia: 11
+	Turkey: 22
+	Tuvalu: 1
+	Uganda: 2
+	Ukraine: 51
+	United Arab Emirates: 3
+	United Kingdom: 100
+	United States of America: 275
+	Uruguay: 12
+	Uzbekistan: 1
+	Venezuela: 22
+	Vietnam: 5
+	Western Sahara: 1
+	Yemen: 11
+	Zambia: 2
+	Zimbabwe: 2
