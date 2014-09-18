@@ -1,4 +1,4 @@
-Number of events: 2052
+Number of events: 2053
 Number of countries: 136
 	Afghanistan: 1
 	Albania: 1
@@ -111,7 +111,7 @@ Number of countries: 136
 	South Africa: 15
 	South Korea: 1
 	South Sudan: 1
-	Spain: 121
+	Spain: 122
 	Sri Lanka: 2
 	Sudan: 7
 	Sweden: 15

@@ -754,7 +754,7 @@
   {
     "city": "", 
     "name": "\u00c9venement des Citoyens pour le Climat", 
-    "rsvp_count": 1129, 
+    "rsvp_count": 1130, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "Place Poelaert", 
@@ -3042,7 +3042,7 @@
   {
     "city": "Porto Alegre", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 541, 
+    "rsvp_count": 542, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Parque Farroupilha - Reden\u00e7\u00e3o", 
@@ -16016,6 +16016,22 @@
     "id": 3721
   }, 
   {
+    "city": "Potr\u00edes", 
+    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico en Potries", 
+    "rsvp_count": 5, 
+    "country": "Spain", 
+    "start_time": "13:00:00", 
+    "venue": "Mercat del Trenet  de Potries", 
+    "longitude": -0.19457899999998, 
+    "state": "Comunidad Valenciana", 
+    "country_code": "ES", 
+    "address": "46721 Potr\u00edes, Valencia, Espa\u00f1a", 
+    "latitude": 38.9150999, 
+    "event_date": "2014-09-20", 
+    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_en_Potries", 
+    "id": 3722
+  }, 
+  {
     "city": "Goi\u00e2nia", 
     "name": "Caminhada pelo Clima", 
     "rsvp_count": 352, 
@@ -16802,7 +16818,7 @@
   {
     "city": "Bras\u00edlia", 
     "name": "People's Climate March", 
-    "rsvp_count": 103, 
+    "rsvp_count": 104, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Esplanada dos Minist\u00e9rios", 
