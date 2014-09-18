@@ -7027,7 +7027,7 @@ initData({},
   {
     "city": "Stuttgart", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 207, 
+    "rsvp_count": 208, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Fu\u00dfg\u00e4ngerzone S-Untertr\u00fcrkheim", 
@@ -32879,6 +32879,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaAktionstag_176", 
     "id": 5314
+  }, 
+  {
+    "city": "Saint-Hilaire", 
+    "name": "Edmon Prochain contre le changement climatique\u2026", 
+    "rsvp_count": 1, 
+    "country": "France", 
+    "start_time": "12:00:00", 
+    "venue": "D\u00e9collage de la Coupe Icare", 
+    "longitude": 5.8782004, 
+    "state": "RA", 
+    "country_code": "FR", 
+    "address": "Saint-Hilaire, France", 
+    "latitude": 45.3085676, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Edmon_Prochain_contre_le_changement_climatique", 
+    "id": 5316
   }
 ]
 );
