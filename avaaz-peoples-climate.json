@@ -626,7 +626,7 @@
   {
     "city": "Zurich", 
     "name": "Zurich People's Climate Stand (IMPORTANT: main event takes place at Helvetiaplatz at 18:00)", 
-    "rsvp_count": 222, 
+    "rsvp_count": 223, 
     "country": "Switzerland", 
     "start_time": "10:00:00", 
     "venue": "Hirschenplatz", 
@@ -2354,7 +2354,7 @@
   {
     "city": "Lyon", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 352, 
+    "rsvp_count": 353, 
     "country": "France", 
     "start_time": "14:30:00", 
     "venue": "Terreaux", 
@@ -4386,7 +4386,7 @@
   {
     "city": "Manchester", 
     "name": "People's Climate March", 
-    "rsvp_count": 194, 
+    "rsvp_count": 195, 
     "country": "United Kingdom", 
     "start_time": "11:00:00", 
     "venue": "Piccadilly gardens", 
@@ -7458,7 +7458,7 @@
   {
     "city": "Las Vegas", 
     "name": "People's Climate March", 
-    "rsvp_count": 43, 
+    "rsvp_count": 44, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -9346,7 +9346,7 @@
   {
     "city": "Kansas City", 
     "name": "People's Climate March", 
-    "rsvp_count": 31, 
+    "rsvp_count": 32, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "JC Nichols Fountains @ 47th and Main Street on the Plaza", 
