@@ -23395,7 +23395,7 @@ initData({},
   {
     "city": "Kolkata", 
     "name": "People's Climate March", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "India", 
     "start_time": "13:00:00", 
     "venue": "ESPLANADE METRO CHANNEL", 
