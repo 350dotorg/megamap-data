@@ -1682,7 +1682,7 @@
   {
     "city": "Hamburg", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 432, 
+    "rsvp_count": 433, 
     "country": "Germany", 
     "start_time": "16:00:00", 
     "venue": "vor dem Rathaus", 
@@ -2210,7 +2210,7 @@
   {
     "city": "Milano", 
     "name": "Climate March", 
-    "rsvp_count": 362, 
+    "rsvp_count": 363, 
     "country": "Italy", 
     "start_time": "10:00:00", 
     "venue": "", 
@@ -4274,7 +4274,7 @@
   {
     "city": "Stirling", 
     "name": "People's Climate March, from King's Park, Stirling", 
-    "rsvp_count": 18, 
+    "rsvp_count": 19, 
     "country": "United Kingdom", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -15378,7 +15378,7 @@
   {
     "city": "Namur", 
     "name": "Marche Pour le Climat \u00e0 Namur (RW)", 
-    "rsvp_count": 71, 
+    "rsvp_count": 72, 
     "country": "Belgium", 
     "start_time": "13:00:00", 
     "venue": "Hall (bas) de la Gare de Namur", 
@@ -21362,7 +21362,7 @@
   {
     "city": "Varik", 
     "name": "Actiedag voor het Klimaat", 
-    "rsvp_count": 14, 
+    "rsvp_count": 15, 
     "country": "Netherlands", 
     "start_time": "13:00:00", 
     "venue": "", 
