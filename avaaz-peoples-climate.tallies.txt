@@ -1,4 +1,4 @@
-Number of events: 2054
+Number of events: 2053
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
@@ -29,7 +29,7 @@ Number of countries: 137
 	Colombia: 74
 	Congo, DPR: 2
 	Congo, PR: 2
-	Costa Rica: 6
+	Costa Rica: 5
 	Croatia: 2
 	Cuba: 2
 	Cyprus: 3

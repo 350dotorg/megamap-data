@@ -1,4 +1,4 @@
-Number of events: 2783
+Number of events: 2782
 Number of countries: 164
 	Afghanistan: 1
 	Albania: 2
@@ -33,7 +33,7 @@ Number of countries: 164
 	Colombia: 82
 	Congo, DPR: 2
 	Congo, PR: 2
-	Costa Rica: 8
+	Costa Rica: 7
 	Croatia: 2
 	Cuba: 2
 	Cyprus: 3
