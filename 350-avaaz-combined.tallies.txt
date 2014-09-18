@@ -150,12 +150,12 @@ Number of countries: 159
 	Ukraine: 50
 	United Arab Emirates: 3
 	United Kingdom: 100
-	United States of America: 274
+	United States of America: 275
 	Uruguay: 12
 	Uzbekistan: 1
 	Venezuela: 22
 	Vietnam: 5
 	Western Sahara: 1
-	Yemen: 11
+	Yemen: 10
 	Zambia: 2
 	Zimbabwe: 2
