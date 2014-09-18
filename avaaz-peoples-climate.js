@@ -15267,7 +15267,7 @@ initData({},
   {
     "city": "Monts\u00e9gur", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 17, 
+    "rsvp_count": 18, 
     "country": "France", 
     "start_time": "11:00:00", 
     "venue": "RDV a 11h au Pied du chateau de Montsegur, devant la croix m\u00e9moriale Cathare. Marche familiale d'environ 30 mn jusqu'au sommet. A 12h00 : concert de conques.", 
