@@ -1,4 +1,4 @@
-Number of events: 2817
+Number of events: 2819
 Number of countries: 163
 	Afghanistan: 1
 	Albania: 2
@@ -113,7 +113,7 @@ Number of countries: 163
 	Panama: 3
 	Papua New Guinea: 1
 	Paraguay: 3
-	Peru: 33
+	Peru: 35
 	Philippines: 20
 	Poland: 8
 	Portugal: 42
