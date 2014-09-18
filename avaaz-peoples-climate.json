@@ -12962,7 +12962,7 @@
   {
     "city": "Goi\u00e2nia", 
     "name": "Recomposi\u00e7\u00e3o Total das Matas Ciliares", 
-    "rsvp_count": 527, 
+    "rsvp_count": 528, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Pra\u00e7a C\u00edvica", 
@@ -28102,11 +28102,11 @@
     "country": "Netherlands", 
     "start_time": "13:30:00", 
     "venue": "Yoga centrum Leidse Hout", 
-    "longitude": 4.4970097, 
+    "longitude": 4.4798556000001, 
     "state": "ZH", 
     "country_code": "NL", 
-    "address": "Leiden, Nederland", 
-    "latitude": 52.1601144, 
+    "address": "Groene Maredijk 96, 2334 CT Leiden, Nederland", 
+    "latitude": 52.1770849, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/klinken_voor_de_aarde_met_stemexpressie", 
     "id": 4889
@@ -30706,7 +30706,7 @@
   {
     "city": "Madrid", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 33, 
+    "rsvp_count": 34, 
     "country": "Spain", 
     "start_time": "11:30:00", 
     "venue": "Plaza de San Juan de la Cruz, Madrid", 
