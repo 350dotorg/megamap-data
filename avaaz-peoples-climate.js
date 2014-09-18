@@ -14739,7 +14739,7 @@ initData({},
   {
     "city": "Bogot\u00e1", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 68, 
+    "rsvp_count": 69, 
     "country": "Colombia", 
     "start_time": "13:00:00", 
     "venue": "", 
