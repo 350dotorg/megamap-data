@@ -1,4 +1,4 @@
-Number of events: 2054
+Number of events: 2053
 Number of countries: 137
 	Afghanistan: 1
 	Albania: 1
@@ -124,7 +124,7 @@ Number of countries: 137
 	Trinidad and Tobago: 1
 	Tunisia: 12
 	Turkey: 14
-	Ukraine: 51
+	Ukraine: 50
 	United Arab Emirates: 2
 	United Kingdom: 62
 	United States of America: 56
