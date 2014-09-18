@@ -13139,7 +13139,7 @@ initData({},
   {
     "city": "Governador Valadares", 
     "name": "Caminhada pelo Clima e em defesa do Rio Doce", 
-    "rsvp_count": 23, 
+    "rsvp_count": 24, 
     "country": "Brazil", 
     "start_time": "10:00:00", 
     "venue": "Pra\u00e7a da Ilha dos Ara\u00fajos", 
