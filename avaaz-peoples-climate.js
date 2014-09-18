@@ -20259,7 +20259,7 @@ initData({},
   {
     "city": "Guanajuato", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 17, 
+    "rsvp_count": 18, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Alhondiga de Granaditas", 
