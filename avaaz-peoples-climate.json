@@ -192,38 +192,6 @@
     "id": 1708
   }, 
   {
-    "city": "Napoli", 
-    "name": "Napoli: E' tempo di cambiare...il clima !", 
-    "rsvp_count": 34, 
-    "country": "Italy", 
-    "start_time": "18:00:00", 
-    "venue": "via partenope", 
-    "longitude": 14.2452722, 
-    "state": "NA", 
-    "country_code": "IT", 
-    "address": "Via Partenope, 23, 80122 Napoli, Italia", 
-    "latitude": 40.8300377, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Napoli_E_tempo_di_cambiareil_clima_3_3_3_3", 
-    "id": 1724
-  }, 
-  {
-    "city": "Napoli", 
-    "name": "Napoli: E'tempo di cambiare ... il clima", 
-    "rsvp_count": 106, 
-    "country": "Italy", 
-    "start_time": "18:00:00", 
-    "venue": "napoli", 
-    "longitude": 14.2348234, 
-    "state": "Campania", 
-    "country_code": "IT", 
-    "address": "Via Francesco Caracciolo, 80122 Napoli, Italia", 
-    "latitude": 40.8321581, 
-    "event_date": "2014-12-21", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Napoli_Etempo_di_cambiare_il_clima", 
-    "id": 1725
-  }, 
-  {
     "city": "", 
     "name": "Marche mondiale pour le climat @ Montr\u00e9al / Peoples' Climate March @ Montr\u00e9al", 
     "rsvp_count": 123, 
@@ -670,22 +638,6 @@
     "event_date": "2014-09-20", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Zurich_Peoples_Climate_March", 
     "id": 1887
-  }, 
-  {
-    "city": "Folkestone", 
-    "name": "People's Climate March", 
-    "rsvp_count": 16, 
-    "country": "United Kingdom", 
-    "start_time": "13:00:00", 
-    "venue": "Shepway Council Offices", 
-    "longitude": 1.169456, 
-    "state": "England", 
-    "country_code": "GB", 
-    "address": "Folkestone, Kent, UK", 
-    "latitude": 51.081397, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_918", 
-    "id": 1888
   }, 
   {
     "city": "Monterrey", 
@@ -1232,22 +1184,6 @@
     "id": 1964
   }, 
   {
-    "city": "B\u00e9ja\u00efa", 
-    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 3, 
-    "country": "Algeria", 
-    "start_time": "13:00:00", 
-    "venue": "", 
-    "longitude": 5.0666670000001, 
-    "state": "B\u00e9ja\u00efa", 
-    "country_code": "DZ", 
-    "address": "B\u00e9ja\u00efa, Alg\u00e9rie", 
-    "latitude": 36.75, 
-    "event_date": "2014-09-20", 
-    "rsvp_url": "https://secure.avaaz.org/ar/event/climate/lmsyr_lmnkhy_lshby_47", 
-    "id": 1965
-  }, 
-  {
     "city": "L'Alfas del Pi", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
     "rsvp_count": 55, 
@@ -1376,22 +1312,6 @@
     "id": 2014
   }, 
   {
-    "city": "Casablanca", 
-    "name": "People's Climate March", 
-    "rsvp_count": 32, 
-    "country": "Morocco", 
-    "start_time": "13:00:00", 
-    "venue": "Stade Mohamed V, Rue Al Azrak Ahmed, Casablanca", 
-    "longitude": -7.6473515, 
-    "state": "Greater Casablanca", 
-    "country_code": "MA", 
-    "address": "Stade Mohamed V, Rue Al Azrak Ahmed, Casablanca, Morocco", 
-    "latitude": 33.5832082, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_960", 
-    "id": 2016
-  }, 
-  {
     "city": "San Crist\u00f3bal de Las Casas", 
     "name": "D\u00eda de Acci\u00f3n por 100% Energ\u00eda Limpia en San Crist\u00f3bal", 
     "rsvp_count": 42, 
@@ -1456,22 +1376,6 @@
     "id": 2020
   }, 
   {
-    "city": "Pergine Valsugana", 
-    "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 27, 
-    "country": "Italy", 
-    "start_time": "13:00:00", 
-    "venue": "Parco Tre Castagni", 
-    "longitude": 11.2369603, 
-    "state": "Trentino-Alto Adige", 
-    "country_code": "IT", 
-    "address": "38057 Pergine Valsugana TN, Italia", 
-    "latitude": 46.06174, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/it/event/climate/Marcia_Globale_per_il_Clima_40", 
-    "id": 2021
-  }, 
-  {
     "city": "Verona", 
     "name": "Marcia Globale per il Clima", 
     "rsvp_count": 111, 
@@ -1518,22 +1422,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_36", 
     "id": 2025
-  }, 
-  {
-    "city": "San Luis", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 15, 
-    "country": "Argentina", 
-    "start_time": "13:00:00", 
-    "venue": "Monumento al Pueblo Puntano", 
-    "longitude": -66.3367976, 
-    "state": "SL", 
-    "country_code": "AR", 
-    "address": "San Luis, San Luis, Argentina", 
-    "latitude": -33.3022202, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_37", 
-    "id": 2026
   }, 
   {
     "city": "P\u00e9rez Zeled\u00f3n", 
@@ -1888,22 +1776,6 @@
     "id": 2051
   }, 
   {
-    "city": "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433", 
-    "name": "\u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0438\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448 \u0432 \u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433\u0435", 
-    "rsvp_count": 12, 
-    "country": "Russia", 
-    "start_time": "14:00:00", 
-    "venue": "\u0410\u0442\u0440\u0438\u0443\u043c, \u043f\u0435\u0440\u0435\u0441\u0435\u0447\u0435\u043d\u0438\u0435 \u0443\u043b\u0438\u0446 \u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0430\u044f \u0438 \u0412\u043e\u043b\u043e\u0434\u0430\u0440\u0441\u043a\u043e\u0433\u043e", 
-    "longitude": 55.0991905, 
-    "state": "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", 
-    "country_code": "RU", 
-    "address": "\u0443\u043b\u0438\u0446\u0430 \u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0430\u044f, 37, \u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433, \u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0420\u043e\u0441\u0441\u0438\u044f", 
-    "latitude": 51.7666539, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/ru/event/climate/Narodnyy_klimaticheskiy_marsh_v_Orenburge", 
-    "id": 2053
-  }, 
-  {
     "city": "Birmingham", 
     "name": "People's Climate Change Rally", 
     "rsvp_count": 192, 
@@ -2000,22 +1872,6 @@
     "id": 2062
   }, 
   {
-    "city": "Mons", 
-    "name": "Marche Pour le Climat", 
-    "rsvp_count": 62, 
-    "country": "Belgium", 
-    "start_time": "13:00:00", 
-    "venue": "", 
-    "longitude": 3.9566589999999, 
-    "state": "R\u00e9gion wallonne", 
-    "country_code": "BE", 
-    "address": "Mons, Belgique", 
-    "latitude": 50.4542408, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_17", 
-    "id": 2063
-  }, 
-  {
     "city": "Saint-L\u00f4", 
     "name": "Marche Pour le Climat", 
     "rsvp_count": 22, 
@@ -2078,22 +1934,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_972", 
     "id": 2067
-  }, 
-  {
-    "city": "Lannion", 
-    "name": "Marche Pour le Climat", 
-    "rsvp_count": 37, 
-    "country": "France", 
-    "start_time": "13:00:00", 
-    "venue": "", 
-    "longitude": -3.459144, 
-    "state": "Bretagne", 
-    "country_code": "FR", 
-    "address": "Lannion, France", 
-    "latitude": 48.732084, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_22", 
-    "id": 2069
   }, 
   {
     "city": "Tunis", 
@@ -2224,22 +2064,6 @@
     "id": 2087
   }, 
   {
-    "city": "Nyon", 
-    "name": "Marche Pour le Climat", 
-    "rsvp_count": 70, 
-    "country": "Switzerland", 
-    "start_time": "13:00:00", 
-    "venue": "", 
-    "longitude": 6.2348564, 
-    "state": "VD", 
-    "country_code": "CH", 
-    "address": "Nyon, Suisse", 
-    "latitude": 46.3831924, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_30", 
-    "id": 2088
-  }, 
-  {
     "city": "Li\u00e8ge", 
     "name": "Marche Pour le Climat", 
     "rsvp_count": 19, 
@@ -2286,38 +2110,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaAktionstag_39", 
     "id": 2096
-  }, 
-  {
-    "city": "Ferri\u00e8res-les-Bois", 
-    "name": "Marche Pour le Climat", 
-    "rsvp_count": 5, 
-    "country": "France", 
-    "start_time": "13:00:00", 
-    "venue": "Place de la Mairie  81260 Ferri\u00e8res", 
-    "longitude": 5.802762, 
-    "state": "Franche-Comt\u00e9", 
-    "country_code": "FR", 
-    "address": "Ferri\u00e8res-les-Bois, France", 
-    "latitude": 47.20518, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_33", 
-    "id": 2102
-  }, 
-  {
-    "city": "Li\u00e8ge", 
-    "name": "Marche Pour le Climat", 
-    "rsvp_count": 94, 
-    "country": "Belgium", 
-    "start_time": "13:00:00", 
-    "venue": "Universit\u00e9 de Li\u00e8ge, Place du XX Ao\u00fbt", 
-    "longitude": 5.559064, 
-    "state": "R\u00e9gion wallonne", 
-    "country_code": "BE", 
-    "address": "Universit\u00e9 de Li\u00e8ge, Place du 20 Ao\u00fbt 7, 4000 Li\u00e8ge, Belgique", 
-    "latitude": 50.5830803, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_34", 
-    "id": 2103
   }, 
   {
     "city": "Manhua\u00e7u", 
@@ -2494,38 +2286,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/Concentracion_Ciudadana_contra_el_Cambio_Climatico", 
     "id": 2126
-  }, 
-  {
-    "city": "Managua", 
-    "name": "Marcha contra el cambio clim\u00e1tico, por una Nicaragua 100% renovable.", 
-    "rsvp_count": 123, 
-    "country": "Nicaragua", 
-    "start_time": "13:00:00", 
-    "venue": "Avenida Bol\u00edvar.", 
-    "longitude": -86.2751547, 
-    "state": "MN", 
-    "country_code": "NI", 
-    "address": "Avenida Bol\u00edvar, Managua, Nicaragua", 
-    "latitude": 12.1424455, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/Marcha_contra_el_cambio_climatico_por_una_Nicaragua_100_renovable", 
-    "id": 2127
-  }, 
-  {
-    "city": "Toulouse", 
-    "name": "Marche Pour le Climat", 
-    "rsvp_count": 401, 
-    "country": "France", 
-    "start_time": "13:00:00", 
-    "venue": "place du capitole", 
-    "longitude": 1.4434630000001, 
-    "state": "Midi-Pyr\u00e9n\u00e9es", 
-    "country_code": "FR", 
-    "address": "Place du Capitole, Place du Capitole, 31000 Toulouse, France", 
-    "latitude": 43.6044328, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_42", 
-    "id": 2128
   }, 
   {
     "city": "Wismar", 
@@ -2848,22 +2608,6 @@
     "id": 2180
   }, 
   {
-    "city": "Funchal", 
-    "name": "People's Climate March", 
-    "rsvp_count": 10, 
-    "country": "Portugal", 
-    "start_time": "13:00:00", 
-    "venue": "", 
-    "longitude": -16.9085341, 
-    "state": "Madeira", 
-    "country_code": "PT", 
-    "address": "Rua do Marqu\u00eas do Funchal, 9000-079 Funchal, Portugal", 
-    "latitude": 32.6503243, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_997", 
-    "id": 2183
-  }, 
-  {
     "city": "Yerevan", 
     "name": "People's Climate March", 
     "rsvp_count": 9, 
@@ -2878,22 +2622,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_998", 
     "id": 2186
-  }, 
-  {
-    "city": "Campbell River", 
-    "name": "People's Climate March", 
-    "rsvp_count": 42, 
-    "country": "Canada", 
-    "start_time": "13:00:00", 
-    "venue": "Spirit Square", 
-    "longitude": -125.2733354, 
-    "state": "BC", 
-    "country_code": "CA", 
-    "address": "Campbell River, BC, Canada", 
-    "latitude": 50.0331226, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1000", 
-    "id": 2187
   }, 
   {
     "city": "Culiac\u00e1n Rosales", 
@@ -3070,22 +2798,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_4", 
     "id": 2210
-  }, 
-  {
-    "city": "Belgrade", 
-    "name": "Marche Pour le Climat", 
-    "rsvp_count": 19, 
-    "country": "Serbia", 
-    "start_time": "13:00:00", 
-    "venue": "belgrade", 
-    "longitude": 20.466667, 
-    "state": "", 
-    "country_code": "RS", 
-    "address": "Belgrade, Serbie", 
-    "latitude": 44.816667, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_56", 
-    "id": 2211
   }, 
   {
     "city": "Frankfurt am Main", 
@@ -3296,22 +3008,6 @@
     "id": 2229
   }, 
   {
-    "city": "Orsomarso", 
-    "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 9, 
-    "country": "Italy", 
-    "start_time": "10:00:00", 
-    "venue": "", 
-    "longitude": 15.9081929, 
-    "state": "Calabria", 
-    "country_code": "IT", 
-    "address": "87020 Orsomarso CS, Italia", 
-    "latitude": 39.7993151, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/it/event/climate/Marcia_Globale_per_il_Clima_50", 
-    "id": 2231
-  }, 
-  {
     "city": "Funes", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
     "rsvp_count": 7, 
@@ -3326,22 +3022,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_62", 
     "id": 2232
-  }, 
-  {
-    "city": "Sevilla", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 208, 
-    "country": "Spain", 
-    "start_time": "13:00:00", 
-    "venue": "Plaza Nueva", 
-    "longitude": -5.9964365, 
-    "state": "AL", 
-    "country_code": "ES", 
-    "address": "Plaza Nueva, 41001 Sevilla, Sevilla, Espa\u00f1a", 
-    "latitude": 37.3885229, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_63", 
-    "id": 2233
   }, 
   {
     "city": "\u041a\u043e\u043b\u043e\u043c\u0438\u044f", 
@@ -3470,22 +3150,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaAktionstag_49", 
     "id": 2242
-  }, 
-  {
-    "city": "Aizuwakamatsu", 
-    "name": "People's Climate Walk in conjunction with Teaspoons of Change", 
-    "rsvp_count": 7, 
-    "country": "Japan", 
-    "start_time": "09:00:00", 
-    "venue": "Aizuwakamatsu eki", 
-    "longitude": 139.93032, 
-    "state": "Fukushima", 
-    "country_code": "JP", 
-    "address": "Aizuwakamatsu Station, 1 Ekimaemachi, Aizuwakamatsu, Fukushima, Japan", 
-    "latitude": 37.507888, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_Walk_in_conjunction_with_Teaspoons_of_Change", 
-    "id": 2243
   }, 
   {
     "city": "\u041e\u0434\u0435\u0441\u0441\u0430", 
@@ -3694,22 +3358,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/de/event/climate/1_Coburger_KlimaMarkt", 
     "id": 2267
-  }, 
-  {
-    "city": "Avignon", 
-    "name": "People's Climate March", 
-    "rsvp_count": 69, 
-    "country": "France", 
-    "start_time": "17:00:00", 
-    "venue": "place de l'Horloge", 
-    "longitude": 4.8058999, 
-    "state": "PACA", 
-    "country_code": "FR", 
-    "address": "Place de l'Horloge, 84000 Avignon, France", 
-    "latitude": 43.9492733, 
-    "event_date": "2014-09-20", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1024", 
-    "id": 2270
   }, 
   {
     "city": "Vitoria-Gasteiz", 
@@ -4014,22 +3662,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/Marcha_Mundial_contra_el_Cambio_Climatico_1", 
     "id": 2316
-  }, 
-  {
-    "city": "Die", 
-    "name": "Marche Pour le Climat", 
-    "rsvp_count": 10, 
-    "country": "France", 
-    "start_time": "13:00:00", 
-    "venue": "die", 
-    "longitude": 5.370536, 
-    "state": "RA", 
-    "country_code": "FR", 
-    "address": "26150 Die, France", 
-    "latitude": 44.751036, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_70", 
-    "id": 2317
   }, 
   {
     "city": "Zaragoza", 
@@ -4560,22 +4192,6 @@
     "id": 2475
   }, 
   {
-    "city": "Guatemala", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 42, 
-    "country": "Guatemala", 
-    "start_time": "13:00:00", 
-    "venue": "plaza central centro Hist\u00f3rico de Guatemala", 
-    "longitude": -90.5139688, 
-    "state": "Guatemala", 
-    "country_code": "GT", 
-    "address": "Centro Hist\u00f3rico de Guatemala, Guatemala, Guatemala", 
-    "latitude": 14.6378141, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_77", 
-    "id": 2476
-  }, 
-  {
     "city": "Sisteron", 
     "name": "Marche Pour le Climat", 
     "rsvp_count": 18, 
@@ -4622,38 +4238,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/el/event/climate/Poreia_ton_Laon_gia_to_Klima_68", 
     "id": 2479
-  }, 
-  {
-    "city": "Acassuso", 
-    "name": "Charla x el cambio clim\u00e1tico", 
-    "rsvp_count": 30, 
-    "country": "Argentina", 
-    "start_time": "13:00:00", 
-    "venue": "La Aldea Encantada (Plaza de Per\u00fa y Av. Sta F\u00e9)", 
-    "longitude": -58.4992702, 
-    "state": "BA", 
-    "country_code": "AR", 
-    "address": "Acassuso, Buenos Aires Province, Argentina", 
-    "latitude": -34.4773612, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Charla_x_el_cambio_climatico", 
-    "id": 2480
-  }, 
-  {
-    "city": "Jaipur", 
-    "name": "People's Climate March", 
-    "rsvp_count": 6, 
-    "country": "India", 
-    "start_time": "13:00:00", 
-    "venue": "Amar Jawan Jyoti", 
-    "longitude": 75.7872709, 
-    "state": "RJ", 
-    "country_code": "IN", 
-    "address": "Jaipur, Rajasthan, India", 
-    "latitude": 26.9124336, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1092", 
-    "id": 2481
   }, 
   {
     "city": "Colombo", 
@@ -4816,22 +4400,6 @@
     "id": 2499
   }, 
   {
-    "city": "Queenstown", 
-    "name": "People's Climate March", 
-    "rsvp_count": 4, 
-    "country": "New Zealand", 
-    "start_time": "13:00:00", 
-    "venue": "Queenstown recreational centre", 
-    "longitude": 168.660462, 
-    "state": "Otago", 
-    "country_code": "NZ", 
-    "address": "1 Memorial Street, Queenstown 9300, New Zealand", 
-    "latitude": -45.029601, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1108", 
-    "id": 2501
-  }, 
-  {
     "city": "Oravsk\u00e9 Vesel\u00e9", 
     "name": "People's Climate March", 
     "rsvp_count": 3, 
@@ -4910,22 +4478,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1115", 
     "id": 2510
-  }, 
-  {
-    "city": "Palmerston North", 
-    "name": "Day to end all rapings of the Earth i.e. unsustainable destruction of the environment", 
-    "rsvp_count": 30, 
-    "country": "New Zealand", 
-    "start_time": "13:00:00", 
-    "venue": "Palmerston North Square", 
-    "longitude": 175.6101935, 
-    "state": "Manawatu-Wanganui", 
-    "country_code": "NZ", 
-    "address": "The Square, Palmerston North, Palmerston North 4410, New Zealand", 
-    "latitude": -40.3566653, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Day_to_end_all_rapings_of_the_Earth_ie_unsustainable_destruction_of_the_environment", 
-    "id": 2511
   }, 
   {
     "city": "Whitby", 
@@ -5232,22 +4784,6 @@
     "id": 2539
   }, 
   {
-    "city": "Abidjan", 
-    "name": "Marche Pour le Climat", 
-    "rsvp_count": 16, 
-    "country": "C\u00f4te d'Ivoire", 
-    "start_time": "13:00:00", 
-    "venue": "Yopougon- toits rouge", 
-    "longitude": -4.033333, 
-    "state": "Lagunes", 
-    "country_code": "CI", 
-    "address": "Abidjan, C\u00f4te d'Ivoire", 
-    "latitude": 5.316667, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_90", 
-    "id": 2541
-  }, 
-  {
     "city": "Tehran", 
     "name": "People's Climate March", 
     "rsvp_count": 7, 
@@ -5406,22 +4942,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Freedom_Peoples_Climate_March", 
     "id": 2561
-  }, 
-  {
-    "city": "Fr\u00e9jus", 
-    "name": "Marche Pour le Climat", 
-    "rsvp_count": 38, 
-    "country": "France", 
-    "start_time": "13:00:00", 
-    "venue": "Mairie de Frejus", 
-    "longitude": 6.8728467999999, 
-    "state": "PACA", 
-    "country_code": "FR", 
-    "address": "Annexe de la mairie de Fr\u00e9jus, Rue de Marsaou, 83600 Fr\u00e9jus, France", 
-    "latitude": 43.5224534, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_94", 
-    "id": 2565
   }, 
   {
     "city": "Gro\u00dfenkneten", 
@@ -5632,38 +5152,6 @@
     "id": 2599
   }, 
   {
-    "city": "Canterbury", 
-    "name": "People's Climate March", 
-    "rsvp_count": 31, 
-    "country": "United Kingdom", 
-    "start_time": "13:00:00", 
-    "venue": "canterbuty high street", 
-    "longitude": 1.0794038, 
-    "state": "", 
-    "country_code": "GB", 
-    "address": "High Street, Canterbury, Kent CT1, UK", 
-    "latitude": 51.2792908, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1128", 
-    "id": 2600
-  }, 
-  {
-    "city": "Buin", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 62, 
-    "country": "Chile", 
-    "start_time": "13:00:00", 
-    "venue": "Plaza de armas Buin", 
-    "longitude": -70.742322, 
-    "state": "Regi\u00f3n Metropolitana", 
-    "country_code": "CL", 
-    "address": "Buin, Buin, Regi\u00f3n Metropolitana, Chile", 
-    "latitude": -33.730937, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_81", 
-    "id": 2604
-  }, 
-  {
     "city": "Pescara", 
     "name": "Marcia Globale per il Clima", 
     "rsvp_count": 69, 
@@ -5760,22 +5248,6 @@
     "id": 2627
   }, 
   {
-    "city": "Santa Cruz", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 61, 
-    "country": "Bolivia", 
-    "start_time": "13:00:00", 
-    "venue": "Plaza principal 24 de Septiembre", 
-    "longitude": -63, 
-    "state": "Departamento Aut\u00f3nomo de Santa Cruz", 
-    "country_code": "BO", 
-    "address": "Santa Cruz, Bolivia", 
-    "latitude": -17.866667, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_85", 
-    "id": 2629
-  }, 
-  {
     "city": "Nador", 
     "name": "bozaba", 
     "rsvp_count": 6, 
@@ -5790,22 +5262,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/bozaba", 
     "id": 2630
-  }, 
-  {
-    "city": "Santa Cruz", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 32, 
-    "country": "Bolivia", 
-    "start_time": "13:00:00", 
-    "venue": "Plaza principal 24 de Septiembre", 
-    "longitude": -63, 
-    "state": "Departamento Aut\u00f3nomo de Santa Cruz", 
-    "country_code": "BO", 
-    "address": "Santa Cruz, Bolivia", 
-    "latitude": -17.866667, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_86", 
-    "id": 2631
   }, 
   {
     "city": "Cabo San Lucas", 
@@ -5854,38 +5310,6 @@
     "event_date": "2014-09-20", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_88", 
     "id": 2634
-  }, 
-  {
-    "city": "Somerset Village", 
-    "name": "People's Climate March", 
-    "rsvp_count": 9, 
-    "country": "Bermuda", 
-    "start_time": "13:00:00", 
-    "venue": "", 
-    "longitude": -64.8632189, 
-    "state": "Sandys", 
-    "country_code": "BM", 
-    "address": "Rosehill Drive, Somerset Village, Bermuda", 
-    "latitude": 32.3027697, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1138", 
-    "id": 2637
-  }, 
-  {
-    "city": "\u0423\u0444\u0430", 
-    "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 31, 
-    "country": "Russia", 
-    "start_time": "13:00:00", 
-    "venue": "\u041f\u0430\u0440\u043a \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u044b \u0438 \u043e\u0442\u0434\u044b\u0445\u0430 \u0438\u043c \u041c. \u0413\u0430\u0444\u0443\u0440\u0438 (\u0432\u043e\u0437\u043b\u0435 \u041b\u0435\u043d\u0438\u043d\u0430)", 
-    "longitude": 56.0222339, 
-    "state": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d", 
-    "country_code": "RU", 
-    "address": "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041e\u043a\u0442\u044f\u0431\u0440\u044f, \u0423\u0444\u0430, \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d, \u0420\u043e\u0441\u0441\u0438\u044f, 450098", 
-    "latitude": 54.7694668, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/ru/event/climate/Narodnyy_klimaticheskiy_marsh_31", 
-    "id": 2638
   }, 
   {
     "city": "Bastia Umbra", 
@@ -6222,22 +5646,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_103", 
     "id": 2666
-  }, 
-  {
-    "city": "Capodimonte", 
-    "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 12, 
-    "country": "Italy", 
-    "start_time": "17:00:00", 
-    "venue": "presso il lungolago", 
-    "longitude": 11.9121837, 
-    "state": "Lazio", 
-    "country_code": "IT", 
-    "address": "01010 Capodimonte VT, Italia", 
-    "latitude": 42.5496671, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/it/event/climate/Marcia_Globale_per_il_Clima_69", 
-    "id": 2667
   }, 
   {
     "city": "Cartagena de Indias", 
@@ -6640,22 +6048,6 @@
     "id": 2697
   }, 
   {
-    "city": "Zaporizhia", 
-    "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 23, 
-    "country": "Ukraine", 
-    "start_time": "13:00:00", 
-    "venue": "\u041f\u043b\u043e\u0449\u0430\u0434\u044c \u041c\u0430\u044f\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e", 
-    "longitude": 35.139567, 
-    "state": "Zaporiz'ka oblast", 
-    "country_code": "UA", 
-    "address": "Zaporizhia, Zaporiz'ka oblast, Ukraine", 
-    "latitude": 47.8388, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/ru/event/climate/Narodnyy_klimaticheskiy_marsh_40", 
-    "id": 2698
-  }, 
-  {
     "city": "Miraflores", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
     "rsvp_count": 80, 
@@ -6686,22 +6078,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_117", 
     "id": 2702
-  }, 
-  {
-    "city": "Azrou", 
-    "name": "Marche TAWADA Pour le Climat", 
-    "rsvp_count": 10, 
-    "country": "Morocco", 
-    "start_time": "13:00:00", 
-    "venue": "Azrou", 
-    "longitude": -5.2242565, 
-    "state": "Meknes-Tafilalet", 
-    "country_code": "MA", 
-    "address": "Le Rocher, Azrou, Morocco", 
-    "latitude": 33.4355532, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_TAWADA_Pour_le_Climat", 
-    "id": 2703
   }, 
   {
     "city": "Camisano Vicentino", 
@@ -6944,22 +6320,6 @@
     "id": 2727
   }, 
   {
-    "city": "Pesaro", 
-    "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 58, 
-    "country": "Italy", 
-    "start_time": "13:00:00", 
-    "venue": "Piazza del Popolo", 
-    "longitude": 12.9130711, 
-    "state": "Marche", 
-    "country_code": "IT", 
-    "address": "Piazza del Popolo, Piazza del Popolo, 61121 Pesaro Pesaro Urbino, Italia", 
-    "latitude": 43.9096176, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/it/event/climate/Marcia_Globale_per_il_Clima_71", 
-    "id": 2728
-  }, 
-  {
     "city": "\u041c\u0430\u043b\u044b\u0439 \u0410\u0445\u0443\u043d", 
     "name": "People's Climate March", 
     "rsvp_count": 5, 
@@ -7038,22 +6398,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_129", 
     "id": 2734
-  }, 
-  {
-    "city": "Stuttgart", 
-    "name": "Klima-Aktionstag", 
-    "rsvp_count": 208, 
-    "country": "Germany", 
-    "start_time": "13:00:00", 
-    "venue": "Fu\u00dfg\u00e4ngerzone S-Untertr\u00fcrkheim", 
-    "longitude": 9.1817588, 
-    "state": "BW", 
-    "country_code": "DE", 
-    "address": "Stuttgart, Deutschland", 
-    "latitude": 48.7754181, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaAktionstag_86", 
-    "id": 2735
   }, 
   {
     "city": "Perpignan", 
@@ -7232,22 +6576,6 @@
     "id": 2749
   }, 
   {
-    "city": "Tegucigalpa", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 45, 
-    "country": "Honduras", 
-    "start_time": "13:00:00", 
-    "venue": "Concha Acustica Parque Central de Tegucigalpa", 
-    "longitude": -87.2167, 
-    "state": "Francisco Moraz\u00e1n", 
-    "country_code": "HN", 
-    "address": "Tegucigalpa, Honduras", 
-    "latitude": 14.0833, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_140", 
-    "id": 2750
-  }, 
-  {
     "city": "\u041c\u044b\u0442\u0438\u0449\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
     "rsvp_count": 9, 
@@ -7358,22 +6686,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_144", 
     "id": 2761
-  }, 
-  {
-    "city": "Quito", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 137, 
-    "country": "Ecuador", 
-    "start_time": "15:00:00", 
-    "venue": "Plaza de las Am\u00e9ricas", 
-    "longitude": -78.4927134, 
-    "state": "Pichincha", 
-    "country_code": "EC", 
-    "address": "Avenue de la Republica, Quito 170147, Ecuador", 
-    "latitude": -0.1759821, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_145", 
-    "id": 2762
   }, 
   {
     "city": "Matamoros", 
@@ -7504,22 +6816,6 @@
     "id": 2775
   }, 
   {
-    "city": "Palmira", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 27, 
-    "country": "Colombia", 
-    "start_time": "13:00:00", 
-    "venue": "", 
-    "longitude": -76.25, 
-    "state": "Valle del Cauca", 
-    "country_code": "CO", 
-    "address": "Palmira, Valle del Cauca, Colombia", 
-    "latitude": 3.583333, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_150", 
-    "id": 2776
-  }, 
-  {
     "city": "Macas", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
     "rsvp_count": 4, 
@@ -7550,22 +6846,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1165", 
     "id": 2778
-  }, 
-  {
-    "city": "Ju\u00e1rez", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 18, 
-    "country": "United States of America", 
-    "start_time": "13:00:00", 
-    "venue": "Plaza de la mexicanidad", 
-    "longitude": -106.4409596, 
-    "state": "CHIH", 
-    "country_code": "US", 
-    "address": "Plaza de la Mexicanidad, Ju\u00e1rez, CHIH, EE. UU.", 
-    "latitude": 31.756698, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_152", 
-    "id": 2779
   }, 
   {
     "city": "La Rioja", 
@@ -7678,22 +6958,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_159", 
     "id": 2789
-  }, 
-  {
-    "city": "Hermosillo", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 44, 
-    "country": "Mexico", 
-    "start_time": "13:00:00", 
-    "venue": "Plaza Emiliana de Zubeldia", 
-    "longitude": -110.9590461, 
-    "state": "SON", 
-    "country_code": "MX", 
-    "address": "Plaza Emiliana de Zubeldia, Luis Encinas Jhonson, Centro, 83000 Hermosillo, SON, M\u00e9xico", 
-    "latitude": 29.0834342, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_160", 
-    "id": 2791
   }, 
   {
     "city": "Ica", 
@@ -7952,22 +7216,6 @@
     "id": 2816
   }, 
   {
-    "city": "Mexico City", 
-    "name": "Roberto", 
-    "rsvp_count": 6, 
-    "country": "Mexico", 
-    "start_time": "13:00:00", 
-    "venue": "Z\u00f3calo Capitalino, Centro Hist\u00f3rico. M\u00e9xico D.F.", 
-    "longitude": -99.133208, 
-    "state": "D.F.", 
-    "country_code": "MX", 
-    "address": "Mexico City, Federal District, Mexico", 
-    "latitude": 19.4326077, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/Roberto", 
-    "id": 2819
-  }, 
-  {
     "city": "Ciudad de M\u00e9xico", 
     "name": "Un dia sin basura en las calles", 
     "rsvp_count": 15, 
@@ -8030,22 +7278,6 @@
     "event_date": "2014-09-20", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Tree_Planting_1", 
     "id": 2828
-  }, 
-  {
-    "city": "T\u00e2rgu Mure\u0219", 
-    "name": "Mar\u0219ul Cet\u0103\u021benilor pentru Ac\u021biune Climatic\u0103", 
-    "rsvp_count": 12, 
-    "country": "Romania", 
-    "start_time": "13:00:00", 
-    "venue": "piata trandafirilor(in fata catedralei ortodoxe)", 
-    "longitude": 24.5625, 
-    "state": "MS", 
-    "country_code": "RO", 
-    "address": "T\u00e2rgu Mure\u0219, Romania", 
-    "latitude": 46.545556, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/ro/event/climate/Marsul_Cetatenilor_pentru_Actiune_Climatica_16", 
-    "id": 2829
   }, 
   {
     "city": "Boise", 
@@ -8176,22 +7408,6 @@
     "id": 2842
   }, 
   {
-    "city": "Salamanca", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 25, 
-    "country": "Spain", 
-    "start_time": "13:00:00", 
-    "venue": "Plaza Mayor", 
-    "longitude": -5.5932508999999, 
-    "state": "CL", 
-    "country_code": "ES", 
-    "address": "Plaza Mayor, 37799, Salamanca, Espa\u00f1a", 
-    "latitude": 41.0920756, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_175", 
-    "id": 2845
-  }, 
-  {
     "city": "Montevideo", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
     "rsvp_count": 158, 
@@ -8288,22 +7504,6 @@
     "id": 2860
   }, 
   {
-    "city": "\u042f\u0440\u043e\u0441\u043b\u0430\u0432\u043b\u044c", 
-    "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 5, 
-    "country": "Russia", 
-    "start_time": "13:00:00", 
-    "venue": "\u0423\u043b\u0438\u0446\u0430 \u0421\u0432\u043e\u0431\u043e\u0434\u044b", 
-    "longitude": 39.8447659, 
-    "state": "\u042f\u0440\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", 
-    "country_code": "RU", 
-    "address": "\u0443\u043b\u0438\u0446\u0430 \u0421\u0432\u043e\u0431\u043e\u0434\u044b, \u042f\u0440\u043e\u0441\u043b\u0430\u0432\u043b\u044c, \u042f\u0440\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0420\u043e\u0441\u0441\u0438\u044f", 
-    "latitude": 57.6271147, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/ru/event/climate/Narodnyy_klimaticheskiy_marsh_44", 
-    "id": 2861
-  }, 
-  {
     "city": "Asuncion", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
     "rsvp_count": 136, 
@@ -8382,22 +7582,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaAktionstag_87", 
     "id": 2871
-  }, 
-  {
-    "city": "Ciudad Evita", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 32, 
-    "country": "Argentina", 
-    "start_time": "13:00:00", 
-    "venue": "Plaza de Ciudad Evita", 
-    "longitude": -58.5356412, 
-    "state": "BA", 
-    "country_code": "AR", 
-    "address": "Ciudad Evita, Buenos Aires, Argentina", 
-    "latitude": -34.7175201, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_181", 
-    "id": 2872
   }, 
   {
     "city": "San Miguel de Tucum\u00e1n", 
@@ -8912,22 +8096,6 @@
     "id": 2921
   }, 
   {
-    "city": "Antwerp", 
-    "name": "Actiedag voor het Klimaat", 
-    "rsvp_count": 160, 
-    "country": "Belgium", 
-    "start_time": "13:00:00", 
-    "venue": "park spoor noord", 
-    "longitude": 4.4213752000001, 
-    "state": "Flanders", 
-    "country_code": "BE", 
-    "address": "Park Spoor Noord, Ellermanstraat, 2060 Antwerp, Belgium", 
-    "latitude": 51.2308396, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/nl/event/climate/Actiedag_voor_het_Klimaat_13", 
-    "id": 2922
-  }, 
-  {
     "city": "Madrid", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
     "rsvp_count": 428, 
@@ -8974,22 +8142,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_199", 
     "id": 2925
-  }, 
-  {
-    "city": "Logro\u00f1o", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 31, 
-    "country": "Spain", 
-    "start_time": "13:00:00", 
-    "venue": "paseo del espolon", 
-    "longitude": -2.4449852, 
-    "state": "La Rioja", 
-    "country_code": "ES", 
-    "address": "Logro\u00f1o, La Rioja, Espa\u00f1a", 
-    "latitude": 42.4627195, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_201", 
-    "id": 2927
   }, 
   {
     "city": "San Pedro Tlaquepaque", 
@@ -9104,22 +8256,6 @@
     "id": 2934
   }, 
   {
-    "city": "Singapore", 
-    "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 45, 
-    "country": "Singapore", 
-    "start_time": "13:00:00", 
-    "venue": "McRitchie Reservoir", 
-    "longitude": 103.8223506, 
-    "state": "", 
-    "country_code": "SG", 
-    "address": "MacRitchie Reservoir, Singapore", 
-    "latitude": 1.3448223, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/it/event/climate/Marcia_Globale_per_il_Clima_80", 
-    "id": 2936
-  }, 
-  {
     "city": "Ayacucho", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
     "rsvp_count": 1, 
@@ -9166,22 +8302,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_209", 
     "id": 2939
-  }, 
-  {
-    "city": "Iligan", 
-    "name": "People's Climate March", 
-    "rsvp_count": 3, 
-    "country": "Philippines", 
-    "start_time": "13:00:00", 
-    "venue": "Iligan Public Plaza", 
-    "longitude": 124.237123, 
-    "state": "Northern Mindanao", 
-    "country_code": "PH", 
-    "address": "Iligan City Public Plaza, Mariano Badelles St., Iligan, Philippines", 
-    "latitude": 8.2285309, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1190", 
-    "id": 2941
   }, 
   {
     "city": "Shawinigan", 
@@ -9246,54 +8366,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_213", 
     "id": 2946
-  }, 
-  {
-    "city": "Lassan", 
-    "name": "Klima-Aktionstag", 
-    "rsvp_count": 6, 
-    "country": "Germany", 
-    "start_time": "13:00:00", 
-    "venue": "Rathaus", 
-    "longitude": 13.8511067, 
-    "state": "MV", 
-    "country_code": "DE", 
-    "address": "Stadtverwaltung Lassan, 17440 Lassan, Deutschland", 
-    "latitude": 53.9492597, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaAktionstag_91", 
-    "id": 2948
-  }, 
-  {
-    "city": "Cali", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 107, 
-    "country": "Colombia", 
-    "start_time": "13:00:00", 
-    "venue": "Parque versalles", 
-    "longitude": -76.5265285, 
-    "state": "Valle del Cauca", 
-    "country_code": "CO", 
-    "address": "Parque Versalles, Avenida 4, Cali, Valle del Cauca, Colombia", 
-    "latitude": 3.4645156, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_215", 
-    "id": 2949
-  }, 
-  {
-    "city": "Filandia", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 7, 
-    "country": "Colombia", 
-    "start_time": "13:00:00", 
-    "venue": "Parque Principal Sim\u00f3n Bol\u00edvar", 
-    "longitude": -75.6789905, 
-    "state": "Quind\u00edo", 
-    "country_code": "CO", 
-    "address": "Filandia, Quind\u00edo, Colombia", 
-    "latitude": 4.6718224, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_216", 
-    "id": 2950
   }, 
   {
     "city": "Euchareena", 
@@ -9406,22 +8478,6 @@
     "event_date": "2014-09-22", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/AGENDA_21_DO_CETEP_IRECE_4", 
     "id": 2958
-  }, 
-  {
-    "city": "Ibiza", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 38, 
-    "country": "Spain", 
-    "start_time": "13:00:00", 
-    "venue": "vara de rey", 
-    "longitude": 1.4205982999999, 
-    "state": "PM", 
-    "country_code": "ES", 
-    "address": "Ibiza, Islas Baleares, Espa\u00f1a", 
-    "latitude": 38.9067339, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_217", 
-    "id": 2960
   }, 
   {
     "city": "Islamabad", 
@@ -9904,22 +8960,6 @@
     "id": 2997
   }, 
   {
-    "city": "\u0417\u043d\u0430\u043c\u0435\u043d\u043a\u0430", 
-    "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 8, 
-    "country": "Ukraine", 
-    "start_time": "13:00:00", 
-    "venue": "\u0413\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043f\u0430\u0440\u043a \u0440\u0430\u0437\u0432\u043b\u0435\u0447\u0435\u043d\u0438\u0439", 
-    "longitude": 32.673333, 
-    "state": "\u041a\u0438\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
-    "country_code": "UA", 
-    "address": "\u0417\u043d\u0430\u043c\u0435\u043d\u043a\u0430, \u041a\u0438\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0423\u043a\u0440\u0430\u0438\u043d\u0430", 
-    "latitude": 48.713611, 
-    "event_date": "2014-10-01", 
-    "rsvp_url": "https://secure.avaaz.org/ru/event/climate/Narodnyy_klimaticheskiy_marsh_57", 
-    "id": 2998
-  }, 
-  {
     "city": "Florencia", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
     "rsvp_count": 3, 
@@ -10176,22 +9216,6 @@
     "id": 3030
   }, 
   {
-    "city": "Chiclayo", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 10, 
-    "country": "Peru", 
-    "start_time": "13:00:00", 
-    "venue": "parque principal de chiclayo", 
-    "longitude": -79.8386029, 
-    "state": "Lambayeque", 
-    "country_code": "PE", 
-    "address": "Parque Principal, San Jos\u00e9, Chiclayo 14001, Per\u00fa", 
-    "latitude": -6.7716139, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_231", 
-    "id": 3031
-  }, 
-  {
     "city": "Burlington", 
     "name": "People's Climate March: Burlington, ON", 
     "rsvp_count": 39, 
@@ -10238,38 +9262,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Meatless_Monday_Potluck_on_Sunday_and_Peoples_Climate_March", 
     "id": 3034
-  }, 
-  {
-    "city": "Cop\u00e1n Ruinas", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 5, 
-    "country": "Honduras", 
-    "start_time": "13:00:00", 
-    "venue": "Calles centrales de la ciudad", 
-    "longitude": -89.15, 
-    "state": "Cop\u00e1n", 
-    "country_code": "HN", 
-    "address": "Cop\u00e1n Ruinas, Honduras", 
-    "latitude": 14.833333, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_232", 
-    "id": 3035
-  }, 
-  {
-    "city": "C\u00e1diz", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 29, 
-    "country": "Spain", 
-    "start_time": "13:00:00", 
-    "venue": "Plaza San Juan de Dios", 
-    "longitude": -6.292999, 
-    "state": "AL", 
-    "country_code": "ES", 
-    "address": "Plaza de San Juan de Dios, 13D, 11005 C\u00e1diz, C\u00e1diz, Espa\u00f1a", 
-    "latitude": 36.5296832, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_233", 
-    "id": 3036
   }, 
   {
     "city": "\u041b\u0438\u043f\u0435\u0446\u043a", 
@@ -10786,7 +9778,7 @@
   {
     "city": "P\u00f3rtugos", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 24, 
+    "rsvp_count": 25, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "carretera de trev\u00e9lez, fuente agria de P\u00f3rtugos", 
@@ -10910,22 +9902,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_15", 
     "id": 3090
-  }, 
-  {
-    "city": "Tau\u00e1", 
-    "name": "Caminhada pelo Clima em Tau\u00e1 Cear\u00e1", 
-    "rsvp_count": 4, 
-    "country": "Brazil", 
-    "start_time": "13:00:00", 
-    "venue": "Pracinha da Igreja Nossa Senhora do perp\u00e9tuo Socorro", 
-    "longitude": -40.2935452, 
-    "state": "CE", 
-    "country_code": "BR", 
-    "address": "Tau\u00e1 - CE, Rep\u00fablica Federativa do Brasil", 
-    "latitude": -6.0076879, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_em_Taua_Ceara", 
-    "id": 3096
   }, 
   {
     "city": "Zaragoza", 
@@ -11152,22 +10128,6 @@
     "id": 3112
   }, 
   {
-    "city": "Ducos", 
-    "name": "Marche Pour le Climat", 
-    "rsvp_count": 30, 
-    "country": "Martinique", 
-    "start_time": "13:00:00", 
-    "venue": "terrain march\u00e9", 
-    "longitude": -60.975, 
-    "state": "Le Marin", 
-    "country_code": "MQ", 
-    "address": "Ducos, Martinique", 
-    "latitude": 14.575, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_140", 
-    "id": 3113
-  }, 
-  {
     "city": "R\u00edo Cuarto", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
     "rsvp_count": 8, 
@@ -11198,38 +10158,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/ru/event/climate/Narodnyy_klimaticheskiy_marsh_63", 
     "id": 3115
-  }, 
-  {
-    "city": "", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 80, 
-    "country": "Chile", 
-    "start_time": "13:00:00", 
-    "venue": "", 
-    "longitude": -71.542969, 
-    "state": "", 
-    "country_code": "CL", 
-    "address": "Chile", 
-    "latitude": -35.675147, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_259", 
-    "id": 3116
-  }, 
-  {
-    "city": "Currumbin", 
-    "name": "People's Climate March", 
-    "rsvp_count": 67, 
-    "country": "Australia", 
-    "start_time": "13:00:00", 
-    "venue": "Currumbin Beach", 
-    "longitude": 153.486934, 
-    "state": "QLD", 
-    "country_code": "AU", 
-    "address": "", 
-    "latitude": -28.1357343, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1229", 
-    "id": 3117
   }, 
   {
     "city": "Berriedale", 
@@ -11344,22 +10272,6 @@
     "id": 3125
   }, 
   {
-    "city": "Guatemala", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 15, 
-    "country": "Guatemala", 
-    "start_time": "13:00:00", 
-    "venue": "centro historico", 
-    "longitude": -90.5139688, 
-    "state": "Guatemala", 
-    "country_code": "GT", 
-    "address": "Centro Hist\u00f3rico de Guatemala, Guatemala, Guatemala", 
-    "latitude": 14.6378141, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_262", 
-    "id": 3127
-  }, 
-  {
     "city": "Bendigo", 
     "name": "PICNIC IN THE PARK FOR ACTION ON CLIMATE CHANGE", 
     "rsvp_count": 15, 
@@ -11422,22 +10334,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_263", 
     "id": 3135
-  }, 
-  {
-    "city": "Margaret River", 
-    "name": "Margaret River", 
-    "rsvp_count": 4, 
-    "country": "Australia", 
-    "start_time": "11:00:00", 
-    "venue": "Margaret River", 
-    "longitude": 115.0735653, 
-    "state": "WA", 
-    "country_code": "AU", 
-    "address": "Margaret River WA 6285, Australia", 
-    "latitude": -33.9536762, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Margaret_River", 
-    "id": 3136
   }, 
   {
     "city": "", 
@@ -11776,22 +10672,6 @@
     "id": 3176
   }, 
   {
-    "city": "Ioannina", 
-    "name": "\u03a0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u039b\u03b1\u03ce\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
-    "rsvp_count": 39, 
-    "country": "Greece", 
-    "start_time": "13:00:00", 
-    "venue": "Ktirio Periferias Ipirou", 
-    "longitude": 20.8537466, 
-    "state": "Ipiros Ditiki Makedonia", 
-    "country_code": "GR", 
-    "address": "Ioannina, Greece", 
-    "latitude": 39.6650288, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/el/event/climate/Poreia_ton_Laon_gia_to_Klima_80", 
-    "id": 3177
-  }, 
-  {
     "city": "Gastouni", 
     "name": "\u03a0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u039b\u03b1\u03ce\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
     "rsvp_count": 15, 
@@ -11984,22 +10864,6 @@
     "id": 3197
   }, 
   {
-    "city": "Limassol", 
-    "name": "\u03a0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u039b\u03b1\u03ce\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
-    "rsvp_count": 55, 
-    "country": "Cyprus", 
-    "start_time": "18:00:00", 
-    "venue": "old harbour", 
-    "longitude": 33.0432352, 
-    "state": "Limassol", 
-    "country_code": "CY", 
-    "address": "Old Harbour Bus Stop, Spyrou Araouzou, Limassol, Cyprus", 
-    "latitude": 34.6720366, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/el/event/climate/Poreia_ton_Laon_gia_to_Klima_84", 
-    "id": 3198
-  }, 
-  {
     "city": "Avellino", 
     "name": "Avellino salva il Clima!", 
     "rsvp_count": 10, 
@@ -12062,22 +10926,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1241", 
     "id": 3203
-  }, 
-  {
-    "city": "Villavicencio", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 15, 
-    "country": "Colombia", 
-    "start_time": "13:00:00", 
-    "venue": "Plaza de los fundadores a Plaza de banderas", 
-    "longitude": -73.6358682, 
-    "state": "Meta", 
-    "country_code": "CO", 
-    "address": "Plaza de Banderas, Entrada A La KR33, Villavicencio, Meta, Colombia", 
-    "latitude": 4.1470036, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_266", 
-    "id": 3204
   }, 
   {
     "city": "Amarah", 
@@ -12160,22 +11008,6 @@
     "id": 3230
   }, 
   {
-    "city": "Baghdad", 
-    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 28, 
-    "country": "Iraq", 
-    "start_time": "13:00:00", 
-    "venue": "\u0645\u0648\u0644 \u0627\u0644\u0645\u0646\u0635\u0648\u0631", 
-    "longitude": 44.3473041, 
-    "state": "Baghd\u0101d", 
-    "country_code": "IQ", 
-    "address": "Mansour, Baghdad, Iraq", 
-    "latitude": 33.3146572, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/ar/event/climate/lmsyr_lmnkhy_lshby_93", 
-    "id": 3231
-  }, 
-  {
     "city": "Wilderness", 
     "name": "People's Climate March", 
     "rsvp_count": 14, 
@@ -12190,22 +11022,6 @@
     "event_date": "2014-09-17", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1250", 
     "id": 3232
-  }, 
-  {
-    "city": "Hatay", 
-    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 10, 
-    "country": "Turkey", 
-    "start_time": "13:00:00", 
-    "venue": "", 
-    "longitude": 36.1570972, 
-    "state": "Hatay Province", 
-    "country_code": "TR", 
-    "address": "Cebrail Mh., 2. Varl\u0131k Sokak 2-8, 31000 Hatay/Hatay Province, Turkey", 
-    "latitude": 36.206491, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/ar/event/climate/lmsyr_lmnkhy_lshby_94", 
-    "id": 3234
   }, 
   {
     "city": "Alger", 
@@ -12416,22 +11232,6 @@
     "id": 3255
   }, 
   {
-    "city": "Sentmenat, Barcelona", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 5, 
-    "country": "Spain", 
-    "start_time": "13:00:00", 
-    "venue": "AYUNTAMIENTO SENTMENAT", 
-    "longitude": 2.1357093, 
-    "state": "CT", 
-    "country_code": "ES", 
-    "address": "Ayuntamiento de Sentmenat, Plaza de la Vila, 1, 08181 Sentmenat, Barcelona, Barcelona, Espa\u00f1a", 
-    "latitude": 41.6086645, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_275", 
-    "id": 3257
-  }, 
-  {
     "city": "Pereira", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
     "rsvp_count": 56, 
@@ -12480,22 +11280,6 @@
     "id": 3260
   }, 
   {
-    "city": "Speyer", 
-    "name": "Helmut Weiss", 
-    "rsvp_count": 24, 
-    "country": "Germany", 
-    "start_time": "13:00:00", 
-    "venue": "Maximilianstra\u00dfe", 
-    "longitude": 8.4368339, 
-    "state": "RP", 
-    "country_code": "DE", 
-    "address": "Maximilianstra\u00dfe, 67346 Speyer, Deutschland", 
-    "latitude": 49.317437, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/de/event/climate/Helmut_Weiss", 
-    "id": 3263
-  }, 
-  {
     "city": "Mount Isa", 
     "name": "People's Climate March", 
     "rsvp_count": 14, 
@@ -12510,22 +11294,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1258", 
     "id": 3264
-  }, 
-  {
-    "city": "Cosenza", 
-    "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 5, 
-    "country": "Italy", 
-    "start_time": "15:00:00", 
-    "venue": "Destro Quintieri Madonna del Creato", 
-    "longitude": 16.376311, 
-    "state": "Calabria", 
-    "country_code": "IT", 
-    "address": "Unnamed Road, 87054 Rogliano CS, Italia", 
-    "latitude": 39.1575332, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/it/event/climate/Marcia_Globale_per_il_Clima_90", 
-    "id": 3265
   }, 
   {
     "city": "\u039a\u03b1\u03c3\u03c4\u03bf\u03c1\u03b9\u03ac", 
@@ -12574,22 +11342,6 @@
     "event_date": "2014-09-20", 
     "rsvp_url": "https://secure.avaaz.org/de/event/climate/SOLARier_PV_Tag", 
     "id": 3269
-  }, 
-  {
-    "city": "Torino", 
-    "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 250, 
-    "country": "Italy", 
-    "start_time": "13:00:00", 
-    "venue": "PIAZZA CASTELLO", 
-    "longitude": 7.6854123000001, 
-    "state": "Piemonte", 
-    "country_code": "IT", 
-    "address": "Piazza Castello, Piazza Castello, 10124 Torino, Italia", 
-    "latitude": 45.0711354, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/it/event/climate/Marcia_Globale_per_il_Clima_91", 
-    "id": 3270
   }, 
   {
     "city": "Soria", 
@@ -12928,22 +11680,6 @@
     "id": 3310
   }, 
   {
-    "city": "Goi\u00e2nia", 
-    "name": "Recomposi\u00e7\u00e3o Total das Matas Ciliares", 
-    "rsvp_count": 530, 
-    "country": "Brazil", 
-    "start_time": "13:00:00", 
-    "venue": "Pra\u00e7a C\u00edvica", 
-    "longitude": -49.256317, 
-    "state": "GO", 
-    "country_code": "BR", 
-    "address": "Pra\u00e7a C\u00edvica - Setor Sul, Goi\u00e2nia - GO, Rep\u00fablica Federativa do Brasil", 
-    "latitude": -16.6810088, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Recomposicao_Total_das_Matas_Ciliares", 
-    "id": 3311
-  }, 
-  {
     "city": "", 
     "name": "\u05de\u05e6\u05e2\u05d3 \u05d4\u05d0\u05e7\u05dc\u05d9\u05dd \u05d4\u05d0\u05d6\u05e8\u05d7\u05d9", 
     "rsvp_count": 7, 
@@ -13008,22 +11744,6 @@
     "id": 3323
   }, 
   {
-    "city": "Cuiab\u00e1", 
-    "name": "Caminhada pelo Clima", 
-    "rsvp_count": 108, 
-    "country": "Brazil", 
-    "start_time": "13:00:00", 
-    "venue": "pra\u00e7a oito de abril", 
-    "longitude": -56.1071004, 
-    "state": "MT", 
-    "country_code": "BR", 
-    "address": "Pra\u00e7a Oito de Abril, Cuiab\u00e1 - MT, Rep\u00fablica Federativa do Brasil", 
-    "latitude": -15.5908669, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_35", 
-    "id": 3330
-  }, 
-  {
     "city": "Caruaru", 
     "name": "Batucada pelo Clima -", 
     "rsvp_count": 31, 
@@ -13070,22 +11790,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_e_em_defesa_do_Rio_Doce", 
     "id": 3341
-  }, 
-  {
-    "city": "Macau", 
-    "name": "Caminhada pelo Clima", 
-    "rsvp_count": 2, 
-    "country": "Brazil", 
-    "start_time": "13:00:00", 
-    "venue": "CENTRO PRA\u00c7A", 
-    "longitude": -36.6321702, 
-    "state": "RN", 
-    "country_code": "BR", 
-    "address": "Macau - RN, Rep\u00fablica Federativa do Brasil", 
-    "latitude": -5.1083383, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_37", 
-    "id": 3342
   }, 
   {
     "city": "Laill\u00e9", 
@@ -13262,22 +11966,6 @@
     "event_date": "2014-09-19", 
     "rsvp_url": "https://secure.avaaz.org/nl/event/climate/Peoples_Climate_March_1281", 
     "id": 3366
-  }, 
-  {
-    "city": "B\u00e9ja\u00efa", 
-    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 4, 
-    "country": "Algeria", 
-    "start_time": "14:00:00", 
-    "venue": "Maison de la culture", 
-    "longitude": 5.0666670000001, 
-    "state": "B\u00e9ja\u00efa", 
-    "country_code": "DZ", 
-    "address": "B\u00e9ja\u00efa, Alg\u00e9rie", 
-    "latitude": 36.75, 
-    "event_date": "2014-09-20", 
-    "rsvp_url": "https://secure.avaaz.org/ar/event/climate/lmsyr_lmnkhy_lshby_109", 
-    "id": 3367
   }, 
   {
     "city": "Guatemala", 
@@ -13488,22 +12176,6 @@
     "id": 3385
   }, 
   {
-    "city": "Patos", 
-    "name": "Caminhada pelo Clima", 
-    "rsvp_count": 8, 
-    "country": "Brazil", 
-    "start_time": "16:00:00", 
-    "venue": "Canal do Frango Pr\u00f3ximo ao Col\u00e9gio Geo", 
-    "longitude": -37.275037, 
-    "state": "PB", 
-    "country_code": "BR", 
-    "address": "Patos - PB, Rep\u00fablica Federativa do Brasil", 
-    "latitude": -7.0178331, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_56", 
-    "id": 3388
-  }, 
-  {
     "city": "T\u00e9touan", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
     "rsvp_count": 15, 
@@ -13520,22 +12192,6 @@
     "id": 3390
   }, 
   {
-    "city": "Campinas", 
-    "name": "Caminhada pelo Clima", 
-    "rsvp_count": 152, 
-    "country": "Brazil", 
-    "start_time": "13:00:00", 
-    "venue": "Teatro Centro Convivencia Cultural", 
-    "longitude": -47.0626332, 
-    "state": "SP", 
-    "country_code": "BR", 
-    "address": "Campinas - SP, Rep\u00fablica Federativa do Brasil", 
-    "latitude": -22.9099384, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_57", 
-    "id": 3391
-  }, 
-  {
     "city": "Vit\u00f3ria da Conquista", 
     "name": "Caminhada pelo Clima", 
     "rsvp_count": 21, 
@@ -13550,22 +12206,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_58", 
     "id": 3392
-  }, 
-  {
-    "city": "Belo Horizonte", 
-    "name": "Caminhada pelo Clima", 
-    "rsvp_count": 51, 
-    "country": "Brazil", 
-    "start_time": "10:00:00", 
-    "venue": "LAGOA DA PAMPULHA - PR\u00d3XIMO A IGREJA S\u00c3O FRANCISCO, AV OTACILIO NEGR\u00c3O DE LIMA, 3117. ENTRE RUAS VERSILIA E EXPEDICION\u00c1RIO.", 
-    "longitude": -43.9782383, 
-    "state": "MG", 
-    "country_code": "BR", 
-    "address": "", 
-    "latitude": -19.8525269, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_60", 
-    "id": 3395
   }, 
   {
     "city": "Taubat\u00e9", 
@@ -13630,22 +12270,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_62", 
     "id": 3401
-  }, 
-  {
-    "city": "Armenia", 
-    "name": "Marcha Mundial Por el Clima", 
-    "rsvp_count": 9, 
-    "country": "Colombia", 
-    "start_time": "13:00:00", 
-    "venue": "Catedral Plaza Bolivar", 
-    "longitude": -75.6724335, 
-    "state": "Quind\u00edo", 
-    "country_code": "CO", 
-    "address": "", 
-    "latitude": 4.5317571, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_65", 
-    "id": 3405
   }, 
   {
     "city": "Manaus", 
@@ -13728,22 +12352,6 @@
     "id": 3419
   }, 
   {
-    "city": "Queluz", 
-    "name": "Caminhada pelo Clima", 
-    "rsvp_count": 49, 
-    "country": "Portugal", 
-    "start_time": "10:00:00", 
-    "venue": "Queluz, Pal\u00e1cio, Jardim", 
-    "longitude": -9.2590824, 
-    "state": "Distrito de Lisboa", 
-    "country_code": "PT", 
-    "address": "Pal\u00e1cio Nacional e Jardins de Queluz, 2745-191 Queluz, Portugal", 
-    "latitude": 38.7507229, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_68", 
-    "id": 3420
-  }, 
-  {
     "city": "\u03a8\u03ac\u03b8\u03b1", 
     "name": "\u03a0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u039b\u03b1\u03ce\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
     "rsvp_count": 4, 
@@ -13792,22 +12400,6 @@
     "id": 3432
   }, 
   {
-    "city": "Lusaka", 
-    "name": "People's Climate March", 
-    "rsvp_count": 12, 
-    "country": "Zambia", 
-    "start_time": "11:00:00", 
-    "venue": "levy business park", 
-    "longitude": 28.2868749, 
-    "state": "Lusaka", 
-    "country_code": "ZM", 
-    "address": "Kabelenga Road, Lusaka, Zambia", 
-    "latitude": -15.4133487, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1295", 
-    "id": 3433
-  }, 
-  {
     "city": "Darling Downs", 
     "name": "People's Climate March", 
     "rsvp_count": 8, 
@@ -13822,22 +12414,6 @@
     "event_date": "2014-09-20", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1296", 
     "id": 3435
-  }, 
-  {
-    "city": "Conselheiro Lafaiete", 
-    "name": "Caminhada pelo Clima", 
-    "rsvp_count": 10, 
-    "country": "Brazil", 
-    "start_time": "13:00:00", 
-    "venue": "Pra\u00e7a da Rodovi\u00e1ria (Pra\u00e7a Pimentel  Duarte)", 
-    "longitude": -43.7850227, 
-    "state": "MG", 
-    "country_code": "BR", 
-    "address": "Conselheiro Lafaiete - MG, Rep\u00fablica Federativa do Brasil", 
-    "latitude": -20.6639305, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_70", 
-    "id": 3436
   }, 
   {
     "city": "Salmon Arm", 
@@ -13902,22 +12478,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Dia_da_arvore_atencao_a_mata_ciliar", 
     "id": 3456
-  }, 
-  {
-    "city": "S\u00e3o Paulo", 
-    "name": "Caminhada pelo Clima", 
-    "rsvp_count": 33, 
-    "country": "Brazil", 
-    "start_time": "13:00:00", 
-    "venue": "Avenida Atlantica", 
-    "longitude": -46.7146153, 
-    "state": "SP", 
-    "country_code": "BR", 
-    "address": "Avenida Atl\u00e2ntica, S\u00e3o Paulo - SP, Rep\u00fablica Federativa do Brasil", 
-    "latitude": -23.6919626, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_75", 
-    "id": 3471
   }, 
   {
     "city": "Kharkiv", 
@@ -13998,22 +12558,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_153", 
     "id": 3480
-  }, 
-  {
-    "city": "Yal\u0131kavak", 
-    "name": "\u0130klim \u0130\u00e7in Halk Y\u00fcr\u00fcy\u00fc\u015f\u00fc", 
-    "rsvp_count": 14, 
-    "country": "Turkey", 
-    "start_time": "13:00:00", 
-    "venue": "Yal\u0131kavak Belediye Meydan\u0131", 
-    "longitude": 27.2938145, 
-    "state": "Mugla", 
-    "country_code": "TR", 
-    "address": "Merkez Mh., Bar\u0131\u015f Caddesi, 48000 Yal\u0131kavak/Mu\u011fla Province, Turkey", 
-    "latitude": 37.102233, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/tr/event/climate/Iklim_Icin_Halk_Yuruyusu_26", 
-    "id": 3481
   }, 
   {
     "city": "Crici\u00fama", 
@@ -14240,22 +12784,6 @@
     "id": 3522
   }, 
   {
-    "city": "S\u00e3o Lu\u00eds", 
-    "name": "Caminhada pelo Clima", 
-    "rsvp_count": 29, 
-    "country": "Brazil", 
-    "start_time": "13:00:00", 
-    "venue": "", 
-    "longitude": -44.2923404, 
-    "state": "MA", 
-    "country_code": "BR", 
-    "address": "Avenida Ulisses Guimar\u00e3es, 421-551 - \u30b5\u30f3\u30fb\u30de\u30eb\u30b3\u30b9 S\u00e3o Lu\u00eds - MA, Rep\u00fablica Federativa do Brasil", 
-    "latitude": -2.4884006, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_81", 
-    "id": 3528
-  }, 
-  {
     "city": "\u062a\u0639\u0632", 
     "name": "\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629\u060c \u0627\u0644\u064a\u0645\u0646 - \u062a\u0639\u0632", 
     "rsvp_count": 1, 
@@ -14334,22 +12862,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Little_Oshawa_Mobilize", 
     "id": 3547
-  }, 
-  {
-    "city": "North Tipperary", 
-    "name": "Klima-Aktionstag", 
-    "rsvp_count": 3, 
-    "country": "Ireland", 
-    "start_time": "13:00:00", 
-    "venue": "", 
-    "longitude": -8.0049189, 
-    "state": "Tipperary", 
-    "country_code": "IE", 
-    "address": "Unnamed Road, Co. Tipperary, Ireland", 
-    "latitude": 52.9998217, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaAktionstag_104", 
-    "id": 3549
   }, 
   {
     "city": "Bogot\u00e1", 
@@ -14464,22 +12976,6 @@
     "id": 3559
   }, 
   {
-    "city": "Ivato", 
-    "name": "Marche Pour le Climat", 
-    "rsvp_count": 1, 
-    "country": "Madagascar", 
-    "start_time": "13:00:00", 
-    "venue": "Parking A\u00e9roport IVATO", 
-    "longitude": 46.65, 
-    "state": "Tananarive", 
-    "country_code": "MG", 
-    "address": "Ivato, Madagascar", 
-    "latitude": -19.866667, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_156", 
-    "id": 3560
-  }, 
-  {
     "city": "Bamako", 
     "name": "Marche Pour le Climat", 
     "rsvp_count": 2, 
@@ -14494,22 +12990,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_157", 
     "id": 3562
-  }, 
-  {
-    "city": "", 
-    "name": "Climate march on Fej\u00f8, Denmark", 
-    "rsvp_count": 5, 
-    "country": "Denmark", 
-    "start_time": "13:00:00", 
-    "venue": "Dybvig Havn", 
-    "longitude": 11.4358333, 
-    "state": "", 
-    "country_code": "DK", 
-    "address": "Fejo Havn, Danmark", 
-    "latitude": 54.9444444, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Climate_march_on_Fejo_Denmark", 
-    "id": 3571
   }, 
   {
     "city": "Teresina", 
@@ -15872,22 +14352,6 @@
     "id": 3712
   }, 
   {
-    "city": "Los Cristianos", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 27, 
-    "country": "Spain", 
-    "start_time": "13:00:00", 
-    "venue": "Centro Cultural de Los Cristianos", 
-    "longitude": -16.7096851, 
-    "state": "CN", 
-    "country_code": "ES", 
-    "address": "38650 Los Cristianos, Santa Cruz de Tenerife, Espa\u00f1a", 
-    "latitude": 28.0511997, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_309", 
-    "id": 3714
-  }, 
-  {
     "city": "Albany", 
     "name": "Picnic in Peace Park", 
     "rsvp_count": 14, 
@@ -16176,22 +14640,6 @@
     "id": 3741
   }, 
   {
-    "city": "Poitiers", 
-    "name": "Marche Pour le Climat", 
-    "rsvp_count": 35, 
-    "country": "France", 
-    "start_time": "13:00:00", 
-    "venue": "Place d'arme", 
-    "longitude": 0.34037499999999, 
-    "state": "PCh", 
-    "country_code": "FR", 
-    "address": "Poitiers, France", 
-    "latitude": 46.580224, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_179", 
-    "id": 3747
-  }, 
-  {
     "city": "Ploemeur", 
     "name": "Marche Pour le Climat", 
     "rsvp_count": 20, 
@@ -16334,22 +14782,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/3o_Abraco_ao_Parque_das_Dunas", 
     "id": 3767
-  }, 
-  {
-    "city": "Dunkerque", 
-    "name": "Marche Pour le Climat", 
-    "rsvp_count": 17, 
-    "country": "France", 
-    "start_time": "14:00:00", 
-    "venue": "place Jean Bart", 
-    "longitude": 2.37675, 
-    "state": "Nord-Pas-de-Calais", 
-    "country_code": "FR", 
-    "address": "Place Jean Bart, 59140 Dunkerque, France", 
-    "latitude": 51.0342555, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_186", 
-    "id": 3768
   }, 
   {
     "city": "", 
@@ -16510,22 +14942,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_Sheffield_Rivers_Rally", 
     "id": 3786
-  }, 
-  {
-    "city": "Zagreb", 
-    "name": "People's Climate March", 
-    "rsvp_count": 150, 
-    "country": "Croatia", 
-    "start_time": "13:00:00", 
-    "venue": "Trg Kralja Tomislava", 
-    "longitude": 15.9779843, 
-    "state": "Grad Zagreb", 
-    "country_code": "HR", 
-    "address": "Trg kralja Tomislava, 10000, Zagreb, Hrvatska", 
-    "latitude": 45.8063494, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1381", 
-    "id": 3787
   }, 
   {
     "city": "Bedretto", 
@@ -17232,22 +15648,6 @@
     "id": 3863
   }, 
   {
-    "city": "Cuautitl\u00e1n Izcalli", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 8, 
-    "country": "Mexico", 
-    "start_time": "13:00:00", 
-    "venue": "Explanada del Palacio Municipal de Cuautitl\u00e1n Izcalli", 
-    "longitude": -99.2267975, 
-    "state": "MEX", 
-    "country_code": "MX", 
-    "address": "R\u00edo Coatzacualcos 66, Colinas del Lago, 54744 Cuautitl\u00e1n Izcalli, MEX, M\u00e9xico", 
-    "latitude": 19.6375523, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_320", 
-    "id": 3866
-  }, 
-  {
     "city": "Guatemala", 
     "name": "Marcha de los Ciudadanos del Mundo Contra el Cambio Clim\u00e1tico", 
     "rsvp_count": 8, 
@@ -17344,38 +15744,6 @@
     "id": 3873
   }, 
   {
-    "city": "Almer\u00eda", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 26, 
-    "country": "Spain", 
-    "start_time": "13:00:00", 
-    "venue": "Estadio de los juegos Mediterraneos, Camino de La Goleta", 
-    "longitude": -2.436734, 
-    "state": "AL", 
-    "country_code": "ES", 
-    "address": "Calle Belladona, 04007 Almer\u00eda, Almer\u00eda, Espa\u00f1a", 
-    "latitude": 36.8379111, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_327", 
-    "id": 3874
-  }, 
-  {
-    "city": "Agadir", 
-    "name": "Marche Pour le Climat", 
-    "rsvp_count": 4, 
-    "country": "Morocco", 
-    "start_time": "13:00:00", 
-    "venue": "CORNICHE PLAGE AGADIE", 
-    "longitude": -9.5981072, 
-    "state": "Souss-Massa-Dra\u00e2", 
-    "country_code": "MA", 
-    "address": "Agadir, Maroc", 
-    "latitude": 30.4277547, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_189", 
-    "id": 3875
-  }, 
-  {
     "city": "San Jos\u00e9", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
     "rsvp_count": 166, 
@@ -17456,22 +15824,6 @@
     "id": 3880
   }, 
   {
-    "city": "Sogamoso", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 2, 
-    "country": "Colombia", 
-    "start_time": "13:00:00", 
-    "venue": "Parque el Laguito, al frente de la Parroquia de San Jose", 
-    "longitude": -72.916667, 
-    "state": "Boyac\u00e1", 
-    "country_code": "CO", 
-    "address": "Sogamoso, Boyac\u00e1, Colombia", 
-    "latitude": 5.716667, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_331", 
-    "id": 3881
-  }, 
-  {
     "city": "Huixquilucan", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
     "rsvp_count": 8, 
@@ -17504,22 +15856,6 @@
     "id": 3887
   }, 
   {
-    "city": "Rancagua", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 7, 
-    "country": "Chile", 
-    "start_time": "13:00:00", 
-    "venue": "PARQUE COMUNAL   RANCAGUA", 
-    "longitude": -70.738965, 
-    "state": "Regi\u00f3n del Libertador Gral Bernardo O'Higgins", 
-    "country_code": "CL", 
-    "address": "", 
-    "latitude": -34.168052, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_337", 
-    "id": 3888
-  }, 
-  {
     "city": "Osorno", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
     "rsvp_count": 6, 
@@ -17534,22 +15870,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_338", 
     "id": 3889
-  }, 
-  {
-    "city": "Agadir", 
-    "name": "Marche Pour le Climat", 
-    "rsvp_count": 3, 
-    "country": "Morocco", 
-    "start_time": "13:00:00", 
-    "venue": "corniche agadire  cote  pres du jour et nuit", 
-    "longitude": -9.5981072, 
-    "state": "Souss-Massa-Dra\u00e2", 
-    "country_code": "MA", 
-    "address": "Agadir, Maroc", 
-    "latitude": 30.4277547, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_190", 
-    "id": 3890
   }, 
   {
     "city": "Calarca", 
@@ -17584,22 +15904,6 @@
     "id": 3892
   }, 
   {
-    "city": "La Plata", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 26, 
-    "country": "Argentina", 
-    "start_time": "13:00:00", 
-    "venue": "Plaza Moreno LA PLATA Buenos Aires Argentina", 
-    "longitude": -57.9534091, 
-    "state": "BA", 
-    "country_code": "AR", 
-    "address": "Calle 12 952-1000, La Plata, Buenos Aires, Argentina", 
-    "latitude": -34.9206494, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_340", 
-    "id": 3893
-  }, 
-  {
     "city": "Zapopan", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
     "rsvp_count": 6, 
@@ -17614,22 +15918,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_341", 
     "id": 3894
-  }, 
-  {
-    "city": "Campeche", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 7, 
-    "country": "Mexico", 
-    "start_time": "18:00:00", 
-    "venue": "Malec\u00f3n de Campeche, monumento a Justo Sierra", 
-    "longitude": -90.5505769, 
-    "state": "CAMP", 
-    "country_code": "MX", 
-    "address": "Montecristo, 24040 Campeche, CAMP, M\u00e9xico", 
-    "latitude": 19.8370664, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_342", 
-    "id": 3895
   }, 
   {
     "city": "Mat\u00edas Romero Avenda\u00f1o", 
@@ -17712,22 +16000,6 @@
     "id": 3900
   }, 
   {
-    "city": "Valpara\u00edso", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 22, 
-    "country": "Chile", 
-    "start_time": "13:00:00", 
-    "venue": "", 
-    "longitude": -71.620361, 
-    "state": "Regi\u00f3n de Valpara\u00edso", 
-    "country_code": "CL", 
-    "address": "Valpara\u00edso, Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, Chile", 
-    "latitude": -33.045646, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_347", 
-    "id": 3901
-  }, 
-  {
     "city": "Zorritos", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
     "rsvp_count": 3, 
@@ -17774,22 +16046,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_350", 
     "id": 3904
-  }, 
-  {
-    "city": "Necochea", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 8, 
-    "country": "Argentina", 
-    "start_time": "13:00:00", 
-    "venue": "", 
-    "longitude": -58.7396088, 
-    "state": "BA", 
-    "country_code": "AR", 
-    "address": "Necochea, Buenos Aires, Argentina", 
-    "latitude": -38.5544968, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_351", 
-    "id": 3906
   }, 
   {
     "city": "Puerto Cabello", 
@@ -17872,22 +16128,6 @@
     "id": 3917
   }, 
   {
-    "city": "Rivera", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 4, 
-    "country": "Uruguay", 
-    "start_time": "13:00:00", 
-    "venue": "Plaza General Jos\u00e9 Gervasio Artigas", 
-    "longitude": -55.5408393, 
-    "state": "Departamento de Rivera", 
-    "country_code": "UY", 
-    "address": "Plaza General Jos\u00e9 Gervasio Artigas, Sarand\u00ed, Rivera 40000, Uruguay", 
-    "latitude": -30.9001034, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_357", 
-    "id": 3918
-  }, 
-  {
     "city": "Salento", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
     "rsvp_count": 5, 
@@ -17902,22 +16142,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_358", 
     "id": 3919
-  }, 
-  {
-    "city": "Aarau", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 19, 
-    "country": "Switzerland", 
-    "start_time": "13:00:00", 
-    "venue": "Estaci\u00f3n del Ferrocarril (SBB)", 
-    "longitude": 8.04312, 
-    "state": "AG", 
-    "country_code": "CH", 
-    "address": "Aarau, Suiza", 
-    "latitude": 47.3934, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_359", 
-    "id": 3920
   }, 
   {
     "city": "Tandil", 
@@ -17966,38 +16190,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_361", 
     "id": 3923
-  }, 
-  {
-    "city": "Bogot\u00e1", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 28, 
-    "country": "Colombia", 
-    "start_time": "13:00:00", 
-    "venue": "Centro de Investigaciones Cu\u00e1nticas Virtual, Proyecto Kryon", 
-    "longitude": -74.075833, 
-    "state": "Bogot\u00e1, D.C.", 
-    "country_code": "CO", 
-    "address": "Bogot\u00e1, Bogot\u00e1, Colombia", 
-    "latitude": 4.598056, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_362", 
-    "id": 3924
-  }, 
-  {
-    "city": "Perth", 
-    "name": "People's Climate March", 
-    "rsvp_count": 32, 
-    "country": "Australia", 
-    "start_time": "13:00:00", 
-    "venue": "", 
-    "longitude": 115.8574693, 
-    "state": "WA", 
-    "country_code": "AU", 
-    "address": "Perth WA, Australia", 
-    "latitude": -31.9530044, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1424", 
-    "id": 3925
   }, 
   {
     "city": "Malambo", 
@@ -18592,22 +16784,6 @@
     "id": 3967
   }, 
   {
-    "city": "Mer", 
-    "name": "People's Climate March", 
-    "rsvp_count": 14, 
-    "country": "France", 
-    "start_time": "13:00:00", 
-    "venue": "13 rue Agrippa d'Aubign\u00e9", 
-    "longitude": 1.5010479, 
-    "state": "Merkez", 
-    "country_code": "FR", 
-    "address": "13 Rue Agrippa d'Aubign\u00e9, 41500 Mer, Fransa", 
-    "latitude": 47.6991577, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1436", 
-    "id": 3969
-  }, 
-  {
     "city": "Shiraz", 
     "name": "People's Climate March", 
     "rsvp_count": 4, 
@@ -18782,22 +16958,6 @@
     "event_date": "2014-09-20", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Concerned_Peoples_Climate_Vigil_in_conjuction_with_support_for_Drape_the_Drones_Intrnational_Day_of_Peace_on_21st_Septem_1", 
     "id": 3989
-  }, 
-  {
-    "city": "Antalya", 
-    "name": "Tek Evimiz D\u00fcnyam\u0131z! Our Only Home, Nature..", 
-    "rsvp_count": 9, 
-    "country": "Turkey", 
-    "start_time": "13:00:00", 
-    "venue": "saat kulesi", 
-    "longitude": 30.7037002, 
-    "state": "Antalya", 
-    "country_code": "TR", 
-    "address": "Antalya, 07600 Muratpa\u015fa/Antalya, T\u00fcrkiye", 
-    "latitude": 36.888025, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Tek_Evimiz_Dunyamiz_Our_Only_Home_Nature", 
-    "id": 3992
   }, 
   {
     "city": "Barcelona", 
@@ -19216,22 +17376,6 @@
     "id": 4024
   }, 
   {
-    "city": "Meppen", 
-    "name": "Klima-Aktionstag", 
-    "rsvp_count": 5, 
-    "country": "Germany", 
-    "start_time": "13:00:00", 
-    "venue": "Windhorstplatz, 49716 Meppen, Deutschland", 
-    "longitude": 7.2994007, 
-    "state": "NDS", 
-    "country_code": "DE", 
-    "address": "Meppen, Deutschland", 
-    "latitude": 52.6953479, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaAktionstag_108", 
-    "id": 4025
-  }, 
-  {
     "city": "Uccle", 
     "name": "Marche Pour le Climat", 
     "rsvp_count": 86, 
@@ -19246,22 +17390,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_200", 
     "id": 4026
-  }, 
-  {
-    "city": "Villavicencio", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 12, 
-    "country": "Colombia", 
-    "start_time": "13:00:00", 
-    "venue": "calle 26 # 37-45", 
-    "longitude": -73.6363552, 
-    "state": "Meta", 
-    "country_code": "CO", 
-    "address": "Calle 26 # 37-45, Villavicencio, Meta, Colombia", 
-    "latitude": 4.139187, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_396", 
-    "id": 4027
   }, 
   {
     "city": "Hamburg", 
@@ -19376,54 +17504,6 @@
     "id": 4039
   }, 
   {
-    "city": "Gharda\u00efa", 
-    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 1, 
-    "country": "Algeria", 
-    "start_time": "12:00:00", 
-    "venue": "En face le si\u00e8g de la wilaya", 
-    "longitude": 3.7232005, 
-    "state": "Gharda\u00efa", 
-    "country_code": "DZ", 
-    "address": "Gharda\u00efa, Alg\u00e9rie", 
-    "latitude": 32.5953848, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/lmsyr_lmnkhy_lshby_135", 
-    "id": 4040
-  }, 
-  {
-    "city": "Gharda\u00efa", 
-    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 5, 
-    "country": "Algeria", 
-    "start_time": "12:00:00", 
-    "venue": "En face le si\u00e8g de la wilaya", 
-    "longitude": 3.7232005, 
-    "state": "Gharda\u00efa", 
-    "country_code": "DZ", 
-    "address": "Gharda\u00efa, Alg\u00e9rie", 
-    "latitude": 32.5953848, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/lmsyr_lmnkhy_lshby_136", 
-    "id": 4041
-  }, 
-  {
-    "city": "Gharda\u00efa", 
-    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 2, 
-    "country": "Algeria", 
-    "start_time": "12:00:00", 
-    "venue": "En face le si\u00e8g de la wilaya", 
-    "longitude": 3.7232005, 
-    "state": "Gharda\u00efa", 
-    "country_code": "DZ", 
-    "address": "Gharda\u00efa, Alg\u00e9rie", 
-    "latitude": 32.5953848, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/lmsyr_lmnkhy_lshby_137", 
-    "id": 4042
-  }, 
-  {
     "city": "Dokkum", 
     "name": "Klimaat Evenement Dokkum", 
     "rsvp_count": 4, 
@@ -19438,38 +17518,6 @@
     "event_date": "2014-09-20", 
     "rsvp_url": "https://secure.avaaz.org/nl/event/climate/Klimaat_Evenement_Dokkum", 
     "id": 4043
-  }, 
-  {
-    "city": "Gharda\u00efa", 
-    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 1, 
-    "country": "Algeria", 
-    "start_time": "12:00:00", 
-    "venue": "En face le si\u00e8g de la wilaya", 
-    "longitude": 3.7232005, 
-    "state": "Gharda\u00efa", 
-    "country_code": "DZ", 
-    "address": "Gharda\u00efa, Alg\u00e9rie", 
-    "latitude": 32.5953848, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/lmsyr_lmnkhy_lshby_138", 
-    "id": 4044
-  }, 
-  {
-    "city": "Gharda\u00efa", 
-    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 1, 
-    "country": "Algeria", 
-    "start_time": "12:00:00", 
-    "venue": "En face le si\u00e8g de la wilaya", 
-    "longitude": 3.7232005, 
-    "state": "Gharda\u00efa", 
-    "country_code": "DZ", 
-    "address": "Gharda\u00efa, Alg\u00e9rie", 
-    "latitude": 32.5953848, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/lmsyr_lmnkhy_lshby_139", 
-    "id": 4045
   }, 
   {
     "city": "Cuenca", 
@@ -19488,22 +17536,6 @@
     "id": 4046
   }, 
   {
-    "city": "Gharda\u00efa", 
-    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 1, 
-    "country": "Algeria", 
-    "start_time": "12:00:00", 
-    "venue": "En face le si\u00e8g de la wilaya", 
-    "longitude": 3.7232005, 
-    "state": "Gharda\u00efa", 
-    "country_code": "DZ", 
-    "address": "Gharda\u00efa, Alg\u00e9rie", 
-    "latitude": 32.5953848, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/lmsyr_lmnkhy_lshby_140", 
-    "id": 4047
-  }, 
-  {
     "city": "M\u00e9rida", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
     "rsvp_count": 26, 
@@ -19520,278 +17552,6 @@
     "id": 4048
   }, 
   {
-    "city": "Alger", 
-    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 2, 
-    "country": "Algeria", 
-    "start_time": "12:00:00", 
-    "venue": "En face le si\u00e8g de la wilaya", 
-    "longitude": 3.0505725, 
-    "state": "Alger", 
-    "country_code": "DZ", 
-    "address": "Rue Colonel Mohamed Chabani, Alger, Alg\u00e9rie", 
-    "latitude": 36.7631646, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/lmsyr_lmnkhy_lshby_141", 
-    "id": 4049
-  }, 
-  {
-    "city": "Alger", 
-    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 2, 
-    "country": "Algeria", 
-    "start_time": "12:00:00", 
-    "venue": "En face le si\u00e8g de la wilaya", 
-    "longitude": 3.0505725, 
-    "state": "Alger", 
-    "country_code": "DZ", 
-    "address": "Rue Colonel Mohamed Chabani, Alger, Alg\u00e9rie", 
-    "latitude": 36.7631646, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/lmsyr_lmnkhy_lshby_142", 
-    "id": 4050
-  }, 
-  {
-    "city": "Alger", 
-    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 1, 
-    "country": "Algeria", 
-    "start_time": "12:00:00", 
-    "venue": "En face le si\u00e8g de la wilaya", 
-    "longitude": 3.0505725, 
-    "state": "Alger", 
-    "country_code": "DZ", 
-    "address": "Rue Colonel Mohamed Chabani, Alger, Alg\u00e9rie", 
-    "latitude": 36.7631646, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/lmsyr_lmnkhy_lshby_143", 
-    "id": 4051
-  }, 
-  {
-    "city": "Alger", 
-    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 1, 
-    "country": "Algeria", 
-    "start_time": "12:00:00", 
-    "venue": "En face le si\u00e8g de la wilaya", 
-    "longitude": 3.0505725, 
-    "state": "Alger", 
-    "country_code": "DZ", 
-    "address": "Rue Colonel Mohamed Chabani, Alger, Alg\u00e9rie", 
-    "latitude": 36.7631646, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/lmsyr_lmnkhy_lshby_144", 
-    "id": 4052
-  }, 
-  {
-    "city": "Alger", 
-    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 1, 
-    "country": "Algeria", 
-    "start_time": "12:00:00", 
-    "venue": "En face le si\u00e8g de la wilaya", 
-    "longitude": 3.0505725, 
-    "state": "Alger", 
-    "country_code": "DZ", 
-    "address": "Rue Colonel Mohamed Chabani, Alger, Alg\u00e9rie", 
-    "latitude": 36.7631646, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/lmsyr_lmnkhy_lshby_145", 
-    "id": 4053
-  }, 
-  {
-    "city": "Alger", 
-    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 1, 
-    "country": "Algeria", 
-    "start_time": "12:00:00", 
-    "venue": "En face le si\u00e8g de la wilaya", 
-    "longitude": 3.0505725, 
-    "state": "Alger", 
-    "country_code": "DZ", 
-    "address": "Rue Colonel Mohamed Chabani, Alger, Alg\u00e9rie", 
-    "latitude": 36.7631646, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/lmsyr_lmnkhy_lshby_146", 
-    "id": 4054
-  }, 
-  {
-    "city": "Gharda\u00efa", 
-    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 1, 
-    "country": "Algeria", 
-    "start_time": "12:00:00", 
-    "venue": "En face le si\u00e8ge de la wilaya", 
-    "longitude": 3.7232005, 
-    "state": "Gharda\u00efa", 
-    "country_code": "DZ", 
-    "address": "Gharda\u00efa, Alg\u00e9rie", 
-    "latitude": 32.5953848, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/lmsyr_lmnkhy_lshby_147", 
-    "id": 4056
-  }, 
-  {
-    "city": "Gharda\u00efa", 
-    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 1, 
-    "country": "Algeria", 
-    "start_time": "12:00:00", 
-    "venue": "En face le si\u00e8ge de la wilaya", 
-    "longitude": 3.7232005, 
-    "state": "Gharda\u00efa", 
-    "country_code": "DZ", 
-    "address": "Gharda\u00efa, Alg\u00e9rie", 
-    "latitude": 32.5953848, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/lmsyr_lmnkhy_lshby_148", 
-    "id": 4057
-  }, 
-  {
-    "city": "Gharda\u00efa", 
-    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 1, 
-    "country": "Algeria", 
-    "start_time": "12:00:00", 
-    "venue": "En face le si\u00e8ge de la wilaya", 
-    "longitude": 3.7232005, 
-    "state": "Gharda\u00efa", 
-    "country_code": "DZ", 
-    "address": "Gharda\u00efa, Alg\u00e9rie", 
-    "latitude": 32.5953848, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/lmsyr_lmnkhy_lshby_149", 
-    "id": 4058
-  }, 
-  {
-    "city": "Gharda\u00efa", 
-    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 1, 
-    "country": "Algeria", 
-    "start_time": "12:00:00", 
-    "venue": "En face le si\u00e8ge de la wilaya", 
-    "longitude": 3.7232005, 
-    "state": "Gharda\u00efa", 
-    "country_code": "DZ", 
-    "address": "Gharda\u00efa, Alg\u00e9rie", 
-    "latitude": 32.5953848, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/lmsyr_lmnkhy_lshby_150", 
-    "id": 4059
-  }, 
-  {
-    "city": "Gharda\u00efa", 
-    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 1, 
-    "country": "Algeria", 
-    "start_time": "12:00:00", 
-    "venue": "En face le si\u00e8ge de la wilaya", 
-    "longitude": 3.7232005, 
-    "state": "Gharda\u00efa", 
-    "country_code": "DZ", 
-    "address": "Gharda\u00efa, Alg\u00e9rie", 
-    "latitude": 32.5953848, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/lmsyr_lmnkhy_lshby_151", 
-    "id": 4060
-  }, 
-  {
-    "city": "Gharda\u00efa", 
-    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 1, 
-    "country": "Algeria", 
-    "start_time": "12:00:00", 
-    "venue": "En face le si\u00e8ge de la wilaya", 
-    "longitude": 3.7232005, 
-    "state": "Gharda\u00efa", 
-    "country_code": "DZ", 
-    "address": "Gharda\u00efa, Alg\u00e9rie", 
-    "latitude": 32.5953848, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/lmsyr_lmnkhy_lshby_152", 
-    "id": 4061
-  }, 
-  {
-    "city": "Gharda\u00efa", 
-    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 1, 
-    "country": "Algeria", 
-    "start_time": "12:00:00", 
-    "venue": "En face le si\u00e8ge de la wilaya", 
-    "longitude": 3.7232005, 
-    "state": "Gharda\u00efa", 
-    "country_code": "DZ", 
-    "address": "Gharda\u00efa, Alg\u00e9rie", 
-    "latitude": 32.5953848, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/lmsyr_lmnkhy_lshby_153", 
-    "id": 4062
-  }, 
-  {
-    "city": "Gharda\u00efa", 
-    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 2, 
-    "country": "Algeria", 
-    "start_time": "12:00:00", 
-    "venue": "En face le si\u00e8ge de la wilaya", 
-    "longitude": 3.7232005, 
-    "state": "Gharda\u00efa", 
-    "country_code": "DZ", 
-    "address": "Gharda\u00efa, Alg\u00e9rie", 
-    "latitude": 32.5953848, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/lmsyr_lmnkhy_lshby_154", 
-    "id": 4063
-  }, 
-  {
-    "city": "Gharda\u00efa", 
-    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 7, 
-    "country": "Algeria", 
-    "start_time": "12:00:00", 
-    "venue": "En face le si\u00e8ge de la wilaya", 
-    "longitude": 3.7232005, 
-    "state": "Gharda\u00efa", 
-    "country_code": "DZ", 
-    "address": "Gharda\u00efa, Alg\u00e9rie", 
-    "latitude": 32.5953848, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/lmsyr_lmnkhy_lshby_155", 
-    "id": 4064
-  }, 
-  {
-    "city": "Gharda\u00efa", 
-    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 1, 
-    "country": "Algeria", 
-    "start_time": "13:00:00", 
-    "venue": "En face le si\u00e8ge de la wilaya", 
-    "longitude": 3.7232005, 
-    "state": "Gharda\u00efa", 
-    "country_code": "DZ", 
-    "address": "Gharda\u00efa, Alg\u00e9rie", 
-    "latitude": 32.5953848, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/lmsyr_lmnkhy_lshby_156", 
-    "id": 4065
-  }, 
-  {
-    "city": "Gharda\u00efa", 
-    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 1, 
-    "country": "Algeria", 
-    "start_time": "13:00:00", 
-    "venue": "En face le si\u00e8ge de la wilaya", 
-    "longitude": 3.7232005, 
-    "state": "Gharda\u00efa", 
-    "country_code": "DZ", 
-    "address": "Gharda\u00efa, Alg\u00e9rie", 
-    "latitude": 32.5953848, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/lmsyr_lmnkhy_lshby_157", 
-    "id": 4067
-  }, 
-  {
     "city": "Munchhouse", 
     "name": "Marche Pour le Climat", 
     "rsvp_count": 10, 
@@ -19806,38 +17566,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_204", 
     "id": 4068
-  }, 
-  {
-    "city": "Gharda\u00efa", 
-    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 1, 
-    "country": "Algeria", 
-    "start_time": "13:00:00", 
-    "venue": "En face le si\u00e8ge de la wilaya", 
-    "longitude": 3.7232005, 
-    "state": "Gharda\u00efa", 
-    "country_code": "DZ", 
-    "address": "Gharda\u00efa, Alg\u00e9rie", 
-    "latitude": 32.5953848, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/lmsyr_lmnkhy_lshby_158", 
-    "id": 4069
-  }, 
-  {
-    "city": "Gharda\u00efa", 
-    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 1, 
-    "country": "Algeria", 
-    "start_time": "13:00:00", 
-    "venue": "En face le si\u00e8ge de la wilaya", 
-    "longitude": 3.7232005, 
-    "state": "Gharda\u00efa", 
-    "country_code": "DZ", 
-    "address": "Gharda\u00efa, Alg\u00e9rie", 
-    "latitude": 32.5953848, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/lmsyr_lmnkhy_lshby_159", 
-    "id": 4070
   }, 
   {
     "city": "La Chaux-de-Fonds", 
@@ -19918,22 +17646,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_208", 
     "id": 4077
-  }, 
-  {
-    "city": "Xalapa Enr\u00edquez", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 4, 
-    "country": "Mexico", 
-    "start_time": "13:00:00", 
-    "venue": "Teatro del Estado", 
-    "longitude": -96.9337399, 
-    "state": "VER", 
-    "country_code": "MX", 
-    "address": "Ignacio de la Llave 9, Represa del Carmen, 91050 Xalapa Enr\u00edquez, VER, M\u00e9xico", 
-    "latitude": 19.5328305, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_403", 
-    "id": 4078
   }, 
   {
     "city": "D\u00fcsseldorf", 
@@ -20032,22 +17744,6 @@
     "id": 4085
   }, 
   {
-    "city": "Pessac", 
-    "name": "Marche Pour le Climat", 
-    "rsvp_count": 12, 
-    "country": "France", 
-    "start_time": "13:00:00", 
-    "venue": "place de la Mairie \u00e0 Pessac pr\u00e8s de Bordaux", 
-    "longitude": -0.63038600000004, 
-    "state": "Aquitaine", 
-    "country_code": "FR", 
-    "address": "Pessac, France", 
-    "latitude": 44.80583, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_209", 
-    "id": 4086
-  }, 
-  {
     "city": "Sened", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
     "rsvp_count": 4, 
@@ -20094,22 +17790,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_211", 
     "id": 4092
-  }, 
-  {
-    "city": "Le\u00f3n", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 28, 
-    "country": "Spain", 
-    "start_time": "13:00:00", 
-    "venue": "Plaza de S. Marcos", 
-    "longitude": -5.5810655, 
-    "state": "CL", 
-    "country_code": "ES", 
-    "address": "Plaza San Marcos, Le\u00f3n, Le\u00f3n, Espa\u00f1a", 
-    "latitude": 42.6013222, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_407", 
-    "id": 4094
   }, 
   {
     "city": "\u062d\u0644\u0628", 
@@ -20190,22 +17870,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Actiedag_voor_het_Klimaat_22", 
     "id": 4099
-  }, 
-  {
-    "city": "Guanajuato", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 19, 
-    "country": "Mexico", 
-    "start_time": "13:00:00", 
-    "venue": "Alhondiga de Granaditas", 
-    "longitude": -101.2578347, 
-    "state": "GTO", 
-    "country_code": "MX", 
-    "address": "Museo Regional de Guanajuato Alh\u00f3ndiga de Granaditas, Centro, 36000 Guanajuato, GTO, M\u00e9xico", 
-    "latitude": 21.0187971, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_409", 
-    "id": 4100
   }, 
   {
     "city": "Zihuatanejo", 
@@ -20302,22 +17966,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_411", 
     "id": 4107
-  }, 
-  {
-    "city": "Reims", 
-    "name": "Marche Pour le Climat", 
-    "rsvp_count": 41, 
-    "country": "France", 
-    "start_time": "13:00:00", 
-    "venue": "Avenue de Laen", 
-    "longitude": 4.0205695, 
-    "state": "Champagne-Ardenne", 
-    "country_code": "FR", 
-    "address": "Avenue de Laon, 51100 Reims, France", 
-    "latitude": 49.2720925, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_213", 
-    "id": 4109
   }, 
   {
     "city": "\u0642\u0646\u0627", 
@@ -21120,22 +18768,6 @@
     "id": 4169
   }, 
   {
-    "city": "Whangarei", 
-    "name": "People's Climate March", 
-    "rsvp_count": 12, 
-    "country": "New Zealand", 
-    "start_time": "13:00:00", 
-    "venue": "Cameron St Mall", 
-    "longitude": 174.323708, 
-    "state": "Northland", 
-    "country_code": "NZ", 
-    "address": "Whangarei, New Zealand", 
-    "latitude": -35.7251117, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1466", 
-    "id": 4171
-  }, 
-  {
     "city": "\u0427\u0435\u0440\u043d\u0438\u0433\u043e\u0432", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
     "rsvp_count": 16, 
@@ -21520,22 +19152,6 @@
     "id": 4204
   }, 
   {
-    "city": "\u0412\u044b\u0431\u043e\u0440\u0433", 
-    "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 2, 
-    "country": "Russia", 
-    "start_time": "13:00:00", 
-    "venue": "\u0410\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u0433\u043e\u0440\u043e\u0434\u0430", 
-    "longitude": 28.742263, 
-    "state": "\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", 
-    "country_code": "RU", 
-    "address": "\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442, 11, \u0412\u044b\u0431\u043e\u0440\u0433, \u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0420\u043e\u0441\u0441\u0438\u044f, 188800", 
-    "latitude": 60.709068, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/ru/event/climate/Narodnyy_klimaticheskiy_marsh_117", 
-    "id": 4205
-  }, 
-  {
     "city": "", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
     "rsvp_count": 4, 
@@ -21552,22 +19168,6 @@
     "id": 4207
   }, 
   {
-    "city": "\u0415\u0440\u0435\u0432\u0430\u043d", 
-    "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 4, 
-    "country": "Armenia", 
-    "start_time": "13:00:00", 
-    "venue": "", 
-    "longitude": 44.516667, 
-    "state": "\u0415\u0440\u0435\u0432\u0430\u043d", 
-    "country_code": "AM", 
-    "address": "\u0415\u0440\u0435\u0432\u0430\u043d, \u0410\u0440\u043c\u0435\u043d\u0438\u044f", 
-    "latitude": 40.183333, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/ru/event/climate/Narodnyy_klimaticheskiy_marsh_118", 
-    "id": 4208
-  }, 
-  {
     "city": "Guayaquil", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
     "rsvp_count": 29, 
@@ -21582,22 +19182,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_430", 
     "id": 4209
-  }, 
-  {
-    "city": "Filandia", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 1, 
-    "country": "Colombia", 
-    "start_time": "13:00:00", 
-    "venue": "Reserva forestal protectora Barbas-Bremen", 
-    "longitude": -72, 
-    "state": "Quind\u00edo", 
-    "country_code": "CO", 
-    "address": "Plazuind\u00eco, Colombiaa principal del municipio de Filandia, Departamento del Quind\u00edo, Colombia", 
-    "latitude": 4, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_431", 
-    "id": 4211
   }, 
   {
     "city": "El Tambo", 
@@ -21888,22 +19472,6 @@
     "id": 4234
   }, 
   {
-    "city": "Cartagena", 
-    "name": "Concentraci\u00f3n Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 20, 
-    "country": "Spain", 
-    "start_time": "12:00:00", 
-    "venue": "Parque de Los Juncos", 
-    "longitude": -0.98751119999997, 
-    "state": "Regi\u00f3n de Murcia", 
-    "country_code": "ES", 
-    "address": "Parque de Los Juncos, Cartagena, Murcia, Espa\u00f1a", 
-    "latitude": 37.6108484, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/Concentracion_Ciudadana_contra_el_Cambio_Climatico_1", 
-    "id": 4235
-  }, 
-  {
     "city": "Thonon-les-Bains", 
     "name": "Marche Pour le Climat", 
     "rsvp_count": 23, 
@@ -22046,22 +19614,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_225", 
     "id": 4246
-  }, 
-  {
-    "city": "\u0392\u03ad\u03c1\u03bf\u03b9\u03b1", 
-    "name": "\u03a0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u039b\u03b1\u03ce\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
-    "rsvp_count": 6, 
-    "country": "Greece", 
-    "start_time": "13:00:00", 
-    "venue": "\u03a0\u039b\u0391\u03a4\u0395\u0399\u0391 \u0395\u039b\u0399\u0391\u03a3", 
-    "longitude": 22.2058896, 
-    "state": "", 
-    "country_code": "GR", 
-    "address": "\u0395\u03bb\u03b9\u03ac\u03c2, \u0392\u03ad\u03c1\u03bf\u03b9\u03b1 591 00, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1", 
-    "latitude": 40.523625, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/el/event/climate/Poreia_ton_Laon_gia_to_Klima_99", 
-    "id": 4247
   }, 
   {
     "city": "Maarif", 
@@ -22448,22 +20000,6 @@
     "id": 4284
   }, 
   {
-    "city": "\u0422\u0430\u0448\u043a\u0435\u043d\u0442", 
-    "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 4, 
-    "country": "Uzbekistan", 
-    "start_time": "13:00:00", 
-    "venue": "\u043f\u0440. \u041c\u0443\u0441\u0442\u0430\u043a\u0438\u043b\u043b\u0438\u043a, 59", 
-    "longitude": 69.2963673, 
-    "state": "\u0422\u0430\u0448\u043a\u0435\u043d\u0442\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
-    "country_code": "UZ", 
-    "address": "59 A \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041c\u0443\u0441\u0442\u0430\u043a\u0438\u043b\u043b\u0438\u043a, \u0422\u0430\u0448\u043a\u0435\u043d\u0442 100000, \u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d", 
-    "latitude": 41.3188892, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/ru/event/climate/Narodnyy_klimaticheskiy_marsh_132", 
-    "id": 4285
-  }, 
-  {
     "city": "Kabul", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629  \u0643\u0627\u0628\u0648\u0644", 
     "rsvp_count": 1, 
@@ -22558,22 +20094,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1497", 
     "id": 4296
-  }, 
-  {
-    "city": "Santo Andr\u00e9", 
-    "name": "Caminhada pelo Clima", 
-    "rsvp_count": 166, 
-    "country": "Brazil", 
-    "start_time": "13:00:00", 
-    "venue": "Av Dom Pedro II", 
-    "longitude": -46.53376, 
-    "state": "SP", 
-    "country_code": "BR", 
-    "address": "Avenida Dom Pedro II - Jardim, Santo Andr\u00e9 - SP, Rep\u00fablica Federativa do Brasil", 
-    "latitude": -23.6526822, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_118", 
-    "id": 4300
   }, 
   {
     "city": "\u0412\u043b\u0430\u0434\u0438\u043a\u0430\u0432\u043a\u0430\u0437", 
@@ -23616,22 +21136,6 @@
     "id": 4433
   }, 
   {
-    "city": "C\u00e1ceres", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 8, 
-    "country": "Spain", 
-    "start_time": "13:00:00", 
-    "venue": "", 
-    "longitude": -6.3732558, 
-    "state": "EX", 
-    "country_code": "ES", 
-    "address": "Plaza San Juan, 10003 C\u00e1ceres, C\u00e1ceres, Espa\u00f1a", 
-    "latitude": 39.4736922, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_457", 
-    "id": 4434
-  }, 
-  {
     "city": "Ombada", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629 \u0627\u0644\u0633\u0648\u062f\u0627\u0646\u064a\u0629", 
     "rsvp_count": 3, 
@@ -23854,22 +21358,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/ar/event/climate/lmsyr_lmnkhy_lshby_184", 
     "id": 4463
-  }, 
-  {
-    "city": "Lamta", 
-    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 2, 
-    "country": "Tunisia", 
-    "start_time": "16:30:00", 
-    "venue": "\u062f\u0627\u0631 \u0627\u0644\u062b\u0642\u0627\u0641\u0629 \u0628\u0635\u064a\u0651\u0627\u062f\u0629", 
-    "longitude": 10.883333, 
-    "state": "Monastir", 
-    "country_code": "TN", 
-    "address": "Lamta, Tunisie", 
-    "latitude": 35.671389, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/ar/event/climate/lmsyr_lmnkhy_lshby_185", 
-    "id": 4464
   }, 
   {
     "city": "Chicoloapan", 
@@ -24382,22 +21870,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaAktionstag_141", 
     "id": 4512
-  }, 
-  {
-    "city": "Seattle", 
-    "name": "Green Market Recovery", 
-    "rsvp_count": 3, 
-    "country": "United States of America", 
-    "start_time": "03:00:00", 
-    "venue": "Fontanelle Beach Place", 
-    "longitude": -122.4018703, 
-    "state": "WA", 
-    "country_code": "US", 
-    "address": "Beach Drive Southwest, Seattle, WA, USA", 
-    "latitude": 47.5584465, 
-    "event_date": "1900-10-31", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Green_Market_Recovery", 
-    "id": 4514
   }, 
   {
     "city": "Traipu", 
@@ -25376,22 +22848,6 @@
     "id": 4636
   }, 
   {
-    "city": "Lakhdaria", 
-    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 2, 
-    "country": "Algeria", 
-    "start_time": "13:00:00", 
-    "venue": "bouira university", 
-    "longitude": 3.5944440000001, 
-    "state": "Bou\u00efra", 
-    "country_code": "DZ", 
-    "address": "Lakhdaria, Alg\u00e9rie", 
-    "latitude": 36.562222, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/ar/event/climate/lmsyr_lmnkhy_lshby_198", 
-    "id": 4637
-  }, 
-  {
     "city": "\u041f\u0435\u0442\u0440\u043e\u043f\u0430\u0432\u043b\u043e\u0432\u0441\u043a-\u041a\u0430\u043c\u0447\u0430\u0442\u0441\u043a\u0438\u0439", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
     "rsvp_count": 3, 
@@ -25502,22 +22958,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Palestine4Earth", 
     "id": 4645
-  }, 
-  {
-    "city": "L'Aquila", 
-    "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 9, 
-    "country": "Italy", 
-    "start_time": "11:00:00", 
-    "venue": "Fontana Luminosa", 
-    "longitude": 13.401201, 
-    "state": "Abruzzo", 
-    "country_code": "IT", 
-    "address": "Fontana Luminosa, Piazza battaglione alpini, ., 67100 L'Aquila, Italia", 
-    "latitude": 42.3537279, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/it/event/climate/Marcia_Globale_per_il_Clima_127", 
-    "id": 4647
   }, 
   {
     "city": "Bolonia", 
@@ -25680,22 +23120,6 @@
     "id": 4663
   }, 
   {
-    "city": "Sh\u00ebngjin", 
-    "name": "People's Climate March", 
-    "rsvp_count": 5, 
-    "country": "Albania", 
-    "start_time": "13:00:00", 
-    "venue": "", 
-    "longitude": 19.5960729, 
-    "state": "", 
-    "country_code": "AL", 
-    "address": "Bulevardi N\u00ebn\u00eb Tereza, Sh\u00ebngjin, Albania", 
-    "latitude": 41.8120362, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1558", 
-    "id": 4668
-  }, 
-  {
     "city": "Kinna", 
     "name": "People's Climate Protest - Skene rondellen i 30 minuter!", 
     "rsvp_count": 1, 
@@ -25758,22 +23182,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/ru/event/climate/Narodnyy_klimaticheskiy_marsh_173", 
     "id": 4673
-  }, 
-  {
-    "city": "Parintins", 
-    "name": "Caminhada pelo Clima", 
-    "rsvp_count": 1, 
-    "country": "Brazil", 
-    "start_time": "13:00:00", 
-    "venue": "Catedral Nossa Senhora do Carmo", 
-    "longitude": -56.7295262, 
-    "state": "AM", 
-    "country_code": "BR", 
-    "address": "Parintins - AM, Rep\u00fablica Federativa do Brasil", 
-    "latitude": -2.6377762, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_170", 
-    "id": 4678
   }, 
   {
     "city": "Puerto Ayora", 
@@ -25920,22 +23328,6 @@
     "id": 4697
   }, 
   {
-    "city": "Hyderabad", 
-    "name": "Caminhada pelo Clima", 
-    "rsvp_count": 2, 
-    "country": "India", 
-    "start_time": "13:00:00", 
-    "venue": "", 
-    "longitude": 78.3552663, 
-    "state": "Telangana", 
-    "country_code": "IN", 
-    "address": "Club House, National Highway 9, Prajay City, Hafeezpet, Hyderabad, Telangana 500049, India", 
-    "latitude": 17.4933294, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_173", 
-    "id": 4700
-  }, 
-  {
     "city": "", 
     "name": "People's Climate March", 
     "rsvp_count": 5, 
@@ -25950,38 +23342,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1564", 
     "id": 4702
-  }, 
-  {
-    "city": "Nieu-Bethesda", 
-    "name": "People's Climate March", 
-    "rsvp_count": 2, 
-    "country": "South Africa", 
-    "start_time": "13:00:00", 
-    "venue": "", 
-    "longitude": 24.5521132, 
-    "state": "EC", 
-    "country_code": "ZA", 
-    "address": "Nieu-Bethesda, South Africa", 
-    "latitude": -31.8652034, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1565", 
-    "id": 4703
-  }, 
-  {
-    "city": "Aspen", 
-    "name": "People's Climate March", 
-    "rsvp_count": 9, 
-    "country": "United States of America", 
-    "start_time": "13:00:00", 
-    "venue": "300 Conundrum Rd, Aspen", 
-    "longitude": -106.8486488, 
-    "state": "CO", 
-    "country_code": "US", 
-    "address": "300 Conundrum Creek Road, Aspen, CO 81611, USA", 
-    "latitude": 39.1244885, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1566", 
-    "id": 4704
   }, 
   {
     "city": "San Antonio de Los Altos", 
@@ -26304,22 +23664,6 @@
     "id": 4734
   }, 
   {
-    "city": "Altenstadt", 
-    "name": "Klima-Aktionstag", 
-    "rsvp_count": 6, 
-    "country": "Germany", 
-    "start_time": "13:00:00", 
-    "venue": "Landtag", 
-    "longitude": 8.9479296, 
-    "state": "HE", 
-    "country_code": "DE", 
-    "address": "Hermannstra\u00dfe 4, 63674 Altenstadt, Deutschland", 
-    "latitude": 50.2842332, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaAktionstag_146", 
-    "id": 4735
-  }, 
-  {
     "city": "Hamburg", 
     "name": "Klima-Aktionstag", 
     "rsvp_count": 50, 
@@ -26382,22 +23726,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/basta_bugie", 
     "id": 4739
-  }, 
-  {
-    "city": "Guadalajara", 
-    "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 5, 
-    "country": "Mexico", 
-    "start_time": "13:00:00", 
-    "venue": "Fuente de Chapultepec y Av. M\u00e9xico", 
-    "longitude": -103.3865123, 
-    "state": "JAL", 
-    "country_code": "MX", 
-    "address": "Avenida M\u00e9xico, Guadalajara, JAL, M\u00e9xico", 
-    "latitude": 20.6795304, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_497", 
-    "id": 4740
   }, 
   {
     "city": "S\u00e3o Mateus", 
@@ -26624,22 +23952,6 @@
     "id": 4761
   }, 
   {
-    "city": "\u0421\u0442\u0430\u0440\u044b\u0435 \u041a\u0438\u0435\u0448\u043a\u0438", 
-    "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 1, 
-    "country": "Russia", 
-    "start_time": "13:00:00", 
-    "venue": "\u0423\u043b. \u0413\u0430\u0433\u0430\u0440\u0438\u043d\u0430", 
-    "longitude": 56.0567404, 
-    "state": "\u0420\u0435\u0441\u043f. \u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d \u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d", 
-    "country_code": "RU", 
-    "address": "\u0443\u043b\u0438\u0446\u0430 \u0413\u0430\u0433\u0430\u0440\u0438\u043d\u0430, \u0421\u0442\u0430\u0440\u044b\u0435 \u041a\u0438\u0435\u0448\u043a\u0438, \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d, \u0420\u043e\u0441\u0441\u0438\u044f, 450590", 
-    "latitude": 54.5685957, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/ru/event/climate/Narodnyy_klimaticheskiy_marsh_180", 
-    "id": 4762
-  }, 
-  {
     "city": "\u0627\u0644\u0631\u064a\u0627\u0636", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
     "rsvp_count": 1, 
@@ -26814,22 +24126,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/ar/event/climate/lmsyr_lmnkhy_lshby_215", 
     "id": 4777
-  }, 
-  {
-    "city": "\u0642\u0633\u0645 \u0628\u0627\u0628 \u0634\u0631\u0642\u064a", 
-    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 1, 
-    "country": "Egypt", 
-    "start_time": "13:00:00", 
-    "venue": "\u0645\u0643\u062a\u0628\u0629 \u0627\u0644\u0627\u0633\u0643\u0646\u062f\u064a\u0629", 
-    "longitude": 29.9092012, 
-    "state": "\u0627\u0644\u0623\u0633\u0643\u0646\u062f\u0631\u064a\u0629", 
-    "country_code": "EG", 
-    "address": "\u0645\u0643\u062a\u0628\u0629 \u0627\u0644\u0625\u0633\u0643\u0646\u062f\u0631\u064a\u0629\u060c \u0627\u0644\u0623\u0632\u0627\u0631\u064a\u062a\u0629 \u0648\u0627\u0644\u0634\u0627\u0637\u0628\u064a\u060c \u0642\u0633\u0645 \u0628\u0627\u0628 \u0634\u0631\u0642\u064a\u060c \u0627\u0644\u0623\u0633\u0643\u0646\u062f\u0631\u064a\u0629 21526\u060c \u0645\u0635\u0631", 
-    "latitude": 31.2088705, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/ar/event/climate/lmsyr_lmnkhy_lshby_216", 
-    "id": 4778
   }, 
   {
     "city": "Tafilah Governorate", 
@@ -27248,22 +24544,6 @@
     "id": 4814
   }, 
   {
-    "city": "Malatya", 
-    "name": "\u0130klim \u0130\u00e7in Halk Y\u00fcr\u00fcy\u00fc\u015f\u00fc", 
-    "rsvp_count": 7, 
-    "country": "Turkey", 
-    "start_time": "13:00:00", 
-    "venue": "yeni cami", 
-    "longitude": 38.317954, 
-    "state": "Malatya", 
-    "country_code": "TR", 
-    "address": "Yeni Cami, Hamidiye Mh., 44200 Malatya/Malatya, T\u00fcrkiye", 
-    "latitude": 38.349903, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/tr/event/climate/Iklim_Icin_Halk_Yuruyusu_30", 
-    "id": 4817
-  }, 
-  {
     "city": "\u0627\u0644\u0646\u062c\u0641 \u0627\u0644\u0627\u0634\u0631\u0641", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
     "rsvp_count": 4, 
@@ -27326,22 +24606,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_505", 
     "id": 4821
-  }, 
-  {
-    "city": "Belo Horizonte", 
-    "name": "Caminhada pelo Clima", 
-    "rsvp_count": 13, 
-    "country": "Brazil", 
-    "start_time": "10:00:00", 
-    "venue": "", 
-    "longitude": -43.923815, 
-    "state": "MG", 
-    "country_code": "BR", 
-    "address": "Avenida dos Bandeirantes, Belo Horizonte - MG, Rep\u00fablica Federativa do Brasil", 
-    "latitude": -19.9527636, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_183", 
-    "id": 4822
   }, 
   {
     "city": "Rio Branco", 
@@ -28224,22 +25488,6 @@
     "id": 4904
   }, 
   {
-    "city": "Vaitupu", 
-    "name": "Marche Pour le Climat", 
-    "rsvp_count": 2, 
-    "country": "Wallis and Futuna", 
-    "start_time": "13:00:00", 
-    "venue": "", 
-    "longitude": -176.191229, 
-    "state": "Wallis", 
-    "country_code": "WF", 
-    "address": "RT1, Vaitupu, Wallis et Futuna", 
-    "latitude": -13.228896, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_266", 
-    "id": 4906
-  }, 
-  {
     "city": "S\u00f8nderborg", 
     "name": "Climate Summit Bike Rally", 
     "rsvp_count": 2, 
@@ -28560,22 +25808,6 @@
     "id": 4937
   }, 
   {
-    "city": "Tikiouine", 
-    "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 1, 
-    "country": "Morocco", 
-    "start_time": "13:00:00", 
-    "venue": "", 
-    "longitude": -9.5006236, 
-    "state": "Souss-Massa-Dra\u00e2", 
-    "country_code": "MA", 
-    "address": "N8, Tikiouine 80000, Maroc", 
-    "latitude": 30.3851036, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/ar/event/climate/lmsyr_lmnkhy_lshby_246", 
-    "id": 4938
-  }, 
-  {
     "city": "\u041a\u0438\u0435\u0432", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
     "rsvp_count": 15, 
@@ -28638,22 +25870,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_269", 
     "id": 4944
-  }, 
-  {
-    "city": "Torr\u00e3o", 
-    "name": "BTT pelo Planeta", 
-    "rsvp_count": 3, 
-    "country": "Portugal", 
-    "start_time": "09:00:00", 
-    "venue": "Torr\u00e3o, Alc\u00e1cer do Sal, Set\u00fabal, Portugal", 
-    "longitude": -8.2238261, 
-    "state": "Set\u00fabal", 
-    "country_code": "PT", 
-    "address": "Torr\u00e3o, Portugal", 
-    "latitude": 38.2945393, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/BTT_pelo_Planeta", 
-    "id": 4946
   }, 
   {
     "city": "", 
@@ -29520,22 +26736,6 @@
     "id": 5026
   }, 
   {
-    "city": "S\u00e3o Paulo", 
-    "name": "Caminhada pelo Clima", 
-    "rsvp_count": 18, 
-    "country": "Brazil", 
-    "start_time": "13:00:00", 
-    "venue": "PARQUE DO IBIRAPUERA", 
-    "longitude": -46.6576336, 
-    "state": "SP", 
-    "country_code": "BR", 
-    "address": "Parque do Ibirapuera, S\u00e3o Paulo - SP, Rep\u00fablica Federativa do Brasil", 
-    "latitude": -23.5874162, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_206", 
-    "id": 5027
-  }, 
-  {
     "city": "Itanh\u00e9m", 
     "name": "Mobiliza\u00e7\u00e3o pela consci\u00eancia ambiental e clim\u00e1tica.", 
     "rsvp_count": 3, 
@@ -30048,22 +27248,6 @@
     "id": 5074
   }, 
   {
-    "city": "Santar\u00e9m", 
-    "name": "Caminhada pelo Clima em Santar\u00e9m - PA", 
-    "rsvp_count": 8, 
-    "country": "Brazil", 
-    "start_time": "14:00:00", 
-    "venue": "Prefeitura Municipal de Santar\u00e9m", 
-    "longitude": -54.716087, 
-    "state": "PA", 
-    "country_code": "BR", 
-    "address": "Avenida Doutor An\u00edsio Chaves, 827-895 - Aeroporto Velho, Santar\u00e9m - PA, Rep\u00fablica Federativa do Brasil", 
-    "latitude": -2.4379974, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_216", 
-    "id": 5075
-  }, 
-  {
     "city": "Pf\u00e4ffikon", 
     "name": "People's Climate March", 
     "rsvp_count": 4, 
@@ -30368,22 +27552,6 @@
     "id": 5099
   }, 
   {
-    "city": "Saint-Malo", 
-    "name": "Marche Pour le Climat", 
-    "rsvp_count": 7, 
-    "country": "France", 
-    "start_time": "14:00:00", 
-    "venue": "intra muros, porte saint Vincent", 
-    "longitude": -2.0231949, 
-    "state": "Bretagne", 
-    "country_code": "FR", 
-    "address": "Porte Saint-Vincent, 35400 Saint-Malo, France", 
-    "latitude": 48.6505069, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_286", 
-    "id": 5100
-  }, 
-  {
     "city": "Ciro' Marina", 
     "name": "Marcia Globale per il Clima", 
     "rsvp_count": 3, 
@@ -30658,7 +27826,7 @@
   {
     "city": "Madrid", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 152, 
+    "rsvp_count": 153, 
     "country": "Spain", 
     "start_time": "11:30:00", 
     "venue": "Plaza de San Juan de la Cruz, Madrid", 
@@ -30718,22 +27886,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_219", 
     "id": 5122
-  }, 
-  {
-    "city": "\u03a6\u03bb\u03ce\u03c1\u03b9\u03bd\u03b1", 
-    "name": "\u03a0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u039b\u03b1\u03ce\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
-    "rsvp_count": 1, 
-    "country": "Greece", 
-    "start_time": "13:00:00", 
-    "venue": "\u03a0\u03b5\u03b6\u03cc\u03b4\u03c1\u03bf\u03bc\u03bf\u03c2 \u03a6\u03bb\u03ce\u03c1\u03b9\u03bd\u03b1\u03c2", 
-    "longitude": 21.4131222, 
-    "state": "\u0389\u03c0\u03b5\u03b9\u03c1\u03bf\u03c2 \u0394\u03c5\u03c4\u03b9\u03ba\u03ae \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1", 
-    "country_code": "GR", 
-    "address": "\u03a6\u03bb\u03ce\u03c1\u03b9\u03bd\u03b1 531 00, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1", 
-    "latitude": 40.7845262, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/el/event/climate/Poreia_ton_Laon_gia_to_Klima_114", 
-    "id": 5123
   }, 
   {
     "city": "Nazar\u00e9", 
@@ -30798,22 +27950,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1626", 
     "id": 5127
-  }, 
-  {
-    "city": "S\u00e3o Carlos", 
-    "name": "Caminhada pelo Clima", 
-    "rsvp_count": 2, 
-    "country": "Brazil", 
-    "start_time": "13:00:00", 
-    "venue": "Igreja de S\u00e3o Nicolau de Flue", 
-    "longitude": -47.8909142, 
-    "state": "SP", 
-    "country_code": "BR", 
-    "address": "S\u00e3o Carlos - SP, Rep\u00fablica Federativa do Brasil", 
-    "latitude": -22.0087175, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_221", 
-    "id": 5129
   }, 
   {
     "city": "Imb\u00e9", 
@@ -30976,22 +28112,6 @@
     "id": 5144
   }, 
   {
-    "city": "S\u00e3o Paulo", 
-    "name": "Caminhada pelo Clima", 
-    "rsvp_count": 6, 
-    "country": "Brazil", 
-    "start_time": "13:00:00", 
-    "venue": "Est\u00e1dio do Morumbi", 
-    "longitude": -46.7200939, 
-    "state": "SP", 
-    "country_code": "BR", 
-    "address": "Est\u00e1dio do Morumbi - Morumbi, S\u00e3o Paulo - SP, 05653-070, Rep\u00fablica Federativa do Brasil", 
-    "latitude": -23.6001102, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_224", 
-    "id": 5145
-  }, 
-  {
     "city": "Brugge", 
     "name": "People's Climate March", 
     "rsvp_count": 6, 
@@ -31072,22 +28192,6 @@
     "id": 5150
   }, 
   {
-    "city": "Prishtina", 
-    "name": "People's Climate March", 
-    "rsvp_count": 4, 
-    "country": "Kosovo", 
-    "start_time": "13:00:00", 
-    "venue": "", 
-    "longitude": 21.1533456, 
-    "state": "", 
-    "country_code": "KV", 
-    "address": "Prishtina", 
-    "latitude": 42.6577982, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1634", 
-    "id": 5151
-  }, 
-  {
     "city": "Mirandola", 
     "name": "Marcia Globale per il Clima", 
     "rsvp_count": 1, 
@@ -31134,22 +28238,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/it/event/climate/Marcia_Globale_per_il_Clima_151", 
     "id": 5154
-  }, 
-  {
-    "city": "Ribeir\u00e3o Preto", 
-    "name": "Caminhada pelo Clima", 
-    "rsvp_count": 10, 
-    "country": "Brazil", 
-    "start_time": "13:00:00", 
-    "venue": "", 
-    "longitude": -47.8103238, 
-    "state": "SP", 
-    "country_code": "BR", 
-    "address": "Ribeir\u00e3o Preto - SP, Rep\u00fablica Federativa do Brasil", 
-    "latitude": -21.1704008, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_225", 
-    "id": 5155
   }, 
   {
     "city": "Division No. 23", 
@@ -31230,22 +28318,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1635", 
     "id": 5161
-  }, 
-  {
-    "city": "\u03a0\u03b1\u03bb\u03bb\u03ae\u03bd\u03b7", 
-    "name": "\u03a0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u039b\u03b1\u03ce\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
-    "rsvp_count": 1, 
-    "country": "Greece", 
-    "start_time": "13:00:00", 
-    "venue": "\u03a0\u03bb\u03b1\u03c4\u03b5\u03af\u03b1", 
-    "longitude": 23.913348, 
-    "state": "", 
-    "country_code": "GR", 
-    "address": "\u039b\u03b5\u03c9\u03c6\u03cc\u03c1\u03bf\u03c2 \u039a\u03cd\u03c0\u03c1\u03bf\u03c5 8, \u03a0\u03b1\u03bb\u03bb\u03ae\u03bd\u03b7 153 51, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1", 
-    "latitude": 38.0039883, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/el/event/climate/Poreia_ton_Laon_gia_to_Klima_117", 
-    "id": 5162
   }, 
   {
     "city": "Corralejo", 
@@ -31616,22 +28688,6 @@
     "id": 5188
   }, 
   {
-    "city": "Hallein", 
-    "name": "Klima-Aktionstag", 
-    "rsvp_count": 4, 
-    "country": "Austria", 
-    "start_time": "18:00:00", 
-    "venue": "Bayerhammerplatz", 
-    "longitude": 13.0945527, 
-    "state": "Sbg.", 
-    "country_code": "AT", 
-    "address": "Mathias-Bayrhamer-Platz, 5400 Hallein, \u00d6sterreich", 
-    "latitude": 47.6821227, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaAktionstag_173", 
-    "id": 5189
-  }, 
-  {
     "city": "", 
     "name": "La Marcha contra el Cambio Clim\u00e1tico", 
     "rsvp_count": 1, 
@@ -31678,22 +28734,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_228", 
     "id": 5192
-  }, 
-  {
-    "city": "\u0386\u03c1\u03c4\u03b5\u03bc\u03b9\u03c2", 
-    "name": "\u03a0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u039b\u03b1\u03ce\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
-    "rsvp_count": 1, 
-    "country": "Greece", 
-    "start_time": "13:00:00", 
-    "venue": "\u0391\u03c1\u03c4\u03ad\u03bc\u03b9\u03b4\u03b1", 
-    "longitude": 24.0077427, 
-    "state": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae", 
-    "country_code": "GR", 
-    "address": "\u0386\u03c1\u03c4\u03b5\u03bc\u03b9\u03c2, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1", 
-    "latitude": 37.9703906, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/el/event/climate/Poreia_ton_Laon_gia_to_Klima_119", 
-    "id": 5193
   }, 
   {
     "city": "Managua", 

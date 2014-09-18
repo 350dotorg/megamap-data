@@ -1,110 +1,108 @@
-Number of events: 2819
-Number of countries: 163
+Number of events: 2635
+Number of countries: 159
 	Afghanistan: 1
-	Albania: 2
-	Algeria: 48
+	Albania: 1
+	Algeria: 20
 	Angola: 2
-	Argentina: 67
-	Armenia: 3
-	Australia: 140
-	Austria: 30
+	Argentina: 62
+	Armenia: 2
+	Australia: 137
+	Austria: 29
 	Azerbaijan: 1
 	Bahrain: 5
 	Bangladesh: 10
 	Belarus: 3
-	Belgium: 39
+	Belgium: 36
 	Benin: 1
-	Bermuda: 1
-	Bolivia: 9
+	Bolivia: 7
 	Bosnia and Herzegovina: 1
 	Botswana: 1
-	Brazil: 208
+	Brazil: 190
 	British Virgin Islands: 1
 	Bulgaria: 6
 	Burkina Faso: 1
 	Burundi: 3
 	Cambodia: 1
 	Cameroon: 1
-	Canada: 153
+	Canada: 152
 	Cayman Islands: 1
 	Central African Republic: 1
-	Chile: 22
+	Chile: 18
 	China: 2
-	Colombia: 82
+	Colombia: 73
 	Congo, DPR: 2
 	Congo, PR: 2
 	Costa Rica: 7
-	Croatia: 2
+	Croatia: 1
 	Cuba: 2
-	Cyprus: 4
+	Cyprus: 3
 	Czech Republic: 4
-	Côte d'Ivoire: 1
 	Democratic Republic of the Congo: 4
-	Denmark: 7
+	Denmark: 6
 	Dominica: 1
 	Dominican Republic: 8
-	Ecuador: 16
-	Egypt: 29
+	Ecuador: 15
+	Egypt: 28
 	El Salvador: 2
 	Estonia: 5
 	Fiji: 1
 	Finland: 8
-	France: 165
+	France: 153
 	French Guiana: 1
 	French Polynesia: 2
 	Georgia: 1
-	Germany: 91
+	Germany: 86
 	Ghana: 3
-	Greece: 43
+	Greece: 38
 	Grenada: 1
 	Guadeloupe: 2
 	Guam: 1
-	Guatemala: 13
+	Guatemala: 11
 	Guinea: 2
 	Guyana: 1
-	Honduras: 4
+	Honduras: 2
 	Hong Kong: 1
 	Hungary: 8
 	Iceland: 2
-	India: 35
+	India: 34
 	Indonesia: 4
 	Iran: 10
-	Iraq: 18
-	Ireland: 11
+	Iraq: 17
+	Ireland: 10
 	Isle of Man: 1
 	Israel: 13
-	Italy: 142
+	Italy: 133
 	Ivory Coast: 1
-	Japan: 9
+	Japan: 8
 	Jersey: 1
 	Jordan: 2
 	Kenya: 4
 	Kiribati: 1
-	Kosovo: 2
+	Kosovo: 1
 	Kuwait: 2
 	Kyrgistan: 2
 	Latvia: 1
 	Liberia: 1
 	Libya: 3
 	Lithuania: 2
-	Madagascar: 4
+	Madagascar: 3
 	Malaysia: 3
 	Maldives: 1
 	Mali: 2
 	Malta: 1
 	Marshall Islands: 1
-	Martinique: 3
+	Martinique: 2
 	Mauritania: 1
 	Mauritius: 1
-	Mexico: 109
+	Mexico: 102
 	Micronesia: 1
 	Moldova: 4
-	Morocco: 35
+	Morocco: 30
 	Nepal: 4
 	Netherlands: 43
 	New Caledonia: 3
-	New Zealand: 32
-	Nicaragua: 4
+	New Zealand: 29
+	Nicaragua: 3
 	Nigeria: 7
 	Norway: 12
 	Oman: 2
@@ -113,31 +111,30 @@ Number of countries: 163
 	Panama: 3
 	Papua New Guinea: 1
 	Paraguay: 3
-	Peru: 35
-	Philippines: 20
+	Peru: 34
+	Philippines: 19
 	Poland: 8
-	Portugal: 42
+	Portugal: 39
 	Puerto Rico: 3
 	Qatar: 1
 	Reunion: 2
-	Romania: 17
-	Russia: 50
+	Romania: 16
+	Russia: 45
 	Saudi Arabia: 11
 	Senegal: 2
-	Serbia: 7
+	Serbia: 6
 	Seychelles: 2
-	Singapore: 1
 	Slovakia: 7
 	Slovenia: 3
 	Solomon Islands: 1
-	South Africa: 22
+	South Africa: 21
 	South Korea: 3
 	South Sudan: 1
-	Spain: 134
+	Spain: 123
 	Sri Lanka: 2
 	Sudan: 7
 	Sweden: 25
-	Switzerland: 25
+	Switzerland: 23
 	Syria: 3
 	Taiwan: 3
 	Tajikistan: 1
@@ -146,20 +143,19 @@ Number of countries: 163
 	Tokelau: 1
 	Tonga: 2
 	Trinidad and Tobago: 1
-	Tunisia: 12
-	Turkey: 25
+	Tunisia: 11
+	Turkey: 21
 	Tuvalu: 1
 	Uganda: 2
-	Ukraine: 52
+	Ukraine: 50
 	United Arab Emirates: 3
-	United Kingdom: 102
-	United States of America: 271
-	Uruguay: 13
-	Uzbekistan: 2
+	United Kingdom: 100
+	United States of America: 268
+	Uruguay: 12
+	Uzbekistan: 1
 	Venezuela: 22
 	Vietnam: 5
-	Wallis and Futuna: 1
 	Western Sahara: 1
 	Yemen: 10
-	Zambia: 3
+	Zambia: 2
 	Zimbabwe: 2

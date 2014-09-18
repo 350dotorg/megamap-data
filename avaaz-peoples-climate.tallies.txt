@@ -1,90 +1,87 @@
-Number of events: 2057
-Number of countries: 136
+Number of events: 1872
+Number of countries: 130
 	Afghanistan: 1
-	Albania: 1
-	Algeria: 48
-	Argentina: 61
-	Armenia: 3
-	Australia: 40
-	Austria: 27
+	Algeria: 20
+	Argentina: 56
+	Armenia: 2
+	Australia: 37
+	Austria: 26
 	Azerbaijan: 1
 	Bahrain: 2
 	Bangladesh: 5
 	Belarus: 3
-	Belgium: 37
+	Belgium: 34
 	Benin: 1
-	Bermuda: 1
-	Bolivia: 5
+	Bolivia: 3
 	Bosnia and Herzegovina: 1
 	Botswana: 1
-	Brazil: 197
+	Brazil: 179
 	Bulgaria: 4
 	Burkina Faso: 1
 	Burundi: 1
 	Cambodia: 1
 	Cameroon: 1
-	Canada: 78
+	Canada: 77
 	Cayman Islands: 1
-	Chile: 22
-	Colombia: 74
+	Chile: 18
+	Colombia: 65
 	Congo, DPR: 2
 	Congo, PR: 2
 	Costa Rica: 5
-	Croatia: 2
+	Croatia: 1
 	Cuba: 2
-	Cyprus: 4
+	Cyprus: 3
 	Czech Republic: 2
-	Côte d'Ivoire: 1
-	Denmark: 7
+	Denmark: 6
 	Dominican Republic: 7
-	Ecuador: 14
-	Egypt: 28
+	Ecuador: 13
+	Egypt: 27
 	El Salvador: 2
 	Estonia: 4
 	Finland: 4
-	France: 144
+	France: 132
 	French Guiana: 1
 	French Polynesia: 2
-	Germany: 80
-	Greece: 43
+	Germany: 75
+	Greece: 38
 	Grenada: 1
 	Guadeloupe: 2
-	Guatemala: 12
+	Guatemala: 10
 	Guinea: 1
-	Honduras: 4
+	Honduras: 2
 	Hong Kong: 1
 	Hungary: 6
-	India: 21
+	India: 19
 	Indonesia: 2
 	Iran: 6
-	Iraq: 18
-	Ireland: 7
+	Iraq: 17
+	Ireland: 6
 	Israel: 10
-	Italy: 127
-	Japan: 7
+	Italy: 118
+	Japan: 6
 	Jordan: 2
 	Kenya: 2
-	Kosovo: 2
+	Kosovo: 1
 	Kuwait: 2
 	Kyrgistan: 2
 	Liberia: 1
 	Libya: 3
 	Lithuania: 2
-	Madagascar: 4
+	Madagascar: 3
 	Malaysia: 1
 	Maldives: 1
 	Mali: 2
-	Martinique: 3
+	Martinique: 2
 	Mauritania: 1
 	Mauritius: 1
-	Mexico: 103
+	Mexico: 96
 	Moldova: 2
-	Morocco: 34
+	Morocco: 29
 	Nepal: 2
 	Netherlands: 31
 	New Caledonia: 2
-	New Zealand: 27
-	Nicaragua: 2
+	New Zealand: 24
+	Nicaragua: 1
 	Nigeria: 4
 	Norway: 6
 	Oman: 2
@@ -92,47 +89,44 @@ Number of countries: 136
 	Palestine: 5
 	Panama: 3
 	Paraguay: 1
-	Peru: 30
-	Philippines: 3
+	Peru: 29
+	Philippines: 2
 	Poland: 5
-	Portugal: 33
+	Portugal: 30
 	Puerto Rico: 2
 	Qatar: 1
 	Reunion: 1
-	Romania: 14
-	Russia: 48
+	Romania: 13
+	Russia: 43
 	Saudi Arabia: 11
 	Senegal: 2
-	Serbia: 6
+	Serbia: 5
 	Seychelles: 2
-	Singapore: 1
 	Slovakia: 6
 	Slovenia: 3
-	South Africa: 15
+	South Africa: 14
 	South Korea: 1
 	South Sudan: 1
-	Spain: 122
+	Spain: 111
 	Sri Lanka: 2
 	Sudan: 7
 	Sweden: 10
-	Switzerland: 22
+	Switzerland: 20
 	Syria: 3
 	Tajikistan: 1
 	Tanzania: 1
 	Togo: 1
 	Trinidad and Tobago: 1
-	Tunisia: 12
-	Turkey: 14
-	Ukraine: 49
+	Tunisia: 11
+	Turkey: 10
+	Ukraine: 47
 	United Arab Emirates: 2
-	United Kingdom: 62
-	United States of America: 56
-	Uruguay: 13
-	Uzbekistan: 1
+	United Kingdom: 60
+	United States of America: 53
+	Uruguay: 12
 	Venezuela: 21
 	Vietnam: 1
-	Wallis and Futuna: 1
 	Western Sahara: 1
 	Yemen: 10
-	Zambia: 3
+	Zambia: 2
 	Zimbabwe: 1
