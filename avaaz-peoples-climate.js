@@ -2035,7 +2035,7 @@ initData({},
   {
     "city": "Montpellier", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 243, 
+    "rsvp_count": 244, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "montpellier", 
