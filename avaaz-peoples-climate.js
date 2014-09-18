@@ -8819,7 +8819,7 @@ initData({},
   {
     "city": "Stratford", 
     "name": "People's Climate March", 
-    "rsvp_count": 33, 
+    "rsvp_count": 34, 
     "country": "Canada", 
     "start_time": "22:00:00", 
     "venue": "Slow Food Youth Booth, Market Square", 
