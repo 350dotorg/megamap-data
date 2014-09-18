@@ -210,7 +210,7 @@
   {
     "city": "", 
     "name": "Marche mondiale pour le climat @ Montr\u00e9al / Peoples' Climate March @ Montr\u00e9al", 
-    "rsvp_count": 122, 
+    "rsvp_count": 123, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -1282,7 +1282,7 @@
   {
     "city": "Bogota", 
     "name": "Bogot\u00e1 Marcha X el Clima", 
-    "rsvp_count": 467, 
+    "rsvp_count": 468, 
     "country": "Colombia", 
     "start_time": "10:00:00", 
     "venue": "Parque Nacional hasta Plaza de los Periodistas", 
@@ -2146,7 +2146,7 @@
   {
     "city": "Cape Town", 
     "name": "People's Climate March", 
-    "rsvp_count": 522, 
+    "rsvp_count": 523, 
     "country": "South Africa", 
     "start_time": "11:00:00", 
     "venue": "", 
@@ -2242,7 +2242,7 @@
   {
     "city": "Trieste", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 62, 
+    "rsvp_count": 63, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -6114,7 +6114,7 @@
   {
     "city": "Cologne", 
     "name": "https://www.facebook.com/events/278356532361449", 
-    "rsvp_count": 338, 
+    "rsvp_count": 339, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Bahnhofsvorplatz Domseite", 
@@ -11201,11 +11201,11 @@
   }, 
   {
     "city": "Berriedale", 
-    "name": "People's Climate March: MONA Climate Pop Up Gathering", 
+    "name": "People's Climate March: Climate Pop Up Gathering at MONA", 
     "rsvp_count": 95, 
     "country": "Australia", 
     "start_time": "13:00:00", 
-    "venue": "MONA, gather on tennis court near museum entrance", 
+    "venue": "MONA, gather on far side of tennis court  (in area where museum entrance is, but away from the entrance).", 
     "longitude": 147.2504829, 
     "state": "TAS", 
     "country_code": "AU", 
@@ -31474,7 +31474,7 @@
   {
     "city": "Madrid", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 27, 
+    "rsvp_count": 28, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "", 
