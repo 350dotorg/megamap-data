@@ -2402,7 +2402,7 @@
   {
     "city": "Milano", 
     "name": "Climate March", 
-    "rsvp_count": 345, 
+    "rsvp_count": 346, 
     "country": "Italy", 
     "start_time": "10:00:00", 
     "venue": "", 
@@ -4146,7 +4146,7 @@
   {
     "city": "Randburg", 
     "name": "People's Climate Picnic and Heart Formation", 
-    "rsvp_count": 203, 
+    "rsvp_count": 204, 
     "country": "South Africa", 
     "start_time": "13:00:00", 
     "venue": "Emmarentia Dam", 
@@ -30130,7 +30130,7 @@
   {
     "city": "Pf\u00e4ffikon", 
     "name": "People's Climate March", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Switzerland", 
     "start_time": "13:00:00", 
     "venue": "Kehr 1", 
