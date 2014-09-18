@@ -915,7 +915,7 @@ initData({},
   {
     "city": "Howick", 
     "name": "People's Climate March", 
-    "rsvp_count": 29, 
+    "rsvp_count": 30, 
     "country": "South Africa", 
     "start_time": "10:00:00", 
     "venue": "howick falls", 
