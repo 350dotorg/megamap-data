@@ -370,7 +370,7 @@
   {
     "city": "Lisbon", 
     "name": "Mobiliza\u00e7\u00e3o Contra as Altera\u00e7\u00f5es Clim\u00e1ticas - Salvem o Planeta!", 
-    "rsvp_count": 465, 
+    "rsvp_count": 466, 
     "country": "Portugal", 
     "start_time": "16:00:00", 
     "venue": "Rossio", 
@@ -786,7 +786,7 @@
   {
     "city": "Barcelona", 
     "name": "Marcha Ciudadana Global por el Clima. Barcelona #BCN21S", 
-    "rsvp_count": 1316, 
+    "rsvp_count": 1317, 
     "country": "Spain", 
     "start_time": "11:00:00", 
     "venue": "Moll de la Marina, Barcelona", 
@@ -1762,7 +1762,7 @@
   {
     "city": "Brasilia", 
     "name": "Uni\u00e3o Avaaz em Bras\u00edlia contra as Mudan\u00e7as Clim\u00e1ticas", 
-    "rsvp_count": 863, 
+    "rsvp_count": 864, 
     "country": "Brazil", 
     "start_time": "10:00:00", 
     "venue": "Esplanada dos Ministerios", 
@@ -3970,7 +3970,7 @@
   {
     "city": "Edinburgh", 
     "name": "People's Climate March & Gathering, Edinburgh", 
-    "rsvp_count": 122, 
+    "rsvp_count": 123, 
     "country": "United Kingdom", 
     "start_time": "13:30:00", 
     "venue": "Location has changed to the Foot of the Mound.", 
@@ -4386,7 +4386,7 @@
   {
     "city": "Manchester", 
     "name": "People's Climate March", 
-    "rsvp_count": 203, 
+    "rsvp_count": 204, 
     "country": "United Kingdom", 
     "start_time": "11:00:00", 
     "venue": "Piccadilly gardens", 
@@ -7554,7 +7554,7 @@
   {
     "city": "Munich", 
     "name": "People's Climate March", 
-    "rsvp_count": 670, 
+    "rsvp_count": 671, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Karlsplatz", 
@@ -9842,7 +9842,7 @@
   {
     "city": "Brive-la-Gaillarde", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 28, 
+    "rsvp_count": 29, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Parc de la Guierle - Place de l'H\u00f4tel de Ville", 
@@ -10354,7 +10354,7 @@
   {
     "city": "Cambridge", 
     "name": "People's Climate March", 
-    "rsvp_count": 70, 
+    "rsvp_count": 71, 
     "country": "United Kingdom", 
     "start_time": "13:00:00", 
     "venue": "Kings parade", 
@@ -13074,7 +13074,7 @@
   {
     "city": "Campina Grande", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 17, 
+    "rsvp_count": 18, 
     "country": "Brazil", 
     "start_time": "10:00:00", 
     "venue": "Parque da Crian\u00e7a", 
@@ -13506,7 +13506,7 @@
   {
     "city": "San Crist\u00f3bal", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Venezuela", 
     "start_time": "08:00:00", 
     "venue": "", 
@@ -16642,7 +16642,7 @@
   {
     "city": "Gen\u00e8ve", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 69, 
+    "rsvp_count": 70, 
     "country": "Switzerland", 
     "start_time": "13:00:00", 
     "venue": "Place de Plainpalais", 
@@ -18130,7 +18130,7 @@
   {
     "city": "Schwerin", 
     "name": "Mal schnell die Welt retten \u2013 Schwerin", 
-    "rsvp_count": 9, 
+    "rsvp_count": 10, 
     "country": "Germany", 
     "start_time": "11:00:00", 
     "venue": "Am Markt", 
@@ -24662,11 +24662,11 @@
     "country": "Mexico", 
     "start_time": "08:00:00", 
     "venue": "Jard\u00edn Principal del Centro", 
-    "longitude": -103.5998678, 
+    "longitude": -103.6008303, 
     "state": "JAL", 
     "country_code": "MX", 
-    "address": "Sayula, 49300 JAL, M\u00e9xico", 
-    "latitude": 19.8829821, 
+    "address": "Ju\u00e1rez 444, Centro Hist\u00f3rico, 49300 Sayula, JAL, M\u00e9xico", 
+    "latitude": 19.8834754, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_507", 
     "id": 4837
@@ -26834,7 +26834,7 @@
   {
     "city": "", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 13, 
+    "rsvp_count": 14, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "UFPA", 
