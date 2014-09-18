@@ -755,7 +755,7 @@ initData({},
   {
     "city": "", 
     "name": "\u00c9venement des Citoyens pour le Climat", 
-    "rsvp_count": 1136, 
+    "rsvp_count": 1137, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "Place Poelaert", 
