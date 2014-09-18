@@ -27219,7 +27219,7 @@ initData({},
   {
     "city": "Ciudad de M\u00e9xico", 
     "name": "Haciendo Eco", 
-    "rsvp_count": 6, 
+    "rsvp_count": 7, 
     "country": "Mexico", 
     "start_time": "12:00:00", 
     "venue": "Casa Frissac  Plaza de la Constituci\u00f3n s/n esq. Moneda Col. Centro de Tlalpan CP. 14000 Delg. Tlalpan", 
