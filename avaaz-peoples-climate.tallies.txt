@@ -1,4 +1,4 @@
-Number of events: 2054
+Number of events: 2055
 Number of countries: 136
 	Afghanistan: 1
 	Albania: 1
@@ -106,7 +106,7 @@ Number of countries: 136
 	Serbia: 6
 	Seychelles: 2
 	Singapore: 1
-	Slovakia: 5
+	Slovakia: 6
 	Slovenia: 3
 	South Africa: 15
 	South Korea: 1

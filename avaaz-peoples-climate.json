@@ -22496,6 +22496,22 @@
     "id": 4292
   }, 
   {
+    "city": "\u017dilina", 
+    "name": "Neighborhood celebration", 
+    "rsvp_count": 3, 
+    "country": "Slovakia", 
+    "start_time": "15:00:00", 
+    "venue": "Boricky park", 
+    "longitude": 18.7419519, 
+    "state": "\u017dilina Region", 
+    "country_code": "SK", 
+    "address": "\u017dilina, Slovakia", 
+    "latitude": 49.2215903, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Neighborhood_celebration", 
+    "id": 4294
+  }, 
+  {
     "city": "", 
     "name": "People's Climate March", 
     "rsvp_count": 6, 
@@ -30626,7 +30642,7 @@
   {
     "city": "Madrid", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 137, 
+    "rsvp_count": 138, 
     "country": "Spain", 
     "start_time": "11:30:00", 
     "venue": "Plaza de San Juan de la Cruz, Madrid", 
