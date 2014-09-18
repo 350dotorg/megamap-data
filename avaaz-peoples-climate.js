@@ -22115,7 +22115,7 @@ initData({},
   {
     "city": "Heraklion", 
     "name": "People's Climate March", 
-    "rsvp_count": 15, 
+    "rsvp_count": 16, 
     "country": "Greece", 
     "start_time": "13:00:00", 
     "venue": "Liberty Square", 
