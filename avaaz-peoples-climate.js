@@ -29587,7 +29587,7 @@ initData({},
   {
     "city": "Omaha", 
     "name": "The \"Big O\" Climate March", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "United States of America", 
     "start_time": "12:30:00", 
     "venue": "1. Memorial Park off Underwood Ave by the ball diamond 2. Dundee Community Garden off Underwood Ave", 
