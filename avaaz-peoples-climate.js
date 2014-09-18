@@ -4147,7 +4147,7 @@ initData({},
   {
     "city": "Randburg", 
     "name": "People's Climate Picnic and Heart Formation", 
-    "rsvp_count": 205, 
+    "rsvp_count": 206, 
     "country": "South Africa", 
     "start_time": "13:00:00", 
     "venue": "Emmarentia Dam", 
@@ -32799,6 +32799,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_salvemos_aas_arvores", 
     "id": 5301
+  }, 
+  {
+    "city": "Busset", 
+    "name": "Marche Pour le Climat \u00e0 Busset", 
+    "rsvp_count": 1, 
+    "country": "France", 
+    "start_time": "13:00:00", 
+    "venue": "les corres - 17 route du Vernet", 
+    "longitude": 3.5236233000001, 
+    "state": "Auvergne", 
+    "country_code": "FR", 
+    "address": "17 Route du Vernet -les Corres-, 03270 Busset, France", 
+    "latitude": 46.0754721, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_a_Busset", 
+    "id": 5302
   }
 ]
 );
