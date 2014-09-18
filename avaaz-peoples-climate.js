@@ -17171,7 +17171,7 @@ initData({},
   {
     "city": "Palm Cove", 
     "name": "People's Climate Gathering at the Peoples Peace Sign", 
-    "rsvp_count": 12, 
+    "rsvp_count": 13, 
     "country": "Australia", 
     "start_time": "15:00:00", 
     "venue": "on the beach at Williams Esplanade, Palm Cove", 
