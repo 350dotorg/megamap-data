@@ -20691,7 +20691,7 @@ initData({},
   {
     "city": "Bel Air", 
     "name": "Harford County People's Climate March", 
-    "rsvp_count": 6, 
+    "rsvp_count": 7, 
     "country": "United States of America", 
     "start_time": "12:00:00", 
     "venue": "", 
