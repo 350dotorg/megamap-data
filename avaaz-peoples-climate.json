@@ -1218,7 +1218,7 @@
   {
     "city": "Bogota", 
     "name": "Bogot\u00e1 Marcha X el Clima", 
-    "rsvp_count": 596, 
+    "rsvp_count": 597, 
     "country": "Colombia", 
     "start_time": "10:00:00", 
     "venue": "Parque Nacional hasta Plaza de los Periodistas", 
@@ -1442,7 +1442,7 @@
   {
     "city": "Freiburg im Breisgau", 
     "name": "Klimaevent", 
-    "rsvp_count": 205, 
+    "rsvp_count": 206, 
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "Ecke Bertoldstr./Niemenstr.", 
@@ -1666,7 +1666,7 @@
   {
     "city": "Hamburg", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 556, 
+    "rsvp_count": 557, 
     "country": "Germany", 
     "start_time": "16:00:00", 
     "venue": "vor dem Rathaus", 
@@ -6050,7 +6050,7 @@
   {
     "city": "Miraflores", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 127, 
+    "rsvp_count": 128, 
     "country": "Peru", 
     "start_time": "10:00:00", 
     "venue": "PARQUE KENNEDY. MIRAFLORES.LIMA", 
@@ -7554,7 +7554,7 @@
   {
     "city": "Munich", 
     "name": "People's Climate March", 
-    "rsvp_count": 759, 
+    "rsvp_count": 760, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Karlsplatz", 
@@ -8866,7 +8866,7 @@
   {
     "city": "Cardiff", 
     "name": "People's Climate March", 
-    "rsvp_count": 134, 
+    "rsvp_count": 135, 
     "country": "United Kingdom", 
     "start_time": "13:00:00", 
     "venue": "Millennium stadium", 
@@ -11426,7 +11426,7 @@
   {
     "city": "\u039a\u03b1\u03bb\u03b1\u03bc\u03ac\u03c4\u03b1", 
     "name": "\u03a0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u039b\u03b1\u03ce\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
-    "rsvp_count": 10, 
+    "rsvp_count": 11, 
     "country": "Greece", 
     "start_time": "20:00:00", 
     "venue": "", 
@@ -14434,7 +14434,7 @@
   {
     "city": "Goi\u00e2nia", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 427, 
+    "rsvp_count": 428, 
     "country": "Brazil", 
     "start_time": "16:00:00", 
     "venue": "Pra\u00e7a C\u00edvica, setor Sul", 
@@ -17202,7 +17202,7 @@
   {
     "city": "Le\u00f3n", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 20, 
+    "rsvp_count": 21, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "arco de la calzada", 
@@ -20210,7 +20210,7 @@
   {
     "city": "Santiago Province", 
     "name": "Marcha Ciudadana contra el Cambio Clim\u00e1tico, MAC Santiago de Chile, 12 hrs", 
-    "rsvp_count": 187, 
+    "rsvp_count": 188, 
     "country": "Chile", 
     "start_time": "12:00:00", 
     "venue": "Jos\u00e9 Victorino Lastarria 307, Plaza Mulato Gil de Castro (Metro U. Cat\u00f3lica y/o Bellas Artes)", 
@@ -23268,14 +23268,14 @@
     "name": "Bicicleteada y Caminata contra el Cambio Clim\u00e1tico", 
     "rsvp_count": 2, 
     "country": "Peru", 
-    "start_time": "11:00:00", 
+    "start_time": "00:00:00", 
     "venue": "Parque Ecologico La Molina", 
     "longitude": -76.9304557, 
     "state": "Lima", 
     "country_code": "PE", 
     "address": "Parque Ecologico La Molina, Lima 15024, Peru", 
     "latitude": -12.1192255, 
-    "event_date": "2014-09-14", 
+    "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/Bicicleteada_y_Caminata_contra_el_Cambio_Climatico", 
     "id": 4697
   }, 
@@ -25394,7 +25394,7 @@
   {
     "city": "Caen", 
     "name": "People's Climate March", 
-    "rsvp_count": 22, 
+    "rsvp_count": 23, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "3, avenue michel crepeau", 
@@ -25842,7 +25842,7 @@
   {
     "city": "Villa Carlos Paz", 
     "name": "CONCENTRACI\u00d3N POR EL USO DE ENERG\u00cdAS LIMPIAS A FAVOR DEL CLIMA SANO MUNDIAL", 
-    "rsvp_count": 7, 
+    "rsvp_count": 8, 
     "country": "Argentina", 
     "start_time": "11:00:00", 
     "venue": "Play\u00f3n de la Municipalidad de Carlos Paz", 
@@ -29554,7 +29554,7 @@
   {
     "city": "Sal\u00f2", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 11, 
+    "rsvp_count": 12, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "Magnifica Patria Palace, Lungolago Zanardelli, 55, 25087 Sal\u00f2 Brescia, Italien", 
