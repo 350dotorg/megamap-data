@@ -1666,7 +1666,7 @@
   {
     "city": "Hamburg", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 548, 
+    "rsvp_count": 549, 
     "country": "Germany", 
     "start_time": "16:00:00", 
     "venue": "vor dem Rathaus", 
@@ -21778,7 +21778,7 @@
   {
     "city": "Wei\u00dfenburg", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 16, 
+    "rsvp_count": 17, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Marktplatz", 
@@ -29846,11 +29846,11 @@
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "", 
-    "longitude": 13.7372621, 
+    "longitude": 13.7554407, 
     "state": "SN", 
     "country_code": "DE", 
-    "address": "Dresden, Deutschland", 
-    "latitude": 51.0504088, 
+    "address": "Alaunplatz, 01099 Dresden, Deutschland", 
+    "latitude": 51.0699807, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaAktionstag_177", 
     "id": 5317
@@ -30334,5 +30334,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1669", 
     "id": 5353
+  }, 
+  {
+    "city": "Hogsback", 
+    "name": "Climate Change Discussion", 
+    "rsvp_count": 1, 
+    "country": "South Africa", 
+    "start_time": "13:00:00", 
+    "venue": "Ecology Shrine", 
+    "longitude": 26.9322553, 
+    "state": "EC", 
+    "country_code": "ZA", 
+    "address": "Hogsback, South Africa", 
+    "latitude": -32.595174, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Climate_Change_Discussion", 
+    "id": 5354
   }
 ]

@@ -1,4 +1,4 @@
-Number of events: 2712
+Number of events: 2713
 Number of countries: 162
 	Afghanistan: 2
 	Albania: 2
@@ -130,7 +130,7 @@ Number of countries: 162
 	Slovakia: 7
 	Slovenia: 3
 	Solomon Islands: 1
-	South Africa: 22
+	South Africa: 23
 	South Korea: 3
 	South Sudan: 1
 	Spain: 125
