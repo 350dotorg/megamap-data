@@ -1,4 +1,4 @@
-Number of events: 2667
+Number of events: 2669
 Number of countries: 159
 	Afghanistan: 1
 	Albania: 1
@@ -110,7 +110,7 @@ Number of countries: 159
 	Palestine: 5
 	Panama: 3
 	Papua New Guinea: 1
-	Paraguay: 3
+	Paraguay: 4
 	Peru: 36
 	Philippines: 19
 	Poland: 8
@@ -154,7 +154,7 @@ Number of countries: 159
 	Uruguay: 12
 	Uzbekistan: 1
 	Venezuela: 22
-	Vietnam: 5
+	Vietnam: 6
 	Western Sahara: 1
 	Yemen: 11
 	Zambia: 2
