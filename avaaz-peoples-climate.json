@@ -1458,7 +1458,7 @@
   {
     "city": "Freiburg im Breisgau", 
     "name": "Klimaevent", 
-    "rsvp_count": 183, 
+    "rsvp_count": 184, 
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "Ecke Bertoldstr./Niemenstr.", 
@@ -1682,7 +1682,7 @@
   {
     "city": "Hamburg", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 486, 
+    "rsvp_count": 487, 
     "country": "Germany", 
     "start_time": "16:00:00", 
     "venue": "vor dem Rathaus", 
@@ -2162,7 +2162,7 @@
   {
     "city": "Santa Eul\u00e0ria des Riu", 
     "name": "Llamamiento contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 50, 
+    "rsvp_count": 51, 
     "country": "Spain", 
     "start_time": "12:00:00", 
     "venue": "Frente al Ayuntamiento", 
@@ -2802,7 +2802,7 @@
   {
     "city": "Frankfurt am Main", 
     "name": "KLIMA-AKTIONSTAG FRANKFURT AM MAIN", 
-    "rsvp_count": 275, 
+    "rsvp_count": 276, 
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "R\u00f6mer", 
@@ -5026,7 +5026,7 @@
   {
     "city": "Athens", 
     "name": "\u0395\u03c0\u03af\u03c3\u03b7\u03bc\u03b7 \u0394\u03c1\u03ac\u03c3\u03b7 \u0391\u03b8\u03ae\u03bd\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
-    "rsvp_count": 1170, 
+    "rsvp_count": 1171, 
     "country": "Greece", 
     "start_time": "16:00:00", 
     "venue": "\u0394\u03b9\u03bf\u03bd\u03c5\u03c3\u03af\u03bf\u03c5 \u0391\u03c1\u03b5\u03bf\u03c0\u03b1\u03b3\u03af\u03c4\u03bf\u03c5, \u0391\u03b8\u03ae\u03bd\u03b1", 
@@ -5570,7 +5570,7 @@
   {
     "city": "Cologne", 
     "name": "https://www.facebook.com/events/278356532361449", 
-    "rsvp_count": 370, 
+    "rsvp_count": 371, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Bahnhofsvorplatz Domseite", 
@@ -12978,7 +12978,7 @@
   {
     "city": "P\u00e9rigueux", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 44, 
+    "rsvp_count": 45, 
     "country": "France", 
     "start_time": "15:00:00", 
     "venue": "", 
@@ -14418,7 +14418,7 @@
   {
     "city": "Goi\u00e2nia", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 397, 
+    "rsvp_count": 398, 
     "country": "Brazil", 
     "start_time": "16:00:00", 
     "venue": "Pra\u00e7a C\u00edvica, setor Sul", 
@@ -22224,16 +22224,16 @@
     "id": 4566
   }, 
   {
-    "city": "\u0645\u0631\u0643\u0632 \u0641\u0627\u0642\u0648\u0633", 
+    "city": "", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
     "rsvp_count": 1, 
     "country": "Egypt", 
     "start_time": "13:00:00", 
     "venue": "", 
     "longitude": 31.8424306, 
-    "state": "\u0627\u0644\u0634\u0631\u0642\u064a\u0629", 
+    "state": "", 
     "country_code": "EG", 
-    "address": "\u0627\u0644\u062f\u0648\u0627\u0631\u060c \u063a\u0632\u0627\u0644\u0629 \u0623\u0628\u0648 \u0639\u0628\u062f\u0648\u0646\u060c \u0645\u0631\u0643\u0632 \u0641\u0627\u0642\u0648\u0633\u060c \u0627\u0644\u0634\u0631\u0642\u064a\u0629\u060c \u0645\u0635\u0631", 
+    "address": "\u0627\u0644\u062f\u0648\u0627\u0631\u060c \u0643\u0641\u0631 \u0627\u0644\u062d\u0627\u062c \u0639\u0645\u0631\u060c \u0645\u0631\u0643\u0632 \u0641\u0627\u0642\u0648\u0633\u060c \u0627\u0644\u0634\u0631\u0642\u064a\u0629\u060c \u0645\u0635\u0631", 
     "latitude": 30.7330458, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/ar/event/climate/lmsyr_lmnkhy_lshby_195", 
@@ -26098,7 +26098,7 @@
   {
     "city": "Bologna", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 20, 
+    "rsvp_count": 21, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "Bologna giardini Margherita", 
@@ -26322,7 +26322,7 @@
   {
     "city": "Sal\u00f2", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 11, 
+    "rsvp_count": 12, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "palazzo della magnifica patria", 
@@ -29586,7 +29586,7 @@
   {
     "city": "Nice", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 23, 
+    "rsvp_count": 24, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Place Mass\u00e9na", 
@@ -29650,7 +29650,7 @@
   {
     "city": "Los Angeles", 
     "name": "People's Climate March", 
-    "rsvp_count": 8, 
+    "rsvp_count": 9, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "", 
