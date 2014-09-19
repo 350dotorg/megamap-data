@@ -706,7 +706,7 @@
   {
     "city": "Copenhagen", 
     "name": "People's Climate March", 
-    "rsvp_count": 467, 
+    "rsvp_count": 468, 
     "country": "Denmark", 
     "start_time": "14:00:00", 
     "venue": "Nytorv, Domhuset", 
@@ -722,7 +722,7 @@
   {
     "city": "", 
     "name": "\u00c9venement des Citoyens pour le Climat", 
-    "rsvp_count": 1211, 
+    "rsvp_count": 1212, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "Place Poelaert", 
@@ -1554,7 +1554,7 @@
   {
     "city": "Roma", 
     "name": "New York chiama Roma -  People's Climate March", 
-    "rsvp_count": 92, 
+    "rsvp_count": 93, 
     "country": "Italy", 
     "start_time": "18:00:00", 
     "venue": "Roma Centro 00186", 
@@ -19250,7 +19250,7 @@
   {
     "city": "Kitwe", 
     "name": "People's Climate March", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Zambia", 
     "start_time": "13:00:00", 
     "venue": "Kaunda Square", 
