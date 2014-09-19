@@ -1,4 +1,4 @@
-Number of events: 1890
+Number of events: 1891
 Number of countries: 131
 	Afghanistan: 1
 	Albania: 1
@@ -11,7 +11,7 @@ Number of countries: 131
 	Bahrain: 2
 	Bangladesh: 5
 	Belarus: 3
-	Belgium: 33
+	Belgium: 34
 	Benin: 1
 	Bolivia: 3
 	Bosnia and Herzegovina: 1

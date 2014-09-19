@@ -1,4 +1,4 @@
-Number of events: 2690
+Number of events: 2696
 Number of countries: 160
 	Afghanistan: 1
 	Albania: 2
@@ -12,7 +12,7 @@ Number of countries: 160
 	Bahrain: 5
 	Bangladesh: 10
 	Belarus: 3
-	Belgium: 36
+	Belgium: 37
 	Benin: 1
 	Bolivia: 7
 	Bosnia and Herzegovina: 1
@@ -50,7 +50,7 @@ Number of countries: 160
 	France: 152
 	French Guiana: 1
 	French Polynesia: 2
-	Georgia: 1
+	Georgia: 2
 	Germany: 88
 	Ghana: 3
 	Greece: 37
@@ -66,12 +66,12 @@ Number of countries: 160
 	Iceland: 2
 	India: 37
 	Indonesia: 4
-	Iran: 10
+	Iran: 11
 	Iraq: 17
 	Ireland: 11
 	Isle of Man: 1
 	Israel: 13
-	Italy: 137
+	Italy: 138
 	Ivory Coast: 1
 	Japan: 8
 	Jersey: 1
@@ -113,9 +113,9 @@ Number of countries: 160
 	Papua New Guinea: 1
 	Paraguay: 4
 	Peru: 36
-	Philippines: 20
+	Philippines: 21
 	Poland: 8
-	Portugal: 40
+	Portugal: 41
 	Puerto Rico: 3
 	Qatar: 1
 	Reunion: 2
