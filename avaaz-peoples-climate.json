@@ -2,7 +2,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 3400, 
+    "rsvp_count": 3401, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -770,7 +770,7 @@
   {
     "city": "Barcelona", 
     "name": "Marcha Ciudadana Global por el Clima. Barcelona #BCN21S", 
-    "rsvp_count": 1350, 
+    "rsvp_count": 1351, 
     "country": "Spain", 
     "start_time": "11:00:00", 
     "venue": "Moll de la Marina, Barcelona", 
@@ -1794,7 +1794,7 @@
   {
     "city": "Murcia", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 177, 
+    "rsvp_count": 178, 
     "country": "Spain", 
     "start_time": "12:00:00", 
     "venue": "plaza circular", 
@@ -2130,7 +2130,7 @@
   {
     "city": "Vicenza", 
     "name": "People's Climate Flash Mob", 
-    "rsvp_count": 60, 
+    "rsvp_count": 61, 
     "country": "Italy", 
     "start_time": "11:30:00", 
     "venue": "Piazza dei Signori", 
@@ -6562,7 +6562,7 @@
   {
     "city": "\u041c\u044b\u0442\u0438\u0449\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 10, 
+    "rsvp_count": 11, 
     "country": "Russia", 
     "start_time": "13:00:00", 
     "venue": "\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043f\u0430\u0440\u043a, \u0432\u043e\u0437\u043b\u0435 \u043a\u043e\u043b\u0435\u0441\u0430 \u043e\u0431\u043e\u0437\u0440\u0435\u043d\u0438\u044f", 
@@ -7538,7 +7538,7 @@
   {
     "city": "Munich", 
     "name": "People's Climate March", 
-    "rsvp_count": 714, 
+    "rsvp_count": 715, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Karlsplatz", 
@@ -8962,7 +8962,7 @@
   {
     "city": "Leipzig", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 158, 
+    "rsvp_count": 159, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Marktplatz", 
@@ -18114,7 +18114,7 @@
   {
     "city": "Tavira", 
     "name": "People's Climate March", 
-    "rsvp_count": 16, 
+    "rsvp_count": 17, 
     "country": "Portugal", 
     "start_time": "13:00:00", 
     "venue": "Praca da Republica", 
@@ -25698,7 +25698,7 @@
   {
     "city": "\u041a\u0438\u0435\u0432", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 35, 
+    "rsvp_count": 36, 
     "country": "Ukraine", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -26050,7 +26050,7 @@
   {
     "city": "Toulouse", 
     "name": "Marche Pour le Climat \u00e0 Toulouse, avec Avaaz.org", 
-    "rsvp_count": 56, 
+    "rsvp_count": 57, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Place du Capitole, \u00e0 Toulouse", 
@@ -28050,7 +28050,7 @@
   {
     "city": "Ragusa", 
     "name": "Meeting e Connessione per la Terra e la Pace", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Italy", 
     "start_time": "18:00:00", 
     "venue": "Contrada Magazzinazzi", 
