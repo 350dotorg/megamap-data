@@ -930,7 +930,7 @@
   {
     "city": "Buenos Aires", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 350, 
+    "rsvp_count": 351, 
     "country": "Argentina", 
     "start_time": "15:00:00", 
     "venue": "Planetario Galileo Galilei", 
@@ -1762,7 +1762,7 @@
   {
     "city": "Brasilia", 
     "name": "Uni\u00e3o Avaaz em Bras\u00edlia contra as Mudan\u00e7as Clim\u00e1ticas", 
-    "rsvp_count": 878, 
+    "rsvp_count": 879, 
     "country": "Brazil", 
     "start_time": "10:00:00", 
     "venue": "Esplanada dos Ministerios", 
@@ -19058,7 +19058,7 @@
   {
     "city": "Ensenada", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 10, 
+    "rsvp_count": 11, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Monumento a C\u00e1rdenas", 
@@ -26804,7 +26804,7 @@
     "name": "Caminhada pelo Clima", 
     "rsvp_count": 9, 
     "country": "Brazil", 
-    "start_time": "13:00:00", 
+    "start_time": "10:00:00", 
     "venue": "Av.Ministro Vitor Konder - Av. Joca Brand\u00e3o", 
     "longitude": -48.6542242, 
     "state": "SC", 
