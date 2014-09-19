@@ -1,5 +1,5 @@
-Number of events: 1874
-Number of countries: 130
+Number of events: 1873
+Number of countries: 131
 	Afghanistan: 2
 	Algeria: 20
 	Argentina: 55
@@ -10,7 +10,7 @@ Number of countries: 130
 	Bahrain: 2
 	Bangladesh: 5
 	Belarus: 3
-	Belgium: 34
+	Belgium: 33
 	Benin: 1
 	Bolivia: 3
 	Bosnia and Herzegovina: 1
@@ -47,6 +47,7 @@ Number of countries: 130
 	Guadeloupe: 2
 	Guatemala: 10
 	Guinea: 1
+	Haiti: 1
 	Honduras: 2
 	Hong Kong: 1
 	Hungary: 6
@@ -122,7 +123,7 @@ Number of countries: 130
 	Ukraine: 47
 	United Arab Emirates: 2
 	United Kingdom: 60
-	United States of America: 53
+	United States of America: 52
 	Uruguay: 11
 	Venezuela: 19
 	Vietnam: 1
