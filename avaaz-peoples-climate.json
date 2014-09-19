@@ -1714,7 +1714,7 @@
   {
     "city": "Brasilia", 
     "name": "Uni\u00e3o Avaaz em Bras\u00edlia contra as Mudan\u00e7as Clim\u00e1ticas", 
-    "rsvp_count": 977, 
+    "rsvp_count": 978, 
     "country": "Brazil", 
     "start_time": "10:00:00", 
     "venue": "Esplanada dos Ministerios", 
@@ -29966,5 +29966,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_304", 
     "id": 5376
+  }, 
+  {
+    "city": "Cuiab\u00e1", 
+    "name": "Caminhada pelo Clima", 
+    "rsvp_count": 1, 
+    "country": "Brazil", 
+    "start_time": "13:00:00", 
+    "venue": "Obras Sociais Meimei", 
+    "longitude": -56.1210096, 
+    "state": "MT", 
+    "country_code": "BR", 
+    "address": "Rua Minas Gerais, Cuiab\u00e1 - MT, Rep\u00fablica Federativa do Brasil", 
+    "latitude": -15.5804129, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_262", 
+    "id": 5377
   }
 ]
