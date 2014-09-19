@@ -1442,7 +1442,7 @@
   {
     "city": "Freiburg im Breisgau", 
     "name": "Klimaevent", 
-    "rsvp_count": 195, 
+    "rsvp_count": 196, 
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "Ecke Bertoldstr./Niemenstr.", 
@@ -1794,7 +1794,7 @@
   {
     "city": "Murcia", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 184, 
+    "rsvp_count": 185, 
     "country": "Spain", 
     "start_time": "12:00:00", 
     "venue": "plaza circular", 
@@ -2162,7 +2162,7 @@
   {
     "city": "Klagenfurt am W\u00f6rthersee", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 139, 
+    "rsvp_count": 140, 
     "country": "Austria", 
     "start_time": "13:00:00", 
     "venue": "Rathaus", 
@@ -10386,7 +10386,7 @@
   {
     "city": "Timi\u0219oara", 
     "name": "Mar\u0219ul Cet\u0103\u021benilor pentru Ac\u021biune Climatic\u0103", 
-    "rsvp_count": 53, 
+    "rsvp_count": 54, 
     "country": "Romania", 
     "start_time": "13:00:00", 
     "venue": "Piata Victoriei (in fata operei)", 
@@ -15300,7 +15300,7 @@
     "name": "People's Climate March", 
     "rsvp_count": 120, 
     "country": "Belgium", 
-    "start_time": "13:00:00", 
+    "start_time": "16:00:00", 
     "venue": "Station Leuven", 
     "longitude": 4.7156816, 
     "state": "Vlaams Gewest", 
@@ -18098,7 +18098,7 @@
   {
     "city": "Schwerin", 
     "name": "Mal schnell die Welt retten \u2013 Schwerin", 
-    "rsvp_count": 14, 
+    "rsvp_count": 15, 
     "country": "Germany", 
     "start_time": "11:00:00", 
     "venue": "Am Markt", 
@@ -18178,7 +18178,7 @@
   {
     "city": "Las Palmas de Gran Canaria", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 48, 
+    "rsvp_count": 49, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Parque de San Telmo, pr\u00f3ximo a calle comercial Triana", 
@@ -20610,7 +20610,7 @@
   {
     "city": "Exeter", 
     "name": "People's Climate March - Here we grow!", 
-    "rsvp_count": 65, 
+    "rsvp_count": 66, 
     "country": "United Kingdom", 
     "start_time": "12:00:00", 
     "venue": "Bedford Square Exeter city centre", 
