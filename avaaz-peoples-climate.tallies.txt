@@ -1,11 +1,10 @@
-Number of events: 1907
-Number of countries: 131
+Number of events: 1870
+Number of countries: 129
 	Afghanistan: 2
-	Albania: 1
 	Algeria: 20
-	Argentina: 56
+	Argentina: 55
 	Armenia: 2
-	Australia: 38
+	Australia: 37
 	Austria: 26
 	Azerbaijan: 1
 	Bahrain: 2
@@ -16,7 +15,7 @@ Number of countries: 131
 	Bolivia: 3
 	Bosnia and Herzegovina: 1
 	Botswana: 1
-	Brazil: 183
+	Brazil: 176
 	Bulgaria: 4
 	Burkina Faso: 1
 	Burundi: 1
@@ -25,26 +24,25 @@ Number of countries: 131
 	Canada: 77
 	Cayman Islands: 1
 	Chile: 18
-	Colombia: 68
+	Colombia: 67
 	Congo, DPR: 2
 	Congo, PR: 2
 	Costa Rica: 5
-	Croatia: 1
 	Cuba: 2
 	Cyprus: 3
 	Czech Republic: 2
-	Denmark: 6
+	Denmark: 5
 	Dominican Republic: 7
-	Ecuador: 14
+	Ecuador: 13
 	Egypt: 29
 	El Salvador: 2
 	Estonia: 4
 	Finland: 4
-	France: 131
+	France: 128
 	French Guiana: 1
 	French Polynesia: 2
-	Germany: 79
-	Greece: 37
+	Germany: 76
+	Greece: 36
 	Grenada: 1
 	Guadeloupe: 2
 	Guatemala: 10
@@ -58,7 +56,7 @@ Number of countries: 131
 	Iraq: 17
 	Ireland: 6
 	Israel: 10
-	Italy: 122
+	Italy: 119
 	Japan: 6
 	Jordan: 2
 	Kenya: 2
@@ -74,9 +72,9 @@ Number of countries: 131
 	Martinique: 2
 	Mauritania: 2
 	Mauritius: 1
-	Mexico: 96
+	Mexico: 92
 	Moldova: 2
-	Morocco: 29
+	Morocco: 28
 	Mozambique: 1
 	Nepal: 3
 	Netherlands: 31
@@ -90,7 +88,7 @@ Number of countries: 131
 	Palestine: 5
 	Panama: 3
 	Paraguay: 1
-	Peru: 30
+	Peru: 29
 	Philippines: 2
 	Poland: 5
 	Portugal: 36
@@ -98,7 +96,7 @@ Number of countries: 131
 	Qatar: 1
 	Reunion: 1
 	Romania: 12
-	Russia: 43
+	Russia: 42
 	Saudi Arabia: 11
 	Senegal: 2
 	Serbia: 5
@@ -108,11 +106,11 @@ Number of countries: 131
 	South Africa: 15
 	South Korea: 1
 	South Sudan: 1
-	Spain: 113
+	Spain: 112
 	Sri Lanka: 2
 	Sudan: 7
 	Sweden: 10
-	Switzerland: 21
+	Switzerland: 22
 	Syria: 3
 	Tajikistan: 1
 	Tanzania: 1
@@ -120,14 +118,14 @@ Number of countries: 131
 	Trinidad and Tobago: 1
 	Tunisia: 11
 	Turkey: 10
-	Ukraine: 48
+	Ukraine: 47
 	United Arab Emirates: 2
 	United Kingdom: 60
-	United States of America: 54
-	Uruguay: 12
-	Venezuela: 21
+	United States of America: 53
+	Uruguay: 11
+	Venezuela: 19
 	Vietnam: 1
 	Western Sahara: 1
-	Yemen: 11
+	Yemen: 10
 	Zambia: 2
 	Zimbabwe: 1

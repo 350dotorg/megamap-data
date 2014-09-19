@@ -1,12 +1,12 @@
-Number of events: 2730
-Number of countries: 162
+Number of events: 2696
+Number of countries: 161
 	Afghanistan: 2
-	Albania: 2
+	Albania: 1
 	Algeria: 20
 	Angola: 2
-	Argentina: 62
+	Argentina: 61
 	Armenia: 2
-	Australia: 139
+	Australia: 138
 	Austria: 29
 	Azerbaijan: 1
 	Bahrain: 5
@@ -17,43 +17,42 @@ Number of countries: 162
 	Bolivia: 7
 	Bosnia and Herzegovina: 1
 	Botswana: 1
-	Brazil: 196
+	Brazil: 189
 	British Virgin Islands: 1
 	Bulgaria: 6
 	Burkina Faso: 1
 	Burundi: 3
 	Cambodia: 1
 	Cameroon: 1
-	Canada: 158
+	Canada: 159
 	Cayman Islands: 1
 	Central African Republic: 1
 	Chile: 18
 	China: 2
-	Colombia: 76
+	Colombia: 75
 	Congo, DPR: 2
 	Congo, PR: 2
 	Costa Rica: 8
-	Croatia: 1
 	Cuba: 2
 	Cyprus: 3
 	Czech Republic: 4
 	Democratic Republic of the Congo: 4
-	Denmark: 6
+	Denmark: 5
 	Dominica: 1
 	Dominican Republic: 8
-	Ecuador: 16
+	Ecuador: 15
 	Egypt: 30
 	El Salvador: 2
 	Estonia: 5
 	Fiji: 1
 	Finland: 8
-	France: 154
+	France: 151
 	French Guiana: 1
 	French Polynesia: 2
 	Georgia: 2
-	Germany: 90
+	Germany: 87
 	Ghana: 3
-	Greece: 37
+	Greece: 36
 	Grenada: 1
 	Guadeloupe: 2
 	Guam: 1
@@ -71,7 +70,7 @@ Number of countries: 162
 	Ireland: 11
 	Isle of Man: 1
 	Israel: 13
-	Italy: 139
+	Italy: 136
 	Ivory Coast: 1
 	Japan: 8
 	Jersey: 1
@@ -95,10 +94,10 @@ Number of countries: 162
 	Martinique: 2
 	Mauritania: 2
 	Mauritius: 1
-	Mexico: 104
+	Mexico: 100
 	Micronesia: 1
 	Moldova: 4
-	Morocco: 30
+	Morocco: 29
 	Mozambique: 1
 	Nepal: 5
 	Netherlands: 45
@@ -114,7 +113,7 @@ Number of countries: 162
 	Panama: 3
 	Papua New Guinea: 1
 	Paraguay: 4
-	Peru: 36
+	Peru: 35
 	Philippines: 22
 	Poland: 8
 	Portugal: 47
@@ -122,7 +121,7 @@ Number of countries: 162
 	Qatar: 1
 	Reunion: 2
 	Romania: 15
-	Russia: 45
+	Russia: 44
 	Saudi Arabia: 11
 	Senegal: 2
 	Serbia: 6
@@ -133,11 +132,11 @@ Number of countries: 162
 	South Africa: 23
 	South Korea: 3
 	South Sudan: 1
-	Spain: 126
+	Spain: 125
 	Sri Lanka: 2
 	Sudan: 7
-	Sweden: 25
-	Switzerland: 24
+	Sweden: 26
+	Switzerland: 25
 	Syria: 3
 	Taiwan: 3
 	Tajikistan: 3
@@ -150,15 +149,15 @@ Number of countries: 162
 	Turkey: 22
 	Tuvalu: 1
 	Uganda: 2
-	Ukraine: 51
+	Ukraine: 50
 	United Arab Emirates: 3
 	United Kingdom: 100
 	United States of America: 284
-	Uruguay: 12
+	Uruguay: 11
 	Uzbekistan: 1
-	Venezuela: 22
+	Venezuela: 20
 	Vietnam: 6
 	Western Sahara: 1
-	Yemen: 11
+	Yemen: 10
 	Zambia: 2
 	Zimbabwe: 2
