@@ -1,4 +1,4 @@
-Number of events: 1873
+Number of events: 1874
 Number of countries: 130
 	Afghanistan: 2
 	Algeria: 20
@@ -41,7 +41,7 @@ Number of countries: 130
 	France: 128
 	French Guiana: 1
 	French Polynesia: 2
-	Germany: 78
+	Germany: 79
 	Greece: 36
 	Grenada: 1
 	Guadeloupe: 2
