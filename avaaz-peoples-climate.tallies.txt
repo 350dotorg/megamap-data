@@ -1,4 +1,4 @@
-Number of events: 1896
+Number of events: 1897
 Number of countries: 131
 	Afghanistan: 2
 	Albania: 1
@@ -16,7 +16,7 @@ Number of countries: 131
 	Bolivia: 3
 	Bosnia and Herzegovina: 1
 	Botswana: 1
-	Brazil: 183
+	Brazil: 184
 	Bulgaria: 4
 	Burkina Faso: 1
 	Burundi: 1
