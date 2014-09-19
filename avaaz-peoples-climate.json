@@ -128,16 +128,16 @@
     "id": 1703
   }, 
   {
-    "city": "Lord Howe Island", 
+    "city": "", 
     "name": "People's Climate March", 
     "rsvp_count": 2, 
     "country": "Australia", 
     "start_time": "10:00:00", 
     "venue": "", 
     "longitude": 159.0690818, 
-    "state": "NSW", 
+    "state": "", 
     "country_code": "AU", 
-    "address": "Lord Howe Island Central School, Lord Howe Island NSW 2898, Australia", 
+    "address": "The Jetty, Lord Howe Island NSW 2898, Australia", 
     "latitude": -31.5309508, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_827", 
@@ -930,7 +930,7 @@
   {
     "city": "Buenos Aires", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 367, 
+    "rsvp_count": 368, 
     "country": "Argentina", 
     "start_time": "15:00:00", 
     "venue": "Planetario Galileo Galilei", 
@@ -7874,7 +7874,7 @@
   {
     "city": "Los Angeles", 
     "name": "People's Climate March LA - Building Blocks Against Climate Change", 
-    "rsvp_count": 39, 
+    "rsvp_count": 40, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "Wilshire Boulevard between Wilton Place and Alvarado Street", 
