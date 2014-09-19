@@ -42,7 +42,7 @@ Number of countries: 160
 	Dominica: 1
 	Dominican Republic: 8
 	Ecuador: 16
-	Egypt: 29
+	Egypt: 28
 	El Salvador: 2
 	Estonia: 5
 	Fiji: 1
@@ -105,7 +105,7 @@ Number of countries: 160
 	New Zealand: 30
 	Nicaragua: 3
 	Nigeria: 7
-	Norway: 12
+	Norway: 13
 	Oman: 2
 	Pakistan: 3
 	Palestine: 5
