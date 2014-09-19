@@ -1842,7 +1842,7 @@
   {
     "city": "Marrakech", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 17, 
+    "rsvp_count": 18, 
     "country": "Morocco", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -8322,7 +8322,7 @@
   {
     "city": "Neuqu\u00e9n", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 25, 
+    "rsvp_count": 26, 
     "country": "Argentina", 
     "start_time": "16:00:00", 
     "venue": "Plaza de las Banderas", 
@@ -11874,7 +11874,7 @@
   {
     "city": "Belo Horizonte", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 82, 
+    "rsvp_count": 83, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -21250,7 +21250,7 @@
   {
     "city": "Guatemala", 
     "name": "Concentraci\u00f3n Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Guatemala", 
     "start_time": "09:00:00", 
     "venue": "Parque Central", 
