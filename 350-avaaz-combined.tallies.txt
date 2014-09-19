@@ -1,4 +1,4 @@
-Number of events: 2710
+Number of events: 2711
 Number of countries: 161
 	Afghanistan: 2
 	Albania: 2
@@ -94,7 +94,7 @@ Number of countries: 161
 	Martinique: 2
 	Mauritania: 2
 	Mauritius: 1
-	Mexico: 104
+	Mexico: 105
 	Micronesia: 1
 	Moldova: 4
 	Morocco: 30
