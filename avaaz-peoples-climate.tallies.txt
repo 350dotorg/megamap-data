@@ -1,11 +1,11 @@
-Number of events: 1887
+Number of events: 1888
 Number of countries: 131
 	Afghanistan: 1
 	Albania: 1
 	Algeria: 20
 	Argentina: 56
 	Armenia: 2
-	Australia: 37
+	Australia: 38
 	Austria: 26
 	Azerbaijan: 1
 	Bahrain: 2
