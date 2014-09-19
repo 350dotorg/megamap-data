@@ -1,5 +1,5 @@
-Number of events: 2699
-Number of countries: 161
+Number of events: 2704
+Number of countries: 162
 	Afghanistan: 2
 	Albania: 1
 	Algeria: 20
@@ -24,7 +24,7 @@ Number of countries: 161
 	Burundi: 3
 	Cambodia: 1
 	Cameroon: 1
-	Canada: 160
+	Canada: 161
 	Cayman Islands: 1
 	Central African Republic: 1
 	Chile: 18
@@ -40,7 +40,7 @@ Number of countries: 161
 	Denmark: 5
 	Dominica: 1
 	Dominican Republic: 8
-	Ecuador: 15
+	Ecuador: 16
 	Egypt: 30
 	El Salvador: 2
 	Estonia: 5
@@ -65,7 +65,7 @@ Number of countries: 161
 	Iceland: 2
 	India: 38
 	Indonesia: 4
-	Iran: 11
+	Iran: 12
 	Iraq: 17
 	Ireland: 11
 	Isle of Man: 1
@@ -135,6 +135,7 @@ Number of countries: 161
 	Spain: 125
 	Sri Lanka: 2
 	Sudan: 7
+	Suriname: 1
 	Sweden: 26
 	Switzerland: 24
 	Syria: 3
@@ -152,7 +153,7 @@ Number of countries: 161
 	Ukraine: 50
 	United Arab Emirates: 3
 	United Kingdom: 100
-	United States of America: 285
+	United States of America: 286
 	Uruguay: 11
 	Uzbekistan: 1
 	Venezuela: 20

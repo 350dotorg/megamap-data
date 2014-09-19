@@ -1,5 +1,5 @@
-Number of events: 1870
-Number of countries: 129
+Number of events: 1871
+Number of countries: 130
 	Afghanistan: 2
 	Algeria: 20
 	Argentina: 55
@@ -109,6 +109,7 @@ Number of countries: 129
 	Spain: 112
 	Sri Lanka: 2
 	Sudan: 7
+	Suriname: 1
 	Sweden: 10
 	Switzerland: 21
 	Syria: 3
