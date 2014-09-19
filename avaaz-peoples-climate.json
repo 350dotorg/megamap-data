@@ -642,7 +642,7 @@
   {
     "city": "Monterrey", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 256, 
+    "rsvp_count": 257, 
     "country": "Mexico", 
     "start_time": "10:00:00", 
     "venue": "Explanada de los heroes", 
@@ -930,7 +930,7 @@
   {
     "city": "Buenos Aires", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 345, 
+    "rsvp_count": 346, 
     "country": "Argentina", 
     "start_time": "15:00:00", 
     "venue": "Planetario Galileo Galilei", 
@@ -6690,7 +6690,7 @@
   {
     "city": "Matamoros", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "", 
