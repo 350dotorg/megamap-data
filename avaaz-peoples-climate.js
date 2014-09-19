@@ -16195,7 +16195,7 @@ initData({},
   {
     "city": "Gen\u00e8ve", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 89, 
+    "rsvp_count": 90, 
     "country": "Switzerland", 
     "start_time": "13:00:00", 
     "venue": "Place de Plainpalais", 
