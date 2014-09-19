@@ -1,5 +1,5 @@
 Number of events: 2674
-Number of countries: 159
+Number of countries: 160
 	Afghanistan: 1
 	Albania: 1
 	Algeria: 20
@@ -98,6 +98,7 @@ Number of countries: 159
 	Micronesia: 1
 	Moldova: 4
 	Morocco: 30
+	Mozambique: 1
 	Nepal: 5
 	Netherlands: 45
 	New Caledonia: 3
@@ -118,7 +119,7 @@ Number of countries: 159
 	Puerto Rico: 3
 	Qatar: 1
 	Reunion: 2
-	Romania: 16
+	Romania: 14
 	Russia: 45
 	Saudi Arabia: 11
 	Senegal: 2
@@ -130,7 +131,7 @@ Number of countries: 159
 	South Africa: 22
 	South Korea: 3
 	South Sudan: 1
-	Spain: 124
+	Spain: 125
 	Sri Lanka: 2
 	Sudan: 7
 	Sweden: 24

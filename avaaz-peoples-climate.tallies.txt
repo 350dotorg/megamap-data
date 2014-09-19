@@ -1,5 +1,5 @@
 Number of events: 1882
-Number of countries: 129
+Number of countries: 130
 	Afghanistan: 1
 	Algeria: 20
 	Argentina: 56
@@ -76,6 +76,7 @@ Number of countries: 129
 	Mexico: 97
 	Moldova: 2
 	Morocco: 29
+	Mozambique: 1
 	Nepal: 3
 	Netherlands: 31
 	New Caledonia: 2
@@ -95,7 +96,7 @@ Number of countries: 129
 	Puerto Rico: 2
 	Qatar: 1
 	Reunion: 1
-	Romania: 13
+	Romania: 11
 	Russia: 43
 	Saudi Arabia: 11
 	Senegal: 2
@@ -106,7 +107,7 @@ Number of countries: 129
 	South Africa: 14
 	South Korea: 1
 	South Sudan: 1
-	Spain: 112
+	Spain: 113
 	Sri Lanka: 2
 	Sudan: 7
 	Sweden: 9
