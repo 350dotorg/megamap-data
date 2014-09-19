@@ -2,7 +2,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 3685, 
+    "rsvp_count": 3686, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -898,7 +898,7 @@
   {
     "city": "Buenos Aires", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 414, 
+    "rsvp_count": 415, 
     "country": "Argentina", 
     "start_time": "15:00:00", 
     "venue": "Planetario Galileo Galilei", 
@@ -1282,7 +1282,7 @@
   {
     "city": "San Crist\u00f3bal de Las Casas", 
     "name": "D\u00eda de Acci\u00f3n por 100% Energ\u00eda Limpia en San Crist\u00f3bal", 
-    "rsvp_count": 46, 
+    "rsvp_count": 47, 
     "country": "Mexico", 
     "start_time": "09:00:00", 
     "venue": "Parque de los Arcos (detr\u00e1s de la Presidencia Municipal)", 
@@ -1426,7 +1426,7 @@
   {
     "city": "Freiburg im Breisgau", 
     "name": "Klimaevent", 
-    "rsvp_count": 210, 
+    "rsvp_count": 211, 
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "Ecke Bertoldstr./Niemenstr.", 
@@ -7554,7 +7554,7 @@
   {
     "city": "Durango", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 50, 
+    "rsvp_count": 51, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Plaza IV centenario zona centro", 
@@ -25810,7 +25810,7 @@
   {
     "city": "Brighton", 
     "name": "People's Climate March", 
-    "rsvp_count": 55, 
+    "rsvp_count": 56, 
     "country": "United Kingdom", 
     "start_time": "13:00:00", 
     "venue": "Palmeira Squere", 
@@ -29714,7 +29714,7 @@
   {
     "city": "Clermont-Ferrand", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 7, 
+    "rsvp_count": 8, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Place de Jaude", 
