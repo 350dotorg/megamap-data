@@ -1,4 +1,4 @@
-Number of events: 1889
+Number of events: 1888
 Number of countries: 131
 	Afghanistan: 1
 	Albania: 1
@@ -72,7 +72,7 @@ Number of countries: 131
 	Maldives: 1
 	Mali: 2
 	Martinique: 2
-	Mauritania: 2
+	Mauritania: 1
 	Mauritius: 1
 	Mexico: 97
 	Moldova: 2
