@@ -2194,7 +2194,7 @@
   {
     "city": "Milano", 
     "name": "Climate March", 
-    "rsvp_count": 514, 
+    "rsvp_count": 515, 
     "country": "Italy", 
     "start_time": "10:00:00", 
     "venue": "", 
@@ -2770,7 +2770,7 @@
   {
     "city": "Porto Alegre", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 605, 
+    "rsvp_count": 606, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Parque Farroupilha - Reden\u00e7\u00e3o", 
@@ -4898,7 +4898,7 @@
   {
     "city": "Auch", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 37, 
+    "rsvp_count": 38, 
     "country": "France", 
     "start_time": "11:00:00", 
     "venue": "Parking du Boulevard Sadi Carnot, 32000 Auch, France", 
@@ -10994,7 +10994,7 @@
   {
     "city": "Wilderness", 
     "name": "People's Climate March", 
-    "rsvp_count": 14, 
+    "rsvp_count": 15, 
     "country": "South Africa", 
     "start_time": "16:30:00", 
     "venue": "Kleinkrantz Beach main parking lot", 
@@ -14418,7 +14418,7 @@
   {
     "city": "Goi\u00e2nia", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 415, 
+    "rsvp_count": 416, 
     "country": "Brazil", 
     "start_time": "16:00:00", 
     "venue": "Pra\u00e7a C\u00edvica, setor Sul", 
@@ -18594,7 +18594,7 @@
   {
     "city": "Barrie", 
     "name": "People's Climate March", 
-    "rsvp_count": 45, 
+    "rsvp_count": 46, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Sunnidale Park Dorian Parker building parking lot", 
@@ -19810,7 +19810,7 @@
   {
     "city": "Legau", 
     "name": "Klima-Aktionstag auf dem Stand \"Nachhaltiges Allg\u00e4u\" beim RAPUNZEL-Festival in Legau", 
-    "rsvp_count": 53, 
+    "rsvp_count": 54, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "RAPUNZEL-Festival", 
@@ -28981,12 +28981,12 @@
     "rsvp_count": 1, 
     "country": "France", 
     "start_time": "15:00:00", 
-    "venue": "Place d\u2019Armes, Calais", 
-    "longitude": 1.8503999, 
+    "venue": "Place Mar\u00e9chal Foch, Calais", 
+    "longitude": 1.8501464999999, 
     "state": "Nord-Pas-de-Calais", 
     "country_code": "FR", 
-    "address": "Place d'Armes, 62100 Calais, France", 
-    "latitude": 50.9592405, 
+    "address": "Place du Mar\u00e9chal Foch, 62100 Calais, France", 
+    "latitude": 50.9557314, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_verte_marche_pour_le_climat", 
     "id": 5218
