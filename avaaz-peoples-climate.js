@@ -18627,7 +18627,7 @@ initData({},
   {
     "city": "Barrie", 
     "name": "People's Climate March", 
-    "rsvp_count": 41, 
+    "rsvp_count": 42, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Sunnidale Park Dorian Parker building parking lot", 
