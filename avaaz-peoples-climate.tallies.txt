@@ -80,7 +80,7 @@ Number of countries: 129
 	Netherlands: 31
 	New Caledonia: 2
 	New Zealand: 24
-	Nicaragua: 1
+	Nicaragua: 2
 	Nigeria: 4
 	Norway: 6
 	Oman: 2
@@ -110,7 +110,7 @@ Number of countries: 129
 	Sri Lanka: 2
 	Sudan: 7
 	Sweden: 10
-	Switzerland: 22
+	Switzerland: 21
 	Syria: 3
 	Tajikistan: 1
 	Tanzania: 1

@@ -103,7 +103,7 @@ Number of countries: 161
 	Netherlands: 45
 	New Caledonia: 3
 	New Zealand: 30
-	Nicaragua: 3
+	Nicaragua: 4
 	Niger: 1
 	Nigeria: 7
 	Norway: 13
@@ -136,7 +136,7 @@ Number of countries: 161
 	Sri Lanka: 2
 	Sudan: 7
 	Sweden: 26
-	Switzerland: 25
+	Switzerland: 24
 	Syria: 3
 	Taiwan: 3
 	Tajikistan: 3
