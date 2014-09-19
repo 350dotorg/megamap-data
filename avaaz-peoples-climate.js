@@ -1459,7 +1459,7 @@ initData({},
   {
     "city": "Freiburg im Breisgau", 
     "name": "Klimaevent", 
-    "rsvp_count": 181, 
+    "rsvp_count": 182, 
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "Ecke Bertoldstr./Niemenstr.", 
