@@ -706,7 +706,7 @@
   {
     "city": "", 
     "name": "\u00c9venement des Citoyens pour le Climat", 
-    "rsvp_count": 1267, 
+    "rsvp_count": 1268, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "Place Poelaert", 
@@ -914,7 +914,7 @@
   {
     "city": "Buenos Aires", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 385, 
+    "rsvp_count": 386, 
     "country": "Argentina", 
     "start_time": "15:00:00", 
     "venue": "Planetario Galileo Galilei", 
@@ -1746,7 +1746,7 @@
   {
     "city": "Brasilia", 
     "name": "Uni\u00e3o Avaaz em Bras\u00edlia contra as Mudan\u00e7as Clim\u00e1ticas", 
-    "rsvp_count": 932, 
+    "rsvp_count": 933, 
     "country": "Brazil", 
     "start_time": "10:00:00", 
     "venue": "Esplanada dos Ministerios", 
@@ -3378,7 +3378,7 @@
   {
     "city": "\u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 66, 
+    "rsvp_count": 67, 
     "country": "Ukraine", 
     "start_time": "13:00:00", 
     "venue": "\u0424\u0435\u0441\u0442\u0438\u0432\u0430\u043b\u044c\u043d\u044b\u0439 \u043f\u0440\u0438\u0447\u0430\u043b", 
@@ -3541,14 +3541,14 @@
     "rsvp_count": 25, 
     "country": "France", 
     "start_time": "13:00:00", 
-    "venue": "Granville devant la Mairie", 
+    "venue": "", 
     "longitude": -1.5972300999999, 
     "state": "Basse-Normandie", 
     "country_code": "FR", 
     "address": "Mairie de Granville, Cours Jonville, 50400 Granville, France", 
     "latitude": 48.8376734, 
     "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_67", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/Marche_Pour_le_Climat_67", 
     "id": 2305
   }, 
   {
@@ -7490,7 +7490,7 @@
   {
     "city": "Asuncion", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 158, 
+    "rsvp_count": 159, 
     "country": "Paraguay", 
     "start_time": "13:00:00", 
     "venue": "Costanera de Asuncion", 
@@ -9410,7 +9410,7 @@
   {
     "city": "Moncalieri", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 52, 
+    "rsvp_count": 53, 
     "country": "Italy", 
     "start_time": "16:00:00", 
     "venue": "Parco Le Vallere (ingresso)", 
@@ -15122,7 +15122,7 @@
   {
     "city": "Bras\u00edlia", 
     "name": "People's Climate March", 
-    "rsvp_count": 140, 
+    "rsvp_count": 141, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "Esplanada dos Minist\u00e9rios", 
@@ -15922,7 +15922,7 @@
   {
     "city": "Vigo", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 106, 
+    "rsvp_count": 107, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "Porta do Sol", 
@@ -25842,7 +25842,7 @@
   {
     "city": "Curitiba", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 56, 
+    "rsvp_count": 57, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "pra\u00e7a ruy barbosa", 
@@ -27026,7 +27026,7 @@
   {
     "city": "Pittsburgh", 
     "name": "People's Climate March", 
-    "rsvp_count": 13, 
+    "rsvp_count": 14, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "6th and Grant", 
