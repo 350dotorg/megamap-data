@@ -1,4 +1,4 @@
-Number of events: 1905
+Number of events: 1906
 Number of countries: 131
 	Afghanistan: 2
 	Albania: 1
@@ -93,7 +93,7 @@ Number of countries: 131
 	Peru: 30
 	Philippines: 2
 	Poland: 5
-	Portugal: 35
+	Portugal: 36
 	Puerto Rico: 2
 	Qatar: 1
 	Reunion: 1
