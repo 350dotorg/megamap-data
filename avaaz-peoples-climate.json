@@ -2146,7 +2146,7 @@
   {
     "city": "Milano", 
     "name": "Climate March", 
-    "rsvp_count": 531, 
+    "rsvp_count": 532, 
     "country": "Italy", 
     "start_time": "10:00:00", 
     "venue": "", 
@@ -6386,7 +6386,7 @@
   {
     "city": "Guadalajara", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 69, 
+    "rsvp_count": 70, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Plaza de armas", 
@@ -9202,7 +9202,7 @@
   {
     "city": "Santiago de Quer\u00e9taro", 
     "name": "Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 133, 
+    "rsvp_count": 134, 
     "country": "Mexico", 
     "start_time": "10:30:00", 
     "venue": "ALAMEDA HIDALGO", 
@@ -18258,7 +18258,7 @@
   {
     "city": "San Cristobal", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Venezuela", 
     "start_time": "13:00:00", 
     "venue": "Parque Murach\u00ed.", 
@@ -20146,7 +20146,7 @@
   {
     "city": "Ciudad Obreg\u00f3n", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 13, 
+    "rsvp_count": 14, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Laguna del N\u00e1inari", 
@@ -25506,7 +25506,7 @@
   {
     "city": "Toulouse", 
     "name": "Marche Pour le Climat \u00e0 Toulouse, avec Avaaz.org", 
-    "rsvp_count": 78, 
+    "rsvp_count": 79, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Place du Capitole, \u00e0 Toulouse", 
@@ -26741,12 +26741,12 @@
     "rsvp_count": 9, 
     "country": "Mexico", 
     "start_time": "14:00:00", 
-    "venue": "Las escalinatas", 
-    "longitude": -98.244103, 
+    "venue": "", 
+    "longitude": -98.2400586, 
     "state": "TLAX", 
     "country_code": "MX", 
-    "address": "6 Bis BARDA, La Loma Xicohtencatl, 90070 Tlaxcala de Xicohtencatl, TLAX, M\u00e9xico", 
-    "latitude": 19.3156264, 
+    "address": "Ignacio Allende 59, Centro, 90000 Tlaxcala de Xicohtencatl, TLAX, M\u00e9xico", 
+    "latitude": 19.3186793, 
     "event_date": "2014-09-20", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_529", 
     "id": 5090
