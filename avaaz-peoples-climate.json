@@ -306,7 +306,7 @@
   {
     "city": "Lecce", 
     "name": "Marcia per il Clima Lecce", 
-    "rsvp_count": 39, 
+    "rsvp_count": 40, 
     "country": "Italy", 
     "start_time": "17:00:00", 
     "venue": "Piazza Sant'Oronzo", 
@@ -946,7 +946,7 @@
   {
     "city": "Bristol", 
     "name": "Bristol People's Climate March", 
-    "rsvp_count": 535, 
+    "rsvp_count": 536, 
     "country": "United Kingdom", 
     "start_time": "14:30:00", 
     "venue": "Castle Park", 
@@ -1474,7 +1474,7 @@
   {
     "city": "Udine", 
     "name": "Flash Mob Udine per il Clima", 
-    "rsvp_count": 102, 
+    "rsvp_count": 103, 
     "country": "Italy", 
     "start_time": "19:00:00", 
     "venue": "Loggia del Lionello", 
@@ -3186,7 +3186,7 @@
   {
     "city": "Moscow", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 449, 
+    "rsvp_count": 450, 
     "country": "Russia", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -7266,7 +7266,7 @@
   {
     "city": "Gwanda", 
     "name": "Tree Planting", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Zimbabwe", 
     "start_time": "08:00:00", 
     "venue": "Gwanda and Kanabulemu Parish", 
@@ -23746,7 +23746,7 @@
   {
     "city": "Speyer", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 16, 
+    "rsvp_count": 17, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Speyrer Dom", 
@@ -30414,5 +30414,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_254", 
     "id": 5358
+  }, 
+  {
+    "city": "Entroncamento", 
+    "name": "Caminhada pelo Clima", 
+    "rsvp_count": 1, 
+    "country": "Portugal", 
+    "start_time": "09:00:00", 
+    "venue": "", 
+    "longitude": -8.4679442, 
+    "state": "Santar\u00e9m District", 
+    "country_code": "PT", 
+    "address": "Largo de Jos\u00e9 Duarte Coelho 7, 2330-095 Entroncamento, Portugal", 
+    "latitude": 39.464706, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_257", 
+    "id": 5361
   }
 ]
