@@ -1,4 +1,4 @@
-Number of events: 1877
+Number of events: 1879
 Number of countries: 129
 	Afghanistan: 1
 	Algeria: 20
@@ -15,7 +15,7 @@ Number of countries: 129
 	Bolivia: 3
 	Bosnia and Herzegovina: 1
 	Botswana: 1
-	Brazil: 181
+	Brazil: 182
 	Bulgaria: 4
 	Burkina Faso: 1
 	Burundi: 1
@@ -88,7 +88,7 @@ Number of countries: 129
 	Palestine: 5
 	Panama: 3
 	Paraguay: 1
-	Peru: 29
+	Peru: 30
 	Philippines: 2
 	Poland: 5
 	Portugal: 30

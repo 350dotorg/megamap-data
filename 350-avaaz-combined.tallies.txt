@@ -1,4 +1,4 @@
-Number of events: 2658
+Number of events: 2661
 Number of countries: 159
 	Afghanistan: 1
 	Albania: 1
@@ -17,7 +17,7 @@ Number of countries: 159
 	Bolivia: 7
 	Bosnia and Herzegovina: 1
 	Botswana: 1
-	Brazil: 192
+	Brazil: 193
 	British Virgin Islands: 1
 	Bulgaria: 6
 	Burkina Faso: 1
@@ -111,7 +111,7 @@ Number of countries: 159
 	Panama: 3
 	Papua New Guinea: 1
 	Paraguay: 3
-	Peru: 35
+	Peru: 36
 	Philippines: 19
 	Poland: 8
 	Portugal: 39
@@ -127,7 +127,7 @@ Number of countries: 159
 	Slovakia: 7
 	Slovenia: 3
 	Solomon Islands: 1
-	South Africa: 21
+	South Africa: 22
 	South Korea: 3
 	South Sudan: 1
 	Spain: 124
