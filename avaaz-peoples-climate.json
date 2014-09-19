@@ -2,7 +2,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 3466, 
+    "rsvp_count": 3467, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -914,7 +914,7 @@
   {
     "city": "Buenos Aires", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 382, 
+    "rsvp_count": 383, 
     "country": "Argentina", 
     "start_time": "15:00:00", 
     "venue": "Planetario Galileo Galilei", 
@@ -1666,7 +1666,7 @@
   {
     "city": "Hamburg", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 542, 
+    "rsvp_count": 543, 
     "country": "Germany", 
     "start_time": "16:00:00", 
     "venue": "vor dem Rathaus", 
@@ -5010,7 +5010,7 @@
   {
     "city": "Athens", 
     "name": "\u0395\u03c0\u03af\u03c3\u03b7\u03bc\u03b7 \u0394\u03c1\u03ac\u03c3\u03b7 \u0391\u03b8\u03ae\u03bd\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
-    "rsvp_count": 1293, 
+    "rsvp_count": 1295, 
     "country": "Greece", 
     "start_time": "16:00:00", 
     "venue": "\u0394\u03b9\u03bf\u03bd\u03c5\u03c3\u03af\u03bf\u03c5 \u0391\u03c1\u03b5\u03bf\u03c0\u03b1\u03b3\u03af\u03c4\u03bf\u03c5, \u0391\u03b8\u03ae\u03bd\u03b1", 
@@ -5298,7 +5298,7 @@
   {
     "city": "Bastia Umbra", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 55, 
+    "rsvp_count": 56, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "Bastia  Umbra", 
@@ -5330,7 +5330,7 @@
   {
     "city": "\u0422\u0435\u0440\u043d\u043e\u043f\u043e\u043b\u044c", 
     "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
-    "rsvp_count": 15, 
+    "rsvp_count": 16, 
     "country": "Ukraine", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -15250,7 +15250,7 @@
   {
     "city": "Mantua", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 22, 
+    "rsvp_count": 23, 
     "country": "Italy", 
     "start_time": "16:30:00", 
     "venue": "Parco S. Lorenzo", 
@@ -16866,7 +16866,7 @@
   {
     "city": "Barcelona", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 188, 
+    "rsvp_count": 189, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "CALLE LA ERA N\u00ba 5, FRENTE AL AYUNTAMIENTO", 
@@ -26930,7 +26930,7 @@
   {
     "city": "Glastonbury", 
     "name": "People's Climate March", 
-    "rsvp_count": 12, 
+    "rsvp_count": 14, 
     "country": "United Kingdom", 
     "start_time": "10:30:00", 
     "venue": "Churchyard on the High St.", 
@@ -29970,7 +29970,7 @@
   {
     "city": "Saint-Symphorien-sous-Chom\u00e9rac", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "France", 
     "start_time": "12:30:00", 
     "venue": "Mairie, quartier Liberne", 
