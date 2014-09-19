@@ -1218,7 +1218,7 @@
   {
     "city": "Bogota", 
     "name": "Bogot\u00e1 Marcha X el Clima", 
-    "rsvp_count": 610, 
+    "rsvp_count": 611, 
     "country": "Colombia", 
     "start_time": "10:00:00", 
     "venue": "Parque Nacional hasta Plaza de los Periodistas", 
@@ -6354,7 +6354,7 @@
   {
     "city": "Medell\u00edn", 
     "name": "Levantemos nuestra voz en contra al pago del gravamen de la Valorizaci\u00f3n del Poblado", 
-    "rsvp_count": 48, 
+    "rsvp_count": 49, 
     "country": "Colombia", 
     "start_time": "09:00:00", 
     "venue": "Plazoleta de La Alpujarra", 
@@ -7122,7 +7122,7 @@
   {
     "city": "Calvi\u00e0", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 42, 
+    "rsvp_count": 43, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "parking de palmanova frente a amadip.esment", 
@@ -16210,7 +16210,7 @@
   {
     "city": "Pochote", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 2, 
+    "rsvp_count": 3, 
     "country": "Costa Rica", 
     "start_time": "13:00:00", 
     "venue": "Ocean Sympony", 
@@ -26290,7 +26290,7 @@
   {
     "city": "\u062a\u0642\u0631\u062a", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 4, 
+    "rsvp_count": 5, 
     "country": "Algeria", 
     "start_time": "13:00:00", 
     "venue": "\u0628\u0644\u062f\u064a\u0629 \u062a\u0642\u0631\u062a", 
@@ -29874,7 +29874,7 @@
   {
     "city": "Dresden", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 18, 
+    "rsvp_count": 19, 
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "", 
@@ -30494,5 +30494,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_261", 
     "id": 5366
+  }, 
+  {
+    "city": "Sibiu", 
+    "name": "Avaaz Sibiu Climate March", 
+    "rsvp_count": 1, 
+    "country": "Romania", 
+    "start_time": "19:30:00", 
+    "venue": "Punct de pornire: \u00een fa\u021ba prim\u0103riei de pe Bulevardul Victoriei, SIBIU, ora 17:30. Plec\u0103m de acolo la 18:00 \u0219i urm\u0103m traseul Bd. B\u0103lcescu - Piata Mare.", 
+    "longitude": 24.1512409, 
+    "state": "SB", 
+    "country_code": "RO", 
+    "address": "Pia\u021ba Mare, Sibiu, Romania", 
+    "latitude": 45.7967821, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/ro/event/climate/Avaaz_Sibiu_Climate_March", 
+    "id": 5368
   }
 ]

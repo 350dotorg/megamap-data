@@ -1,4 +1,4 @@
-Number of events: 1906
+Number of events: 1907
 Number of countries: 131
 	Afghanistan: 2
 	Albania: 1
@@ -97,7 +97,7 @@ Number of countries: 131
 	Puerto Rico: 2
 	Qatar: 1
 	Reunion: 1
-	Romania: 11
+	Romania: 12
 	Russia: 43
 	Saudi Arabia: 11
 	Senegal: 2
