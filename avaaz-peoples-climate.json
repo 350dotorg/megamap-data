@@ -850,7 +850,7 @@
   {
     "city": "Toronto", 
     "name": "People's Climate March - Toronto", 
-    "rsvp_count": 97, 
+    "rsvp_count": 98, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -8530,7 +8530,7 @@
   {
     "city": "Khartoum", 
     "name": "People's Climate March", 
-    "rsvp_count": 13, 
+    "rsvp_count": 14, 
     "country": "Sudan", 
     "start_time": "13:00:00", 
     "venue": "-------------- var from us", 
@@ -26082,7 +26082,7 @@
   {
     "city": "Toulouse", 
     "name": "Marche Pour le Climat \u00e0 Toulouse, avec Avaaz.org", 
-    "rsvp_count": 66, 
+    "rsvp_count": 67, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "Place du Capitole, \u00e0 Toulouse", 
