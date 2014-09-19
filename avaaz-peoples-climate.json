@@ -914,7 +914,7 @@
   {
     "city": "Buenos Aires", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 399, 
+    "rsvp_count": 400, 
     "country": "Argentina", 
     "start_time": "15:00:00", 
     "venue": "Planetario Galileo Galilei", 
@@ -1218,7 +1218,7 @@
   {
     "city": "Bogota", 
     "name": "Bogot\u00e1 Marcha X el Clima", 
-    "rsvp_count": 591, 
+    "rsvp_count": 592, 
     "country": "Colombia", 
     "start_time": "10:00:00", 
     "venue": "Parque Nacional hasta Plaza de los Periodistas", 
@@ -1490,7 +1490,7 @@
   {
     "city": "San Juan", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 184, 
+    "rsvp_count": 185, 
     "country": "Puerto Rico", 
     "start_time": "10:00:00", 
     "venue": "Puente San Antonio", 
@@ -14160,16 +14160,16 @@
     "id": 3699
   }, 
   {
-    "city": "", 
+    "city": "Messina", 
     "name": "Marcia Globale per il Clima", 
     "rsvp_count": 4, 
     "country": "Italy", 
     "start_time": "10:00:00", 
     "venue": "", 
     "longitude": 15.5540172, 
-    "state": "", 
+    "state": "Sicilia", 
     "country_code": "IT", 
-    "address": "Piazza Antonello, Messina", 
+    "address": "Piazza Antonello, 98122 Messina ME, Italia", 
     "latitude": 38.1936138, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/it/event/climate/Marcia_Globale_per_il_Clima_104", 
@@ -18626,7 +18626,7 @@
   {
     "city": "Barrie", 
     "name": "People's Climate March", 
-    "rsvp_count": 49, 
+    "rsvp_count": 50, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Sunnidale Park Dorian Parker building parking lot", 
@@ -30430,5 +30430,37 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_257", 
     "id": 5361
+  }, 
+  {
+    "city": "Entroncamento", 
+    "name": "Caminhada pelo Clima", 
+    "rsvp_count": 1, 
+    "country": "Portugal", 
+    "start_time": "09:00:00", 
+    "venue": "biblioteca municipal entroncamento", 
+    "longitude": -8.4679203000001, 
+    "state": "Santar\u00e9m District", 
+    "country_code": "PT", 
+    "address": "Biblioteca Municipal do Entroncamento, Largo de Jos\u00e9 Duarte Coelho, 2330 Entroncamento, Portugal", 
+    "latitude": 39.4648006, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_259", 
+    "id": 5363
+  }, 
+  {
+    "city": "Entroncamento", 
+    "name": "Caminhada pelo Clima", 
+    "rsvp_count": 1, 
+    "country": "Portugal", 
+    "start_time": "09:00:00", 
+    "venue": "biblioteca municipal entroncamento", 
+    "longitude": -8.4679203000001, 
+    "state": "Santar\u00e9m District", 
+    "country_code": "PT", 
+    "address": "Biblioteca Municipal do Entroncamento, Largo de Jos\u00e9 Duarte Coelho, 2330 Entroncamento, Portugal", 
+    "latitude": 39.4648006, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_260", 
+    "id": 5364
   }
 ]
