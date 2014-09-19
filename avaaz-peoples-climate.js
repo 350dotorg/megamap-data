@@ -3267,7 +3267,7 @@ initData({},
   {
     "city": "Boulogne-sur-Mer", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 30, 
+    "rsvp_count": 31, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "", 
