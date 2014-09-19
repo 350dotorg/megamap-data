@@ -2,7 +2,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 3628, 
+    "rsvp_count": 3630, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -370,7 +370,7 @@
   {
     "city": "Lisbon", 
     "name": "Mobiliza\u00e7\u00e3o Contra as Altera\u00e7\u00f5es Clim\u00e1ticas - Salvem o Planeta!", 
-    "rsvp_count": 586, 
+    "rsvp_count": 587, 
     "country": "Portugal", 
     "start_time": "16:00:00", 
     "venue": "Rossio", 
@@ -610,7 +610,7 @@
   {
     "city": "Zurich", 
     "name": "Zurich People's Climate Stand (IMPORTANT: main event takes place at Helvetiaplatz at 18:00)", 
-    "rsvp_count": 249, 
+    "rsvp_count": 250, 
     "country": "Switzerland", 
     "start_time": "10:00:00", 
     "venue": "Hirschenplatz", 
@@ -6050,7 +6050,7 @@
   {
     "city": "Tijuana", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 8, 
+    "rsvp_count": 9, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "av. paseo de los heroes, zona urbana rio tijuana, 22010", 
@@ -12930,7 +12930,7 @@
   {
     "city": "Qu\u00e9bec", 
     "name": "Rassemblement en solidarit\u00e9 avec la Marche des Peuples pour le Climat \u00c0 Qu\u00e9bec", 
-    "rsvp_count": 59, 
+    "rsvp_count": 60, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Assembl\u00e9e Nationale du Qu\u00e9bec", 
@@ -14034,7 +14034,7 @@
   {
     "city": "Sorgues", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 10, 
+    "rsvp_count": 11, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "", 
