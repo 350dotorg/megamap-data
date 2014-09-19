@@ -8307,7 +8307,7 @@ initData({},
   {
     "city": "Shawinigan", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 32, 
+    "rsvp_count": 33, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Place du march\u00e9", 
