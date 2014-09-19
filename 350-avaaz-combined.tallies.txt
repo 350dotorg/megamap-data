@@ -1,4 +1,4 @@
-Number of events: 2704
+Number of events: 2705
 Number of countries: 162
 	Afghanistan: 2
 	Albania: 1
@@ -50,7 +50,7 @@ Number of countries: 162
 	French Guiana: 1
 	French Polynesia: 2
 	Georgia: 2
-	Germany: 87
+	Germany: 88
 	Ghana: 3
 	Greece: 36
 	Grenada: 1
