@@ -1602,7 +1602,7 @@
   {
     "city": "Ciudad de M\u00e9xico", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 100, 
+    "rsvp_count": 101, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Alameda Central", 
@@ -1762,7 +1762,7 @@
   {
     "city": "Brasilia", 
     "name": "Uni\u00e3o Avaaz em Bras\u00edlia contra as Mudan\u00e7as Clim\u00e1ticas", 
-    "rsvp_count": 882, 
+    "rsvp_count": 883, 
     "country": "Brazil", 
     "start_time": "10:00:00", 
     "venue": "Esplanada dos Ministerios", 
@@ -8482,7 +8482,7 @@
   {
     "city": "Islamabad", 
     "name": "People's Climate March", 
-    "rsvp_count": 26, 
+    "rsvp_count": 27, 
     "country": "Pakistan", 
     "start_time": "13:00:00", 
     "venue": "", 
