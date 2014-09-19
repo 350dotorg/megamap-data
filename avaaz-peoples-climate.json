@@ -5026,7 +5026,7 @@
   {
     "city": "Athens", 
     "name": "\u0395\u03c0\u03af\u03c3\u03b7\u03bc\u03b7 \u0394\u03c1\u03ac\u03c3\u03b7 \u0391\u03b8\u03ae\u03bd\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
-    "rsvp_count": 1322, 
+    "rsvp_count": 1323, 
     "country": "Greece", 
     "start_time": "16:00:00", 
     "venue": "\u0394\u03b9\u03bf\u03bd\u03c5\u03c3\u03af\u03bf\u03c5 \u0391\u03c1\u03b5\u03bf\u03c0\u03b1\u03b3\u03af\u03c4\u03bf\u03c5, \u0391\u03b8\u03ae\u03bd\u03b1", 
@@ -14434,7 +14434,7 @@
   {
     "city": "Goi\u00e2nia", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 424, 
+    "rsvp_count": 425, 
     "country": "Brazil", 
     "start_time": "16:00:00", 
     "venue": "Pra\u00e7a C\u00edvica, setor Sul", 
@@ -19970,7 +19970,7 @@
   {
     "city": "C\u00f3rdoba", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 21, 
+    "rsvp_count": 22, 
     "country": "Argentina", 
     "start_time": "16:00:00", 
     "venue": "Plaza de la Intendencia", 
@@ -22674,7 +22674,7 @@
   {
     "city": "Ehrwald", 
     "name": "Mutter Erde Meditation zum weltweiten Klima-Aktionstag", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Austria", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -30462,5 +30462,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_260", 
     "id": 5364
+  }, 
+  {
+    "city": "B\u00fcdingen", 
+    "name": "Klima-Aktionstag B\u00fcdingen", 
+    "rsvp_count": 0, 
+    "country": "Germany", 
+    "start_time": "11:00:00", 
+    "venue": "Marktplatz", 
+    "longitude": 9.1169961000001, 
+    "state": "HE", 
+    "country_code": "DE", 
+    "address": "Marktplatz, 63654 B\u00fcdingen, Deutschland", 
+    "latitude": 50.2928279, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaAktionstag_Buedingen", 
+    "id": 5365
   }
 ]

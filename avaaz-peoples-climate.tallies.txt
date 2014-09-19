@@ -1,4 +1,4 @@
-Number of events: 1904
+Number of events: 1905
 Number of countries: 131
 	Afghanistan: 2
 	Albania: 1
@@ -43,7 +43,7 @@ Number of countries: 131
 	France: 131
 	French Guiana: 1
 	French Polynesia: 2
-	Germany: 78
+	Germany: 79
 	Greece: 37
 	Grenada: 1
 	Guadeloupe: 2
