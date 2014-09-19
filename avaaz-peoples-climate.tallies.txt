@@ -1,6 +1,6 @@
-Number of events: 1892
+Number of events: 1896
 Number of countries: 131
-	Afghanistan: 1
+	Afghanistan: 2
 	Albania: 1
 	Algeria: 20
 	Argentina: 56
@@ -16,7 +16,7 @@ Number of countries: 131
 	Bolivia: 3
 	Bosnia and Herzegovina: 1
 	Botswana: 1
-	Brazil: 182
+	Brazil: 183
 	Bulgaria: 4
 	Burkina Faso: 1
 	Burundi: 1
@@ -43,7 +43,7 @@ Number of countries: 131
 	France: 130
 	French Guiana: 1
 	French Polynesia: 2
-	Germany: 77
+	Germany: 78
 	Greece: 37
 	Grenada: 1
 	Guadeloupe: 2
@@ -70,7 +70,7 @@ Number of countries: 131
 	Lithuania: 2
 	Madagascar: 3
 	Maldives: 1
-	Mali: 2
+	Mali: 3
 	Martinique: 2
 	Mauritania: 2
 	Mauritius: 1
