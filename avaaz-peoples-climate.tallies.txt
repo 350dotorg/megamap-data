@@ -1,6 +1,7 @@
-Number of events: 1886
-Number of countries: 130
+Number of events: 1887
+Number of countries: 131
 	Afghanistan: 1
+	Albania: 1
 	Algeria: 20
 	Argentina: 56
 	Armenia: 2
@@ -39,7 +40,7 @@ Number of countries: 130
 	El Salvador: 2
 	Estonia: 4
 	Finland: 4
-	France: 131
+	France: 130
 	French Guiana: 1
 	French Polynesia: 2
 	Germany: 77
@@ -110,7 +111,7 @@ Number of countries: 130
 	Spain: 113
 	Sri Lanka: 2
 	Sudan: 7
-	Sweden: 9
+	Sweden: 10
 	Switzerland: 21
 	Syria: 3
 	Tajikistan: 1

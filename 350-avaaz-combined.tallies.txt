@@ -1,7 +1,7 @@
-Number of events: 2681
+Number of events: 2683
 Number of countries: 160
 	Afghanistan: 1
-	Albania: 1
+	Albania: 2
 	Algeria: 20
 	Angola: 2
 	Argentina: 62
@@ -47,7 +47,7 @@ Number of countries: 160
 	Estonia: 5
 	Fiji: 1
 	Finland: 8
-	France: 153
+	France: 152
 	French Guiana: 1
 	French Polynesia: 2
 	Georgia: 1
@@ -134,11 +134,11 @@ Number of countries: 160
 	Spain: 125
 	Sri Lanka: 2
 	Sudan: 7
-	Sweden: 24
+	Sweden: 25
 	Switzerland: 24
 	Syria: 3
 	Taiwan: 3
-	Tajikistan: 2
+	Tajikistan: 3
 	Tanzania: 4
 	Togo: 1
 	Tokelau: 1
