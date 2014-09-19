@@ -1,4 +1,4 @@
-Number of events: 2662
+Number of events: 2665
 Number of countries: 159
 	Afghanistan: 1
 	Albania: 1
@@ -114,7 +114,7 @@ Number of countries: 159
 	Peru: 36
 	Philippines: 19
 	Poland: 8
-	Portugal: 39
+	Portugal: 40
 	Puerto Rico: 3
 	Qatar: 1
 	Reunion: 2
@@ -150,7 +150,7 @@ Number of countries: 159
 	Ukraine: 51
 	United Arab Emirates: 3
 	United Kingdom: 100
-	United States of America: 277
+	United States of America: 279
 	Uruguay: 12
 	Uzbekistan: 1
 	Venezuela: 22
