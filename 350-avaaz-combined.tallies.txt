@@ -1,4 +1,4 @@
-Number of events: 2679
+Number of events: 2680
 Number of countries: 160
 	Afghanistan: 1
 	Albania: 1
@@ -76,7 +76,7 @@ Number of countries: 160
 	Japan: 8
 	Jersey: 1
 	Jordan: 2
-	Kenya: 4
+	Kenya: 5
 	Kiribati: 1
 	Kosovo: 1
 	Kuwait: 2
