@@ -1,4 +1,4 @@
-Number of events: 2697
+Number of events: 2698
 Number of countries: 160
 	Afghanistan: 1
 	Albania: 2
@@ -42,7 +42,7 @@ Number of countries: 160
 	Dominica: 1
 	Dominican Republic: 8
 	Ecuador: 16
-	Egypt: 29
+	Egypt: 30
 	El Salvador: 2
 	Estonia: 5
 	Fiji: 1

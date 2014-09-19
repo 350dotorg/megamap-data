@@ -1,4 +1,4 @@
-Number of events: 1891
+Number of events: 1892
 Number of countries: 131
 	Afghanistan: 1
 	Albania: 1
@@ -36,7 +36,7 @@ Number of countries: 131
 	Denmark: 6
 	Dominican Republic: 7
 	Ecuador: 14
-	Egypt: 28
+	Egypt: 29
 	El Salvador: 2
 	Estonia: 4
 	Finland: 4
