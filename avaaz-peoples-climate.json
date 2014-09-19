@@ -706,7 +706,7 @@
   {
     "city": "Copenhagen", 
     "name": "People's Climate March", 
-    "rsvp_count": 465, 
+    "rsvp_count": 466, 
     "country": "Denmark", 
     "start_time": "14:00:00", 
     "venue": "Nytorv, Domhuset", 
@@ -3410,7 +3410,7 @@
   {
     "city": "Wien", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 700, 
+    "rsvp_count": 701, 
     "country": "Austria", 
     "start_time": "16:00:00", 
     "venue": "Gleich neben dem Stephansdom", 
@@ -7666,7 +7666,7 @@
   {
     "city": "Sant Lloren\u00e7 des Cardassar", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 19, 
+    "rsvp_count": 20, 
     "country": "Spain", 
     "start_time": "10:00:00", 
     "venue": "EN FRENTE DEL AYUNTAMIENTO !!!!!!!!!!!", 
@@ -29794,7 +29794,7 @@
   {
     "city": "Aarhus", 
     "name": "People's Climate March", 
-    "rsvp_count": 12, 
+    "rsvp_count": 13, 
     "country": "Denmark", 
     "start_time": "13:00:00", 
     "venue": "Musikhuset/Ridehuset", 
