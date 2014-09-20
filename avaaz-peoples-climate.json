@@ -2,7 +2,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 3852, 
+    "rsvp_count": 3853, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -354,7 +354,7 @@
   {
     "city": "Bournemouth", 
     "name": "People's Climate March Bournemouth", 
-    "rsvp_count": 166, 
+    "rsvp_count": 167, 
     "country": "United Kingdom", 
     "start_time": "13:00:00", 
     "venue": "Kino Lounge, 39 Bourne Avenue, BH2 6DP", 
@@ -1266,7 +1266,7 @@
   {
     "city": "San Crist\u00f3bal de Las Casas", 
     "name": "D\u00eda de Acci\u00f3n por 100% Energ\u00eda Limpia en San Crist\u00f3bal", 
-    "rsvp_count": 47, 
+    "rsvp_count": 48, 
     "country": "Mexico", 
     "start_time": "09:00:00", 
     "venue": "Parque de los Arcos (detr\u00e1s de la Presidencia Municipal)", 
@@ -7634,7 +7634,7 @@
   {
     "city": "Utrecht", 
     "name": "Klimaatmars van Utrecht naar Amsterdam", 
-    "rsvp_count": 70, 
+    "rsvp_count": 71, 
     "country": "Netherlands", 
     "start_time": "08:00:00", 
     "venue": "Station Terwijde", 
@@ -26242,7 +26242,7 @@
   {
     "city": "Glastonbury", 
     "name": "People's Climate March", 
-    "rsvp_count": 22, 
+    "rsvp_count": 23, 
     "country": "United Kingdom", 
     "start_time": "10:30:00", 
     "venue": "Churchyard on the High St.", 
