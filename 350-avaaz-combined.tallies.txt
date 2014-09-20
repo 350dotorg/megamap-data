@@ -1,4 +1,4 @@
-Number of events: 2735
+Number of events: 2738
 Number of countries: 164
 	Afghanistan: 2
 	Albania: 1
@@ -65,7 +65,7 @@ Number of countries: 164
 	Hong Kong: 1
 	Hungary: 8
 	Iceland: 2
-	India: 38
+	India: 39
 	Indonesia: 4
 	Iran: 13
 	Iraq: 17
@@ -118,7 +118,7 @@ Number of countries: 164
 	Peru: 35
 	Philippines: 22
 	Poland: 8
-	Portugal: 47
+	Portugal: 48
 	Puerto Rico: 3
 	Qatar: 1
 	Reunion: 2
@@ -134,7 +134,7 @@ Number of countries: 164
 	South Africa: 23
 	South Korea: 3
 	South Sudan: 1
-	Spain: 125
+	Spain: 126
 	Sri Lanka: 2
 	Sudan: 7
 	Suriname: 1
