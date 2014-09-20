@@ -4754,7 +4754,7 @@
   {
     "city": "Graz", 
     "name": "Klima-Aktion Graz - People's Climate March", 
-    "rsvp_count": 300, 
+    "rsvp_count": 301, 
     "country": "Austria", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -16400,16 +16400,16 @@
     "id": 3985
   }, 
   {
-    "city": "Santiago", 
+    "city": "", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
     "rsvp_count": 5, 
     "country": "Panama", 
     "start_time": "13:00:00", 
-    "venue": "Parque Juan dem\u00f3stenes Arosemena, frente a la alcald\u00eda.", 
+    "venue": "", 
     "longitude": -80.9837308, 
-    "state": "Veraguas", 
+    "state": "", 
     "country_code": "PA", 
-    "address": "Calle 2a, Santiago, Panam\u00e1", 
+    "address": "Calle 2da, Santiago, Panam\u00e1: en el Parque de Santiago de Veraguas: Mitin", 
     "latitude": 8.0976315, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_380", 
@@ -16450,7 +16450,7 @@
   {
     "city": "Barcelona", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 202, 
+    "rsvp_count": 203, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "CALLE LA ERA N\u00ba 5, FRENTE AL AYUNTAMIENTO", 
