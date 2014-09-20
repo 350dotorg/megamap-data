@@ -7859,7 +7859,7 @@ initData({},
   {
     "city": "Madrid", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 750, 
+    "rsvp_count": 751, 
     "country": "Spain", 
     "start_time": "11:30:00", 
     "venue": "", 
