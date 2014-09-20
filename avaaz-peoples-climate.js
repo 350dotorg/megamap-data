@@ -21443,7 +21443,7 @@ initData({},
   {
     "city": "Cali", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 85, 
+    "rsvp_count": 86, 
     "country": "Colombia", 
     "start_time": "09:00:00", 
     "venue": "autopista sur oriental con calle 13 en la Luna a las 9 am", 
