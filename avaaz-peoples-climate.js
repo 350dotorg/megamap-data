@@ -23811,7 +23811,7 @@ initData({},
   {
     "city": "Aachen", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 39, 
+    "rsvp_count": 40, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "", 
