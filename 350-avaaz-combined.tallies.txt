@@ -1,4 +1,4 @@
-Number of events: 2741
+Number of events: 2742
 Number of countries: 164
 	Afghanistan: 2
 	Albania: 1
@@ -126,7 +126,7 @@ Number of countries: 164
 	Russia: 44
 	Saudi Arabia: 11
 	Senegal: 2
-	Serbia: 6
+	Serbia: 7
 	Seychelles: 2
 	Slovakia: 7
 	Slovenia: 3
