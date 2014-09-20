@@ -883,7 +883,7 @@ initData({},
   {
     "city": "Oslo", 
     "name": "People's Climate March", 
-    "rsvp_count": 181, 
+    "rsvp_count": 182, 
     "country": "Norway", 
     "start_time": "14:00:00", 
     "venue": "Eidsvolls plass - in front of Stortinget (the Parlament)", 
