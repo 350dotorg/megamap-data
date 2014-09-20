@@ -1,5 +1,5 @@
-Number of events: 1876
-Number of countries: 131
+Number of events: 1878
+Number of countries: 132
 	Afghanistan: 2
 	Algeria: 20
 	Argentina: 55
@@ -12,6 +12,7 @@ Number of countries: 131
 	Belarus: 3
 	Belgium: 33
 	Benin: 1
+	Bermuda: 1
 	Bolivia: 3
 	Bosnia and Herzegovina: 1
 	Botswana: 1
@@ -27,7 +28,7 @@ Number of countries: 131
 	Colombia: 67
 	Congo, DPR: 2
 	Congo, PR: 2
-	Costa Rica: 5
+	Costa Rica: 6
 	Cuba: 2
 	Cyprus: 3
 	Czech Republic: 2
