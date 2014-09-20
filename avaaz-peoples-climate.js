@@ -7219,7 +7219,7 @@ initData({},
   {
     "city": "Le\u00f3n", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 46, 
+    "rsvp_count": 47, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "arco de la calzada", 
