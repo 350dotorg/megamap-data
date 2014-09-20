@@ -1,4 +1,4 @@
-Number of events: 1879
+Number of events: 1880
 Number of countries: 133
 	Afghanistan: 2
 	Algeria: 20
@@ -124,7 +124,7 @@ Number of countries: 133
 	Turkey: 10
 	Ukraine: 47
 	United Arab Emirates: 2
-	United Kingdom: 60
+	United Kingdom: 61
 	United States of America: 52
 	Uruguay: 11
 	Venezuela: 19
