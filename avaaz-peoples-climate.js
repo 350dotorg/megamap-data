@@ -14963,7 +14963,7 @@ initData({},
   {
     "city": "Namur", 
     "name": "Marche Pour le Climat \u00e0 Namur (RW)", 
-    "rsvp_count": 96, 
+    "rsvp_count": 97, 
     "country": "Belgium", 
     "start_time": "13:00:00", 
     "venue": "Hall (bas) de la Gare de Namur", 
