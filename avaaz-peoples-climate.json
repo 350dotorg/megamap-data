@@ -818,7 +818,7 @@
   {
     "city": "Saint Paul", 
     "name": "People's Climate Meetup Minnesota", 
-    "rsvp_count": 124, 
+    "rsvp_count": 125, 
     "country": "United States of America", 
     "start_time": "13:00:00", 
     "venue": "Como Park", 
@@ -1842,7 +1842,7 @@
   {
     "city": "Montpellier", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 303, 
+    "rsvp_count": 304, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "montpellier", 
@@ -7728,19 +7728,19 @@
     "id": 2908
   }, 
   {
-    "city": "Cuernavaca", 
+    "city": "", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
     "rsvp_count": 102, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
-    "venue": "zocalo de cuernavaca", 
+    "venue": "", 
     "longitude": -99.2340464, 
-    "state": "MOR", 
+    "state": "", 
     "country_code": "MX", 
-    "address": "Z\u00f3calo de Cuernavaca, Miguel Hidalgo, Centro, 62000 Cuernavaca, MOR, M\u00e9xico", 
+    "address": "Zocalo de Cuernavaca a un costado del Monumento a Morelos", 
     "latitude": 18.9217113, 
     "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_195", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_195", 
     "id": 2909
   }, 
   {
@@ -13026,7 +13026,7 @@
   {
     "city": "Bordeaux", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 53, 
+    "rsvp_count": 54, 
     "country": "France", 
     "start_time": "14:30:00", 
     "venue": "place de la victoire", 
@@ -18146,7 +18146,7 @@
   {
     "city": "Barrie", 
     "name": "People's Climate March", 
-    "rsvp_count": 57, 
+    "rsvp_count": 58, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Sunnidale Park Dorian Parker building parking lot", 
@@ -21586,7 +21586,7 @@
   {
     "city": "\u041f\u0440\u0430\u0433\u0430", 
     "name": "People's Climate March", 
-    "rsvp_count": 54, 
+    "rsvp_count": 55, 
     "country": "Czech Republic", 
     "start_time": "13:00:00", 
     "venue": "vaclavske namesti", 
