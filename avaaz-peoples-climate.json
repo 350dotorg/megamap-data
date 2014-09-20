@@ -706,7 +706,7 @@
   {
     "city": "", 
     "name": "\u00c9venement des Citoyens pour le Climat", 
-    "rsvp_count": 1362, 
+    "rsvp_count": 1363, 
     "country": "Belgium", 
     "start_time": "10:30:00", 
     "venue": "Place Poelaert", 
@@ -2658,7 +2658,7 @@
   {
     "city": "Porto Alegre", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 646, 
+    "rsvp_count": 647, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Parque Farroupilha - Reden\u00e7\u00e3o", 
@@ -3426,7 +3426,7 @@
   {
     "city": "Vannes", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 105, 
+    "rsvp_count": 106, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Aquarium de Vannes", 
@@ -17090,7 +17090,7 @@
   {
     "city": "El Hadjar", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Algeria", 
     "start_time": "13:00:00", 
     "venue": "", 
