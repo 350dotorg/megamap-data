@@ -3587,7 +3587,7 @@ initData({},
   {
     "city": "Cagliari", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 106, 
+    "rsvp_count": 107, 
     "country": "Italy", 
     "start_time": "16:00:00", 
     "venue": "", 
