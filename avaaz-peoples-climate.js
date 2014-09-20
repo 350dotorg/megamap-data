@@ -29379,7 +29379,7 @@ initData({},
   {
     "city": "Araraquara", 
     "name": "Mobiliza\u00e7\u00e3o Global pelo Clima", 
-    "rsvp_count": 7, 
+    "rsvp_count": 8, 
     "country": "Brazil", 
     "start_time": "14:00:00", 
     "venue": "Em frente a Prefeitura de Araraquara", 
