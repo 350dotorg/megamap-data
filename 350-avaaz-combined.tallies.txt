@@ -1,4 +1,4 @@
-Number of events: 2764
+Number of events: 2766
 Number of countries: 165
 	Afghanistan: 2
 	Albania: 1
@@ -73,7 +73,7 @@ Number of countries: 165
 	Ireland: 11
 	Isle of Man: 1
 	Israel: 13
-	Italy: 140
+	Italy: 141
 	Ivory Coast: 1
 	Japan: 8
 	Jersey: 1
@@ -89,7 +89,7 @@ Number of countries: 165
 	Lithuania: 2
 	Macedonia: 1
 	Madagascar: 4
-	Malaysia: 2
+	Malaysia: 3
 	Maldives: 1
 	Mali: 3
 	Malta: 1
