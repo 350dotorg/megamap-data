@@ -6499,7 +6499,7 @@ initData({},
   {
     "city": "Ciudad de M\u00e9xico", 
     "name": "People's Climate March", 
-    "rsvp_count": 109, 
+    "rsvp_count": 110, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "zocalo de la ciudad de mexico", 
