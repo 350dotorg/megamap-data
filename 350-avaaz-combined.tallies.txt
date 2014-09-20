@@ -1,4 +1,4 @@
-Number of events: 2741
+Number of events: 2742
 Number of countries: 164
 	Afghanistan: 2
 	Albania: 1
@@ -72,7 +72,7 @@ Number of countries: 164
 	Ireland: 11
 	Isle of Man: 1
 	Israel: 13
-	Italy: 137
+	Italy: 136
 	Ivory Coast: 1
 	Japan: 8
 	Jersey: 1
@@ -110,7 +110,7 @@ Number of countries: 164
 	Nigeria: 7
 	Norway: 13
 	Oman: 2
-	Pakistan: 5
+	Pakistan: 6
 	Palestine: 5
 	Panama: 4
 	Papua New Guinea: 1
@@ -154,7 +154,7 @@ Number of countries: 164
 	Uganda: 3
 	Ukraine: 50
 	United Arab Emirates: 3
-	United Kingdom: 101
+	United Kingdom: 102
 	United States of America: 293
 	Uruguay: 11
 	Uzbekistan: 1
