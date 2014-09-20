@@ -20067,7 +20067,7 @@ initData({},
   {
     "city": "", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 160, 
+    "rsvp_count": 161, 
     "country": "Brazil", 
     "start_time": "10:00:00", 
     "venue": "", 
