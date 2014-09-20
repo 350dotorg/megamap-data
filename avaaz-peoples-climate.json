@@ -386,7 +386,7 @@
   {
     "city": "Helsinki", 
     "name": "People's Climate March - Helsinki", 
-    "rsvp_count": 181, 
+    "rsvp_count": 182, 
     "country": "Finland", 
     "start_time": "16:00:00", 
     "venue": "Kamppi", 
@@ -17526,11 +17526,11 @@
     "country": "Belgium", 
     "start_time": "13:00:00", 
     "venue": "Lindenhof; Volkerenplein; 3550 Heusden-Zolder", 
-    "longitude": 5.3166514, 
+    "longitude": 5.3327363, 
     "state": "Vlaams Gewest", 
     "country_code": "BE", 
-    "address": "Bloemelingen 9-19, 3550 Heusden-Zolder, Belgi\u00eb", 
-    "latitude": 51.0320995, 
+    "address": "Hulststraat 2-6, 3550 Heusden-Zolder, Belgi\u00eb", 
+    "latitude": 51.0531715, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Mars_voor_gezondheid", 
     "id": 4119
