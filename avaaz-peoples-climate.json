@@ -2338,7 +2338,7 @@
   {
     "city": "Nottingham", 
     "name": "People's Climate March Nottingham", 
-    "rsvp_count": 118, 
+    "rsvp_count": 119, 
     "country": "United Kingdom", 
     "start_time": "13:00:00", 
     "venue": "Old Market Square", 
@@ -3266,7 +3266,7 @@
   {
     "city": "Wien", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 774, 
+    "rsvp_count": 775, 
     "country": "Austria", 
     "start_time": "16:00:00", 
     "venue": "Gleich neben dem Stephansdom", 
@@ -7362,7 +7362,7 @@
   {
     "city": "Munich", 
     "name": "People's Climate March", 
-    "rsvp_count": 814, 
+    "rsvp_count": 815, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Karlsplatz", 
