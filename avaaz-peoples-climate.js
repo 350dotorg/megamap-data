@@ -8547,7 +8547,7 @@ initData({},
   {
     "city": "Villefranche-sur-Sa\u00f4ne", 
     "name": "Marche Pour le Climat et reprend ta terre !!", 
-    "rsvp_count": 27, 
+    "rsvp_count": 28, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "hotel de ville", 
