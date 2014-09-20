@@ -10435,7 +10435,7 @@ initData({},
   {
     "city": "Catania", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 38, 
+    "rsvp_count": 39, 
     "country": "Italy", 
     "start_time": "10:00:00", 
     "venue": "Catania", 
