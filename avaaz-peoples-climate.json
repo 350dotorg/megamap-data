@@ -2,7 +2,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 3771, 
+    "rsvp_count": 3772, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -2245,7 +2245,7 @@
     "rsvp_count": 649, 
     "country": "Italy", 
     "start_time": "15:00:00", 
-    "venue": "", 
+    "venue": "Colosseo", 
     "longitude": 12.4914679, 
     "state": "Lazio", 
     "country_code": "IT", 
@@ -7346,7 +7346,7 @@
   {
     "city": "Munich", 
     "name": "People's Climate March", 
-    "rsvp_count": 790, 
+    "rsvp_count": 791, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Karlsplatz", 
