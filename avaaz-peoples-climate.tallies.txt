@@ -1,4 +1,4 @@
-Number of events: 1874
+Number of events: 1875
 Number of countries: 131
 	Afghanistan: 2
 	Algeria: 20
@@ -73,7 +73,7 @@ Number of countries: 131
 	Martinique: 2
 	Mauritania: 2
 	Mauritius: 1
-	Mexico: 92
+	Mexico: 93
 	Moldova: 2
 	Morocco: 28
 	Mozambique: 1

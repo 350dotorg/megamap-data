@@ -1,4 +1,4 @@
-Number of events: 2710
+Number of events: 2720
 Number of countries: 163
 	Afghanistan: 2
 	Albania: 1
@@ -10,7 +10,7 @@ Number of countries: 163
 	Austria: 30
 	Azerbaijan: 1
 	Bahrain: 5
-	Bangladesh: 10
+	Bangladesh: 11
 	Belarus: 3
 	Belgium: 36
 	Benin: 1
@@ -71,7 +71,7 @@ Number of countries: 163
 	Ireland: 11
 	Isle of Man: 1
 	Israel: 13
-	Italy: 136
+	Italy: 137
 	Ivory Coast: 1
 	Japan: 8
 	Jersey: 1
@@ -95,7 +95,7 @@ Number of countries: 163
 	Martinique: 2
 	Mauritania: 2
 	Mauritius: 1
-	Mexico: 100
+	Mexico: 101
 	Micronesia: 1
 	Moldova: 4
 	Morocco: 29
@@ -103,7 +103,7 @@ Number of countries: 163
 	Nepal: 5
 	Netherlands: 45
 	New Caledonia: 3
-	New Zealand: 30
+	New Zealand: 31
 	Nicaragua: 4
 	Niger: 1
 	Nigeria: 7
@@ -153,8 +153,8 @@ Number of countries: 163
 	Uganda: 2
 	Ukraine: 50
 	United Arab Emirates: 3
-	United Kingdom: 100
-	United States of America: 285
+	United Kingdom: 101
+	United States of America: 290
 	Uruguay: 11
 	Uzbekistan: 1
 	Venezuela: 20
