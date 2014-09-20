@@ -2627,7 +2627,7 @@ initData({},
   {
     "city": "D\u00fcsseldorf", 
     "name": "KlimaAktionsTag", 
-    "rsvp_count": 279, 
+    "rsvp_count": 280, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Schadowplatz", 
