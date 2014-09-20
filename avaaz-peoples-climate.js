@@ -2243,7 +2243,7 @@ initData({},
   {
     "city": "Roma", 
     "name": "Marcia Globale per il Clima a Roma: LA BICICLETTATA, IL CUORE VERDE", 
-    "rsvp_count": 635, 
+    "rsvp_count": 636, 
     "country": "Italy", 
     "start_time": "15:00:00", 
     "venue": "", 
