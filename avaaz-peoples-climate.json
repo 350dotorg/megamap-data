@@ -9458,7 +9458,7 @@
   {
     "city": "Hamilton", 
     "name": "People's Climate March", 
-    "rsvp_count": 73, 
+    "rsvp_count": 74, 
     "country": "New Zealand", 
     "start_time": "13:00:00", 
     "venue": "Panguru , North Hokianga", 
@@ -15330,7 +15330,7 @@
   {
     "city": "San Jos\u00e9", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 197, 
+    "rsvp_count": 198, 
     "country": "Costa Rica", 
     "start_time": "13:00:00", 
     "venue": "Parque Metropolitano La Sabana", 
@@ -30046,5 +30046,21 @@
     "event_date": "2014-09-20", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_1671", 
     "id": 5380
+  }, 
+  {
+    "city": "Santiago", 
+    "name": "taller-seminario uso huertos caseros mixtos y elaboracion de abonos organicos como opcion sustentable para mejorar el uso de la tierra para hacerle frente al cambio climatico", 
+    "rsvp_count": 0, 
+    "country": "Panama", 
+    "start_time": "15:00:00", 
+    "venue": "", 
+    "longitude": -80.9594751, 
+    "state": "Veraguas", 
+    "country_code": "PA", 
+    "address": "Santiago, Panam\u00e1", 
+    "latitude": 8.1043312, 
+    "event_date": "2014-09-20", 
+    "rsvp_url": "https://secure.avaaz.org/es/event/climate/tallerseminario_uso_huertos_caseros_mixtos_y_elaboracion_de_abonos_organicos_como_opcion_sustentable_para_mejorar_el_uso", 
+    "id": 5381
   }
 ]

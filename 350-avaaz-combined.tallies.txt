@@ -1,4 +1,4 @@
-Number of events: 2729
+Number of events: 2730
 Number of countries: 164
 	Afghanistan: 2
 	Albania: 1
@@ -112,7 +112,7 @@ Number of countries: 164
 	Oman: 2
 	Pakistan: 4
 	Palestine: 5
-	Panama: 3
+	Panama: 4
 	Papua New Guinea: 1
 	Paraguay: 4
 	Peru: 35
