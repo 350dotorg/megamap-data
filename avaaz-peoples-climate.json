@@ -770,7 +770,7 @@
   {
     "city": "Barcelona", 
     "name": "Marcha Ciudadana Global por el Clima. Barcelona #BCN21S", 
-    "rsvp_count": 1450, 
+    "rsvp_count": 1451, 
     "country": "Spain", 
     "start_time": "11:00:00", 
     "venue": "Moll de la Marina, Barcelona", 
@@ -2096,16 +2096,16 @@
     "id": 2110
   }, 
   {
-    "city": "Li\u00e8ge", 
+    "city": "", 
     "name": "Marche Pour le Climat", 
     "rsvp_count": 56, 
     "country": "Belgium", 
     "start_time": "14:14:00", 
-    "venue": "Gare des Guillemins, sur les marches devant l'esplanade", 
+    "venue": "", 
     "longitude": 5.5796662, 
-    "state": "R\u00e9gion wallonne", 
+    "state": "", 
     "country_code": "BE", 
-    "address": "Li\u00e8ge, Belgique", 
+    "address": "Li\u00e8ge, gare des Guillemins - Esplanade (escaliers)", 
     "latitude": 50.6325574, 
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_37", 
@@ -2258,7 +2258,7 @@
   {
     "city": "Lyon", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 455, 
+    "rsvp_count": 456, 
     "country": "France", 
     "start_time": "14:30:00", 
     "venue": "Terreaux", 
@@ -3426,7 +3426,7 @@
   {
     "city": "Vannes", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 104, 
+    "rsvp_count": 105, 
     "country": "France", 
     "start_time": "14:00:00", 
     "venue": "Aquarium de Vannes", 
