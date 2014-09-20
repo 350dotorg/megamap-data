@@ -17011,7 +17011,7 @@ initData({},
   {
     "city": "Munchhouse", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 20, 
+    "rsvp_count": 21, 
     "country": "France", 
     "start_time": "13:00:00", 
     "venue": "devant la mairie", 
