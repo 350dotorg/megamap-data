@@ -124,12 +124,12 @@ Number of countries: 133
 	Turkey: 10
 	Ukraine: 47
 	United Arab Emirates: 2
-	United Kingdom: 61
+	United Kingdom: 62
 	United States of America: 52
 	Uruguay: 11
 	Venezuela: 19
 	Vietnam: 1
 	Western Sahara: 1
-	Yemen: 10
+	Yemen: 9
 	Zambia: 2
 	Zimbabwe: 1

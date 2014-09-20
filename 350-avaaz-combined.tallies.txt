@@ -154,13 +154,13 @@ Number of countries: 164
 	Uganda: 3
 	Ukraine: 50
 	United Arab Emirates: 3
-	United Kingdom: 103
+	United Kingdom: 104
 	United States of America: 293
 	Uruguay: 11
 	Uzbekistan: 1
 	Venezuela: 20
 	Vietnam: 6
 	Western Sahara: 1
-	Yemen: 10
+	Yemen: 9
 	Zambia: 2
 	Zimbabwe: 2
