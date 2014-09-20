@@ -146,7 +146,7 @@
   {
     "city": "", 
     "name": "People's Climate March - Auckland", 
-    "rsvp_count": 308, 
+    "rsvp_count": 309, 
     "country": "New Zealand", 
     "start_time": "13:00:00", 
     "venue": "BRITOMART train station", 
@@ -18956,7 +18956,7 @@
     "address": "Pfarrgasse 12, 2500 Baden, \u00d6sterreich", 
     "latitude": 48.0090766, 
     "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/de/event/climate/KlimaAktionstag_116", 
+    "rsvp_url": "https://secure.avaaz.org/en/event/climate/KlimaAktionstag_116", 
     "id": 4234
   }, 
   {
@@ -22114,7 +22114,7 @@
   {
     "city": "Cape Town", 
     "name": "Cape Town's Climate Activation", 
-    "rsvp_count": 40, 
+    "rsvp_count": 41, 
     "country": "South Africa", 
     "start_time": "11:00:00", 
     "venue": "", 
@@ -30094,5 +30094,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/La_Marcha_Ciudadana_contra_el_Cambio_Climatico_544", 
     "id": 5383
+  }, 
+  {
+    "city": "Tbilisi", 
+    "name": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u0448", 
+    "rsvp_count": 1, 
+    "country": "Georgia", 
+    "start_time": "13:00:00", 
+    "venue": "9 April park, Shota Rustaveli Avenue, Tbilisi, Georgia", 
+    "longitude": 44.7998173, 
+    "state": "Tbilisi", 
+    "country_code": "GE", 
+    "address": "9 April park, Shota Rustaveli Avenue, Tbilisi, Georgia", 
+    "latitude": 41.6986428, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/ru/event/climate/Narodnyy_klimaticheskiy_marsh_208", 
+    "id": 5384
   }
 ]
