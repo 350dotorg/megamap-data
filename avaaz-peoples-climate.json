@@ -6480,6 +6480,22 @@
     "id": 2757
   }, 
   {
+    "city": "Antananarivo Atsimondrano", 
+    "name": "Appel \u00e0 Danser Pour le Climat", 
+    "rsvp_count": 4, 
+    "country": "Madagascar", 
+    "start_time": "13:00:00", 
+    "venue": "Behoririka", 
+    "longitude": 47.5220186, 
+    "state": "Tananarive", 
+    "country_code": "MG", 
+    "address": "Behoririka, Madagascar", 
+    "latitude": -18.9004069, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Appel_a_Danser_Pour_le_Climat", 
+    "id": 2758
+  }, 
+  {
     "city": "Tarija", 
     "name": "La Fiesta Ciudadana contra el Cambio Clim\u00e1tico", 
     "rsvp_count": 19, 
@@ -29170,7 +29186,7 @@
   {
     "city": "Hannover", 
     "name": "O N E - Initiative", 
-    "rsvp_count": 6, 
+    "rsvp_count": 7, 
     "country": "Germany", 
     "start_time": "19:00:00", 
     "venue": "", 
