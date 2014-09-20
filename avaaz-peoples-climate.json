@@ -2,7 +2,7 @@
   {
     "city": "London", 
     "name": "People's Climate March London", 
-    "rsvp_count": 3853, 
+    "rsvp_count": 3854, 
     "country": "United Kingdom", 
     "start_time": "12:30:00", 
     "venue": "", 
@@ -3266,7 +3266,7 @@
   {
     "city": "Wien", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 770, 
+    "rsvp_count": 771, 
     "country": "Austria", 
     "start_time": "16:00:00", 
     "venue": "Gleich neben dem Stephansdom", 
@@ -10418,7 +10418,7 @@
   {
     "city": "\u03a7\u03b1\u03bd\u03b9\u03ac", 
     "name": "\u03a0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u039b\u03b1\u03ce\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf \u039a\u03bb\u03af\u03bc\u03b1", 
-    "rsvp_count": 41, 
+    "rsvp_count": 42, 
     "country": "Greece", 
     "start_time": "13:00:00", 
     "venue": "\u03c0\u03bb \u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae\u03c2 \u0391\u03b3\u03bf\u03c1\u03ac\u03c2", 
@@ -22066,7 +22066,7 @@
   {
     "city": "Amsterdam", 
     "name": "Actiedag voor het Klimaat", 
-    "rsvp_count": 14, 
+    "rsvp_count": 15, 
     "country": "Netherlands", 
     "start_time": "13:00:00", 
     "venue": "Bibliotheek amsterdam, centrale bibliotheek", 
@@ -30196,7 +30196,7 @@
     "name": "Marche Pour le Climat \u00e0 Morondava", 
     "rsvp_count": 1, 
     "country": "Madagascar", 
-    "start_time": "13:00:00", 
+    "start_time": "16:00:00", 
     "venue": "LOT  NS  1124  NAMAHORA  SUD MORONDAVA", 
     "longitude": 44.3175, 
     "state": "Province de Toliara", 
