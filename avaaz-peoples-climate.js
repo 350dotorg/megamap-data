@@ -19283,7 +19283,7 @@ initData({},
   {
     "city": "Braunschweig", 
     "name": "Klima-Aktionstag - Greenpeace Aktion", 
-    "rsvp_count": 31, 
+    "rsvp_count": 32, 
     "country": "Germany", 
     "start_time": "20:00:00", 
     "venue": "", 
