@@ -2130,7 +2130,7 @@
   {
     "city": "Milano", 
     "name": "Climate March", 
-    "rsvp_count": 542, 
+    "rsvp_count": 543, 
     "country": "Italy", 
     "start_time": "10:00:00", 
     "venue": "", 
@@ -2642,7 +2642,7 @@
   {
     "city": "D\u00fcsseldorf", 
     "name": "KlimaAktionsTag", 
-    "rsvp_count": 276, 
+    "rsvp_count": 277, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "Schadowplatz", 
@@ -2706,7 +2706,7 @@
   {
     "city": "Frankfurt am Main", 
     "name": "KLIMA-AKTIONSTAG FRANKFURT AM MAIN", 
-    "rsvp_count": 311, 
+    "rsvp_count": 312, 
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "R\u00f6mer", 
@@ -4322,7 +4322,7 @@
   {
     "city": "", 
     "name": "People's Climate March", 
-    "rsvp_count": 151, 
+    "rsvp_count": 152, 
     "country": "Hong Kong", 
     "start_time": "13:00:00", 
     "venue": "Exchange Square Podium", 
@@ -5906,7 +5906,7 @@
   {
     "city": "Miraflores", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 141, 
+    "rsvp_count": 142, 
     "country": "Peru", 
     "start_time": "10:00:00", 
     "venue": "PARQUE KENNEDY. MIRAFLORES.LIMA", 
