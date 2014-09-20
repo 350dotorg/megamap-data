@@ -16291,7 +16291,7 @@ initData({},
   {
     "city": "Herrsching", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 56, 
+    "rsvp_count": 57, 
     "country": "Germany", 
     "start_time": "10:00:00", 
     "venue": "Energiewendezentrum F\u00fcnfseenland", 
