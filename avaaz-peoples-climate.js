@@ -19219,7 +19219,7 @@ initData({},
   {
     "city": "Lower Hutt", 
     "name": "Chillin out laxin and riding some bikes", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "New Zealand", 
     "start_time": "10:00:00", 
     "venue": "maungaraki", 
