@@ -29427,7 +29427,7 @@ initData({},
   {
     "city": "Quito", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 8, 
+    "rsvp_count": 9, 
     "country": "Ecuador", 
     "start_time": "10:30:00", 
     "venue": "arco del ejido", 
