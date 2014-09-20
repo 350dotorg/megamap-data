@@ -3666,7 +3666,7 @@
   {
     "city": "Steyr", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 76, 
+    "rsvp_count": 77, 
     "country": "Austria", 
     "start_time": "13:00:00", 
     "venue": "Stadtplatz", 
@@ -3954,7 +3954,7 @@
   {
     "city": "Blandford Forum", 
     "name": "People's Climate March", 
-    "rsvp_count": 27, 
+    "rsvp_count": 28, 
     "country": "United Kingdom", 
     "start_time": "13:00:00", 
     "venue": "Pump", 
@@ -14978,7 +14978,7 @@
   {
     "city": "Namur", 
     "name": "Marche Pour le Climat \u00e0 Namur (RW)", 
-    "rsvp_count": 95, 
+    "rsvp_count": 96, 
     "country": "Belgium", 
     "start_time": "13:00:00", 
     "venue": "Hall (bas) de la Gare de Namur", 
@@ -19666,7 +19666,7 @@
   {
     "city": "Roma", 
     "name": "Meditazione Globale per il Clima", 
-    "rsvp_count": 36, 
+    "rsvp_count": 37, 
     "country": "Italy", 
     "start_time": "18:30:00", 
     "venue": "", 
@@ -20690,7 +20690,7 @@
   {
     "city": "", 
     "name": "CONCERTO PELO CLIMA", 
-    "rsvp_count": 16, 
+    "rsvp_count": 17, 
     "country": "Portugal", 
     "start_time": "22:00:00", 
     "venue": "Baleal (A'MAR Est\u00fadio)", 
@@ -30094,5 +30094,21 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/ru/event/climate/Narodnyy_klimaticheskiy_marsh_208", 
     "id": 5384
+  }, 
+  {
+    "city": "Turin", 
+    "name": "Marcia Globale per il Clima - Torino", 
+    "rsvp_count": 1, 
+    "country": "Italy", 
+    "start_time": "13:00:00", 
+    "venue": "Piazza Castello", 
+    "longitude": 7.6854123000001, 
+    "state": "Pi\u00e9mont", 
+    "country_code": "IT", 
+    "address": "Piazza Castello, Piazza Castello, 10124 Turin, Italie", 
+    "latitude": 45.0711354, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/it/event/climate/Marcia_Globale_per_il_Clima_Torino", 
+    "id": 5385
   }
 ]

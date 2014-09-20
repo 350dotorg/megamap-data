@@ -1,4 +1,4 @@
-Number of events: 1881
+Number of events: 1882
 Number of countries: 133
 	Afghanistan: 2
 	Algeria: 20
@@ -59,7 +59,7 @@ Number of countries: 133
 	Iraq: 17
 	Ireland: 6
 	Israel: 10
-	Italy: 118
+	Italy: 119
 	Japan: 6
 	Jordan: 2
 	Kenya: 2
