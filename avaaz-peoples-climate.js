@@ -25715,7 +25715,7 @@ initData({},
   {
     "city": "Sal\u00f2", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 17, 
+    "rsvp_count": 18, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "palazzo della magnifica patria", 
