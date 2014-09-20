@@ -6771,7 +6771,7 @@ initData({},
   {
     "city": "Mazatl\u00e1n", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 21, 
+    "rsvp_count": 22, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "PLAZUELA REPUBLICA , FRENTE AL PALACIO MUNICIPAL, BENITO JUAREZ  Y ANGEL FLORES", 
