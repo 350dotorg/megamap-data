@@ -1,4 +1,4 @@
-Number of events: 2743
+Number of events: 2749
 Number of countries: 164
 	Afghanistan: 2
 	Albania: 1
@@ -65,14 +65,14 @@ Number of countries: 164
 	Hong Kong: 1
 	Hungary: 8
 	Iceland: 2
-	India: 39
+	India: 43
 	Indonesia: 4
 	Iran: 14
 	Iraq: 17
 	Ireland: 11
 	Isle of Man: 1
 	Israel: 13
-	Italy: 137
+	Italy: 138
 	Ivory Coast: 1
 	Japan: 8
 	Jersey: 1
@@ -104,7 +104,7 @@ Number of countries: 164
 	Nepal: 5
 	Netherlands: 45
 	New Caledonia: 3
-	New Zealand: 32
+	New Zealand: 33
 	Nicaragua: 4
 	Niger: 1
 	Nigeria: 7
