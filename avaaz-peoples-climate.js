@@ -5635,7 +5635,7 @@ initData({},
   {
     "city": "Concepci\u00f3n", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 35, 
+    "rsvp_count": 36, 
     "country": "Chile", 
     "start_time": "13:00:00", 
     "venue": "Plaza de la Independencia", 
