@@ -2707,7 +2707,7 @@ initData({},
   {
     "city": "Frankfurt am Main", 
     "name": "KLIMA-AKTIONSTAG FRANKFURT AM MAIN", 
-    "rsvp_count": 309, 
+    "rsvp_count": 310, 
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "R\u00f6mer", 
