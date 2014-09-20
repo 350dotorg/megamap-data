@@ -14899,7 +14899,7 @@ initData({},
   {
     "city": "Br\u00f8nderslev", 
     "name": "People's Climate March", 
-    "rsvp_count": 27, 
+    "rsvp_count": 28, 
     "country": "Denmark", 
     "start_time": "10:00:00", 
     "venue": "", 
