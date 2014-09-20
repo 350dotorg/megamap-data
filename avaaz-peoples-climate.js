@@ -27955,7 +27955,7 @@ initData({},
   {
     "city": "Saquarema", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 6, 
+    "rsvp_count": 7, 
     "country": "Brazil", 
     "start_time": "13:00:00", 
     "venue": "clube saquarema no centro.", 
