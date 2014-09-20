@@ -28755,7 +28755,7 @@ initData({},
   {
     "city": "Jackson", 
     "name": "\"Disruption\" screening, discussion, planning, implementation", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "United States of America", 
     "start_time": "14:00:00", 
     "venue": "", 
