@@ -1426,7 +1426,7 @@
   {
     "city": "Freiburg im Breisgau", 
     "name": "Klimaevent", 
-    "rsvp_count": 211, 
+    "rsvp_count": 212, 
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "Ecke Bertoldstr./Niemenstr.", 
@@ -4722,7 +4722,7 @@
   {
     "city": "Bologna", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 321, 
+    "rsvp_count": 322, 
     "country": "Italy", 
     "start_time": "16:00:00", 
     "venue": "Le due Torri: Garisenda e degli Asinelli", 
@@ -29986,7 +29986,7 @@
   {
     "city": "Guadalajara", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 1, 
+    "rsvp_count": 2, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Palacio de Gobierno", 
