@@ -27379,7 +27379,7 @@ initData({},
   {
     "city": "Suvereto", 
     "name": "Marcia Globale per il Clima", 
-    "rsvp_count": 7, 
+    "rsvp_count": 8, 
     "country": "Italy", 
     "start_time": "13:00:00", 
     "venue": "P.zza dei Giudici, 2", 
