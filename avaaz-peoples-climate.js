@@ -2339,7 +2339,7 @@ initData({},
   {
     "city": "Nottingham", 
     "name": "People's Climate March Nottingham", 
-    "rsvp_count": 116, 
+    "rsvp_count": 117, 
     "country": "United Kingdom", 
     "start_time": "13:00:00", 
     "venue": "Old Market Square", 
@@ -6691,7 +6691,7 @@ initData({},
   {
     "city": "Tupungato", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Argentina", 
     "start_time": "13:00:00", 
     "venue": "", 
@@ -30095,6 +30095,22 @@ initData({},
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/en/event/climate/Peoples_Climate_March_Breakish_Meander", 
     "id": 5388
+  }, 
+  {
+    "city": "Palmi", 
+    "name": "ARZIGNANO CON IL MONDO PER IL CLIMA", 
+    "rsvp_count": 1, 
+    "country": "Italy", 
+    "start_time": "10:30:00", 
+    "venue": "", 
+    "longitude": 15.8486609, 
+    "state": "Calabria", 
+    "country_code": "IT", 
+    "address": "Piazza della Libert\u00e0, 89015 Palmi RC, Italia", 
+    "latitude": 38.3571146, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/it/event/climate/ARZIGNANO_CON_IL_MONDO_PER_IL_CLIMA_2", 
+    "id": 5389
   }
 ]
 );
