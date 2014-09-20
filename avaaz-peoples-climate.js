@@ -8499,7 +8499,7 @@ initData({},
   {
     "city": "Maribor", 
     "name": "Zeleno drevo, moje zdravje", 
-    "rsvp_count": 46, 
+    "rsvp_count": 47, 
     "country": "Slovenia", 
     "start_time": "19:00:00", 
     "venue": "Zeleno drevo, moje zdravje", 
