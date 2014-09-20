@@ -7683,7 +7683,7 @@ initData({},
   {
     "city": "Puerto Vallarta", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 20, 
+    "rsvp_count": 21, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Inicia en Htel Rosita por todo el malecon termina en los arcos con mensajes de alunas personas", 
