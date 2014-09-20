@@ -11187,7 +11187,7 @@ initData({},
   {
     "city": "Vicente L\u00f3pez", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 62, 
+    "rsvp_count": 63, 
     "country": "Argentina", 
     "start_time": "13:00:00", 
     "venue": "Anfiteatro Arturo Illia Laprida y el R\u00edo de la Plata, Vicente L\u00f3pez, Buenos Aires, Argentina", 
