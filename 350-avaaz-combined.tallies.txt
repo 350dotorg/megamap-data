@@ -1,4 +1,4 @@
-Number of events: 2766
+Number of events: 2770
 Number of countries: 165
 	Afghanistan: 2
 	Albania: 1
@@ -25,7 +25,7 @@ Number of countries: 165
 	Burundi: 3
 	Cambodia: 1
 	Cameroon: 1
-	Canada: 162
+	Canada: 165
 	Cayman Islands: 1
 	Central African Republic: 1
 	Chile: 19
@@ -73,7 +73,7 @@ Number of countries: 165
 	Ireland: 11
 	Isle of Man: 1
 	Israel: 13
-	Italy: 141
+	Italy: 140
 	Ivory Coast: 1
 	Japan: 8
 	Jersey: 1
@@ -103,7 +103,7 @@ Number of countries: 165
 	Morocco: 29
 	Mozambique: 1
 	Nepal: 5
-	Netherlands: 45
+	Netherlands: 46
 	New Caledonia: 3
 	New Zealand: 33
 	Nicaragua: 4
@@ -150,7 +150,7 @@ Number of countries: 165
 	Tonga: 3
 	Trinidad and Tobago: 1
 	Tunisia: 11
-	Turkey: 22
+	Turkey: 23
 	Tuvalu: 1
 	Uganda: 4
 	Ukraine: 50
