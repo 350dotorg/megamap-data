@@ -691,7 +691,7 @@ initData({},
   {
     "city": "Copenhagen", 
     "name": "People's Climate March", 
-    "rsvp_count": 534, 
+    "rsvp_count": 535, 
     "country": "Denmark", 
     "start_time": "14:00:00", 
     "venue": "Nytorv, Domhuset", 
