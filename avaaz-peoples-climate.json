@@ -354,7 +354,7 @@
   {
     "city": "Bournemouth", 
     "name": "People's Climate March Bournemouth", 
-    "rsvp_count": 164, 
+    "rsvp_count": 165, 
     "country": "United Kingdom", 
     "start_time": "13:00:00", 
     "venue": "Kino Lounge, 39 Bourne Avenue, BH2 6DP", 
@@ -2101,7 +2101,7 @@
     "rsvp_count": 56, 
     "country": "Belgium", 
     "start_time": "14:14:00", 
-    "venue": "Gare des Guillemins", 
+    "venue": "Gare des Guillemins, sur les marches devant l'esplanade", 
     "longitude": 5.5796662, 
     "state": "R\u00e9gion wallonne", 
     "country_code": "BE", 
@@ -2226,7 +2226,7 @@
   {
     "city": "Roma", 
     "name": "Marcia Globale per il Clima a Roma: LA BICICLETTATA, IL CUORE VERDE", 
-    "rsvp_count": 653, 
+    "rsvp_count": 654, 
     "country": "Italy", 
     "start_time": "15:00:00", 
     "venue": "Colosseo", 
@@ -2658,7 +2658,7 @@
   {
     "city": "Porto Alegre", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 640, 
+    "rsvp_count": 641, 
     "country": "Brazil", 
     "start_time": "10:30:00", 
     "venue": "Parque Farroupilha - Reden\u00e7\u00e3o", 
@@ -9506,7 +9506,7 @@
   {
     "city": "P\u00f3rtugos", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 37, 
+    "rsvp_count": 38, 
     "country": "Spain", 
     "start_time": "13:00:00", 
     "venue": "carretera de trev\u00e9lez, fuente agria de P\u00f3rtugos", 
@@ -11042,7 +11042,7 @@
   {
     "city": "Karlsruhe", 
     "name": "Klima-Aktionstag Karlsruhe", 
-    "rsvp_count": 77, 
+    "rsvp_count": 78, 
     "country": "Germany", 
     "start_time": "14:00:00", 
     "venue": "Stephanplatz", 
@@ -19154,7 +19154,7 @@
   {
     "city": "Southampton", 
     "name": "People's Climate March", 
-    "rsvp_count": 62, 
+    "rsvp_count": 63, 
     "country": "United Kingdom", 
     "start_time": "13:00:00", 
     "venue": "Guildhall Square", 
