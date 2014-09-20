@@ -1,4 +1,4 @@
-Number of events: 1879
+Number of events: 1880
 Number of countries: 132
 	Afghanistan: 2
 	Algeria: 20
@@ -113,7 +113,7 @@ Number of countries: 132
 	Sudan: 7
 	Suriname: 1
 	Sweden: 11
-	Switzerland: 21
+	Switzerland: 22
 	Syria: 3
 	Tajikistan: 1
 	Tanzania: 1

@@ -7987,7 +7987,7 @@ initData({},
   {
     "city": "Florida", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 5, 
+    "rsvp_count": 6, 
     "country": "Uruguay", 
     "start_time": "13:00:00", 
     "venue": "Plaza Asamblea", 
@@ -9315,7 +9315,7 @@ initData({},
   {
     "city": "Cusco", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 28, 
+    "rsvp_count": 29, 
     "country": "Peru", 
     "start_time": "10:00:00", 
     "venue": "La plaza de armas del Cusco", 
@@ -30063,6 +30063,22 @@ initData({},
     "event_date": "2014-09-20", 
     "rsvp_url": "https://secure.avaaz.org/es/event/climate/tallerseminario_uso_huertos_caseros_mixtos_y_elaboracion_de_abonos_organicos_como_opcion_sustentable_para_mejorar_el_uso", 
     "id": 5381
+  }, 
+  {
+    "city": "Sierre", 
+    "name": "Marche Pour le Climat", 
+    "rsvp_count": 1, 
+    "country": "Switzerland", 
+    "start_time": "13:00:00", 
+    "venue": "CFF Gare de Sierre", 
+    "longitude": 7.532076, 
+    "state": "VS", 
+    "country_code": "CH", 
+    "address": "Sierre/Siders, gare CFF, 3960 Sierre, Suisse", 
+    "latitude": 46.291675, 
+    "event_date": "2014-09-21", 
+    "rsvp_url": "https://secure.avaaz.org/fr/event/climate/Marche_Pour_le_Climat_305", 
+    "id": 5382
   }
 ]
 );
