@@ -1,5 +1,5 @@
-Number of events: 2763
-Number of countries: 164
+Number of events: 2764
+Number of countries: 165
 	Afghanistan: 2
 	Albania: 1
 	Algeria: 20
@@ -45,6 +45,7 @@ Number of countries: 164
 	Egypt: 30
 	El Salvador: 4
 	Estonia: 5
+	Ethiopia: 1
 	Fiji: 1
 	Finland: 8
 	France: 152
