@@ -20067,7 +20067,7 @@ initData({},
   {
     "city": "Waterloo", 
     "name": "People's Climate March", 
-    "rsvp_count": 58, 
+    "rsvp_count": 59, 
     "country": "Canada", 
     "start_time": "13:00:00", 
     "venue": "Waterloo Towne Square", 
