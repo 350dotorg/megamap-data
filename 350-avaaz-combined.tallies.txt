@@ -1,4 +1,4 @@
-Number of events: 2819
+Number of events: 2813
 Number of countries: 166
 	Afghanistan: 2
 	Albania: 2
@@ -18,7 +18,7 @@ Number of countries: 166
 	Bolivia: 7
 	Bosnia and Herzegovina: 1
 	Botswana: 1
-	Brazil: 186
+	Brazil: 185
 	British Virgin Islands: 1
 	Bulgaria: 7
 	Burkina Faso: 1
@@ -49,7 +49,7 @@ Number of countries: 166
 	Fiji: 1
 	Finland: 8
 	France: 151
-	French Guiana: 2
+	French Guiana: 3
 	French Polynesia: 2
 	Georgia: 3
 	Germany: 93
@@ -154,7 +154,7 @@ Number of countries: 166
 	Turkey: 23
 	Tuvalu: 1
 	Uganda: 6
-	Ukraine: 50
+	Ukraine: 44
 	United Arab Emirates: 3
 	United Kingdom: 105
 	United States of America: 315

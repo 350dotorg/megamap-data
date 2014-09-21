@@ -1,4 +1,4 @@
-Number of events: 1894
+Number of events: 1888
 Number of countries: 136
 	Afghanistan: 2
 	Albania: 1
@@ -17,7 +17,7 @@ Number of countries: 136
 	Bolivia: 3
 	Bosnia and Herzegovina: 1
 	Botswana: 1
-	Brazil: 173
+	Brazil: 172
 	Bulgaria: 5
 	Burkina Faso: 1
 	Burundi: 1
@@ -41,7 +41,7 @@ Number of countries: 136
 	Estonia: 4
 	Finland: 4
 	France: 128
-	French Guiana: 2
+	French Guiana: 3
 	French Polynesia: 2
 	Georgia: 1
 	Germany: 81
@@ -125,7 +125,7 @@ Number of countries: 136
 	Tunisia: 11
 	Turkey: 10
 	Uganda: 1
-	Ukraine: 47
+	Ukraine: 41
 	United Arab Emirates: 2
 	United Kingdom: 62
 	United States of America: 52
