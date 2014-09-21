@@ -1,4 +1,4 @@
-Number of events: 2809
+Number of events: 2811
 Number of countries: 166
 	Afghanistan: 2
 	Albania: 1
@@ -153,7 +153,7 @@ Number of countries: 166
 	Tunisia: 11
 	Turkey: 23
 	Tuvalu: 1
-	Uganda: 4
+	Uganda: 6
 	Ukraine: 50
 	United Arab Emirates: 3
 	United Kingdom: 105
