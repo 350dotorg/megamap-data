@@ -1,4 +1,4 @@
-Number of events: 1890
+Number of events: 1883
 Number of countries: 136
 	Afghanistan: 2
 	Albania: 1
@@ -125,7 +125,7 @@ Number of countries: 136
 	Tunisia: 11
 	Turkey: 10
 	Uganda: 1
-	Ukraine: 41
+	Ukraine: 34
 	United Arab Emirates: 2
 	United Kingdom: 62
 	United States of America: 53
