@@ -1,4 +1,4 @@
-Number of events: 2806
+Number of events: 2808
 Number of countries: 166
 	Afghanistan: 2
 	Albania: 1
@@ -6,7 +6,7 @@ Number of countries: 166
 	Angola: 2
 	Argentina: 63
 	Armenia: 2
-	Australia: 146
+	Australia: 147
 	Austria: 29
 	Azerbaijan: 1
 	Bahrain: 5
@@ -18,7 +18,7 @@ Number of countries: 166
 	Bolivia: 7
 	Bosnia and Herzegovina: 1
 	Botswana: 1
-	Brazil: 187
+	Brazil: 186
 	British Virgin Islands: 1
 	Bulgaria: 7
 	Burkina Faso: 1
@@ -116,7 +116,7 @@ Number of countries: 166
 	Panama: 4
 	Papua New Guinea: 1
 	Paraguay: 4
-	Peru: 36
+	Peru: 37
 	Philippines: 22
 	Poland: 9
 	Portugal: 48
@@ -157,7 +157,7 @@ Number of countries: 166
 	Ukraine: 50
 	United Arab Emirates: 3
 	United Kingdom: 105
-	United States of America: 310
+	United States of America: 311
 	Uruguay: 11
 	Uzbekistan: 1
 	Venezuela: 20
