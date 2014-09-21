@@ -1,4 +1,4 @@
-Number of events: 1891
+Number of events: 1892
 Number of countries: 135
 	Afghanistan: 2
 	Algeria: 20
@@ -56,7 +56,7 @@ Number of countries: 135
 	India: 19
 	Indonesia: 2
 	Iran: 6
-	Iraq: 17
+	Iraq: 18
 	Ireland: 6
 	Israel: 10
 	Italy: 121
