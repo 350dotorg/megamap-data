@@ -1,7 +1,7 @@
-Number of events: 2811
+Number of events: 2814
 Number of countries: 166
 	Afghanistan: 2
-	Albania: 1
+	Albania: 2
 	Algeria: 20
 	Angola: 2
 	Argentina: 63
@@ -88,7 +88,7 @@ Number of countries: 166
 	Libya: 3
 	Lithuania: 2
 	Macedonia: 1
-	Madagascar: 5
+	Madagascar: 6
 	Malaysia: 3
 	Maldives: 1
 	Mali: 3
@@ -139,7 +139,7 @@ Number of countries: 166
 	Sri Lanka: 2
 	Sudan: 7
 	Suriname: 1
-	Sweden: 28
+	Sweden: 29
 	Switzerland: 25
 	Syria: 3
 	Taiwan: 3

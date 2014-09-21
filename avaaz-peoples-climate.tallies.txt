@@ -1,6 +1,7 @@
-Number of events: 1892
-Number of countries: 135
+Number of events: 1894
+Number of countries: 136
 	Afghanistan: 2
+	Albania: 1
 	Algeria: 20
 	Argentina: 55
 	Armenia: 2
@@ -69,7 +70,7 @@ Number of countries: 135
 	Liberia: 1
 	Libya: 3
 	Lithuania: 2
-	Madagascar: 5
+	Madagascar: 6
 	Malaysia: 1
 	Maldives: 1
 	Mali: 3
