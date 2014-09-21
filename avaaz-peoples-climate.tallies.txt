@@ -40,11 +40,11 @@ Number of countries: 136
 	El Salvador: 2
 	Estonia: 4
 	Finland: 4
-	France: 129
-	French Guiana: 1
+	France: 128
+	French Guiana: 2
 	French Polynesia: 2
 	Georgia: 1
-	Germany: 80
+	Germany: 81
 	Greece: 36
 	Grenada: 1
 	Guadeloupe: 2
@@ -70,14 +70,14 @@ Number of countries: 136
 	Liberia: 1
 	Libya: 3
 	Lithuania: 2
-	Madagascar: 6
+	Madagascar: 5
 	Malaysia: 1
 	Maldives: 1
 	Mali: 3
 	Martinique: 2
 	Mauritania: 2
 	Mauritius: 1
-	Mexico: 94
+	Mexico: 95
 	Moldova: 2
 	Morocco: 28
 	Mozambique: 1
@@ -111,7 +111,7 @@ Number of countries: 136
 	South Africa: 15
 	South Korea: 1
 	South Sudan: 1
-	Spain: 113
+	Spain: 112
 	Sri Lanka: 2
 	Sudan: 7
 	Suriname: 1

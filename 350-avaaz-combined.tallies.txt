@@ -1,4 +1,4 @@
-Number of events: 2817
+Number of events: 2819
 Number of countries: 166
 	Afghanistan: 2
 	Albania: 2
@@ -48,11 +48,11 @@ Number of countries: 166
 	Ethiopia: 1
 	Fiji: 1
 	Finland: 8
-	France: 152
-	French Guiana: 1
+	France: 151
+	French Guiana: 2
 	French Polynesia: 2
 	Georgia: 3
-	Germany: 92
+	Germany: 93
 	Ghana: 3
 	Greece: 37
 	Grenada: 1
@@ -88,7 +88,7 @@ Number of countries: 166
 	Libya: 3
 	Lithuania: 2
 	Macedonia: 1
-	Madagascar: 6
+	Madagascar: 5
 	Malaysia: 3
 	Maldives: 1
 	Mali: 3
@@ -97,7 +97,7 @@ Number of countries: 166
 	Martinique: 2
 	Mauritania: 2
 	Mauritius: 1
-	Mexico: 102
+	Mexico: 103
 	Micronesia: 1
 	Moldova: 4
 	Morocco: 29
@@ -135,7 +135,7 @@ Number of countries: 166
 	South Africa: 24
 	South Korea: 3
 	South Sudan: 1
-	Spain: 126
+	Spain: 125
 	Sri Lanka: 2
 	Sudan: 7
 	Suriname: 1
@@ -157,7 +157,7 @@ Number of countries: 166
 	Ukraine: 50
 	United Arab Emirates: 3
 	United Kingdom: 105
-	United States of America: 313
+	United States of America: 315
 	Uruguay: 11
 	Uzbekistan: 1
 	Venezuela: 20
