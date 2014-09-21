@@ -1,4 +1,4 @@
-Number of events: 2813
+Number of events: 2817
 Number of countries: 166
 	Afghanistan: 2
 	Albania: 2
@@ -57,7 +57,7 @@ Number of countries: 166
 	Greece: 37
 	Grenada: 1
 	Guadeloupe: 2
-	Guam: 1
+	Guam: 2
 	Guatemala: 11
 	Guinea: 2
 	Guyana: 1
@@ -97,7 +97,7 @@ Number of countries: 166
 	Martinique: 2
 	Mauritania: 2
 	Mauritius: 1
-	Mexico: 103
+	Mexico: 104
 	Micronesia: 1
 	Moldova: 4
 	Morocco: 29
@@ -157,7 +157,7 @@ Number of countries: 166
 	Ukraine: 44
 	United Arab Emirates: 3
 	United Kingdom: 105
-	United States of America: 315
+	United States of America: 317
 	Uruguay: 11
 	Uzbekistan: 1
 	Venezuela: 20
