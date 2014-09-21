@@ -40,7 +40,7 @@ Number of countries: 135
 	Estonia: 4
 	Finland: 4
 	France: 129
-	French Guiana: 2
+	French Guiana: 1
 	French Polynesia: 2
 	Georgia: 1
 	Germany: 80
@@ -69,7 +69,7 @@ Number of countries: 135
 	Liberia: 1
 	Libya: 3
 	Lithuania: 2
-	Madagascar: 4
+	Madagascar: 5
 	Malaysia: 1
 	Maldives: 1
 	Mali: 3
