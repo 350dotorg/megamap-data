@@ -866,7 +866,7 @@
   {
     "city": "Ottawa", 
     "name": "People's Climate March - Ottawa Event", 
-    "rsvp_count": 429, 
+    "rsvp_count": 430, 
     "country": "Canada", 
     "start_time": "12:00:00", 
     "venue": "Parliament Hill", 
@@ -1186,7 +1186,7 @@
   {
     "city": "Bogota", 
     "name": "Bogot\u00e1 Marcha X el Clima", 
-    "rsvp_count": 786, 
+    "rsvp_count": 787, 
     "country": "Colombia", 
     "start_time": "10:00:00", 
     "venue": "Parque Nacional hasta Plaza de los Periodistas", 
@@ -1698,7 +1698,7 @@
   {
     "city": "Brasilia", 
     "name": "Uni\u00e3o Avaaz em Bras\u00edlia contra as Mudan\u00e7as Clim\u00e1ticas", 
-    "rsvp_count": 1019, 
+    "rsvp_count": 1020, 
     "country": "Brazil", 
     "start_time": "10:00:00", 
     "venue": "Esplanada dos Ministerios", 
@@ -5794,7 +5794,7 @@
   {
     "city": "Miraflores", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 158, 
+    "rsvp_count": 159, 
     "country": "Peru", 
     "start_time": "10:00:00", 
     "venue": "PARQUE KENNEDY. MIRAFLORES.LIMA", 
@@ -6626,7 +6626,7 @@
   {
     "city": "Chihuahua", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 47, 
+    "rsvp_count": 48, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "En el palomar", 
@@ -10626,7 +10626,7 @@
   {
     "city": "Oaxaca", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 36, 
+    "rsvp_count": 37, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Explanada de santo domingo", 
@@ -13906,7 +13906,7 @@
   {
     "city": "Goi\u00e2nia", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 472, 
+    "rsvp_count": 473, 
     "country": "Brazil", 
     "start_time": "16:00:00", 
     "venue": "Pra\u00e7a C\u00edvica, setor Sul", 
@@ -19522,7 +19522,7 @@
   {
     "city": "Curitiba", 
     "name": "Caminhada pelo Clima - Jardim Bot\u00e2nico", 
-    "rsvp_count": 75, 
+    "rsvp_count": 76, 
     "country": "Brazil", 
     "start_time": "15:00:00", 
     "venue": "", 
@@ -19598,22 +19598,6 @@
     "event_date": "2014-09-21", 
     "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_132", 
     "id": 4350
-  }, 
-  {
-    "city": "Joinville", 
-    "name": "Caminhada pelo Clima", 
-    "rsvp_count": 66, 
-    "country": "Brazil", 
-    "start_time": "13:00:00", 
-    "venue": "Pra\u00e7a Nereu Ramos", 
-    "longitude": -48.8463832, 
-    "state": "SC", 
-    "country_code": "BR", 
-    "address": "Joinville - SC, Rep\u00fablica Federativa do Brasil", 
-    "latitude": -26.3044084, 
-    "event_date": "2014-09-21", 
-    "rsvp_url": "https://secure.avaaz.org/po/event/climate/Caminhada_pelo_Clima_133", 
-    "id": 4353
   }, 
   {
     "city": "Mehdia", 
@@ -21234,7 +21218,7 @@
   {
     "city": "Cali", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 97, 
+    "rsvp_count": 98, 
     "country": "Colombia", 
     "start_time": "09:00:00", 
     "venue": "autopista sur oriental con calle 13 en la Luna a las 9 am", 
@@ -27330,7 +27314,7 @@
   {
     "city": "Medellin", 
     "name": "REZO POR EL AGUA Y A FAVOR DE CONSCIENCIA SOBRE EL CAMBIO CLIM\u00c1TICO", 
-    "rsvp_count": 9, 
+    "rsvp_count": 10, 
     "country": "Colombia", 
     "start_time": "10:00:00", 
     "venue": "C\u00e9u Condor-\u00c1guia", 
