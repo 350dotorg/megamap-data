@@ -1,4 +1,4 @@
-Number of events: 1882
+Number of events: 1881
 Number of countries: 136
 	Afghanistan: 2
 	Albania: 1
@@ -84,7 +84,7 @@ Number of countries: 136
 	Nepal: 3
 	Netherlands: 32
 	New Caledonia: 2
-	New Zealand: 25
+	New Zealand: 24
 	Nicaragua: 2
 	Nigeria: 4
 	Norway: 6
