@@ -30035,7 +30035,7 @@ initData({},
   {
     "city": "Guti\u00e9rrez Zamora", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 8, 
+    "rsvp_count": 9, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Palapa Restaurante El Sombrero Azul", 
