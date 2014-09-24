@@ -27059,7 +27059,7 @@ initData({},
   {
     "city": "Picos", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 3, 
+    "rsvp_count": 4, 
     "country": "Brazil", 
     "start_time": "08:00:00", 
     "venue": "Rua Egidio Francisco da Luz, 761", 
