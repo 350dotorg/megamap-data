@@ -1,4 +1,4 @@
-Number of events: 2814
+Number of events: 2815
 Number of countries: 166
 	Afghanistan: 2
 	Albania: 2
@@ -140,7 +140,7 @@ Number of countries: 166
 	Sudan: 7
 	Suriname: 1
 	Sweden: 30
-	Switzerland: 25
+	Switzerland: 26
 	Syria: 3
 	Taiwan: 3
 	Tajikistan: 3
