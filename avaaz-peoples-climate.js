@@ -19587,7 +19587,7 @@ initData({},
   {
     "city": "S\u00e3o Paulo", 
     "name": "VAMOS CRESCER PARA MUDAR O CLIMA", 
-    "rsvp_count": 13, 
+    "rsvp_count": 14, 
     "country": "Brazil", 
     "start_time": "07:00:00", 
     "venue": "", 
