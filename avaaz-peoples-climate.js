@@ -25811,7 +25811,7 @@ initData({},
   {
     "city": "Boca del R\u00edo", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 10, 
+    "rsvp_count": 11, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "", 
