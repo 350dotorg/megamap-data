@@ -4067,7 +4067,7 @@ initData({},
   {
     "city": "Paulista", 
     "name": "Caminhada pelo Clima", 
-    "rsvp_count": 81, 
+    "rsvp_count": 82, 
     "country": "Brazil", 
     "start_time": "09:00:00", 
     "venue": "beira mar", 
