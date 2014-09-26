@@ -15795,7 +15795,7 @@ initData({},
   {
     "city": "Vienna", 
     "name": "People's Climate March", 
-    "rsvp_count": 129, 
+    "rsvp_count": 130, 
     "country": "Austria", 
     "start_time": "13:00:00", 
     "venue": "", 
