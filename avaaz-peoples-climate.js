@@ -3011,7 +3011,7 @@ initData({},
   {
     "city": "Ranschbach", 
     "name": "Klima-Aktionstag - Transportwege: Kaffee vom Segelschiff, Weinstra\u00dfe 31", 
-    "rsvp_count": 20, 
+    "rsvp_count": 21, 
     "country": "Germany", 
     "start_time": "13:00:00", 
     "venue": "", 
