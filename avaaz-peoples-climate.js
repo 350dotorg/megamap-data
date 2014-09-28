@@ -12163,7 +12163,7 @@ initData({},
   {
     "city": "", 
     "name": "People's Climate March", 
-    "rsvp_count": 44, 
+    "rsvp_count": 45, 
     "country": "Brazil", 
     "start_time": "09:00:00", 
     "venue": "", 
