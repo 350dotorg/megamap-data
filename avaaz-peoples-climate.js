@@ -13059,7 +13059,7 @@ initData({},
   {
     "city": "Gen\u00e8ve", 
     "name": "Marche pour le climat- Gen\u00e8ve", 
-    "rsvp_count": 267, 
+    "rsvp_count": 268, 
     "country": "Switzerland", 
     "start_time": "14:00:00", 
     "venue": "Gen\u00e8ve, Plaine de Plainpalais, \u00e0 c\u00f4t\u00e9 du skate-park", 
