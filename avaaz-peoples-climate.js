@@ -371,7 +371,7 @@ initData({},
   {
     "city": "Lisbon", 
     "name": "Mobiliza\u00e7\u00e3o Contra as Altera\u00e7\u00f5es Clim\u00e1ticas - Salvem o Planeta!", 
-    "rsvp_count": 661, 
+    "rsvp_count": 662, 
     "country": "Portugal", 
     "start_time": "16:00:00", 
     "venue": "Rossio", 
