@@ -8963,7 +8963,7 @@ initData({},
   {
     "city": "Tijuana", 
     "name": "La Marcha Ciudadana contra el Cambio Clim\u00e1tico", 
-    "rsvp_count": 7, 
+    "rsvp_count": 8, 
     "country": "Mexico", 
     "start_time": "13:00:00", 
     "venue": "Punto de reunion:Parque teniente Guerrero. Recorrido:calle tercera, CECUT, Palacio Municiapal, Punto de llegada: Unidad Deportiva del CREA.", 
