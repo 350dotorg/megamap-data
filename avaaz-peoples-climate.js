@@ -10403,7 +10403,7 @@ initData({},
   {
     "city": "Spital am Pyhrn", 
     "name": "Klima-Aktionstag", 
-    "rsvp_count": 25, 
+    "rsvp_count": 26, 
     "country": "Austria", 
     "start_time": "13:00:00", 
     "venue": "Campingplatz Pyhrn-Priel, Gasthaus \"Hummel in der Au\"", 
