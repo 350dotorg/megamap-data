@@ -7907,7 +7907,7 @@ initData({},
   {
     "city": "Porto", 
     "name": "Porto pelo Ambiente - People's Climate March", 
-    "rsvp_count": 227, 
+    "rsvp_count": 228, 
     "country": "Portugal", 
     "start_time": "15:00:00", 
     "venue": "Parque da Cidade", 
