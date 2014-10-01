@@ -179,7 +179,7 @@ initData({},
   {
     "city": "Mersin", 
     "name": "People's Climate March", 
-    "rsvp_count": 17, 
+    "rsvp_count": 18, 
     "country": "Turkey", 
     "start_time": "13:00:00", 
     "venue": "", 
