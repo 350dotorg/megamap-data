@@ -10131,7 +10131,7 @@ initData({},
   {
     "city": "\u062c\u062f\u0629", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 24, 
+    "rsvp_count": 25, 
     "country": "Saudi Arabia", 
     "start_time": "13:00:00", 
     "venue": "", 
