@@ -27155,7 +27155,7 @@ initData({},
   {
     "city": "", 
     "name": "pet terapy", 
-    "rsvp_count": 14, 
+    "rsvp_count": 15, 
     "country": "Italy", 
     "start_time": "17:00:00", 
     "venue": "", 
