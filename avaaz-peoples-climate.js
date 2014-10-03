@@ -23555,7 +23555,7 @@ initData({},
   {
     "city": "Timimoun", 
     "name": "\u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629", 
-    "rsvp_count": 6, 
+    "rsvp_count": 7, 
     "country": "Algeria", 
     "start_time": "18:00:00", 
     "venue": "rue 1er nouvembre", 
