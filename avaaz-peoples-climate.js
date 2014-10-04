@@ -4387,7 +4387,7 @@ initData({},
   {
     "city": "Marrakech", 
     "name": "Marche Pour le Climat", 
-    "rsvp_count": 26, 
+    "rsvp_count": 27, 
     "country": "Morocco", 
     "start_time": "13:00:00", 
     "venue": "", 
