@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-10-16T00:43:08.332Z"
+      "$t": "2014-10-18T03:45:17.773Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -56,7 +56,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-16T00:43:08.332Z"
+          "$t": "2014-10-18T03:45:17.773Z"
         }, 
         "title": {
           "$t": "Local Groups", 
@@ -97,7 +97,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-16T00:43:08.332Z"
+          "$t": "2014-10-18T03:45:17.773Z"
         }, 
         "title": {
           "$t": "Global Power Shifts", 
