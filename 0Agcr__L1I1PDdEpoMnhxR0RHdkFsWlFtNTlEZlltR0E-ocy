@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2015-05-12T17:28:46.811Z"
+      "$t": "2015-05-14T02:06:45.937Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -31,17 +31,22 @@ Tabletop.singleton.loadSheet({
     }, 
     "link": [
       {
-        "href": "https://spreadsheets.google.com/pub?key=0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E", 
-        "type": "text/html", 
+        "href": "https://docs.google.com/spreadsheets/d/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/pubhtml", 
+        "type": "application/atom+xml", 
         "rel": "alternate"
       }, 
       {
-        "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values", 
+        "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values", 
         "type": "application/atom+xml", 
         "rel": "http://schemas.google.com/g/2005#feed"
       }, 
       {
-        "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values?alt=json-in-script&sq=", 
+        "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values", 
+        "type": "application/atom+xml", 
+        "rel": "http://schemas.google.com/g/2005#post"
+      }, 
+      {
+        "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values?alt=json-in-script", 
         "type": "application/atom+xml", 
         "rel": "self"
       }
@@ -56,7 +61,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2015-05-12T17:28:46.811Z"
+          "$t": "2015-05-14T02:06:45.937Z"
         }, 
         "gsx$latitude": {
           "$t": "41.10445"
@@ -77,7 +82,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/cokwr", 
+            "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/cokwr", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -92,7 +97,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Istanbul, Turkey"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/cokwr"
+          "$t": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/cokwr"
         }, 
         "gsx$description": {
           "$t": "Global Power Shift is the starting point for a new phase in the international climate movement. First, hundreds of climate leaders from around the world gathered in Istanbul to share stories, learn skills, and sharpen strategies. These leaders have now returned to their home countries to spark a wave of convergences, campaigns, and mobilsations for climate action."
@@ -106,7 +111,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2015-05-12T17:28:46.811Z"
+          "$t": "2015-05-14T02:06:45.937Z"
         }, 
         "gsx$latitude": {
           "$t": "-37.82005"
@@ -127,7 +132,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/cpzh4", 
+            "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/cpzh4", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -142,7 +147,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Melbourne, Australia"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/cpzh4"
+          "$t": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/cpzh4"
         }, 
         "gsx$description": {
           "$t": "In July 2013, 1500 young people converged on Melbourne for Power Shift 2013 - the largest climate summit in Australia's history - to shift  the country away from fossil fuels towards renewable energy. "
@@ -156,7 +161,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2015-05-12T17:28:46.811Z"
+          "$t": "2015-05-14T02:06:45.937Z"
         }, 
         "gsx$latitude": {
           "$t": "60.604819"
@@ -177,7 +182,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/cre1l", 
+            "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/cre1l", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -192,7 +197,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Falun - Sweden"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/cre1l"
+          "$t": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/cre1l"
         }, 
         "gsx$description": {
           "$t": "Sweden Power Shift kicked off with the gathering of around 100 participants who shared experiences, thoughts and ideas about economics and sustainability."
@@ -206,7 +211,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2015-05-12T17:28:46.811Z"
+          "$t": "2015-05-14T02:06:45.937Z"
         }, 
         "gsx$latitude": {
           "$t": "10.7684511"
@@ -227,7 +232,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/chk2m", 
+            "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/chk2m", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -242,7 +247,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Ho Chi Minh City, Vietnam"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/chk2m"
+          "$t": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/chk2m"
         }, 
         "gsx$description": {
           "$t": "Taking place in October, National Climate Leadership Workshop will promote alternate energies and low-impact lifestyles as a practical solution to mitigate climate change. The goal is to build forces, resources, and alliances to win local and national policy changes."
@@ -256,7 +261,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2015-05-12T17:28:46.811Z"
+          "$t": "2015-05-14T02:06:45.937Z"
         }, 
         "gsx$latitude": {
           "$t": "48.4266797"
@@ -277,7 +282,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/ciyn3", 
+            "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/ciyn3", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -292,7 +297,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Victoria, BC -  Canada"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/ciyn3"
+          "$t": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/ciyn3"
         }, 
         "gsx$description": {
           "$t": "PowerShift BC brought together 1000 youth from diverse backgrounds to learn, develop their skills and build the movement for climate, environmental and social justice. "
@@ -306,7 +311,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2015-05-12T17:28:46.811Z"
+          "$t": "2015-05-14T02:06:45.937Z"
         }, 
         "gsx$latitude": {
           "$t": "40.4313684"
@@ -327,7 +332,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/ckd7g", 
+            "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/ckd7g", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -342,7 +347,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Pittsburgh, PA - USA"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/ckd7g"
+          "$t": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/ckd7g"
         }, 
         "gsx$description": {
           "$t": "More than ten thousand youth leaders from every walk of life \u2014 college students, young environmental justice leaders, DREAMers, young people of faith, young workers \u2014  came together to learn from one another, to build and launch strategic campaigns in their own communities."
@@ -356,7 +361,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2015-05-12T17:28:46.811Z"
+          "$t": "2015-05-14T02:06:45.937Z"
         }, 
         "gsx$latitude": {
           "$t": "50.4020355"
@@ -377,7 +382,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/clrrx", 
+            "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/clrrx", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -392,7 +397,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Kiev, Kyiv city, Ukraine"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/clrrx"
+          "$t": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/clrrx"
         }, 
         "gsx$description": {
           "$t": "A week-long series of events in 4 largest cities of Ukraine: Kyiv, Kharkiv, Dnipropetrovsk and Lviv. Events will include lectures, movie screenings, and flash mobs."
@@ -406,7 +411,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2015-05-12T17:28:46.811Z"
+          "$t": "2015-05-14T02:06:45.937Z"
         }, 
         "gsx$latitude": {
           "$t": "52.232938"
@@ -427,7 +432,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/cyevm", 
+            "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/cyevm", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -442,7 +447,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Warsaw, Poland"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/cyevm"
+          "$t": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/cyevm"
         }, 
         "gsx$description": {
           "$t": "Power Shift Central & Eastern Europe will take place right before COP19  - the Meeting of the Parties to the Kyoto Protocol, in Warsaw, Poland."
@@ -456,7 +461,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2015-05-12T17:28:46.811Z"
+          "$t": "2015-05-14T02:06:45.937Z"
         }, 
         "gsx$latitude": {
           "$t": "11.1212751"
@@ -477,7 +482,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/cztg3", 
+            "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/cztg3", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -492,7 +497,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Phu My Hung, Ho Chi Minh City, Vietnam"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/cztg3"
+          "$t": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/cztg3"
         }, 
         "gsx$description": {
           "$t": "N\u00d3NG\" (Hot), is a key part of Vietnam Power Shift Campaign, organized by 350.org Vietnam. The event aims to highlight the urgency of the climate crisis, promote renewable energy and inspire and engage the communities in shifting to cleaner energies."
@@ -506,7 +511,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2015-05-12T17:28:46.811Z"
+          "$t": "2015-05-14T02:06:45.937Z"
         }, 
         "gsx$latitude": {
           "$t": "52.0716542"
@@ -527,7 +532,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/d180g", 
+            "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/d180g", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -542,7 +547,7 @@ Tabletop.singleton.loadSheet({
           "$t": "The Hague, Netherlands"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/d180g"
+          "$t": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/d180g"
         }, 
         "gsx$description": {
           "$t": "Three organisations and the Dutch GPS team joined forces to bring knowledge about the COP meeting in Warsaw and raise awareness about climate change to the Dutch youth. The minister of Infrastructure & Environment has asked them to find out what the young generation in the country thinks are important topics to take to the COP negotiations. By doing a \u201cklimaatestafette\u201d (climate relay), they collected as many messages from the Dutch youth as possible."
@@ -556,7 +561,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2015-05-12T17:28:46.811Z"
+          "$t": "2015-05-14T02:06:45.937Z"
         }, 
         "gsx$latitude": {
           "$t": "13.7246004"
@@ -577,7 +582,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/d2mkx", 
+            "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/d2mkx", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -592,7 +597,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Bangkok, Thailand"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/d2mkx"
+          "$t": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/d2mkx"
         }, 
         "gsx$description": {
           "$t": "Thailand Power Shift brought together 60 climate leaders and activists across Thailand to plan for grassroots collective action, as part of a global campaign to shift power beyond dirty and destructive energy sources like coal and mega-dams."
@@ -606,7 +611,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2015-05-12T17:28:46.811Z"
+          "$t": "2015-05-14T02:06:45.937Z"
         }, 
         "gsx$latitude": {
           "$t": "2.968981"
@@ -627,7 +632,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/cssly", 
+            "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/cssly", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -642,7 +647,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Kajang Selangor, Malaysia"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/cssly"
+          "$t": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/cssly"
         }, 
         "gsx$description": {
           "$t": "Power Shift Malaysia has set out to organize a five-day gathering called #PowerShiftMsia that will bring together 200 young and passionate \u201cclimate leaders\u201d aged 18 to 30 from all over Malaysia.\n\n#PowerShiftMsia aims to empower these young leaders with the knowledge and skills to create a strong Malaysian climate movement."
@@ -656,7 +661,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2015-05-12T17:28:46.811Z"
+          "$t": "2015-05-14T02:06:45.937Z"
         }, 
         "gsx$latitude": {
           "$t": "13.0898019"
@@ -677,7 +682,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/cu76f", 
+            "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/cu76f", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -692,7 +697,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Bangalore, India"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/cu76f"
+          "$t": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/cu76f"
         }, 
         "gsx$description": {
           "$t": "Power Shift India - UDAAN brought together young leaders for training and learning workshops on how to build a movement to address climate change and environmental issues in India. It took place at Fireflies Ashram in Bangalore."
@@ -706,7 +711,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2015-05-12T17:28:46.811Z"
+          "$t": "2015-05-14T02:06:45.937Z"
         }, 
         "gsx$latitude": {
           "$t": "42.3458543"
@@ -727,7 +732,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/cvlqs", 
+            "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/cvlqs", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -742,7 +747,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Tkibuli, Georgia"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/cvlqs"
+          "$t": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/cvlqs"
         }, 
         "gsx$description": {
           "$t": "During December 19-21, 2013, a forum on \u201cClimate Change and its Mitigation Measures\u201d will be held in the village of Gelati, in Tkibuli municipality. 100 active young people were selected from different parts of Georgia to participate in the forum. They will discuss extraction of the fossil fuel and its linkage with the global climate change, the role of the youth in planning and implementing climate change mitigation measures. On December 21, the youth initiative group will move from Gelati to the city of Tkibuli, where a peaceful march will be   organized calling to fight against the negative anthropogenic impact on climate."
@@ -756,7 +761,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2015-05-12T17:28:46.811Z"
+          "$t": "2015-05-14T02:06:45.937Z"
         }, 
         "gsx$latitude": {
           "$t": "42.8760664"
@@ -777,7 +782,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/cx0b9", 
+            "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/cx0b9", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -792,7 +797,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Bishkek, Kyrgyzstan."
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/cx0b9"
+          "$t": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/cx0b9"
         }, 
         "gsx$description": {
           "$t": ""
@@ -806,7 +811,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2015-05-12T17:28:46.811Z"
+          "$t": "2015-05-14T02:06:45.937Z"
         }, 
         "gsx$latitude": {
           "$t": "35.673343"
@@ -827,7 +832,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/d9ney", 
+            "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/d9ney", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -842,7 +847,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Tokyo, Japan"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/d9ney"
+          "$t": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/d9ney"
         }, 
         "gsx$description": {
           "$t": "GPS Japan is gearing up to unite youth activists and relevant NPOs to develop a solid movement to stop dirty energy (fossil fuels and nuclear), and solidify a commitment toward a clean energy economy."
@@ -856,7 +861,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2015-05-12T17:28:46.811Z"
+          "$t": "2015-05-14T02:06:45.937Z"
         }, 
         "gsx$latitude": {
           "$t": "10.3789284"
@@ -877,7 +882,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/db1zf", 
+            "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/db1zf", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -892,7 +897,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Cebu City, Philippines"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/db1zf"
+          "$t": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/db1zf"
         }, 
         "gsx$description": {
           "$t": "\"Sulong!: Power Shift Pilipinas\" is gathering more than 200 passionate and committed youth leaders and activists from across the country to push the climate movement in the Philippines forward."
@@ -906,7 +911,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2015-05-12T17:28:46.811Z"
+          "$t": "2015-05-14T02:06:45.937Z"
         }, 
         "gsx$latitude": {
           "$t": "-12.2400732"
@@ -927,7 +932,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/dcgjs", 
+            "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/dcgjs", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -942,7 +947,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Brazil"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/dcgjs"
+          "$t": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/dcgjs"
         }, 
         "gsx$description": {
           "$t": "Cl\u00edmax Brasil is a collective of young Brazilian environmentalists, established in the  Global Power Shift context. It\u2019s objective is to organize 69 #sexify (meaning fun, creative and attractive) interventions with Brazilian youth mobilize in the 5 regions of the country until the end of 2014 with the goal to \u201ctake climate change out of the closet\u201d. \n\nCurrently, Climate Change is among the last priorities of Brazilian youth, according to a study released by IPEA in July 2013. The reasons for that are simple: academic and technical content and the catastrophic messaging make the theme unnatractive for the young population. \n\nThus Cl\u00edmax Brasil wants to make climate change issues closer to youth as a transversal theme, which touches a deeper debate regarding health, mobility, economy, education, and other current themes involved in the youth\u2019s daily life."
@@ -956,7 +961,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2015-05-12T17:28:46.811Z"
+          "$t": "2015-05-14T02:06:45.937Z"
         }, 
         "gsx$latitude": {
           "$t": "26.9405829"
@@ -977,7 +982,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/ddv49", 
+            "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/ddv49", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -992,7 +997,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Cairo, Egypt"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/ddv49"
+          "$t": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/ddv49"
         }, 
         "gsx$description": {
           "$t": "Tahawul (\u201ctransformation\u201d in Arab) will bring together 60 young people from all around Egypt to build their capacity to campaign in their communities for environmental and climate justice (with a focus on confronting the issue of importing coal)."
@@ -1006,7 +1011,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2015-05-12T17:28:46.811Z"
+          "$t": "2015-05-14T02:06:45.937Z"
         }, 
         "gsx$latitude": {
           "$t": "28.3973623"
@@ -1022,12 +1027,12 @@ Tabletop.singleton.loadSheet({
           "$t": "Nepal Power Shift"
         }, 
         "content": {
-          "$t": "geom: Nepal, geolocation: Nepal, website: https://www.facebook.com/gpsnp, description: 'I am a Power Shifter' in Nepal will raise the bar and inspire young people to not just talk about climate change but act concretely., longitude: 84.12576, latitude: 28.3973623", 
+          "$t": "geom: Nepal, geolocation: Nepal, website: https://www.facebook.com/gpsnp, description: I am a Power Shifter' in Nepal will raise the bar and inspire young people to not just talk about climate change but act concretely., longitude: 84.12576, latitude: 28.3973623", 
           "type": "text"
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/d415a", 
+            "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/d415a", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -1042,10 +1047,10 @@ Tabletop.singleton.loadSheet({
           "$t": "Nepal"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/d415a"
+          "$t": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/d415a"
         }, 
         "gsx$description": {
-          "$t": "'I am a Power Shifter' in Nepal will raise the bar and inspire young people to not just talk about climate change but act concretely."
+          "$t": "I am a Power Shifter' in Nepal will raise the bar and inspire young people to not just talk about climate change but act concretely."
         }
       }, 
       {
@@ -1056,7 +1061,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2015-05-12T17:28:46.811Z"
+          "$t": "2015-05-14T02:06:45.937Z"
         }, 
         "gsx$latitude": {
           "$t": "-13.2512161"
@@ -1077,7 +1082,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/d5fpr", 
+            "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/d5fpr", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -1092,7 +1097,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Malawi"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/d5fpr"
+          "$t": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/d5fpr"
         }, 
         "gsx$description": {
           "$t": "National Power Shift (NPS) is a National climate movement comprising youth activists from Malawi working on climate change education, policy and other issues related to climate change, youth empowerment and development. "
@@ -1106,7 +1111,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2015-05-12T17:28:46.811Z"
+          "$t": "2015-05-14T02:06:45.937Z"
         }, 
         "gsx$latitude": {
           "$t": "56.29274"
@@ -1127,7 +1132,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/d6ua4", 
+            "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/d6ua4", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -1142,7 +1147,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Nizhny Novgorod, Russia"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/d6ua4"
+          "$t": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/d6ua4"
         }, 
         "gsx$description": {
           "$t": "The climate forum \u201cClimate is changing, are we changing ourselves?\u201d took place in Nizhny Novgorod. About 40 participants from 5 regions of the country met to discuss causes and impacts of climate change and to generate new ideas about its solutions which can be implemented by the society. Among them were university and school students, environmental activists, teachers and journalists."
@@ -1156,7 +1161,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2015-05-12T17:28:46.811Z"
+          "$t": "2015-05-14T02:06:45.937Z"
         }, 
         "gsx$latitude": {
           "$t": "-7.812494"
@@ -1177,7 +1182,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/d88ul", 
+            "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/d88ul", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -1192,7 +1197,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Kulonprogo, Indonesia"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/d88ul"
+          "$t": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/d88ul"
         }, 
         "gsx$description": {
           "$t": ""
@@ -1206,7 +1211,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2015-05-12T17:28:46.811Z"
+          "$t": "2015-05-14T02:06:45.937Z"
         }, 
         "gsx$latitude": {
           "$t": "46.71109"
@@ -1222,12 +1227,12 @@ Tabletop.singleton.loadSheet({
           "$t": "France Power Shift - Printemps du Climat"
         }, 
         "content": {
-          "$t": "geom: France, geolocation: France, website: http://world.350.org/printemps-du-climat, description: 'Printemps du Climat' (Climate Spring) - a month of action on climate calling for a real energy transition and ambition ahead of the EU policy decisions on climate targets/package.  Starting on the first day of spring in Paris, actions will follow around the country, uniting the climate movement., longitude: 1.7191036, latitude: 46.71109", 
+          "$t": "geom: France, geolocation: France, website: http://world.350.org/printemps-du-climat, description: Printemps du Climat' (Climate Spring) - a month of action on climate calling for a real energy transition and ambition ahead of the EU policy decisions on climate targets/package.  Starting on the first day of spring in Paris, actions will follow around the country, uniting the climate movement., longitude: 1.7191036, latitude: 46.71109", 
           "type": "text"
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/dkvya", 
+            "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/dkvya", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -1242,10 +1247,10 @@ Tabletop.singleton.loadSheet({
           "$t": "France"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/dkvya"
+          "$t": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/dkvya"
         }, 
         "gsx$description": {
-          "$t": "'Printemps du Climat' (Climate Spring) - a month of action on climate calling for a real energy transition and ambition ahead of the EU policy decisions on climate targets/package.  Starting on the first day of spring in Paris, actions will follow around the country, uniting the climate movement."
+          "$t": "Printemps du Climat' (Climate Spring) - a month of action on climate calling for a real energy transition and ambition ahead of the EU policy decisions on climate targets/package.  Starting on the first day of spring in Paris, actions will follow around the country, uniting the climate movement."
         }
       }, 
       {
@@ -1256,7 +1261,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2015-05-12T17:28:46.811Z"
+          "$t": "2015-05-14T02:06:45.937Z"
         }, 
         "gsx$latitude": {
           "$t": "14.6262201"
@@ -1277,7 +1282,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/dmair", 
+            "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/dmair", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -1292,7 +1297,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Guatemala City, Guatemala"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/dmair"
+          "$t": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/dmair"
         }, 
         "gsx$description": {
           "$t": ""
@@ -1306,7 +1311,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2015-05-12T17:28:46.811Z"
+          "$t": "2015-05-14T02:06:45.937Z"
         }, 
         "gsx$latitude": {
           "$t": "10.3789285"
@@ -1327,7 +1332,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/dnp34", 
+            "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/dnp34", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -1342,7 +1347,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Cebu City - Philippines"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/dnp34"
+          "$t": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/dnp34"
         }, 
         "gsx$description": {
           "$t": "\"Sulong!: Power Shift Pilipinas\" is gathering more than 200 passionate and committed youth leaders and activists from across the country to push the climate movement in the Philippines forward."
@@ -1356,7 +1361,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2015-05-12T17:28:46.811Z"
+          "$t": "2015-05-14T02:06:45.937Z"
         }, 
         "gsx$latitude": {
           "$t": "51.5286416"
@@ -1377,7 +1382,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/dp3nl", 
+            "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/dp3nl", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -1392,7 +1397,7 @@ Tabletop.singleton.loadSheet({
           "$t": "London, United Kingdom"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/dp3nl"
+          "$t": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/dp3nl"
         }, 
         "gsx$description": {
           "$t": "As part of Global Power Shift, Campaign Against Climate Change and Power Shift UK are  working together on \u2018Power Shift UK: Breaking Down the Barriers and Diversifying the Climate Movement\u2019 to bring people across the UK for a weekend of discussions and workshops, to share stories and ideas for action, and to challenge some of our assumptions about diversifying the movement."
@@ -1406,7 +1411,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2015-05-12T17:28:46.811Z"
+          "$t": "2015-05-14T02:06:45.937Z"
         }, 
         "gsx$latitude": {
           "$t": "-16.2837065"
@@ -1427,7 +1432,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/df9om", 
+            "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/df9om", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -1442,7 +1447,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Bolivia"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/df9om"
+          "$t": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/df9om"
         }, 
         "gsx$description": {
           "$t": ""
@@ -1456,7 +1461,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2015-05-12T17:28:46.811Z"
+          "$t": "2015-05-14T02:06:45.937Z"
         }, 
         "gsx$latitude": {
           "$t": "-38.4192641"
@@ -1477,7 +1482,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/dgo93", 
+            "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/dgo93", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -1492,7 +1497,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Argentina"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/dgo93"
+          "$t": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/dgo93"
         }, 
         "gsx$description": {
           "$t": "Our goal is to position climate change at the forefront of the public, political, and private agenda in order to have an impact on national adaptation and mitigation policies.  We are building a youth climate movement to launch large-scale climate campaigns, and empower people to lead local actions that can contribute to scaling up the momentum built by our actions today."
@@ -1506,7 +1511,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2015-05-12T17:28:46.811Z"
+          "$t": "2015-05-14T02:06:45.937Z"
         }, 
         "gsx$latitude": {
           "$t": "22.9736614"
@@ -1527,7 +1532,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/di2tg", 
+            "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/di2tg", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -1542,7 +1547,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Taipei, Kaohsiung"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/di2tg"
+          "$t": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/di2tg"
         }, 
         "gsx$description": {
           "$t": "Taiwan Power Shift is an event for young environmental activists in Taiwan. During this exciting gathering, we hope not only to build capacity among young Taiwanese, but also trigger the next big thing - a widespread climate action in Taiwan through strategic meeting within each region and across region."
@@ -1556,7 +1561,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2015-05-12T17:28:46.811Z"
+          "$t": "2015-05-14T02:06:45.937Z"
         }, 
         "gsx$latitude": {
           "$t": "7.9527706"
@@ -1577,7 +1582,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/djhdx", 
+            "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/djhdx", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -1592,7 +1597,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Ghana"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/djhdx"
+          "$t": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/djhdx"
         }, 
         "gsx$description": {
           "$t": ""
@@ -1606,7 +1611,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2015-05-12T17:28:46.811Z"
+          "$t": "2015-05-14T02:06:45.937Z"
         }, 
         "gsx$latitude": {
           "$t": "-11.928411"
@@ -1627,7 +1632,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/dw4je", 
+            "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/dw4je", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -1642,7 +1647,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Peru"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/dw4je"
+          "$t": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/dw4je"
         }, 
         "gsx$description": {
           "$t": "From September 11-14 approximately 100 young activists and leaders from diverse contexts in Per\u00fa will meet, share experiences and solutions, and join together in pushing forward bold local and national environmental actions as part of TierrActiva Per\u00fa (Power Shift Peru). We aim to to generate a diverse, inclusive space that is able to support decentralized, youth-powered action through a seed grant fund. In addition, we have established an alliance with COY 10 (the 10th Conference of Youth prior to the UN climate negotiations), and all Power Shift Peru participants will also participate in said space in representation of Peruvian youth."
@@ -1656,7 +1661,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2015-05-12T17:28:46.811Z"
+          "$t": "2015-05-14T02:06:45.937Z"
         }, 
         "gsx$latitude": {
           "$t": "-25.3034626"
@@ -1677,7 +1682,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/dxj3v", 
+            "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/dxj3v", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -1692,7 +1697,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Paraguay"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values/dxj3v"
+          "$t": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values/dxj3v"
         }, 
         "gsx$description": {
           "$t": "Dates: September 26, 27 and 28. On Monday 29 (local holiday) there will be an optional action day, bike ride and tour.\nLocation: City of Aregua, Capital of the Central Department, Paraguay, map\nFor more information, visit our website: http://world.350.org/flordetransicion-paraguay\n"
@@ -1703,7 +1708,7 @@ Tabletop.singleton.loadSheet({
       "$t": "33"
     }, 
     "id": {
-      "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/ocy/public/values"
+      "$t": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/ocy/public/values"
     }
   }, 
   "version": "1.0", 
