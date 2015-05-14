@@ -41,7 +41,7 @@ Tabletop.singleton.loadSheet({
         "rel": "http://schemas.google.com/g/2005#feed"
       }, 
       {
-        "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdHdwUkpZcmxlLW85bTlrWHBLT3ZEcUE/od6/public/values?alt=json-in-script", 
+        "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdHdwUkpZcmxlLW85bTlrWHBLT3ZEcUE/od6/public/values?alt=json-in-script&sq=", 
         "type": "application/atom+xml", 
         "rel": "self"
       }

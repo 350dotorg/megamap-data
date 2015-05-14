@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2015-05-14T02:06:45.937Z"
+      "$t": "2015-05-12T17:28:46.811Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -31,22 +31,17 @@ Tabletop.singleton.loadSheet({
     }, 
     "link": [
       {
-        "href": "https://docs.google.com/spreadsheets/d/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/pubhtml", 
-        "type": "application/atom+xml", 
+        "href": "https://spreadsheets.google.com/pub?key=0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E", 
+        "type": "text/html", 
         "rel": "alternate"
       }, 
       {
-        "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/od7/public/values", 
+        "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od7/public/values", 
         "type": "application/atom+xml", 
         "rel": "http://schemas.google.com/g/2005#feed"
       }, 
       {
-        "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/od7/public/values", 
-        "type": "application/atom+xml", 
-        "rel": "http://schemas.google.com/g/2005#post"
-      }, 
-      {
-        "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/od7/public/values?alt=json-in-script", 
+        "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od7/public/values?alt=json-in-script&sq=", 
         "type": "application/atom+xml", 
         "rel": "self"
       }
@@ -64,7 +59,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2015-05-14T02:06:45.937Z"
+          "$t": "2015-05-12T17:28:46.811Z"
         }, 
         "gsx$popupanchory": {
           "$t": "-25"
@@ -100,7 +95,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/od7/public/values/cokwr", 
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od7/public/values/cpzh4", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -118,7 +113,7 @@ Tabletop.singleton.loadSheet({
           "$t": "50"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/od7/public/values/cokwr"
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od7/public/values/cpzh4"
         }
       }, 
       {
@@ -132,7 +127,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2015-05-14T02:06:45.937Z"
+          "$t": "2015-05-12T17:28:46.811Z"
         }, 
         "gsx$popupanchory": {
           "$t": "-25"
@@ -168,7 +163,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/od7/public/values/cpzh4", 
+            "href": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od7/public/values/cre1l", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -186,7 +181,7 @@ Tabletop.singleton.loadSheet({
           "$t": "30"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/od7/public/values/cpzh4"
+          "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od7/public/values/cre1l"
         }
       }
     ], 
@@ -194,7 +189,7 @@ Tabletop.singleton.loadSheet({
       "$t": "2"
     }, 
     "id": {
-      "$t": "https://spreadsheets.google.com/feeds/list/1JXjD5mYS3u_nPRtUytEelkP2GKt_rKCbAPJrjIz_GS4/od7/public/values"
+      "$t": "https://spreadsheets.google.com/feeds/list/0Agcr__L1I1PDdEpoMnhxR0RHdkFsWlFtNTlEZlltR0E/od7/public/values"
     }
   }, 
   "version": "1.0", 
