@@ -1,1 +1,1 @@
-ANEventsCallback([{"url": "https://actionnetwork.org/events/halloween-parade-1031-630pm", "start": "2015-10-31T18:30:00Z", "description": "<p>FOSSIL FUELS ARE SCARY! KEEP THEM IN THE GROUND!</p><p>Wear a costume and march with us to raise awareness of our climate crisis.&nbsp;Corner of 7th Avenue and 14th Street in Park Slope.&nbsp;Protect our planet! End the fossil fuel era!&nbsp;Signs and artwork will be provided, but you should feel free to bring your own.</p>", "title": "Halloween Parade, 10/31, 6:30pm"}]);
+ANEventsCallback([]);
