@@ -1,1 +1,1 @@
-ANEventsCallback([{"url": "https://actionnetwork.org/events/bi-monthly-general-meeting", "start": "2015-12-01T19:00:00Z", "description": "<p>All are welcome!</p>", "title": "Bi-Monthly General Meeting"}]);
+ANEventsCallback([]);
