@@ -1,1 +1,1 @@
-ANEventsCallback([{"url": "https://actionnetwork.org/events/holiday-potluck-2", "start": "2015-12-15T19:00:00Z", "description": "<p>Please join us for our bi-monthly general meeting. Tuesday, December 15th at 7pm. St. Lydia\u2019s Church, 304 Bond Street, Brooklyn. We\u2019ll be relaxing and enjoying holiday climate camaraderie after the flurry of activity that has been the Paris COP and related events. Drinks, nibbles, solidarity.</p>", "title": "Holiday potluck"}]);
+ANEventsCallback([]);
