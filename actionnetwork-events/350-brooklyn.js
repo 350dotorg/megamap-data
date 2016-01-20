@@ -1,1 +1,1 @@
-ANEventsCallback([{"url": "https://actionnetwork.org/events/bi-monthly-general-meeting-119-7pm", "start": "2016-01-19T19:00:00Z", "description": "<p>Please join us for our bi-weekly general meeting. Tuesday, January 19th at 7pm. St. Lydia\u2019s Church, 304 Bond Street, Brooklyn. We\u2019ll be discussing strategy and events for the first half of the year, and planning for our March teach-in on climate change and immigration, among other specific actions.&nbsp;All are welcome!</p>", "title": "Bi-Monthly General Meeting, 1/19, 7pm"}]);
+ANEventsCallback([]);
