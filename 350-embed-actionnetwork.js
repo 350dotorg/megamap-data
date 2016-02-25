@@ -161,6 +161,7 @@ jq(document).ready(function() {
           var lang = jq("select[name=Language]").find("option[value="+props.lang+"]").prop("selected", "selected");
           var li = jq("select[name=Language]").closest("li").hide();
           li.prev("label").attr("style", "display: none !important");
+          jq('#s2id_Language .select2-chosen').text(lang.text());
         } else {
           jq('<input type="hidden" name="language">').appendTo(".can_embed form");
         }
