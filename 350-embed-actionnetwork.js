@@ -171,5 +171,8 @@ jq(document).ready(function() {
 });
 jq("<div id='can-"+props.type+"-area-"+props.name+"' style='width: 100%; max-width: 400px;'></div>").insertAfter("script[src$='350-embed-actionnetwork.js']");
 jq('<link>').attr('href', 'https://actionnetwork.org/css/style-embed.css').attr('rel', 'stylesheet').attr('type', 'text/css').appendTo('body');
-window.yepnope || jq('<script src="https://actionnetwork.org/includes/js/yepnope154-min.js"><\/script>').appendTo('body');
-jq("<script src='https://actionnetwork.org/widgets/v2/"+ props.type + "/" + props.name + "?format=js&source=widget'></script>").appendTo('body');
+function add_actionnetwork_embed_code() {
+  jq("<script src='https://actionnetwork.org/widgets/v2/"+ props.type + "/" + props.name + "?format=js&source=widget'></script>").appendTo('body');
+};
+window.yepnope || jq('<script onload="add_actionnetwork_embed_code();" src="https://actionnetwork.org/includes/js/yepnope154-min.js"><\/script>').appendTo('body');
+
