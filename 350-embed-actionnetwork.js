@@ -171,11 +171,15 @@ jq(document).ready(function() {
 });
 jq("<div id='can-"+props.type+"-area-"+props.name+"' style='width: 100%; max-width: 400px;'></div>").insertAfter("script[src$='350-embed-actionnetwork.js']");
 jq('<link>').attr('href', 'https://actionnetwork.org/css/style-embed.css').attr('rel', 'stylesheet').attr('type', 'text/css').appendTo('body');
+__embed_code_loaded = false;
 function add_actionnetwork_embed_code() {
+  if (__embed_code_loaded) { return; }
   jq("<script src='https://actionnetwork.org/widgets/v2/"+ props.type + "/" + props.name + "?format=js&source=widget'></script>").appendTo('body');
+  __embed_code_loaded = true;
 };
 if (window.yepnope) {
   add_actionnetwork_embed_code();
 } else {
   jq('<script type="text/javascript" src="https://actionnetwork.org/includes/js/yepnope154-min.js"><\/script>').on("load", add_actionnetwork_embed_code).appendTo('body');
 }
+setTimeout(add_actionnetwork_embed_code, 1000);
