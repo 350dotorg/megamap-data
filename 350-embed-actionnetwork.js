@@ -174,12 +174,12 @@ jq('<link>').attr('href', 'https://actionnetwork.org/css/style-embed.css').attr(
 __embed_code_loaded = false;
 function add_actionnetwork_embed_code() {
   if (__embed_code_loaded) { return; }
-  jq("<script src='https://actionnetwork.org/widgets/v2/"+ props.type + "/" + props.name + "?format=js&source=widget'></script>").appendTo('body');
+  jq("<script src='https://actionnetwork.org/widgets/v2/"+ props.type + "/" + props.name + "?format=js&source=widget'></script>").insertAfter("script[src$='350-embed-actionnetwork.js']");
   __embed_code_loaded = true;
 };
 if (window.yepnope) {
   add_actionnetwork_embed_code();
 } else {
-  jq('<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/yepnope/1.5.4/yepnope.js"><\/script>').on("load", add_actionnetwork_embed_code).appendTo('body');
+  jq('<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/yepnope/1.5.4/yepnope.js"><\/script>').on("load", add_actionnetwork_embed_code).insertAfter("script[src$='350-embed-actionnetwork.js']");
 }
 setTimeout(add_actionnetwork_embed_code, 1000);
