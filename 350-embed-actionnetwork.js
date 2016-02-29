@@ -1,5 +1,7 @@
 var jq = jQuery;
 
+window.yepnope || document.write('<script src="https://actionnetwork.org/includes/js/yepnope154-min.js"><\/script>');
+
 var props = {
   name: jq("script[src$='350-embed-actionnetwork.js']").data("petition"),
   type: jq("script[src$='350-embed-actionnetwork.js']").data("type"),
