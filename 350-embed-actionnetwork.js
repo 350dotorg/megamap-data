@@ -183,6 +183,5 @@ function add_actionnetwork_embed_code() {
 if (window.yepnope) {
   add_actionnetwork_embed_code();
 } else {
-  jq('<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/yepnope/1.5.4/yepnope.js"><\/script>').on("load", add_actionnetwork_embed_code).insertAfter("script[src$='350-embed-actionnetwork.js']");
+  setTimeout(add_actionnetwork_embed_code, 500);
 }
-setTimeout(add_actionnetwork_embed_code, 1000);
