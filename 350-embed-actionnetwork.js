@@ -155,6 +155,8 @@ jq(document).ready(function() {
     }
     jq('.can_embed input#form-email').attr('placeholder', l10n('Email'));
 
+    jq('.international_link').text(l10n('Not in the US?'));
+    
     var welcome = jq('.can_embed #action_welcome_message_inner .left').children(':first');
     welcome.text(l10n("Welcome back") + ', ' + welcome.text().split(',')[1]);
     if (jq('.can_embed #action_welcome_message_inner .left small').length) {
