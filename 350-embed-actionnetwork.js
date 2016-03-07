@@ -136,7 +136,7 @@ jq(document).ready(function() {
   jq(document).on('can_embed_submitted', function() {
     // do your work here, after the widget form is submitted
     jq('#can_thank_you h1').replaceWith(
-      $("<h3>").html(l10n("Thank you for your support, we'll be in touch with next steps soon.")));
+      jq("<h3>").html(l10n("Thank you for your support, we'll be in touch with next steps soon.")));
     jq('#can_thank_you h4').hide();
     jq('.can_thank_you_wrap > .clearfix').hide();
     jq('.can_embed #logo_wrap, .can_embed #action_info').attr("style", "display: none !important");
