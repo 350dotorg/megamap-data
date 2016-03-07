@@ -61,7 +61,7 @@ var _l10n = {
     "Email": "Email *",
     "Click here": "Buraya Tıkla",
     "Not": "Değil",
-    "Welcome back": "Tekrar hoş geldiniz"
+    "Welcome back": "Tekrar hoş geldiniz",
     "Thank you for your support, we'll be in touch with next steps soon.": "Desteğin için teşekkürler, bir sonraki adımlarla ilgili iletişimde olacağız"
   },
   "fr": {
