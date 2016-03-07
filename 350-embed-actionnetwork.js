@@ -1,7 +1,5 @@
 var jq = jQuery;
 
-window.yepnope || document.write('<script src="https://actionnetwork.org/includes/js/yepnope154-min.js"><\/script>');
-
 var props = {
   name: jq("script[src$='350-embed-actionnetwork.js']").data("petition"),
   type: jq("script[src$='350-embed-actionnetwork.js']").data("type"),
@@ -25,70 +23,87 @@ var _l10n = {
     "Welcome back": "Tervetuloa takaisin"
   },
   "es": {
-    "Thank you for your support": "",
     "First name": "Nombre",
     "Last name": "Apellido",
     "Postal": "Código Postal *",
-    "Sign up": "",
+    "Country": "País",
+    "Language": "Idioma",
+    "Sign up": "Inscribirse",
     "Email": "E-mail *",
     "Click here": "Haz clic aquí",
     "Not": "No",
-    "Welcome back": "Bienvenido de nuevo"
+    "Welcome back": "Bienvenido de nuevo",
+    "Not in the US?": "¿No está en los Estados Unidos?",
+    "Thank you for your support, we'll be in touch with next steps soon.": "Gracias por tu apoyo. Nos pondremos en contacto contigo pronto para comunicarte los próximos pasos."
   },
   "pt": {
-    "Thank you for your support": "",
     "First name": "Nome",
     "Last name": "Sobrenome",
-    "Postal": "Código Postal *",
-    "Sign up": "",
+    "Postal": "CEP *",
+    "Country": "País",
+    "Language": "Idioma",
+    "Sign up": "Inscreva-se",
+    "Not in the US?": "Não está nos EUA?",
     "Email": "E-mail *",
     "Click here": "Clique aqui",
     "Not": "Não",
-    "Welcome back": "Bem vindo de volta"
+    "Welcome back": "Bem vindo de volta",
+    "Thank you for your support, we'll be in touch with next steps soon.": "Obrigad@ pelo seu apoio, enviaremos informações sobre os próximos passos em breve."
   },
   "tr": {
-    "Thank you for your support": "",
     "First name": "İsim",
     "Last name": "Soyadı",
     "Postal": "Posta Kodu *",
-    "Sign up": "",
+    "Country": "Ülke",
+    "Sign up": "Kayıt ol",
+    "Not in the US?": "ABD dışında",
+    "Language": "Dil",
     "Email": "Email *",
     "Click here": "Buraya Tıkla",
     "Not": "Değil",
     "Welcome back": "Tekrar hoş geldiniz"
+    "Thank you for your support, we'll be in touch with next steps soon.": "Desteğin için teşekkürler, bir sonraki adımlarla ilgili iletişimde olacağız"
   },
   "fr": {
-    "Thank you for your support": "",
     "First name": "Prénom",
     "Last name": "Nom",
     "Postal": "Code Postal *",
-    "Sign up": "",
+    "Country": "Pays",
+    "Language": "Langue",
+    "Sign up": "Inscrivez-vous",
     "Email": "Adresse Électronique *",
+    "Not in the US?": "Pas aux États-Unis?",
     "Click here": "Cliquez ici",
     "Not": "Non",
-    "Welcome back": "Accueillir à nouveau"
+    "Welcome back": "Accueillir à nouveau",
+    "Thank you for your support, we'll be in touch with next steps soon.": "Merci de votre soutien, nous vous contacterons sous peu pour les prochaines étapes".
   },
   "de": {
-    "Thank you for your support": "",
     "First name": "Vorname",
     "Last name": "Nachname",
     "Postal": "PLZ *",
-    "Sign up": "",
+    "Country": "Land",
+    "Language": "Sprache",
+    "Sign up": "Anmeldung",
     "Email": "E-Mail-Adresse *",
     "Click here": "Klicke hier",
+    "Not in the US?": "Nicht in den USA?",
     "Not": "Nicht",
-    "Welcome back": "Willkommen zurück"
+    "Welcome back": "Willkommen zurück",
+    "Thank you for your support, we'll be in touch with next steps soon.": "Danke für eure Unterstützung! Wie es weitergeht, erfahrt ihr in Kürze von uns."
   },  
   "id": {
-    "Thank you for your support": "",
     "First name": "Nama",
     "Last name": "Nama belakang",
     "Postal": "Kode Pos *",
-    "Sign up": "",
-    "Email": "E-mail *",
+    "Sign up": "Daftar",
+    "Email": "e-mail *",
+    "Country": "Negara",
+    "Not in the US?": "Di Amerika Serikat tidak ada?",
     "Click here": "Klik disini",
     "Not": "Tidak",
-    "Welcome back": "Selamat datang kembali"
+    "Welcome back": "Selamat datang kembali",
+    "Thank you for your support, we'll be in touch with next steps soon.": "Terima kasih atas dukungan Anda. Untuk langkah-langkah selanjutnya, kami akan menghubungi lagi dalam waktu dekat."
   },
 
 };
@@ -120,7 +135,7 @@ var showCountry = function() {
 jq(document).ready(function() {
   jq(document).on('can_embed_submitted', function() {
     // do your work here, after the widget form is submitted
-    jq('#can_thank_you h1').html(l10n('Thank you for your support'));
+    jq('#can_thank_you h1').html(l10n("Thank you for your support, we'll be in touch with next steps soon."));
     jq('#can_thank_you h4').hide();
     jq('.can_thank_you_wrap > .clearfix').hide();
     jq('.can_embed #logo_wrap, .can_embed #action_info').attr("style", "display: none !important");
@@ -173,15 +188,5 @@ jq(document).ready(function() {
 });
 jq("<div id='can-"+props.type+"-area-"+props.name+"' style='width: 100%; max-width: 400px;'></div>").insertAfter("script[src$='350-embed-actionnetwork.js']");
 jq('<link>').attr('href', 'https://actionnetwork.org/css/style-embed.css').attr('rel', 'stylesheet').attr('type', 'text/css').appendTo('body');
-__embed_code_loaded = false;
-jq.ajaxPrefilter('script', function(options) { options.cache = true; });
-function add_actionnetwork_embed_code() {
-  if (__embed_code_loaded) { return; }
-  jq("<script src='https://actionnetwork.org/widgets/v2/"+ props.type + "/" + props.name + "?format=js&source=widget'></script>").insertAfter("script[src$='350-embed-actionnetwork.js']");
-  __embed_code_loaded = true;
-};
-if (window.yepnope) {
-  add_actionnetwork_embed_code();
-} else {
-  setTimeout(add_actionnetwork_embed_code, 500);
-}
+window.yepnope || jq('<script src="https://actionnetwork.org/includes/js/yepnope154-min.js"><\/script>').appendTo('body');
+jq("<script src='https://actionnetwork.org/widgets/v2/"+ props.type + "/" + props.name + "?format=js&source=widget'></script>").appendTo('body');
