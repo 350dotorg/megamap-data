@@ -76,7 +76,7 @@ var _l10n = {
     "Click here": "Cliquez ici",
     "Not": "Non",
     "Welcome back": "Accueillir à nouveau",
-    "Thank you for your support, we'll be in touch with next steps soon.": "Merci de votre soutien, nous vous contacterons sous peu pour les prochaines étapes".
+    "Thank you for your support, we'll be in touch with next steps soon.": "Merci de votre soutien, nous vous contacterons sous peu pour les prochaines étapes."
   },
   "de": {
     "First name": "Vorname",
