@@ -8,7 +8,7 @@ window.ANEventsCallback = function(resp) {
         .appendTo(ul);
     });
     if (emptyMsg && resp.length === 0) {
-        $("<li>").text(emptyMsg).appendTo(ul);
+        jQuery("<li>").text(emptyMsg).appendTo(ul);
     }
     ul.appendTo("#event-list");
   };
