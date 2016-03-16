@@ -203,6 +203,4 @@ function add_actionnetwork_embed_code() {
 };
 if (window.yepnope) {
   add_actionnetwork_embed_code();
-} else {
-  setTimeout(add_actionnetwork_embed_code, 500);
-}
+} 
