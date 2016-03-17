@@ -191,14 +191,14 @@ jq(document).ready(function() {
     });
   });
 });
-jq("<div id='can-"+props.type+"-area-"+props.name+"' style='width: 100%; max-width: 400px;'></div>").insertAfter("script[src$='350-embed-actionnetwork.js']");
+jq("<div id='can-"+props.type+"-area-"+props.name+"' style='width: 100%; max-width: 400px;'></div>").insertAfter("script[src$='350-embed-actionnetwork-wrapper.js']");
 jq('<link>').attr('href', 'https://actionnetwork.org/css/style-embed.css').attr('rel', 'stylesheet').attr('type', 'text/css').appendTo('body');
 
 __embed_code_loaded = false;
 jq.ajaxPrefilter('script', function(options) { options.cache = true; });
 function add_actionnetwork_embed_code() {
   if (__embed_code_loaded) { return; }
-  jq("<script src='https://actionnetwork.org/widgets/v2/"+ props.type + "/" + props.name + "?format=js&source=widget'></script>").insertAfter("script[src$='350-embed-actionnetwork.js']");
+  jq("<script src='https://actionnetwork.org/widgets/v2/"+ props.type + "/" + props.name + "?format=js&source=widget'></script>").insertAfter("script[src$='350-embed-actionnetwork-wrapper.js']");
   __embed_code_loaded = true;
 };
 if (window.yepnope) {
