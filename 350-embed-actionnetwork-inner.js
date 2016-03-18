@@ -174,7 +174,7 @@ jq(document).ready(function() {
         } else {
           jq('.can_embed .country_drop_wrap .can_selectInner').text(_option.text());
         }
-        showCountry();
+        window.setTimeout(showCountry, 1000);
       }
       if (props.lang) {
         if (jq("select[name=Language]")) {
@@ -186,7 +186,7 @@ jq(document).ready(function() {
           jq('<input type="hidden" name="language">').appendTo(".can_embed form");
         }
       }
-    }, 2500);
+    }, 50);
   });
 });
 
