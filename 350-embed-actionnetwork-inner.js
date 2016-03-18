@@ -168,13 +168,13 @@ jq(document).ready(function() {
     }
     window.setTimeout(function() {
       if (props.country) {
-        showCountry();
         var _option = jq('.can_embed select#form-country option[value='+props.country+']').prop('selected', true);
         if (props.countryName) {
           jq('.can_embed .country_drop_wrap .can_selectInner').text(props.countryName);
         } else {
           jq('.can_embed .country_drop_wrap .can_selectInner').text(_option.text());
         }
+        showCountry();
       }
       if (props.lang) {
         if (jq("select[name=Language]")) {
@@ -186,7 +186,7 @@ jq(document).ready(function() {
           jq('<input type="hidden" name="language">').appendTo(".can_embed form");
         }
       }
-    }, 1500);
+    }, 2500);
   });
 });
 
