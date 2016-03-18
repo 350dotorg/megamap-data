@@ -186,7 +186,7 @@ jq(document).ready(function() {
           jq('<input type="hidden" name="language">').appendTo(".can_embed form");
         }
       }
-    }, 50);
+    }, 1500);
   });
 });
 
