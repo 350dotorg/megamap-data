@@ -174,7 +174,7 @@ jq(document).ready(function() {
         } else {
           jq('.can_embed .country_drop_wrap .can_selectInner').text(_option.text());
         }
-        
+        jq(".can_embed select#form-country").trigger("change");
         showCountry();
       }
       if (props.lang) {
