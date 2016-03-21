@@ -120,16 +120,16 @@ var showCountry = function() {
   jq('.can_embed #cc_state_drop_wrap select, .can_embed .state_wrap select').removeClass('required');
   var that = jq('.can_embed .international_link');
   if (jq(that).parent().parent().hasClass('cc_li_half')) {
-    jq(that).parent(".international_link-wrap").slideToggle();
+    jq(that).parent(".international_link-wrap").hide();
   } else {
     if (jq(that).parents('.event_campaign').length) {
       jq(that).parent(".international_link-wrap").hide();
     } else {
-      jq(that).parent(".international_link-wrap").slideToggle();
+      jq(that).parent(".international_link-wrap").hide();
     }
   }
-  jq(that).parent().parent().find("#create-event-state-drop_down").slideToggle();
-  jq(that).parent().parent().find('.country_drop_wrap').slideToggle().css('display','block');
+  jq(that).parent().parent().find("#create-event-state-drop_down").hide();
+  jq(that).parent().parent().find('.country_drop_wrap').show().css('display','block');
   jq(that).parent().parent().find('.country_drop_wrap select').addClass('required');
 }
 jq(document).ready(function() {
